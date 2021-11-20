@@ -1,14 +1,17 @@
 [
     {
         "id": 1,
+        "courseId": 9,
         "title": "AutoCAD (Basic)"
     },
     {
         "id": 2,
+        "courseId": 9,
         "title": "AutoCAD 2021"
     },
     {
         "id": 3,
+        "courseId": 9,
         "title": "AutoCAD (Advance)"
     }
 ]
