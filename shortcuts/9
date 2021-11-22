@@ -1,110 +1,132 @@
-{
-    "first": [
-        {
-            "key": "Ctrl + 0",
-            "action": "Clean Screen"
-        },
-        {
-            "key": "Ctrl + 1",
-            "action": "Property Palette"
-        },
-        {
-            "key": "Ctrl + 2",
-            "action": "Design Center Palette"
-        },
-        {
-            "key": "Ctrl + 3",
-            "action": "Tool Palette"
-        },
-        {
-            "key": "Ctrl + 4",
-            "action": "Sheet Set Palette"
-        }
-    ],
-    "second": [
-        {
-            "key": "Ctrl + 6",
-            "action": "DBConnect Manager"
-        },
-        {
-            "key": "Ctrl + 7",
-            "action": "Markup Set Manager Palette"
-        },
-        {
-            "key": "Ctrl + 8",
-            "action": "Quick Calc"
-        },
-        {
-            "key": "Ctrl + 9",
-            "action": "Command Line"
-        },
-        {
-            "key": "Ctrl + E",
-            "action": "Cycle isometric planes"
-        },
-        {
-            "key": "Ctrl + F",
-            "action": "Toggle running object snaps"
-        },
-        {
-            "key": "Ctrl + G",
-            "action": "Toggle Grid"
-        },
-        {
-            "key": "Ctrl + H",
-            "action": "Toggle Pick Style"
-        },
-        {
-            "key": "Ctrl + Shift + H",
-            "action": "Toggle Hide pallets"
-        },
-        {
-            "key": "Ctrl + I",
-            "action": "Toggle Coords"
-        },
-        {
-            "key": "Ctrl + Shift + I",
-            "action": "Toggle Infer Constraints"
-        },
-        {
-            "key": "Ctrl + N",
-            "action": "New Drawing"
-        },
-        {
-            "key": "Ctrl + O",
-            "action": "Open drawing"
-        },
-        {
-            "key": "Ctrl + P",
-            "action": "Plot dialog box"
-        },
-        {
-            "key": "Ctrl + Q",
-            "action": "Exit"
-        },
-        {
-            "key": "Ctrl + S",
-            "action": "Save drawing"
-        },
-        {
-            "key": "Ctrl + Shift + S",
-            "action": "Save drawing as"
-        },
-        {
-            "key": "Ctrl + Tab",
-            "action": "Switch to next"
-        },
-        {
-            "key": "Ctrl + Shift + Tab",
-            "action": "Switch to previous drawing"
-        },
-        {
-            "key": "Ctrl + Page Up",
-            "action": "Switch to previous tab in current drawing"
-        },
-        {
-            "key": "Ctrl + Page Down",
-            "action": "Switch to next tab in current drawing"
-        }
-    ]
-}
+[
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 0",
+        "action": "Clean Screen"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 1",
+        "action": "Property Palette"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 2",
+        "action": "Design Center Palette"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 3",
+        "action": "Tool Palette"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 4",
+        "action": "Sheet Set Palette"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 6",
+        "action": "DBConnect Manager"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 7",
+        "action": "Markup Set Manager Palette"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 8",
+        "action": "Quick Calc"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + 9",
+        "action": "Command Line"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + E",
+        "action": "Cycle isometric planes"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + F",
+        "action": "Toggle running object snaps"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + G",
+        "action": "Toggle Grid"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + H",
+        "action": "Toggle Pick Style"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Shift + H",
+        "action": "Toggle Hide pallets"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + I",
+        "action": "Toggle Coords"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Shift + I",
+        "action": "Toggle Infer Constraints"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + N",
+        "action": "New Drawing"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + O",
+        "action": "Open drawing"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + P",
+        "action": "Plot dialog box"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Q",
+        "action": "Exit"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + S",
+        "action": "Save drawing"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Shift + S",
+        "action": "Save drawing as"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Tab",
+        "action": "Switch to next"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Shift + Tab",
+        "action": "Switch to previous drawing"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Page Up",
+        "action": "Switch to previous tab in current drawing"
+    },
+    {
+        "shortcutTypeId": 9,
+        "key": "Ctrl + Page Down",
+        "action": "Switch to next tab in current drawing"
+    }
+]
