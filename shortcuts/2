@@ -1,106 +1,127 @@
-{
-    "first": [
-        {
-            "key": "⌘",
-            "action": "Command"
-        },
-        {
-            "key": "⌥",
-            "action": "Option"
-        },
-        {
-            "key": "⇧",
-            "action": "Shift"
-        },
-        {
-            "key": "⌃",
-            "action": "Control"
-        },
-        {
-            "key": "⇪",
-            "action": "Caps Lock"
-        },
-        {
-            "key": "fn",
-            "action": "Function"
-        }
-    ],
-    "second": [
-        {
-            "key": "⌘ + C",
-            "action": "Copy"
-        },
-        {
-            "key": "⌘ + V",
-            "action": "Paste"
-        },
-        {
-            "key": "⌘ + X",
-            "action": "Cut"
-        },
-        {
-            "key": "⌘ + Z",
-            "action": "Undo"
-        },
-        {
-            "key": "⌘ + ⇧ + Z",
-            "action": "Redo"
-        },
-        {
-            "key": "⌘ + A",
-            "action": "Select All"
-        },
-        {
-            "key": "⌘ + F",
-            "action": "Find"
-        },
-        {
-            "key": "⌘ + S",
-            "action": "Save"
-        },
-        {
-            "key": "⌘ + H",
-            "action": "Hide"
-        },
-        {
-            "key": "⌘ + M",
-            "action": "Minimize"
-        },
-        {
-            "key": "⌘ + N",
-            "action": "New"
-        },
-        {
-            "key": "⌘ + O",
-            "action": "Open"
-        },
-        {
-            "key": "⌘ + P",
-            "action": "Print"
-        },
-        {
-            "key": "⌘ + W",
-            "action": "Close window"
-        },
-        {
-            "key": "⌘ + Q",
-            "action": "Quit"
-        },
-        {
-            "key": "⌘ + Space bar",
-            "action": "Spotlight Search"
-        },
-        {
-            "key": "⌘ + Y",
-            "action": "Preview"
-        },
-        {
-            "key": "⌘ + Delete",
-            "action": "Delete"
-        },
-        {
-            "key": "⌘ + ⇧ + Delete",
-            "action": "Permanent Delete"
-        }
-    ]
-}
+[
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘",
+        "action": "Command"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌥",
+        "action": "Option"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⇧",
+        "action": "Shift"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌃",
+        "action": "Control"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⇪",
+        "action": "Caps Lock"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "fn",
+        "action": "Function"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + C",
+        "action": "Copy"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + V",
+        "action": "Paste"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + X",
+        "action": "Cut"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + Z",
+        "action": "Undo"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + ⇧ + Z",
+        "action": "Redo"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + A",
+        "action": "Select All"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + F",
+        "action": "Find"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + S",
+        "action": "Save"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + H",
+        "action": "Hide"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + M",
+        "action": "Minimize"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + N",
+        "action": "New"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + O",
+        "action": "Open"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + P",
+        "action": "Print"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + W",
+        "action": "Close window"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + Q",
+        "action": "Quit"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + Space bar",
+        "action": "Spotlight Search"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + Y",
+        "action": "Preview"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + Delete",
+        "action": "Delete"
+    },
+    {
+        "shortcutTypeId": 2,
+        "key": "⌘ + ⇧ + Delete",
+        "action": "Permanent Delete"
+    }
+]
