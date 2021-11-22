@@ -1,94 +1,112 @@
-{
-    "first": [
-        {
-            "key": "Ctrl + W",
-            "action": "Close a workbook"
-        },
-        {
-            "key": "Ctrl + O",
-            "action": "Open a workbook"
-        },
-        {
-            "key": "Ctrl + S",
-            "action": "Save a workbook"
-        },
-        {
-            "key": "Ctrl + C",
-            "action": "Copy"
-        },
-        {
-            "key": "Ctrl + V",
-            "action": "Paste"
-        }
-    ],
-    "second": [
-        {
-            "key": "Ctrl + Z",
-            "action": "Undo"
-        },
-        {
-            "key": "Ctrl + X",
-            "action": "Cut"
-        },
-        {
-            "key": "Ctrl + B",
-            "action": "Bold"
-        },
-        {
-            "key": "Ctrl + 9",
-            "action": "Hide the selected rows"
-        },
-        {
-            "key": "Ctrl + 0",
-            "action": "Hide the selected columns"
-        },
-        {
-            "key": "Alt + H",
-            "action": "Go to the Home tab"
-        },
-        {
-            "key": "Delete",
-            "action": "Remove cell contents"
-        },
-        {
-            "key": "Alt + H, H",
-            "action": "Choose a fill color"
-        },
-        {
-            "key": "Alt + N",
-            "action": "Go to Insert tab"
-        },
-        {
-            "key": "Alt + H, A, C",
-            "action": "Center align cell contents"
-        },
-        {
-            "key": "Alt + P",
-            "action": "Go to Page Layout tab"
-        },
-        {
-            "key": "Alt + A",
-            "action": "Go to Data tab"
-        },
-        {
-            "key": "Alt + W",
-            "action": "Go to View tab"
-        },
-        {
-            "key": "Shift + F10",
-            "action": "Open context menu"
-        },
-        {
-            "key": "Alt + H, B",
-            "action": "Add borders"
-        },
-        {
-            "key": "Alt + H, D, C",
-            "action": "Delete column"
-        },
-        {
-            "key": "Alt + M",
-            "action": "Go to Formula tab"
-        }
-    ]
-}
+[
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + W",
+        "action": "Close a workbook"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + O",
+        "action": "Open a workbook"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + S",
+        "action": "Save a workbook"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + C",
+        "action": "Copy"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + V",
+        "action": "Paste"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + Z",
+        "action": "Undo"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + X",
+        "action": "Cut"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + B",
+        "action": "Bold"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + 9",
+        "action": "Hide the selected rows"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Ctrl + 0",
+        "action": "Hide the selected columns"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + H",
+        "action": "Go to the Home tab"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Delete",
+        "action": "Remove cell contents"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + H, H",
+        "action": "Choose a fill color"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + N",
+        "action": "Go to Insert tab"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + H, A, C",
+        "action": "Center align cell contents"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + P",
+        "action": "Go to Page Layout tab"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + A",
+        "action": "Go to Data tab"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + W",
+        "action": "Go to View tab"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Shift + F10",
+        "action": "Open context menu"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + H, B",
+        "action": "Add borders"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + H, D, C",
+        "action": "Delete column"
+    },
+    {
+        "shortcutTypeId": 4,
+        "key": "Alt + M",
+        "action": "Go to Formula tab"
+    }
+]
