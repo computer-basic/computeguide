@@ -1,102 +1,122 @@
-{
-    "first": [
-        {
-            "key": "F",
-            "action": "Cycle Screen Modes"
-        },
-        {
-            "key": "X",
-            "action": "Switch Colors"
-        },
-        {
-            "key": "D",
-            "action": "Default Colors"
-        },
-        {
-            "key": "Ctrl + A",
-            "action": "Select All"
-        },
-        {
-            "key": "Ctrl + D",
-            "action": "Deselect"
-        }
-    ],
-    "second": [
-        {
-            "key": "Ctrl + E",
-            "action": "Merge Layers"
-        },
-        {
-            "key": "Ctrl + G",
-            "action": "Group Layers"
-        },
-        {
-            "key": "Ctrl + H",
-            "action": "Hide Selection Lines"
-        },
-        {
-            "key": "Ctrl + I",
-            "action": "Invert Selection"
-        },
-        {
-            "key": "Ctrl + J",
-            "action": "New Layer Via Copy"
-        },
-        {
-            "key": "Ctrl + S",
-            "action": "Save"
-        },
-        {
-            "key": "Ctrl + T",
-            "action": "Free Transform"
-        },
-        {
-            "key": "Caps Lock",
-            "action": "Toggle Cross Hairs"
-        },
-        {
-            "key": "Ctrl + Alt + Z",
-            "action": "Step Back"
-        },
-        {
-            "key": "Ctrl + Alt + Shift + N",
-            "action": "New Layer No Dialog"
-        },
-        {
-            "key": "Ctrl + Click Mask",
-            "action": "Load Mask As Selection"
-        },
-        {
-            "key": "Crtl + Shift + E",
-            "action": "Merge Visible"
-        },
-        {
-            "key": "Ctrl + Alt + E",
-            "action": "Stamp Down"
-        },
-        {
-            "key": "Ctrl + Alt + Shift + R",
-            "action": "Rotate Arbitrary Dialog"
-        },
-        {
-            "key": "CTRL + ALT + DEL",
-            "action": "Kill Photoshop"
-        },
-        {
-            "key": "Shift + Click Mask",
-            "action": "Enable/Disable Layer Mask"
-        },
-        {
-            "key": "Alt + Mouse Scroll",
-            "action": "Zoom In/Out"
-        },
-        {
-            "key": "Alt + Click Mask",
-            "action": "Toggle Mask Visibility"
-        },
-        {
-            "key": "Shift + Backspace",
-            "action": "Fill Dialog"
-        }
-    ]
-}
+[
+    {
+        "shortcutTypeId": 6,
+        "key": "F",
+        "action": "Cycle Screen Modes"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "X",
+        "action": "Switch Colors"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "D",
+        "action": "Default Colors"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + A",
+        "action": "Select All"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + D",
+        "action": "Deselect"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + E",
+        "action": "Merge Layers"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + G",
+        "action": "Group Layers"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + H",
+        "action": "Hide Selection Lines"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + I",
+        "action": "Invert Selection"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + J",
+        "action": "New Layer Via Copy"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + S",
+        "action": "Save"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + T",
+        "action": "Free Transform"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Caps Lock",
+        "action": "Toggle Cross Hairs"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + Alt + Z",
+        "action": "Step Back"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + Alt + Shift + N",
+        "action": "New Layer No Dialog"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + Click Mask",
+        "action": "Load Mask As Selection"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Crtl + Shift + E",
+        "action": "Merge Visible"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + Alt + E",
+        "action": "Stamp Down"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Ctrl + Alt + Shift + R",
+        "action": "Rotate Arbitrary Dialog"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "CTRL + ALT + DEL",
+        "action": "Kill Photoshop"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Shift + Click Mask",
+        "action": "Enable/Disable Layer Mask"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Alt + Mouse Scroll",
+        "action": "Zoom In/Out"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Alt + Click Mask",
+        "action": "Toggle Mask Visibility"
+    },
+    {
+        "shortcutTypeId": 6,
+        "key": "Shift + Backspace",
+        "action": "Fill Dialog"
+    }
+]
