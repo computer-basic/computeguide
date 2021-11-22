@@ -1,58 +1,67 @@
-{
-    "first": [
-        {
-            "key": "A",
-            "action": "Arc"
-        },
-        {
-            "key": "B",
-            "action": "Paint Bucket"
-        },
-        {
-            "key": "C",
-            "action": "Circle"
-        },
-        {
-            "key": "E",
-            "action": "Eraser"
-        },
-        {
-            "key": "L",
-            "action": "Line"
-        }
-    ],
-    "second": [
-        {
-            "key": "M",
-            "action": "Move"
-        },
-        {
-            "key": "O",
-            "action": "Offset"
-        },
-        {
-            "key": "P",
-            "action": "Push/Pull"
-        },
-        {
-            "key": "Q",
-            "action": "Rotate"
-        },
-        {
-            "key": "R",
-            "action": "Rectangle"
-        },
-        {
-            "key": "S",
-            "action": "Scale"
-        },
-        {
-            "key": "Shift+Z",
-            "action": "Zoom Extents"
-        },
-        {
-            "key": "Spacebar",
-            "action": "Select"
-        }
-    ]
-}
+[
+    {
+        "shortcutTypeId": 10,
+        "key": "A",
+        "action": "Arc"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "B",
+        "action": "Paint Bucket"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "C",
+        "action": "Circle"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "E",
+        "action": "Eraser"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "L",
+        "action": "Line"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "M",
+        "action": "Move"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "O",
+        "action": "Offset"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "P",
+        "action": "Push/Pull"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "Q",
+        "action": "Rotate"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "R",
+        "action": "Rectangle"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "S",
+        "action": "Scale"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "Shift+Z",
+        "action": "Zoom Extents"
+    },
+    {
+        "shortcutTypeId": 10,
+        "key": "Spacebar",
+        "action": "Select"
+    }
+]
