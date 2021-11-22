@@ -1,98 +1,117 @@
-{
-    "first": [
-        {
-            "key": "Home",
-            "action": "Beginning of line"
-        },
-        {
-            "key": "End",
-            "action": "End of line"
-        },
-        {
-            "key": "Ctrl + Home",
-            "action": "Go to start of document"
-        },
-        {
-            "key": "Ctrl + End",
-            "action": "Go to end of document"
-        },
-        {
-            "key": "Right Arrow",
-            "action": "Right one character"
-        }
-    ],
-    "second": [
-        {
-            "key": "Left Arrow",
-            "action": "Left one character"
-        },
-        {
-            "key": "Ctrl + Right Arrow",
-            "action": "Right one word"
-        },
-        {
-            "key": "Ctrl + Left Arrow",
-            "action": "Left one word"
-        },
-        {
-            "key": "Up Arrow",
-            "action": "Up one line"
-        },
-        {
-            "key": "Down Arrow",
-            "action": "Down one line"
-        },
-        {
-            "key": "Ctrl + Up Arrow",
-            "action": "Up one paragraph"
-        },
-        {
-            "key": "Ctrl + Down Arrow",
-            "action": "Down one paragraph"
-        },
-        {
-            "key": "F4",
-            "action": "Repeat last command"
-        },
-        {
-            "key": "Ctrl + A",
-            "action": "Select Whole Document"
-        },
-        {
-            "key": "Ctrl + B",
-            "action": "Bold"
-        },
-        {
-            "key": "Ctrl + I",
-            "action": "Italics"
-        },
-        {
-            "key": "Ctrl + U",
-            "action": "Underline"
-        },
-        {
-            "key": "Ctrl + Shift + L",
-            "action": "Bulleted list"
-        },
-        {
-            "key": "Ctrl + L",
-            "action": "Align left"
-        },
-        {
-            "key": "Ctrl + R",
-            "action": "Align right"
-        },
-        {
-            "key": "Ctrl + E",
-            "action": "Align centre"
-        },
-        {
-            "key": "Ctrl + [",
-            "action": "Shrink font size"
-        },
-        {
-            "key": "Ctrl + ]",
-            "action": "Grow font size"
-        }
-    ]
-}
+[
+    {
+        "shortcutTypeId": 3,
+        "key": "Home",
+        "action": "Beginning of line"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "End",
+        "action": "End of line"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + Home",
+        "action": "Go to start of document"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + End",
+        "action": "Go to end of document"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Right Arrow",
+        "action": "Right one character"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Left Arrow",
+        "action": "Left one character"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + Right Arrow",
+        "action": "Right one word"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + Left Arrow",
+        "action": "Left one word"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Up Arrow",
+        "action": "Up one line"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Down Arrow",
+        "action": "Down one line"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + Up Arrow",
+        "action": "Up one paragraph"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + Down Arrow",
+        "action": "Down one paragraph"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "F4",
+        "action": "Repeat last command"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + A",
+        "action": "Select Whole Document"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + B",
+        "action": "Bold"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + I",
+        "action": "Italics"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + U",
+        "action": "Underline"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + Shift + L",
+        "action": "Bulleted list"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + L",
+        "action": "Align left"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + R",
+        "action": "Align right"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + E",
+        "action": "Align centre"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + [",
+        "action": "Shrink font size"
+    },
+    {
+        "shortcutTypeId": 3,
+        "key": "Ctrl + ]",
+        "action": "Grow font size"
+    }
+]
