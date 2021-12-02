@@ -2,6 +2,7 @@
     {
         "id": 1,
         "courseId": 7,
+        "lessons": 7,
         "title": "Adobe Premier Pro"
     }
 ]
