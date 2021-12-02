@@ -2,6 +2,7 @@
     {
         "id": 1,
         "courseId": 10,
+        "lessons": 70,
         "title": "Sketchware"
     }
 ]
