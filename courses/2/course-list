@@ -2,11 +2,13 @@
     {
         "id": 2,
         "courseId": 2,
+        "lessons": 34,
         "title": "Beginner Questions"
     },
     {
         "id": 1,
         "courseId": 2,
+        "lessons": 76,
         "title": "Computer Knowledge"
     }
 ]
