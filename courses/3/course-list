@@ -2,11 +2,13 @@
     {
         "id": 1,
         "courseId": 3,
+        "lessons": 28,
         "title": "Microsoft Word 1"
     },
     {
         "id": 2,
         "courseId": 3,
+        "lessons": 14,
         "title": "Microsoft Word 2"
     }
 ]
