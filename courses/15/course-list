@@ -2,6 +2,7 @@
     {
         "id": 1,
         "courseId": 15,
+        "lessons": 4,
         "title": "Adobe Illustrator"
     }
 ]
