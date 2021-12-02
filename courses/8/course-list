@@ -2,11 +2,13 @@
     {
         "id": 1,
         "courseId": 8,
+        "lessons": 15,
         "title": "Adobe Pagemaker 1"
     },
     {
         "id": 2,
         "courseId": 8,
+        "lessons": 11,
         "title": "Adobe Pagemaker 2"
     }
 ]
