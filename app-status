@@ -3,7 +3,7 @@
     "message": "New update is available!!",
     "negative": "Direct Download",
     "positive": "Play Store",
-    "show": true,
+    "show": false,
     "force": false,
     "supporter": false,
     "type": "update",
