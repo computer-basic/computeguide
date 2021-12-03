@@ -5,7 +5,7 @@
     "positive": "Play Store",
     "show": true,
     "force": false,
-    "supporter": true,
+    "supporter": false,
     "type": "update",
     "url": "https://play.google.com/store/apps/details?id=com.myanmar.computerbasic.v3",
     "directUrl": "https://www.mediafire.com/file/h504cj6m1zesvy7/Myanmar%252BComputer%252BBasic%252BV3.apk/file",
