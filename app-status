@@ -1,13 +1,14 @@
 {
-    "title": "Server Alert",
-    "message": "Server အလုံအလောက်မရခဲ့သည့်အတွက် ၁ ရက်နေ့တွင် သင်ခန်းစာအချို့နှင့် Download function အားဖြုတ်ချသွားပါမယ်ခင်ဗျ",
-    "negative": "Cancel",
-    "positive": "Read",
+    "title": "New Update!",
+    "message": "New update is available!!",
+    "negative": "Direct Download",
+    "positive": "Play Store",
     "show": true,
     "force": false,
+    "supporter": true,
     "type": "update",
-    "url": "https://myanmarcomputerbasic.blogspot.com/2021/10/myanmar-computer-basic-app-server-ads.html",
-    "directUrl": "https://play.google.com/store/apps/details?id=itsmcqsapp.com.computerscience",
-    "version": "2.0",
-    "icon":"https://i.imgur.com/I8wfOsr.png"
+    "url": "https://play.google.com/store/apps/details?id=com.myanmar.computerbasic.v3",
+    "directUrl": "https://www.mediafire.com/file/h504cj6m1zesvy7/Myanmar%252BComputer%252BBasic%252BV3.apk/file",
+    "version": "3.0",
+    "icon": "https://i.imgur.com/0MiLdSb.png"
 }
