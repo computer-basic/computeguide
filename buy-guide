@@ -2,15 +2,15 @@
     "category": [
         {
             "rank": 1,
+            "name": "Normal Use"
+        },
+        {
+            "rank": 1,
             "name": "Office Use"
         },
         {
             "rank": 1,
-            "name": "Web Browsing"
-        },
-        {
-            "rank": 1,
-            "name": "Online Learning LH"
+            "name": "Online Learning"
         },
         {
             "rank": 2,
@@ -37,82 +37,82 @@
         {
             "rank": 1,
             "cpu": "Core i3",
-            "memory": "Ram 4 GB",
-            "gpu": "",
-            "brand": "sdlfkj",
-            "storage": "256 GB",
+            "memory": "4 GB",
+            "gpu": "Optional",
+            "brand": "Acer, ASUS, Dell, HP, Lenovo, Deskop",
+            "storage": "256 GB (SSD Recommend)",
             "recommendedCpu": "Core i5",
-            "recommendedMemory": "Ram 4 GB",
-            "recommendedGpu": "",
-            "recommendedBrand": "jsadlf",
-            "recommendedStorage": "512 GB"
+            "recommendedMemory": "8 GB",
+            "recommendedGpu": "Optional",
+            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Desktop",
+            "recommendedStorage": "512 GB (SSD Recommend)"
         },
         {
             "rank": 2,
-            "cpu": "Core i3",
-            "memory": "Ram 4 GB",
-            "gpu": "",
-            "brand": "sdlfkj",
-            "storage": "256 GB",
-            "recommendedCpu": "Core i5",
-            "recommendedMemory": "Ram 4 GB",
-            "recommendedGpu": "",
-            "recommendedBrand": "jsadlf",
-            "recommendedStorage": "512 GB"
+            "cpu": "Core i5",
+            "memory": "8 GB",
+            "gpu": "Required for Game Developement",
+            "brand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "storage": "256 GB SSD",
+            "recommendedCpu": "Core i7",
+            "recommendedMemory": "16 GB",
+            "recommendedGpu": "Required for Game Developement",
+            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "recommendedStorage": "512 GB SSD"
         },
         {
             "rank": 3,
-            "cpu": "Core i3",
-            "memory": "Ram 4 GB",
-            "gpu": "",
-            "brand": "sdlfkj",
-            "storage": "256 GB",
-            "recommendedCpu": "Core i5",
+            "cpu": "Core i5",
+            "memory": "Ram 8 GB",
+            "gpu": "Required",
+            "brand": "Desktop, ROG Gaming Notebook, MSI Gaming Notebook, Apple",
+            "storage": "512 GB SSD",
+            "recommendedCpu": "Core i7",
             "recommendedMemory": "Ram 4 GB",
-            "recommendedGpu": "",
-            "recommendedBrand": "jsadlf",
-            "recommendedStorage": "512 GB"
+            "recommendedGpu": "Required",
+            "recommendedBrand": "Desktop, ROG Gaming Notebook, MSI Gaming Notebook, Apple",
+            "recommendedStorage": "1 TB SSD"
         }
     ],
     "professionalUse": [
         {
             "rank": 1,
-            "cpu": "Core i3",
-            "memory": "Ram 4 GB",
-            "gpu": "",
-            "brand": "sdlfkj",
-            "storage": "256 GB",
-            "recommendedCpu": "Core i5",
-            "recommendedMemory": "Ram 4 GB",
-            "recommendedGpu": "",
-            "recommendedBrand": "jsadlf",
-            "recommendedStorage": "512 GB"
+            "cpu": "Core i5",
+            "memory": "8 GB",
+            "gpu": "Optional",
+            "brand": "Acer, ASUS, Dell, HP, Lenovo, Deskop",
+            "storage": "512 GB SSD",
+            "recommendedCpu": "Core i7",
+            "recommendedMemory": "16 GB",
+            "recommendedGpu": "Optional",
+            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Deskop",
+            "recommendedStorage": "1 TB SSD"
         },
         {
             "rank": 2,
-            "cpu": "Core i3",
-            "memory": "Ram 4 GB",
-            "gpu": "",
-            "brand": "sdlfkj",
-            "storage": "256 GB",
-            "recommendedCpu": "Core i5",
-            "recommendedMemory": "Ram 4 GB",
-            "recommendedGpu": "",
-            "recommendedBrand": "jsadlf",
-            "recommendedStorage": "512 GB"
+            "cpu": "Core i7",
+            "memory": "16 GB",
+            "gpu": "Required for Game Developement",
+            "brand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "storage": "512 GB SSD",
+            "recommendedCpu": "Core i9",
+            "recommendedMemory": "32 GB",
+            "recommendedGpu": "Required for Game Developement",
+            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "recommendedStorage": "1 TB SSD"
         },
         {
             "rank": 3,
-            "cpu": "Core i3",
-            "memory": "Ram 4 GB",
-            "gpu": "",
-            "brand": "sdlfkj",
-            "storage": "256 GB",
-            "recommendedCpu": "Core i5",
-            "recommendedMemory": "Ram 4 GB",
-            "recommendedGpu": "",
-            "recommendedBrand": "jsadlf",
-            "recommendedStorage": "512 GB"
+            "cpu": "Core i7",
+            "memory": "16 GB",
+            "gpu": "Required",
+            "brand": "Desktop, ROG Gaming Notebook, MSI Gaming Notebook, Apple",
+            "storage": "512 GB SSD",
+            "recommendedCpu": "Core i9",
+            "recommendedMemory": "32 GB",
+            "recommendedGpu": "Required",
+            "recommendedBrand": "Desktop, ROG Gaming Notebook, MSI Gaming Notebook, Apple",
+            "recommendedStorage": "1 TB SSD"
         }
     ]
 }
