@@ -39,12 +39,12 @@
             "cpu": "Core i3",
             "memory": "4 GB",
             "gpu": "Optional",
-            "brand": "Acer, ASUS, Dell, HP, Lenovo, Deskop",
+            "brand": "Acer, ASUS, Dell, HP, Lenovo",
             "storage": "256 GB (SSD Recommend)",
             "recommendedCpu": "Core i5",
             "recommendedMemory": "8 GB",
             "recommendedGpu": "Optional",
-            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Desktop",
+            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo",
             "recommendedStorage": "512 GB (SSD Recommend)"
         },
         {
@@ -52,12 +52,12 @@
             "cpu": "Core i5",
             "memory": "8 GB",
             "gpu": "Required for Game Developement",
-            "brand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "brand": "Apple, Window Computer, Desktop",
             "storage": "256 GB SSD",
             "recommendedCpu": "Core i7",
             "recommendedMemory": "16 GB",
             "recommendedGpu": "Required for Game Developement",
-            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "recommendedBrand": "Apple, Window Computer, Desktop",
             "recommendedStorage": "512 GB SSD"
         },
         {
@@ -80,12 +80,12 @@
             "cpu": "Core i5",
             "memory": "8 GB",
             "gpu": "Optional",
-            "brand": "Acer, ASUS, Dell, HP, Lenovo, Deskop",
+            "brand": "Acer, ASUS, Dell, HP, Lenovo",
             "storage": "512 GB SSD",
             "recommendedCpu": "Core i7",
             "recommendedMemory": "16 GB",
             "recommendedGpu": "Optional",
-            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Deskop",
+            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo",
             "recommendedStorage": "1 TB SSD"
         },
         {
@@ -93,12 +93,12 @@
             "cpu": "Core i7",
             "memory": "16 GB",
             "gpu": "Required for Game Developement",
-            "brand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "brand": "Apple, Window Computer, Desktop",
             "storage": "512 GB SSD",
             "recommendedCpu": "Core i9",
             "recommendedMemory": "32 GB",
             "recommendedGpu": "Required for Game Developement",
-            "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo, Apple Macbook, Desktop",
+            "recommendedBrand": "Apple, Window Computer, Desktop",
             "recommendedStorage": "1 TB SSD"
         },
         {
