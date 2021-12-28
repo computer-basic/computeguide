@@ -1,14 +1,14 @@
 {
     "title": "New Update!",
-    "message": "New update is available!!",
+    "message": "New update is available. Please update for new typing function.",
     "negative": "Direct Download",
     "positive": "Play Store",
     "show": false,
     "force": false,
-    "supporter": false,
+    "supporter": true,
     "type": "update",
-    "url": "https://play.google.com/store/apps/details?id=com.myanmar.computerbasic.v3",
-    "directUrl": "https://www.mediafire.com/file/h504cj6m1zesvy7/Myanmar%252BComputer%252BBasic%252BV3.apk/file",
+    "url": "https://play.google.com/store/apps/details?id=com.computeguide",
+    "directUrl": "https://www.mediafire.com/file/qf8tv7jlrg89sgl/MM_Computer_Guide_1.2.apk/file",
     "version": "3.0",
     "icon": "https://i.imgur.com/0MiLdSb.png",
     "supporterGuide":"https://myanmarcomputerbasic.blogspot.com/2021/12/supporter.html"
