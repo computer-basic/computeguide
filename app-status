@@ -3,7 +3,7 @@
     "message": "New update is available. Please update for new typing function.",
     "negative": "Direct Download",
     "positive": "Play Store",
-    "show": true,
+    "show": false,
     "force": false,
     "supporter": true,
     "type": "update",
