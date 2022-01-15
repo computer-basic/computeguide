@@ -4,7 +4,7 @@
     "negative": "Cancel",
     "positive": "Update",
     "show": true,
-    "force": true,
+    "force": false,
     "supporter": true,
     "type": "update",
     "url": "https://myanmarcomputerbasic.blogspot.com/2021/12/new-update.html",
