@@ -1,177 +1,205 @@
 [
     {
-        "question": "What appear at the bottom of the Excel window?",
-        "option1": "Work sheet tabs",
+        "question": "Microsoft word is ____ software.",
+        "option1": "Application",
+        "option2": "Compiler",
+        "option3": "System",
+        "option4": "Programming"
+    },
+    {
+        "question": "Which is not in MS word?",
+        "option1": "Magic tool",
+        "option2": "Italic",
+        "option3": "Font",
+        "option4": "Bold"
+    },
+    {
+        "question": "____ cannot be used to work in MS Office.",
+        "option1": "Joystick",
+        "option2": "Scanner",
+        "option3": "Light Pen",
+        "option4": "Mouse"
+    },
+    {
+        "question": "Which is not an edition of MS Word?",
+        "option1": "MS Word 1020",
+        "option2": "MS Word 2003",
+        "option3": "MS Word 2007",
+        "option4": "MS Word 2010"
+    },
+    {
+        "question": "The ___ works with the standard Copy and Paste commands.",
+        "option1": "Office Clipboard",
+        "option2": "View tab",
+        "option3": "Paragraph dialog box",
+        "option4": "All of these"
+    },
+    {
+        "question": "What is the blank space outside the printing area on a page?",
+        "option1": "Margins",
+        "option2": "Clipart",
+        "option3": "Header",
+        "option4": "Footer"
+    },
+    {
+        "question": "Which of the following is an example of page orientation?",
+        "option1": "Landscape",
+        "option2": "Subscript",
+        "option3": "Superscript",
+        "option4": "A4"
+    },
+    {
+        "question": "Formatting is performed on",
+        "option1": "Both Text and Table",
+        "option2": "Text",
+        "option3": "Table",
+        "option4": "Menu"
+    },
+    {
+        "question": "Which of the following software is used for making resume?",
+        "option1": "MS Word",
+        "option2": "MS Excel",
+        "option3": "Dev C",
+        "option4": "Java"
+    },
+    {
+        "question": "Press ____ to open the help window in MS word document.",
+        "option1": "F1",
+        "option2": "F2",
+        "option3": "F9",
+        "option4": "F11"
+    },
+    {
+        "question": "Which bar shows the current position as far the text goes?",
+        "option1": "Status bar",
         "option2": "Title bar",
-        "option3": "Formula bar",
-        "option4": "Name box"
-    },
-    {
-        "question": "What are the basic rectangular building blocks of a spreadsheet?",
-        "option1": "Cells",
-        "option2": "Zoom slider",
-        "option3": "Help button",
-        "option4": "All of these"
-    },
-    {
-        "question": "Which of the following is not a term pertaining to spreadsheets?",
-        "option1": "Browser",
-        "option2": "Cell",
-        "option3": "Character",
-        "option4": "Formula"
-    },
-    {
-        "question": "Another name for a pre-programmed formula in Excel is",
-        "option1": "Function",
-        "option2": "Cell",
-        "option3": "Graph",
-        "option4": "Range"
-    },
-    {
-        "question": "Excel is a program that is used to prepare a",
-        "option1": "Spreadsheet",
-        "option2": "Slide presentation",
-        "option3": "Text document",
-        "option4": "Database"
-    },
-    {
-        "question": "In which tab wrap text feature is present in MS Excel 2007?",
-        "option1": "Home",
-        "option2": "Formulas",
-        "option3": "View",
-        "option4": "Insert"
-    },
-    {
-        "question": "Which of the following identifies a cell in Excel?",
-        "option1": "Address",
-        "option2": "Formula",
-        "option3": "Name",
-        "option4": "Label"
-    },
-    {
-        "question": "Which term is used to join the selected cells in to one cell?",
-        "option1": "Merge",
-        "option2": "Filter",
-        "option3": "Wrap",
-        "option4": "Pivot"
-    },
-    {
-        "question": "Which of the following Excel charts represents only one value for each variable?",
-        "option1": "Pie",
-        "option2": "Bar",
-        "option3": "Line",
-        "option4": "Function"
-    },
-    {
-        "question": "A formula in Excel always begins with an",
-        "option1": "Equal sign",
-        "option2": "Colon",
-        "option3": "Comma",
-        "option4": "Space"
-    },
-    {
-        "question": "When the CPU detects an interrupt, then it saves its",
-        "option1": "Current state",
-        "option2": "Previous state",
-        "option3": "Next state",
-        "option4": "All of these"
-    },
-    {
-        "question": "A(n) ____ is a series of two or more adjacent cells in a column or row or rectangular group of cells.",
-        "option1": "Range",
-        "option2": "List",
-        "option3": "Section",
-        "option4": "Area"
-    },
-    {
-        "question": "What is the extension of saved file in MS Excel?",
-        "option1": ".xls",
-        "option2": ".xks",
-        "option3": ".xos",
-        "option4": ".xbs"
-    },
-    {
-        "question": "Which command is used to close the window of Excel?",
-        "option1": "Alt+ F4",
-        "option2": "Ctrl + W",
-        "option3": "Ctrl +R",
-        "option4": "Ctrl+ C"
-    },
-    {
-        "question": "What is the total region surrounding the chart?",
-        "option1": "Chart area",
-        "option2": "legend",
-        "option3": "Clipart area",
-        "option4": "Plot area"
-    },
-    {
-        "question": "____ returns the least common multiple.",
-        "option1": "LCM()",
-        "option2": "LCCM()",
-        "option3": "TLCM()",
-        "option4": "RTLCM()"
-    },
-    {
-        "question": "This is not a function category in Excel.",
-        "option1": "Data series",
-        "option2": "Logical",
-        "option3": "Text",
-        "option4": "Financial"
-    },
-    {
-        "question": "How many columns are there in old version of MS Excel?",
-        "option1": "256",
-        "option2": "250",
-        "option3": "265",
-        "option4": "269"
-    },
-    {
-        "question": "Which bar show the used formula of selected active cell?",
-        "option1": "Formula bar",
-        "option2": "Ribbon",
         "option3": "Menu bar",
         "option4": "Scroll bar"
     },
     {
-        "question": "Typed text showed in active cell and also in ___",
-        "option1": "Formula bar",
+        "question": "Select all the text in MS Word document by",
+        "option1": "Ctrl+ A",
+        "option2": "Ctrl +S",
+        "option3": "Ctrl+ 1",
+        "option4": "Ctrl+ V"
+    },
+    {
+        "question": "____ is not a part of a MS Word document",
+        "option1": "Start Menu button",
+        "option2": "Quick access toolbar",
+        "option3": "Home panel",
+        "option4": "View option"
+    },
+    {
+        "question": "The name of a word document displays in ____",
+        "option1": "Title bar",
         "option2": "Ribbon",
-        "option3": "Title bar",
-        "option4": "Scroll bar"
+        "option3": "Status bar",
+        "option4": "Home tab"
     },
     {
-        "question": "What is the default row height of MS Excel?",
-        "option1": "15",
-        "option2": "10",
-        "option3": "12",
-        "option4": "13"
+        "question": "Each line represents how many letters in WordStar?",
+        "option1": "65",
+        "option2": "20",
+        "option3": "35",
+        "option4": "75"
     },
     {
-        "question": "Excel documents are stored as files called",
-        "option1": "Worksheets",
-        "option2": "Workgroups",
-        "option3": "Worktables",
-        "option4": "Workforce"
+        "question": "MS word is software of ____",
+        "option1": "Microsoft",
+        "option2": "Apple",
+        "option3": "Android",
+        "option4": "Google"
     },
     {
-        "question": "What refers to the horizontal cells which can contain information?",
-        "option1": "Rows",
-        "option2": "Ribbon",
-        "option3": "Columns",
-        "option4": "Horizontal scrollbar"
+        "question": "Which is the word processing software?",
+        "option1": "MS word 2007",
+        "option2": "Avast",
+        "option3": "Google Chrome",
+        "option4": "Mozilla Firefox"
     },
     {
-        "question": "Today motherboard typically use",
-        "option1": "72 pin modules",
-        "option2": "70 pin modules",
-        "option3": "74 pin modules",
-        "option4": "76 pin modules"
+        "question": "MS Word is ____ software.",
+        "option1": "Word processing",
+        "option2": "Web browser",
+        "option3": "Operating system",
+        "option4": "Antivirus"
     },
     {
-        "question": "To minimize the currently selected window, press",
-        "option1": "Ctrl+ F9",
-        "option2": "Ctrl+ F11",
-        "option3": "Ctrl+ F12",
-        "option4": "Ctrl+ F10"
+        "question": "The valid format of MS Word is ___ ",
+        "option1": ".doc",
+        "option2": ".exe",
+        "option3": ".png",
+        "option4": ".jpeg"
+    },
+    {
+        "question": "What program is used in MS-Word to check the spelling?",
+        "option1": "Spelling & Grammar",
+        "option2": "Research",
+        "option3": "Word Count",
+        "option4": "Set language"
+    },
+    {
+        "question": "To show the font dialog box press ____",
+        "option1": "Ctrl+ D",
+        "option2": "Ctrl+ P",
+        "option3": "Ctrl+ B",
+        "option4": "Ctrl+ Q"
+    },
+    {
+        "question": "A word gets selected by clicking it",
+        "option1": "Twice",
+        "option2": "Once",
+        "option3": "Three times",
+        "option4": "Four times"
+    },
+    {
+        "question": "A _____ identifies a location or a selection of text that you name and identify for future reference.",
+        "option1": "Bookmark",
+        "option2": "Footer",
+        "option3": "Header",
+        "option4": "Page number"
+    },
+    {
+        "question": "Which option is not available in Microsoft office button?",
+        "option1": "Bold",
+        "option2": "Bold",
+        "option3": "Save",
+        "option4": "Open"
+    },
+    {
+        "question": "_____ is the change the way text warps around the selected object.",
+        "option1": "Text wrapping",
+        "option2": "Indent",
+        "option3": "Clipart",
+        "option4": "Line spacing"
+    },
+    {
+        "question": "In the _____ we can change the view of the document and set the zoom option.",
+        "option1": "View option toolbar",
+        "option2": "Home panel",
+        "option3": "Ribbon",
+        "option4": "Title bar"
+    },
+    {
+        "question": "The center the selected text, the shortcut key is",
+        "option1": "Ctrl + E",
+        "option2": "Ctrl + C",
+        "option3": "Ctrl + U",
+        "option4": "Ctrl + O"
+    },
+    {
+        "question": "To view paragraph marks, clicks on the _____ tab, in the paragraph group, click Show/Hide.",
+        "option1": "Home",
+        "option2": "View",
+        "option3": "Page layout",
+        "option4": "References"
+    },
+    {
+        "question": "What should be done to change the word from â€˜Kiilâ€™ to â€˜Killâ€™?",
+        "option1": "Typeover",
+        "option2": "Add",
+        "option3": "Insert",
+        "option4": "None of these"
     }
 ]
