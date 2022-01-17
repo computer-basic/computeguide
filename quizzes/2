@@ -1,5 +1,6 @@
 [
     {
+        "quizTypeId": 2,
         "question": "What appear at the bottom of the Excel window?",
         "option1": "Work sheet tabs",
         "option2": "Title bar",
@@ -7,6 +8,7 @@
         "option4": "Name box"
     },
     {
+        "quizTypeId": 2,
         "question": "What are the basic rectangular building blocks of a spreadsheet?",
         "option1": "Cells",
         "option2": "Zoom slider",
@@ -14,6 +16,7 @@
         "option4": "All of these"
     },
     {
+        "quizTypeId": 2,
         "question": "Which of the following is not a term pertaining to spreadsheets?",
         "option1": "Browser",
         "option2": "Cell",
@@ -21,6 +24,7 @@
         "option4": "Formula"
     },
     {
+        "quizTypeId": 2,
         "question": "Another name for a pre-programmed formula in Excel is",
         "option1": "Function",
         "option2": "Cell",
@@ -28,6 +32,7 @@
         "option4": "Range"
     },
     {
+        "quizTypeId": 2,
         "question": "Excel is a program that is used to prepare a",
         "option1": "Spreadsheet",
         "option2": "Slide presentation",
@@ -35,6 +40,7 @@
         "option4": "Database"
     },
     {
+        "quizTypeId": 2,
         "question": "In which tab wrap text feature is present in MS Excel 2007?",
         "option1": "Home",
         "option2": "Formulas",
@@ -42,6 +48,7 @@
         "option4": "Insert"
     },
     {
+        "quizTypeId": 2,
         "question": "Which of the following identifies a cell in Excel?",
         "option1": "Address",
         "option2": "Formula",
@@ -49,6 +56,7 @@
         "option4": "Label"
     },
     {
+        "quizTypeId": 2,
         "question": "Which term is used to join the selected cells in to one cell?",
         "option1": "Merge",
         "option2": "Filter",
@@ -56,6 +64,7 @@
         "option4": "Pivot"
     },
     {
+        "quizTypeId": 2,
         "question": "Which of the following Excel charts represents only one value for each variable?",
         "option1": "Pie",
         "option2": "Bar",
@@ -63,6 +72,7 @@
         "option4": "Function"
     },
     {
+        "quizTypeId": 2,
         "question": "A formula in Excel always begins with an",
         "option1": "Equal sign",
         "option2": "Colon",
@@ -70,6 +80,7 @@
         "option4": "Space"
     },
     {
+        "quizTypeId": 2,
         "question": "When the CPU detects an interrupt, then it saves its",
         "option1": "Current state",
         "option2": "Previous state",
@@ -77,6 +88,7 @@
         "option4": "All of these"
     },
     {
+        "quizTypeId": 2,
         "question": "A(n) ____ is a series of two or more adjacent cells in a column or row or rectangular group of cells.",
         "option1": "Range",
         "option2": "List",
@@ -84,6 +96,7 @@
         "option4": "Area"
     },
     {
+        "quizTypeId": 2,
         "question": "What is the extension of saved file in MS Excel?",
         "option1": ".xls",
         "option2": ".xks",
@@ -91,6 +104,7 @@
         "option4": ".xbs"
     },
     {
+        "quizTypeId": 2,
         "question": "Which command is used to close the window of Excel?",
         "option1": "Alt+ F4",
         "option2": "Ctrl + W",
@@ -98,6 +112,7 @@
         "option4": "Ctrl+ C"
     },
     {
+        "quizTypeId": 2,
         "question": "What is the total region surrounding the chart?",
         "option1": "Chart area",
         "option2": "legend",
