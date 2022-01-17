@@ -1,5 +1,6 @@
 [
     {
+        "quizTypeId": 1,
         "question": "Microsoft word is ____ software.",
         "option1": "Application",
         "option2": "Compiler",
@@ -7,6 +8,7 @@
         "option4": "Programming"
     },
     {
+        "quizTypeId": 1,
         "question": "Which is not in MS word?",
         "option1": "Magic tool",
         "option2": "Italic",
@@ -14,6 +16,7 @@
         "option4": "Bold"
     },
     {
+        "quizTypeId": 1,
         "question": "____ cannot be used to work in MS Office.",
         "option1": "Joystick",
         "option2": "Scanner",
@@ -21,6 +24,7 @@
         "option4": "Mouse"
     },
     {
+        "quizTypeId": 1,
         "question": "Which is not an edition of MS Word?",
         "option1": "MS Word 1020",
         "option2": "MS Word 2003",
@@ -28,6 +32,7 @@
         "option4": "MS Word 2010"
     },
     {
+        "quizTypeId": 1,
         "question": "The ___ works with the standard Copy and Paste commands.",
         "option1": "Office Clipboard",
         "option2": "View tab",
@@ -35,6 +40,7 @@
         "option4": "All of these"
     },
     {
+        "quizTypeId": 1,
         "question": "What is the blank space outside the printing area on a page?",
         "option1": "Margins",
         "option2": "Clipart",
@@ -42,6 +48,7 @@
         "option4": "Footer"
     },
     {
+        "quizTypeId": 1,
         "question": "Which of the following is an example of page orientation?",
         "option1": "Landscape",
         "option2": "Subscript",
@@ -49,6 +56,7 @@
         "option4": "A4"
     },
     {
+        "quizTypeId": 1,
         "question": "Formatting is performed on",
         "option1": "Both Text and Table",
         "option2": "Text",
@@ -56,6 +64,7 @@
         "option4": "Menu"
     },
     {
+        "quizTypeId": 1,
         "question": "Which of the following software is used for making resume?",
         "option1": "MS Word",
         "option2": "MS Excel",
@@ -63,6 +72,7 @@
         "option4": "Java"
     },
     {
+        "quizTypeId": 1,
         "question": "Press ____ to open the help window in MS word document.",
         "option1": "F1",
         "option2": "F2",
@@ -70,6 +80,7 @@
         "option4": "F11"
     },
     {
+        "quizTypeId": 1,
         "question": "Which bar shows the current position as far the text goes?",
         "option1": "Status bar",
         "option2": "Title bar",
@@ -77,6 +88,7 @@
         "option4": "Scroll bar"
     },
     {
+        "quizTypeId": 1,
         "question": "Select all the text in MS Word document by",
         "option1": "Ctrl+ A",
         "option2": "Ctrl +S",
@@ -84,6 +96,7 @@
         "option4": "Ctrl+ V"
     },
     {
+        "quizTypeId": 1,
         "question": "____ is not a part of a MS Word document",
         "option1": "Start Menu button",
         "option2": "Quick access toolbar",
@@ -91,6 +104,7 @@
         "option4": "View option"
     },
     {
+        "quizTypeId": 1,
         "question": "The name of a word document displays in ____",
         "option1": "Title bar",
         "option2": "Ribbon",
@@ -98,6 +112,7 @@
         "option4": "Home tab"
     },
     {
+        "quizTypeId": 1,
         "question": "Each line represents how many letters in WordStar?",
         "option1": "65",
         "option2": "20",
@@ -105,6 +120,7 @@
         "option4": "75"
     },
     {
+        "quizTypeId": 1,
         "question": "MS word is software of ____",
         "option1": "Microsoft",
         "option2": "Apple",
@@ -112,6 +128,7 @@
         "option4": "Google"
     },
     {
+        "quizTypeId": 1,
         "question": "Which is the word processing software?",
         "option1": "MS word 2007",
         "option2": "Avast",
@@ -119,6 +136,7 @@
         "option4": "Mozilla Firefox"
     },
     {
+        "quizTypeId": 1,
         "question": "MS Word is ____ software.",
         "option1": "Word processing",
         "option2": "Web browser",
@@ -126,6 +144,7 @@
         "option4": "Antivirus"
     },
     {
+        "quizTypeId": 1,
         "question": "The valid format of MS Word is ___ ",
         "option1": ".doc",
         "option2": ".exe",
@@ -133,6 +152,7 @@
         "option4": ".jpeg"
     },
     {
+        "quizTypeId": 1,
         "question": "What program is used in MS-Word to check the spelling?",
         "option1": "Spelling & Grammar",
         "option2": "Research",
@@ -140,6 +160,7 @@
         "option4": "Set language"
     },
     {
+        "quizTypeId": 1,
         "question": "To show the font dialog box press ____",
         "option1": "Ctrl+ D",
         "option2": "Ctrl+ P",
@@ -147,6 +168,7 @@
         "option4": "Ctrl+ Q"
     },
     {
+        "quizTypeId": 1,
         "question": "A word gets selected by clicking it",
         "option1": "Twice",
         "option2": "Once",
@@ -154,6 +176,7 @@
         "option4": "Four times"
     },
     {
+        "quizTypeId": 1,
         "question": "A _____ identifies a location or a selection of text that you name and identify for future reference.",
         "option1": "Bookmark",
         "option2": "Footer",
@@ -161,6 +184,7 @@
         "option4": "Page number"
     },
     {
+        "quizTypeId": 1,
         "question": "Which option is not available in Microsoft office button?",
         "option1": "Bold",
         "option2": "Bold",
@@ -168,6 +192,7 @@
         "option4": "Open"
     },
     {
+        "quizTypeId": 1,
         "question": "_____ is the change the way text warps around the selected object.",
         "option1": "Text wrapping",
         "option2": "Indent",
@@ -175,6 +200,7 @@
         "option4": "Line spacing"
     },
     {
+        "quizTypeId": 1,
         "question": "In the _____ we can change the view of the document and set the zoom option.",
         "option1": "View option toolbar",
         "option2": "Home panel",
@@ -182,6 +208,7 @@
         "option4": "Title bar"
     },
     {
+        "quizTypeId": 1,
         "question": "The center the selected text, the shortcut key is",
         "option1": "Ctrl + E",
         "option2": "Ctrl + C",
@@ -189,6 +216,7 @@
         "option4": "Ctrl + O"
     },
     {
+        "quizTypeId": 1,
         "question": "To view paragraph marks, clicks on the _____ tab, in the paragraph group, click Show/Hide.",
         "option1": "Home",
         "option2": "View",
@@ -196,6 +224,7 @@
         "option4": "References"
     },
     {
+        "quizTypeId": 1,
         "question": "What should be done to change the word from â€˜Kiilâ€™ to â€˜Killâ€™?",
         "option1": "Typeover",
         "option2": "Add",
