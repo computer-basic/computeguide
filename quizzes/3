@@ -1,0 +1,212 @@
+[
+    {
+        "question": "_____ is a presentation program.",
+        "option1": "MS PowerPoint",
+        "option2": "U-torrent",
+        "option3": "Mozilla Firefo",
+        "option4": "Slide Panel"
+    },
+    {
+        "question": "In PowerPoint, the header and footer button can be found on the insert tab in what group?",
+        "option1": "Text group",
+        "option2": "Tables group",
+        "option3": "Object group",
+        "option4": "Illustrations group"
+    },
+    {
+        "question": "Which is not the valid edition of MS PowerPoint?",
+        "option1": "MS PowerPoint 1920",
+        "option2": "MS PowerPoint 2003",
+        "option3": "MS PowerPoint 2007",
+        "option4": "MS PowerPoint 2010"
+    },
+    {
+        "question": "The slide that is used to introduce a topic and set the tone for the presentation is called the",
+        "option1": "Title slide",
+        "option2": "Bullet slide",
+        "option3": "Table slide",
+        "option4": "Graph slide"
+    },
+    {
+        "question": "The PowerPoint view that displays only text (title and bullets) is",
+        "option1": "Outline view",
+        "option2": "Notes page view",
+        "option3": "Slide sorter",
+        "option4": "Slide show"
+    },
+    {
+        "question": "Times new Roman, Cambria, Arial are the example of",
+        "option1": "Font face",
+        "option2": "Clipart",
+        "option3": "SmartArt",
+        "option4": "Themes"
+    },
+    {
+        "question": "What is the default PowerPoint standard layout?",
+        "option1": "Title slide",
+        "option2": "Blank",
+        "option3": "Title only",
+        "option4": "Comparison"
+    },
+    {
+        "question": "To center the selected text, the shortcut key is _____",
+        "option1": "Ctrl+ E",
+        "option2": "Ctrl+ C",
+        "option3": "Ctrl+ O",
+        "option4": "Ctrl+ U"
+    },
+    {
+        "question": "Which type of view is not present in MS PowerPoint?",
+        "option1": "Extreme animation",
+        "option2": "Slide show",
+        "option3": "Slide sorter",
+        "option4": "Normal"
+    },
+    {
+        "question": "Which feature is not in MS PowerPoint?",
+        "option1": "Scan a virus",
+        "option2": "Zoom",
+        "option3": "Background color",
+        "option4": "Slide show"
+    },
+    {
+        "question": "Which key helps to move to the beginning of a line?",
+        "option1": "Home",
+        "option2": "Page Up",
+        "option3": "Page Down",
+        "option4": "Insert"
+    },
+    {
+        "question": "To make the selected text italic, the shortcut key is",
+        "option1": "Ctrl + I",
+        "option2": "Ctrl + Z",
+        "option3": "Ctrl + Alt + I",
+        "option4": "Ctrl + K"
+    },
+    {
+        "question": "Which PowerPoint view displays each slide of the presentation as a thumbnail and is useful for rearranging slides?",
+        "option1": "Slide Sorter",
+        "option2": "Slide Master",
+        "option3": "Slide Show",
+        "option4": "Notes Page"
+    },
+    {
+        "question": "To delete the selected text press",
+        "option1": "Delete",
+        "option2": "Ctrl",
+        "option3": "Home",
+        "option4": "Alt"
+    },
+    {
+        "question": "Press _____ to delete one word to the right.",
+        "option1": "Ctrl + Delete",
+        "option2": "Ctrl + Enter",
+        "option3": "Ctrl + Tab",
+        "option4": "Ctrl + Backspace"
+    },
+    {
+        "question": "Which feature used to check spelling of the text?",
+        "option1": "Spelling",
+        "option2": "Replace",
+        "option3": "Find",
+        "option4": "Research"
+    },
+    {
+        "question": "Which view helps to rearrange the slides easily and quickly?",
+        "option1": "Slide sorter",
+        "option2": "Notes page",
+        "option3": "Slide master",
+        "option4": "Normal"
+    },
+    {
+        "question": "MS PowerPoint is software of ____",
+        "option1": "Microsoft",
+        "option2": "Google",
+        "option3": "Apple",
+        "option4": "Android"
+    },
+    {
+        "question": "Which is the presentation processing software?",
+        "option1": "MS PowerPoint 2007",
+        "option2": "Avast",
+        "option3": "Google chrome",
+        "option4": "Mozilla Firefox"
+    },
+    {
+        "question": "Which is the right term of presentation page?",
+        "option1": "Slides",
+        "option2": "Chart",
+        "option3": "Clipart",
+        "option4": "Image"
+    },
+    {
+        "question": "Which term is not related with font?",
+        "option1": "Font grammar",
+        "option2": "Font color",
+        "option3": "Font size",
+        "option4": "Font face"
+    },
+    {
+        "question": "____ refers to back the object to one level or to all objects.",
+        "option1": "Send to back",
+        "option2": "Align",
+        "option3": "Rotate",
+        "option4": "Bring to front"
+    },
+    {
+        "question": "____  button reduces the window to an icon but word still remains active.",
+        "option1": "Minimize",
+        "option2": "Maximize",
+        "option3": "Close",
+        "option4": "Restore"
+    },
+    {
+        "question": "You can use the ___ to insert symbols.",
+        "option1": "Symbol dialog box",
+        "option2": "Font dialog box",
+        "option3": "Text dialog box",
+        "option4": "Paragraph dialog box"
+    },
+    {
+        "question": "Press ___ to start presentation from the beginning.",
+        "option1": "F5",
+        "option2": "F6",
+        "option3": "F7",
+        "option4": "F8"
+    },
+    {
+        "question": "_____ are advanced features that can speed up editing or formatting you may perform often in a PowerPoint document.",
+        "option1": "Macros",
+        "option2": "Color",
+        "option3": "Font",
+        "option4": "All of these"
+    },
+    {
+        "question": "______ lowers the selected text below the baseline and changes the selected text to a smaller font size, if a smaller size is available.",
+        "option1": "Subscript",
+        "option2": "Superiorscript",
+        "option3": "Upper font",
+        "option4": "Superscript"
+    },
+    {
+        "question": "The maximum zoom percentage in Microsoft PowerPoint is",
+        "option1": "400%",
+        "option2": "100%",
+        "option3": "200%",
+        "option4": "300%"
+    },
+    {
+        "question": "If you want to add arrowheads to multiple lines, select the first line and then press and hold ______ while you select the other lines.",
+        "option1": "Ctrl",
+        "option2": "Alt",
+        "option3": "Tab",
+        "option4": "Space"
+    },
+    {
+        "question": "If you know the character code, you can enter the code in your document and then press _____ to convert it into a character.",
+        "option1": "Alt + X",
+        "option2": "Ctrl + X",
+        "option3": "Ctrl + Y",
+        "option4": "Tab + X"
+    }
+]
