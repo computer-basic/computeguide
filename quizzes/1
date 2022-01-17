@@ -103,5 +103,75 @@
         "option2": "legend",
         "option3": "Clipart area",
         "option4": "Plot area"
+    },
+    {
+        "question": "____ returns the least common multiple.",
+        "option1": "LCM()",
+        "option2": "LCCM()",
+        "option3": "TLCM()",
+        "option4": "RTLCM()"
+    },
+    {
+        "question": "This is not a function category in Excel.",
+        "option1": "Data series",
+        "option2": "Logical",
+        "option3": "Text",
+        "option4": "Financial"
+    },
+    {
+        "question": "How many columns are there in old version of MS Excel?",
+        "option1": "256",
+        "option2": "250",
+        "option3": "265",
+        "option4": "269"
+    },
+    {
+        "question": "Which bar show the used formula of selected active cell?",
+        "option1": "Formula bar",
+        "option2": "Ribbon",
+        "option3": "Menu bar",
+        "option4": "Scroll bar"
+    },
+    {
+        "question": "Typed text showed in active cell and also in ___",
+        "option1": "Formula bar",
+        "option2": "Ribbon",
+        "option3": "Title bar",
+        "option4": "Scroll bar"
+    },
+    {
+        "question": "What is the default row height of MS Excel?",
+        "option1": "15",
+        "option2": "10",
+        "option3": "12",
+        "option4": "13"
+    },
+    {
+        "question": "Excel documents are stored as files called",
+        "option1": "Worksheets",
+        "option2": "Workgroups",
+        "option3": "Worktables",
+        "option4": "Workforce"
+    },
+    {
+        "question": "What refers to the horizontal cells which can contain information?",
+        "option1": "Rows",
+        "option2": "Ribbon",
+        "option3": "Columns",
+        "option4": "Horizontal scrollbar"
+    },
+    {
+        "question": "Today motherboard typically use",
+        "option1": "72 pin modules",
+        "option2": "70 pin modules",
+        "option3": "74 pin modules",
+        "option4": "76 pin modules"
+    },
+    {
+        "question": "To minimize the currently selected window, press",
+        "option1": "Ctrl+ F9",
+        "option2": "Ctrl+ F11",
+        "option3": "Ctrl+ F12",
+        "option4": "Ctrl+ F10"
     }
 ]
