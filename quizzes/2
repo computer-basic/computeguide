@@ -1,0 +1,107 @@
+[
+    {
+        "question": "What appear at the bottom of the Excel window?",
+        "option1": "Work sheet tabs",
+        "option2": "Title bar",
+        "option3": "Formula bar",
+        "option4": "Name box"
+    },
+    {
+        "question": "What are the basic rectangular building blocks of a spreadsheet?",
+        "option1": "Cells",
+        "option2": "Zoom slider",
+        "option3": "Help button",
+        "option4": "All of these"
+    },
+    {
+        "question": "Which of the following is not a term pertaining to spreadsheets?",
+        "option1": "Browser",
+        "option2": "Cell",
+        "option3": "Character",
+        "option4": "Formula"
+    },
+    {
+        "question": "Another name for a pre-programmed formula in Excel is",
+        "option1": "Function",
+        "option2": "Cell",
+        "option3": "Graph",
+        "option4": "Range"
+    },
+    {
+        "question": "Excel is a program that is used to prepare a",
+        "option1": "Spreadsheet",
+        "option2": "Slide presentation",
+        "option3": "Text document",
+        "option4": "Database"
+    },
+    {
+        "question": "In which tab wrap text feature is present in MS Excel 2007?",
+        "option1": "Home",
+        "option2": "Formulas",
+        "option3": "View",
+        "option4": "Insert"
+    },
+    {
+        "question": "Which of the following identifies a cell in Excel?",
+        "option1": "Address",
+        "option2": "Formula",
+        "option3": "Name",
+        "option4": "Label"
+    },
+    {
+        "question": "Which term is used to join the selected cells in to one cell?",
+        "option1": "Merge",
+        "option2": "Filter",
+        "option3": "Wrap",
+        "option4": "Pivot"
+    },
+    {
+        "question": "Which of the following Excel charts represents only one value for each variable?",
+        "option1": "Pie",
+        "option2": "Bar",
+        "option3": "Line",
+        "option4": "Function"
+    },
+    {
+        "question": "A formula in Excel always begins with an",
+        "option1": "Equal sign",
+        "option2": "Colon",
+        "option3": "Comma",
+        "option4": "Space"
+    },
+    {
+        "question": "When the CPU detects an interrupt, then it saves its",
+        "option1": "Current state",
+        "option2": "Previous state",
+        "option3": "Next state",
+        "option4": "All of these"
+    },
+    {
+        "question": "A(n) ____ is a series of two or more adjacent cells in a column or row or rectangular group of cells.",
+        "option1": "Range",
+        "option2": "List",
+        "option3": "Section",
+        "option4": "Area"
+    },
+    {
+        "question": "What is the extension of saved file in MS Excel?",
+        "option1": ".xls",
+        "option2": ".xks",
+        "option3": ".xos",
+        "option4": ".xbs"
+    },
+    {
+        "question": "Which command is used to close the window of Excel?",
+        "option1": "Alt+ F4",
+        "option2": "Ctrl + W",
+        "option3": "Ctrl +R",
+        "option4": "Ctrl+ C"
+    },
+    {
+        "question": "What is the total region surrounding the chart?",
+        "option1": "Chart area",
+        "option2": "legend",
+        "option3": "Clipart area",
+        "option4": "Plot area"
+    }
+]
