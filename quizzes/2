@@ -118,5 +118,125 @@
         "option2": "legend",
         "option3": "Clipart area",
         "option4": "Plot area"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "____ returns the least common multiple.",
+        "option1": "LCM()",
+        "option2": "LCCM()",
+        "option3": "TLCM()",
+        "option4": "RTLCM()"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "This is not a function category in Excel.",
+        "option1": "Data series",
+        "option2": "Logical",
+        "option3": "Text",
+        "option4": "Financial"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "How many columns are there in old version of MS Excel?",
+        "option1": "256",
+        "option2": "250",
+        "option3": "265",
+        "option4": "269"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "Which bar show the used formula of selected active cell?",
+        "option1": "Formula bar",
+        "option2": "Ribbon",
+        "option3": "Menu bar",
+        "option4": "Scroll bar"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "Typed text showed in active cell and also in ___",
+        "option1": "Formula bar",
+        "option2": "Ribbon",
+        "option3": "Title bar",
+        "option4": "Scroll bar  "
+    },
+    {
+        "quizTypeId": 2,
+        "question": "What is the default row height of MS Excel?",
+        "option1": "15",
+        "option2": "10",
+        "option3": "12",
+        "option4": "13"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "Excel documents are stored as files called",
+        "option1": "Worksheets",
+        "option2": "Workgroups",
+        "option3": "Worktables",
+        "option4": "Workforce"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "What refers to the horizontal cells which can contain information?",
+        "option1": "Rows",
+        "option2": "Ribbon",
+        "option3": "Columns",
+        "option4": "Horizontal scrollbar"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "Today motherboard typically use",
+        "option1": "72 pin modules",
+        "option2": "70 pin modules",
+        "option3": "74 pin modules",
+        "option4": "76 pin modules"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "To minimize the currently selected window, press",
+        "option1": "Ctrl+ F9",
+        "option2": "Ctrl+ F11",
+        "option3": "Ctrl+ F12",
+        "option4": "Ctrl+ F10"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "____ is a powerful tool used to create and format spreadsheets.",
+        "option1": "Microsoft Office Excel",
+        "option2": "Adobe Photoshop CS",
+        "option3": "Mozilla Firefox",
+        "option4": "Microsoft Office PowerPoint"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "Workbook is a collection of",
+        "option1": "Worksheets",
+        "option2": "Page set-up",
+        "option3": "Buttons",
+        "option4": "Diagrams"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "The worksheet names appear on tabs at the ____ of the workbook window.",
+        "option1": "Bottom left",
+        "option2": "Bottom right",
+        "option3": "Top left",
+        "option4": "Top right"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "The result of a formula in a cell is the",
+        "option1": "Value",
+        "option2": "Displayed value",
+        "option3": "Range",
+        "option4": "Label"
+    },
+    {
+        "quizTypeId": 2,
+        "question": "____ is the intersection of a row with a column.",
+        "option1": "Cell",
+        "option2": "Row",
+        "option3": "Column",
+        "option4": "All of these"
     }
 ]
