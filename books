@@ -1,5 +1,11 @@
 [
     {
+        "name": "Bitcoin",
+        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/bitcoin.pdf",
+        "size": "5.61 MB",
+        "icon": "https://i.imgur.com/Hm0zf7Y.png"
+    },
+    {
         "name": "AutoCad",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/AutoCAD.pdf",
         "size": "1.06 MB",
@@ -120,7 +126,7 @@
         "icon": "https://i.imgur.com/GFiuocX.png"
     },
     {
-        "name": "PC Build",
+        "name": "PC Building",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/PC%20Build.pdf",
         "size": "542 KB",
         "icon": "https://i.imgur.com/oFsdRJQ.jpg"
