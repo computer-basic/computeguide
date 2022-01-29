@@ -6,6 +6,12 @@
         "icon": "https://i.imgur.com/Hm0zf7Y.png"
     },
     {
+        "name": "Ubuntu",
+        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/ubuntu.pdf",
+        "size": "20.1 MB",
+        "icon": "https://i.imgur.com/Hm0zf7Y.png"
+    },
+    {
         "name": "AutoCad",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/AutoCAD.pdf",
         "size": "1.06 MB",
