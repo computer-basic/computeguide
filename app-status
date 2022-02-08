@@ -3,7 +3,7 @@
     "message": "New quizz function is available now. Please update!",
     "negative": "Cancel",
     "positive": "Update",
-    "show": true,
+    "show": false,
     "force": false,
     "supporter": true,
     "type": "update",
