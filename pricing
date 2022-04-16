@@ -1,0 +1,17 @@
+[
+    {
+        "duration": "1 Month",
+        "amount": "2000 KS",
+        "type": "KBZ Pay/Wave Pay"
+    },
+    {
+        "duration": "3 Month",
+        "amount": "5000 KS",
+        "type": "KBZ Pay/Wave Pay"
+    },
+    {
+        "duration": "Lifetime",
+        "amount": "10000 KS",
+        "type": "KBZ Pay/Wave Pay"
+    }
+]
