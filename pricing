@@ -5,13 +5,13 @@
         "type": "KBZ Pay/Wave Pay"
     },
     {
-        "duration": "3 Month",
+        "duration": "3 Months",
         "amount": "5000 KS",
         "type": "KBZ Pay/Wave Pay"
     },
     {
         "duration": "Lifetime",
-        "amount": "10000 KS",
+        "amount": "10,000 KS",
         "type": "KBZ Pay/Wave Pay"
     }
 ]
