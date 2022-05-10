@@ -1,17 +1,24 @@
-[
-    {
-        "duration": "1 Month",
-        "amount": "2000 KS",
-        "type": "KBZ Pay/Wave Pay"
-    },
-    {
-        "duration": "3 Months",
-        "amount": "5000 KS",
-        "type": "KBZ Pay/Wave Pay"
-    },
-    {
-        "duration": "Lifetime",
-        "amount": "10,000 KS",
-        "type": "KBZ Pay/Wave Pay"
-    }
-]
+{
+    "campaign": false,
+    "description":"Buy supporter with 20% discount during the Thingyan Water Festival Promotion",
+    "start": 5,
+    "end": 8,
+    "color": "#91AAE8",
+    "price": [
+        {
+            "duration": "1 Month",
+            "amount": "2000 KS",
+            "type": "KBZ Pay/Wave Pay"
+        },
+        {
+            "duration": "3 Months",
+            "amount": "5000 KS",
+            "type": "KBZ Pay/Wave Pay"
+        },
+        {
+            "duration": "Lifetime",
+            "amount": "10,000 KS",
+            "type": "KBZ Pay/Wave Pay"
+        }
+    ]
+}
