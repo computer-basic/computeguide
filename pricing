@@ -1,5 +1,5 @@
 {
-    "campaign": false,
+    "campaign": true,
     "description":"Buy supporter with 20% discount during the Thingyan Water Festival Promotion",
     "start": 5,
     "end": 8,
