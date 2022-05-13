@@ -12,6 +12,6 @@
     {
         "logo": "https://i.imgur.com/mtjwbDe.png",
         "name": "Viber",
-        "url": "viber://pa?chatURI=959953831159&text=hello"
+        "url": "viber://chat?number=959953831159"
     }
 ]
