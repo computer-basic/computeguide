@@ -1,22 +1,12 @@
 [
     {
-        "version":"v1.3",
-        "date":"May 8, 2022",
-        "changes":"\u2022 Bug Fixes\n\u2022 Performace Improvement"
+        "version":"v1.4",
+        "date":"May 22, 2022",
+        "changes":"\u2022 Timer and level added in Typing\n\u2022 MM Typing\n\u2022 Supporter profile\n\u2022 Changelog\n\u2022 UI changes"
     },
     {
         "version":"v1.3",
-        "date":"May 8, 2022",
-        "changes":"\u2022 Bug Fixes\n\u2022 Performace Improvement"
-    },
-    {
-        "version":"v1.3",
-        "date":"May 8, 2022",
-        "changes":"\u2022 Bug Fixes\n\u2022 Performace Improvement"
-    },
-    {
-        "version":"v1.3",
-        "date":"May 8, 2022",
-        "changes":"\u2022 Bug Fixes\n\u2022 Performace Improvement"
+        "date":"January 26, 2022",
+        "changes":"\u2022 Computer quiz added\n\u2022 Bug fixes and performance improvements"
     }
 ]
