@@ -3,7 +3,7 @@
     "message": "The new update is available now. Please update for more features.",
     "negative": "Cancel",
     "positive": "Update",
-    "show": false,
+    "show": true,
     "force": false,
     "supporter": true,
     "type": "update",
