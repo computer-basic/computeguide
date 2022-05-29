@@ -12,7 +12,7 @@
     "version": "1.4",
     "icon": "",
     "supporterGuide": "https://myanmarcomputerbasic.blogspot.com/2021/12/supporter.html",
-    "campaign": true,
+    "campaign": false,
     "appCampaign": true,
     "campaignUrl": "https://play.google.com/store/apps/details?id=com.computeguide",
     "campaignPoster": "https://i.imgur.com/zoIjzaY.png",
