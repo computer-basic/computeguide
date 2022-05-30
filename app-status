@@ -12,7 +12,7 @@
     "version": "1.4",
     "icon": "",
     "supporterGuide": "https://myanmarcomputerbasic.blogspot.com/2021/12/supporter.html",
-    "campaign": true,
+    "campaign": false,
     "appCampaign": false,
     "campaignUrl": "https://t.me/myanmarcomputerbasic",
     "campaignPoster": "https://i.imgur.com/NaqzecLh.png",
