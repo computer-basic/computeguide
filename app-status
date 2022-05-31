@@ -3,7 +3,7 @@
     "message": "Please update the new version for bug fixes.",
     "negative": "Cancel",
     "positive": "Update",
-    "show": false,
+    "show": true,
     "force": false,
     "supporter": true,
     "type": "update",
