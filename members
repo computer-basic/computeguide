@@ -175,6 +175,11 @@
         "accessKey": "a29rb21pbmtoYW50OTY5QGdtYWlsLmNvbU9QUE9PUDRCQTVMMQ=="
     },
     {
+        "name": "Rmin",
+        "expireDate": "8 Aug, 2022",
+        "accessKey": "MDk3Njc2MDUwNjB2aXZvMjAxNQ=="
+    },
+    {
         "name": "Testing",
         "expireDate": "30 May, 2070",
         "accessKey": "bGVlc2h3ZXVua25vd25nZW5lcmljX3g4Ng=="
