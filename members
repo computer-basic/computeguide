@@ -120,11 +120,6 @@
         "accessKey": "a29rb21pbmtoYW50OTY5QGdtYWlsLmNvbU9QUE9PUDRCQTVMMQ=="
     },
     {
-        "name": "Min Khant",
-        "expireDate": "10 Aug, 2022",
-        "accessKey": "MDk0MDQyODY3NDFYaWFvbWlwaG9lbml4"
-    },
-    {
         "name": "Ayg Chan Maw",
         "expireDate": "13 Aug, 2022",
         "accessKey": "bWF3bTMxNTkyQGdtYWlsLmNvbXZpdm8xOTM4"
@@ -203,6 +198,11 @@
         "name": "Zayar",
         "expireDate": "10 Sep, 2022",
         "accessKey": "MDk0MjU4MTM3MTBYaWFvbWlwaG9lbml4"
+    },
+    {
+        "name": "Pyae Sone",
+        "expireDate": "11 Sep, 2022",
+        "accessKey": "cHlhZXNvbmU0MDE4MTAzMTBAZ21haWwuY29tVEVDTk9NT0JJTEVMSU1JVEVEVEVDTk8tQkU3"
     },
     {
         "name": "Testing",
