@@ -1,5 +1,11 @@
 [
     {
+        "name": "Linux Command Line",
+        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Linux%20Command%20Line%20MM.pdf",
+        "size": "1.29 MB",
+        "icon": "https://i.imgur.com/Hm0zf7Y.png"
+    },
+    {
         "name": "Bootstrap 5",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/bootstrap5.pdf",
         "size": "8.7 MB",
