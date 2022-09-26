@@ -1,7 +1,7 @@
 {
     "minDownload": 3,
     "maxDownload": 3,
-    "playCount": 5,
+    "offlinePlay": 5,
     "gMinDownload": 10,
     "gMaxDownload": 20
 }
