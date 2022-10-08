@@ -2,6 +2,6 @@
     "minDownload": 3,
     "maxDownload": 3,
     "offlinePlay": 5,
-    "gMinDownload": 10,
-    "gMaxDownload": 20
+    "gMinDownload": 2,
+    "gMaxDownload": 4
 }
