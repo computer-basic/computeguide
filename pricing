@@ -1,5 +1,5 @@
 {
-    "campaign": true,
+    "campaign": false,
     "description": "Get the supporter with a 30% discount for both 3 months and lifetime plans until 10 Oct.",
     "start": 24,
     "end": 37,
