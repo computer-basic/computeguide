@@ -14,13 +14,13 @@
         {
             "duration": "3 Months",
             "amount": "5000 KS",
-            "discountAmount": "3500 KS",
+            "discountAmount": "",
             "type": "KBZPay/Wave Pay"
         },
         {
             "duration": "Lifetime",
             "amount": "10,000 KS",
-            "discountAmount": "7000 KS",
+            "discountAmount": "",
             "type": "KBZPay/Wave Pay"
         }
     ]
