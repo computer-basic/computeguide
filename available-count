@@ -8,9 +8,33 @@
         {
             "title": "Download",
             "description": "5"
+        },
+        {
+            "title": "Download",
+            "description": "5"
+        },
+        {
+            "title": "Download",
+            "description": "5"
+        },
+        {
+            "title": "Download",
+            "description": "5"
         }
     ],
     "global": [
+        {
+            "title": "Download",
+            "description": "20"
+        },
+        {
+            "title": "Download",
+            "description": "20"
+        },
+        {
+            "title": "Download",
+            "description": "20"
+        },
         {
             "title": "Download",
             "description": "20"
@@ -19,7 +43,19 @@
     "supporter": [
         {
             "title": "Download",
-            "description": "Unlimit"
+            "description": "unlimit"
+        },
+        {
+            "title": "Download",
+            "description": "unlimit"
+        },
+        {
+            "title": "Download",
+            "description": "unlimit"
+        },
+        {
+            "title": "Download",
+            "description": "unlimit"
         }
     ]
 }
