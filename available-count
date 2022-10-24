@@ -3,5 +3,23 @@
     "maxDownload": 3,
     "offlinePlay": 5,
     "gMinDownload": 2,
-    "gMaxDownload": 4
+    "gMaxDownload": 4,
+    "normal": [
+        {
+            "title": "Download",
+            "description": "5"
+        }
+    ],
+    "global": [
+        {
+            "title": "Download",
+            "description": "20"
+        }
+    ],
+    "supporter": [
+        {
+            "title": "Download",
+            "description": "Unlimit"
+        }
+    ]
 }
