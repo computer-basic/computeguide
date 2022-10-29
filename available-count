@@ -1,61 +1,61 @@
 {
-    "minDownload": 3,
-    "maxDownload": 3,
-    "offlinePlay": 5,
+    "minDownload": 2,
+    "maxDownload": 2,
+    "offlinePlay": 3,
     "gMinDownload": 2,
     "gMaxDownload": 4,
     "normal": [
         {
-            "title": "Download",
-            "description": "5"
+            "title": "Download Video",
+            "description": "5 per day"
         },
         {
-            "title": "Download",
-            "description": "5"
+            "title": "Play Offline",
+            "description": "5 per day"
         },
         {
-            "title": "Download",
-            "description": "5"
-        },
-        {
-            "title": "Download",
-            "description": "5"
+            "title": "Play Online",
+            "description": "Unlimited"
         }
     ],
     "global": [
         {
-            "title": "Download",
-            "description": "20"
+            "title": "Download Video",
+            "description": "20 per day"
         },
         {
-            "title": "Download",
-            "description": "20"
+            "title": "Play Offline",
+            "description": "Unlimited"
         },
         {
-            "title": "Download",
-            "description": "20"
-        },
-        {
-            "title": "Download",
-            "description": "20"
+            "title": "Play Online",
+            "description": "Unlimited"
         }
     ],
     "supporter": [
         {
-            "title": "Download",
-            "description": "unlimit"
+            "title": "Download Video",
+            "description": "Unlimited"
         },
         {
-            "title": "Download",
-            "description": "unlimit"
+            "title": "Play Offline",
+            "description": "Unlimited"
         },
         {
-            "title": "Download",
-            "description": "unlimit"
+            "title": "Play Online",
+            "description": "Unlimited"
         },
         {
-            "title": "Download",
-            "description": "unlimit"
+            "title": "Offline User",
+            "description": "Yes"
+        },
+        {
+            "title": "No Ads",
+            "description": "Yes"
+        },
+        {
+            "title": "MM Typing",
+            "description": "Yes"
         }
     ]
 }
