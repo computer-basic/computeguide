@@ -16,6 +16,18 @@
         {
             "title": "Play Online",
             "description": "Unlimited"
+        },
+        {
+            "title": "Work Offline",
+            "description": "false"
+        },
+        {
+            "title": "No Ads",
+            "description": "false"
+        },
+        {
+            "title": "Exculsive features",
+            "description": "false"
         }
     ],
     "global": [
@@ -30,6 +42,18 @@
         {
             "title": "Play Online",
             "description": "Unlimited"
+        },
+        {
+            "title": "Work Offline",
+            "description": "false"
+        },
+        {
+            "title": "No Ads",
+            "description": "false"
+        },
+        {
+            "title": "Exculsive features",
+            "description": "false"
         }
     ],
     "supporter": [
@@ -46,16 +70,20 @@
             "description": "Unlimited"
         },
         {
-            "title": "Offline User",
-            "description": "Yes"
+            "title": "Work Offline",
+            "description": "true"
         },
         {
             "title": "No Ads",
-            "description": "Yes"
+            "description": "true"
         },
         {
-            "title": "MM Typing",
-            "description": "Yes"
+            "title": "Exculsive features",
+            "description": "true"
+        },
+        {
+            "title": "Support Team",
+            "description": "true"
         }
     ]
 }
