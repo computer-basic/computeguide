@@ -4,86 +4,100 @@
     "offlinePlay": 3,
     "gMinDownload": 2,
     "gMaxDownload": 4,
-    "normal": [
+    "plan": [
         {
-            "title": "Download Video",
-            "description": "5 per day"
+            "icon": "https://i.imgur.com/VdxFPWS.png",
+            "title": "Restricted",
+            "features": [
+                {
+                    "title": "Download Video",
+                    "description": "5 per day"
+                },
+                {
+                    "title": "Play Offline",
+                    "description": "5 per day"
+                },
+                {
+                    "title": "Play Online",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Work Offline",
+                    "description": "false"
+                },
+                {
+                    "title": "No Ads",
+                    "description": "false"
+                },
+                {
+                    "title": "Exculsive features",
+                    "description": "false"
+                }
+            ]
         },
         {
-            "title": "Play Offline",
-            "description": "5 per day"
+            "icon": "https://i.imgur.com/GQWKDD6.png",
+            "title": "Global",
+            "features": [
+                {
+                    "title": "Download Video",
+                    "description": "20 per day"
+                },
+                {
+                    "title": "Play Offline",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Play Online",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Work Offline",
+                    "description": "false"
+                },
+                {
+                    "title": "No Ads",
+                    "description": "false"
+                },
+                {
+                    "title": "Exculsive features",
+                    "description": "false"
+                }
+            ]
         },
         {
-            "title": "Play Online",
-            "description": "Unlimited"
-        },
-        {
-            "title": "Work Offline",
-            "description": "false"
-        },
-        {
-            "title": "No Ads",
-            "description": "false"
-        },
-        {
-            "title": "Exculsive features",
-            "description": "false"
-        }
-    ],
-    "global": [
-        {
-            "title": "Download Video",
-            "description": "20 per day"
-        },
-        {
-            "title": "Play Offline",
-            "description": "Unlimited"
-        },
-        {
-            "title": "Play Online",
-            "description": "Unlimited"
-        },
-        {
-            "title": "Work Offline",
-            "description": "false"
-        },
-        {
-            "title": "No Ads",
-            "description": "false"
-        },
-        {
-            "title": "Exculsive features",
-            "description": "false"
-        }
-    ],
-    "supporter": [
-        {
-            "title": "Download Video",
-            "description": "Unlimited"
-        },
-        {
-            "title": "Play Offline",
-            "description": "Unlimited"
-        },
-        {
-            "title": "Play Online",
-            "description": "Unlimited"
-        },
-        {
-            "title": "Work Offline",
-            "description": "true"
-        },
-        {
-            "title": "No Ads",
-            "description": "true"
-        },
-        {
-            "title": "Exculsive features",
-            "description": "true"
-        },
-        {
-            "title": "Support Team",
-            "description": "true"
+            "icon": "https://i.imgur.com/9aCnML5.png",
+            "title": "Supporter",
+            "features": [
+                {
+                    "title": "Download Video",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Play Offline",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Play Online",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Work Offline",
+                    "description": "true"
+                },
+                {
+                    "title": "No Ads",
+                    "description": "true"
+                },
+                {
+                    "title": "Exculsive features",
+                    "description": "true"
+                },
+                {
+                    "title": "Support Team",
+                    "description": "true"
+                }
+            ]
         }
     ]
 }
