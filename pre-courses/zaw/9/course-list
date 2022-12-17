@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "courseId": 9,
+        "lessons": 44,
+        "title": "AutoCAD (Basic)"
+    },
+    {
+        "id": 2,
+        "courseId": 9,
+        "lessons": 7,
+        "title": "AutoCAD 2021"
+    },
+    {
+        "id": 3,
+        "courseId": 9,
+        "lessons": 3,
+        "title": "AutoCAD (Advance)"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "courseId": 5,
+        "lessons": 13,
+        "title": "Microsoft PowerPoint 1"
+    },
+    {
+        "id": 2,
+        "courseId": 5,
+        "lessons": 20,
+        "title": "Microsoft PowerPoint 2"
+    },
+    {
+        "id": 3,
+        "courseId": 5,
+        "lessons": 9,
+        "title": "Microsoft PowerPoint 3"
+    }
+]
