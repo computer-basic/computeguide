@@ -1,7 +1,7 @@
 [
     {
         "id": 85,
-        "title": "စတင်ဝင်ရောက်ခြင်း",
+        "title": "စတင်ဖွင့်လှစ်ခြင်",
         "videoId": "Xxv__2BW4tE",
         "videoUrl": "https://sendvid.com/1piv7514",
         "duration": "3:07",
@@ -11,7 +11,7 @@
     },
     {
         "id": 86,
-        "title": "အခေါ်အဝေါ်များ",
+        "title": "Tool များ၏အခေါ်အဝေါ်များ",
         "videoId": "0TMZbX34cEQ",
         "videoUrl": "https://sendvid.com/9e6wehpe",
         "duration": "5:24",
@@ -21,7 +21,7 @@
     },
     {
         "id": 87,
-        "title": "အချက်အလက်စတင်ထည့်သွင်းခြင်း",
+        "title": "ကိန်းဂဏန်းများနှင့် အချက်အလက်များကို စတင်ထည့်သွင်းခြင်း",
         "videoId": "DpVzR6XupqA",
         "videoUrl": "https://sendvid.com/85oyg4f9",
         "duration": "4:21",
@@ -31,7 +31,7 @@
     },
     {
         "id": 88,
-        "title": "Auto Fill နံပါတ်များနှင့် အချိန်များကို အတိုအလျောက်ထည့်နည်း",
+        "title": "နံပါတ်များ၊ အချိန်၊ ရက်စွဲများကို အလိုအလျောက်ထည့်သွင်းနည်း",
         "videoId": "qONjlVs3u_s",
         "videoUrl": "https://sendvid.com/coegl1n9",
         "duration": "6:33",
@@ -41,7 +41,7 @@
     },
     {
         "id": 89,
-        "title": "Excel (5)",
+        "title": "Sheet များကို အမည်သတ်မှတ်ခြင်း",
         "videoId": "dl3OzkZL1YU",
         "videoUrl": "https://sendvid.com/ii6zwstm",
         "duration": "3:37",
@@ -51,7 +51,7 @@
     },
     {
         "id": 90,
-        "title": "Excel (6)",
+        "title": "Custom List ပြုလုပ်ထားနည်း",
         "videoId": "VG-8YqlI7HM",
         "videoUrl": "https://sendvid.com/kkb4e5r9",
         "duration": "4:34",
@@ -61,7 +61,7 @@
     },
     {
         "id": 91,
-        "title": "Excel (7)",
+        "title": "Copy နှင့် Paste ကိုအသုံးပြုနည်း",
         "videoId": "_P6dQUBfNig",
         "videoUrl": "https://sendvid.com/u9cm7j8h",
         "duration": "7:28",
@@ -71,7 +71,7 @@
     },
     {
         "id": 92,
-        "title": "Excel (8)",
+        "title": "မိမိလိုချင်တဲ့ font ကို ပုံသေချိန်ထားနည်း",
         "videoId": "sIDYpJmQ67k",
         "videoUrl": "https://sendvid.com/d5415i8x",
         "duration": "3:16",
@@ -81,7 +81,7 @@
     },
     {
         "id": 93,
-        "title": "Excel (9)",
+        "title": "Format Painter အသုံးပြုနည်း",
         "videoId": "JgswJD0N5B0",
         "videoUrl": "https://sendvid.com/95y7c0gy",
         "duration": "3:35",
@@ -91,7 +91,7 @@
     },
     {
         "id": 94,
-        "title": "Excel (10)",
+        "title": "Font Group ကိုအသုံးပြုနည်း",
         "videoId": "xptDn-Vy0bk",
         "videoUrl": "https://sendvid.com/xtbw0h6l",
         "duration": "5:27",
@@ -101,7 +101,7 @@
     },
     {
         "id": 95,
-        "title": "Excel (11)",
+        "title": "Alignment Group ကိုအသုံးပြုနည်း",
         "videoId": "x_K6ikiTdzE",
         "videoUrl": "https://sendvid.com/e18n82vj",
         "duration": "6:27",
@@ -111,7 +111,7 @@
     },
     {
         "id": 96,
-        "title": "Excel (12)",
+        "title": "သုံးည ကို မျဉ်းတိုအဖြစ်ပြောင်းလဲသုံးပြုနည်း",
         "videoId": "Eb2fGFhmRxM",
         "videoUrl": "https://sendvid.com/hx7dwoud",
         "duration": "3:30",
@@ -121,7 +121,7 @@
     },
     {
         "id": 97,
-        "title": "Excel (13)",
+        "title": "Colunm နှင့် Row များကို ဖျောက်ထားနည်း",
         "videoId": "T70KqHRmDxs",
         "videoUrl": "https://sendvid.com/ey4je8v1",
         "duration": "3:30",
@@ -131,7 +131,7 @@
     },
     {
         "id": 98,
-        "title": "Excel (14)",
+        "title": "Excel Column နှင့် Row များကို မိမိလိုချင်သောနေရာသို့ ရွှေ့နည်း",
         "videoId": "ENfASoLkz7g",
         "videoUrl": "https://sendvid.com/fujnaqmu",
         "duration": "3:21",
@@ -141,7 +141,7 @@
     },
     {
         "id": 99,
-        "title": "Excel (15)",
+        "title": "Excel Cell များကို Merge and Center ပြုလုပ်နည်း",
         "videoId": "JqrSp6S_U4s",
         "videoUrl": "https://sendvid.com/ay5z4mxe",
         "duration": "4:12",
@@ -151,7 +151,7 @@
     },
     {
         "id": 100,
-        "title": "Excel (16)",
+        "title": "Row နှင့် Column (အတန်းနှင့်အတိုင်) ပေါင်းထည့်နည်း",
         "videoId": "bx2CbWNwTng",
         "videoUrl": "https://sendvid.com/csh2vq47",
         "duration": "4:09",
@@ -161,7 +161,7 @@
     },
     {
         "id": 101,
-        "title": "Excel (17)",
+        "title": "ကန်းဂဏန်းများကို ပေါင်းနည်း",
         "videoId": "y0RCopPif0c",
         "videoUrl": "https://sendvid.com/ynyko1ay",
         "duration": "5:31",
@@ -171,7 +171,7 @@
     },
     {
         "id": 102,
-        "title": "Excel (18)",
+        "title": "Quick Access Tools Bar ခေါ်ယူထားနည်း",
         "videoId": "VZKvY6Y_2RY",
         "videoUrl": "https://sendvid.com/j3ce47rk",
         "duration": "4:25",
@@ -181,7 +181,7 @@
     },
     {
         "id": 103,
-        "title": "Excel (19)",
+        "title": "ကိန်းဂဏန်းများကို နုတ်နည်း",
         "videoId": "XqbutCBEnLU",
         "videoUrl": "https://sendvid.com/il7lsl4f",
         "duration": "3:33",
@@ -191,7 +191,7 @@
     },
     {
         "id": 104,
-        "title": "Excel (20)",
+        "title": "ကိန်းဂဏန်းများကို မြှောက်နည်း စားနည်း",
         "videoId": "0A-oRqwgSgM",
         "videoUrl": "https://sendvid.com/5os9apgp",
         "duration": "3:29",
@@ -201,7 +201,7 @@
     },
     {
         "id": 105,
-        "title": "Excel (21)",
+        "title": "ငွေကြေးသင်္ကေတထည့်သွင်းနည်း",
         "videoId": "zaY8O86ZrRM",
         "videoUrl": "https://sendvid.com/32pbhn7a",
         "duration": "6:19",
@@ -211,7 +211,7 @@
     },
     {
         "id": 106,
-        "title": "Excel (22)",
+        "title": "ရာခိုင်နှုန်းတွက်နည်း",
         "videoId": "mwyDiR9osQI",
         "videoUrl": "https://sendvid.com/6uimtmsg",
         "duration": "4:52",
@@ -221,7 +221,7 @@
     },
     {
         "id": 107,
-        "title": "Excel (23)",
+        "title": "ဒသမ နှင့် comma များကို ကိန်းဂဏန်းများတွင်ထည့်သွင်းနည်း",
         "videoId": "UV-TKSEhTPk",
         "videoUrl": "https://sendvid.com/6980kpix",
         "duration": "3:25",
@@ -231,7 +231,7 @@
     },
     {
         "id": 108,
-        "title": "Excel (24)",
+        "title": "Cell များကို အမျိုးအစားပြောင်းလဲနည်း",
         "videoId": "vGYgcssUxmc",
         "videoUrl": "https://sendvid.com/mwp17w4e",
         "duration": "6:40",
@@ -241,7 +241,7 @@
     },
     {
         "id": 109,
-        "title": "Excel (25)",
+        "title": "အရောင်သုံး၍ အလိုအလျောက် အချက်အလက် အမျိုးအစားခွဲခြားထားနည်း",
         "videoId": "hY9umZB8oJM",
         "videoUrl": "https://sendvid.com/2tpmz751",
         "duration": "6:43",
@@ -251,7 +251,7 @@
     },
     {
         "id": 110,
-        "title": "Excel (26)",
+        "title": "မာဂျင်(ဘေးမျဉ်း)ချိန်ကိုက်နည်း",
         "videoId": "_c1LfM5RoTE",
         "videoUrl": "https://sendvid.com/hofxrlrm",
         "duration": "7:38",
@@ -261,7 +261,7 @@
     },
     {
         "id": 111,
-        "title": "Excel (27)",
+        "title": "စာမျက်နှာနံပါတ်တပ်နည်း",
         "videoId": "O43Su8_ZD3s",
         "videoUrl": "https://sendvid.com/e2z3grq5",
         "duration": "3:40",
@@ -271,7 +271,7 @@
     },
     {
         "id": 112,
-        "title": "Excel (28)",
+        "title": "မြင်ကွင်းကို ချုံ့ချဲ့နည်းနှင့် အတန်းအတိုင် ခေါင်းစဉ်များကို ပုံသေထားရှိနည်း",
         "videoId": "wiq7b3cS6-4",
         "videoUrl": "https://sendvid.com/v2zid7mr",
         "duration": "5:31",
@@ -281,7 +281,7 @@
     },
     {
         "id": 113,
-        "title": "Excel (29)",
+        "title": "Excel စာမျက်နှာတိုင်း ဇယားခေါင်းစဉ် အလိုအလျောက်တပ်ဆင်နည်း",
         "videoId": "ivkgp69wwxs",
         "videoUrl": "https://sendvid.com/mmk358jo",
         "duration": "4:28",
@@ -291,7 +291,7 @@
     },
     {
         "id": 114,
-        "title": "Excel (30)",
+        "title": "Print Area (မိမိ ပရင့်ထုတ်လိုသည့် ဧရိယာအတိုင်းအတာသတ်မှတ်၍ ပရင့်ထုတ်နည်း)",
         "videoId": "Mkgmcc0rGz4",
         "videoUrl": "https://sendvid.com/2w8e7hoh",
         "duration": "4:10",
@@ -301,7 +301,7 @@
     },
     {
         "id": 115,
-        "title": "Excel (31)",
+        "title": "Filter ကိုအသုံးပြုပြီး စာရင်းဇယားများကို မြန်မြန်ဆန်ဆန် စစ်ဆေးပြင်ဆင်နည်း",
         "videoId": "QT-vWA5LuCk",
         "videoUrl": "https://sendvid.com/hex4a9vb",
         "duration": "6:18",
@@ -311,7 +311,7 @@
     },
     {
         "id": 116,
-        "title": "Excel (32)",
+        "title": "Excel တွင် Insert tap မှာရှိတဲ့ Picture, shape များထည့်သွင်းနည်း",
         "videoId": "FtbWQ8lbTC8",
         "videoUrl": "https://sendvid.com/zlm79k7c",
         "duration": "4:28",
@@ -321,7 +321,7 @@
     },
     {
         "id": 117,
-        "title": "Excel (33)",
+        "title": "Excel တွင် Cell အချို့ကို သော့ခတ်ထားပြီး ပြင်စေလိုသော Cell များတွင် သာ ပြုပြင်ခွင့်ရရှိစေရန် သော့ခတ်ထားနည်း",
         "videoId": "Ik1A1FOA6Gw",
         "videoUrl": "https://sendvid.com/h2je5okp",
         "duration": "5:25",
@@ -331,7 +331,7 @@
     },
     {
         "id": 118,
-        "title": "Excel (34)",
+        "title": "အလိုအလျောက် အကွက်အရေအတွက် များကို ရေတွက်ခြင်း၊ ပျမ်းမျှတွက်ခြင်းနှင့် အနည်းဆုံးကိန်း၊ အများဆုံးကိန်းများကိုရှာနည်း",
         "videoId": "SgoVwX01srg",
         "videoUrl": "https://sendvid.com/4sx9q023",
         "duration": "5:35",
@@ -341,7 +341,7 @@
     },
     {
         "id": 119,
-        "title": "Excel (35)",
+        "title": "AND Function အသုံးပြုနည်း",
         "videoId": "MR5rsN7nDUI",
         "videoUrl": "https://sendvid.com/jktiepwf",
         "duration": "5:29",
@@ -351,7 +351,7 @@
     },
     {
         "id": 120,
-        "title": "Excel (36)",
+        "title": "IF function အသုံးပြုနည်း",
         "videoId": "0BI491kRixY",
         "videoUrl": "https://sendvid.com/pflbu973",
         "duration": "7:05",
@@ -361,7 +361,7 @@
     },
     {
         "id": 121,
-        "title": "Excel (37)",
+        "title": "IFERROR function အသုံးပြုနည်း",
         "videoId": "SL5MohH02MU",
         "videoUrl": "https://sendvid.com/8o6pq4g8",
         "duration": "4:55",
@@ -371,7 +371,7 @@
     },
     {
         "id": 122,
-        "title": "Excel (38)",
+        "title": "Sheet များကို ဖျက်ခြင်း၊ ရွှေ့ခြင်းနှင့် အမည်တပ်ခြင်းနည်းများ",
         "videoId": "gEi2bzXlDog",
         "videoUrl": "https://sendvid.com/dl4f3a4i",
         "duration": "6:56",
@@ -381,7 +381,7 @@
     },
     {
         "id": 123,
-        "title": "Excel (39)",
+        "title": "အချက်အလက်များကို ကန့်သတ်၊ သတ်မှတ်ထားပြီး အတည်ပြုခြင်းနှင့် ငြင်းပယ်ခြင်း နည်းများ",
         "videoId": "godj9Idl_Hk",
         "videoUrl": "https://sendvid.com/m1dr2t8b",
         "duration": "10:08",
@@ -391,7 +391,7 @@
     },
     {
         "id": 124,
-        "title": "Excel (40)",
+        "title": "Dropdown List ပြုလုပ်နည်း",
         "videoId": "PLXXIrbqdZg",
         "videoUrl": "https://sendvid.com/l1vskvd5",
         "duration": "5:59",
@@ -401,7 +401,7 @@
     },
     {
         "id": 125,
-        "title": "Excel (41)",
+        "title": "Work book , Sheet များကို လုံခြုံရေးသော့ခတ်နည်း",
         "videoId": "7tQfVfgJqK0",
         "videoUrl": "https://sendvid.com/s8037rqk",
         "duration": "4:11",
@@ -411,7 +411,7 @@
     },
     {
         "id": 314,
-        "title": "Excel (42)",
+        "title": "Cell များကို ဘောင်ခတ်နည်း",
         "videoId": "SLOKouYPJxk",
         "videoUrl": "https://sendvid.com/jvyb6ing",
         "duration": "6:36",
@@ -421,7 +421,7 @@
     },
     {
         "id": 315,
-        "title": "Excel (43)",
+        "title": "Margins နှင့် Printing လုပ်နည်း",
         "videoId": "YV40tHO6gAk",
         "videoUrl": "https://sendvid.com/y1mhr0qf",
         "duration": "5:52",
@@ -431,7 +431,7 @@
     },
     {
         "id": 316,
-        "title": "Excel (44)",
+        "title": "Excel တွင် Discount(လျှော့ဈေး)တွက်ချက်နည်း",
         "videoId": "ZRDZBltBfoY",
         "videoUrl": "https://sendvid.com/zgl1ni82",
         "duration": "3:43",
@@ -441,7 +441,7 @@
     },
     {
         "id": 317,
-        "title": "Excel (45)",
+        "title": "Excel တွင် သတ်မှတ်ထားသော ရာခိုင်နှုန်းအထက်ကို Bonus ပေးရေး တွက်ချက်နည်း",
         "videoId": "H68U37wiXYM",
         "videoUrl": "https://sendvid.com/i6dj6cab",
         "duration": "6:20",
@@ -451,7 +451,7 @@
     },
     {
         "id": 318,
-        "title": "Excel (46)",
+        "title": "Excel တွင် Sheet များ များပြားလာတဲ့အခါ အလွယ်တစ်ကူရွေးချယ်ဖွင့်လှစ်ပြင်ဆင်နိုင်ရန် sheet တစ်ခုနှင့်တစ်ခု link ချိတ်ထားပြီး အသုံးပြုနည်း",
         "videoId": "4w1CILLL3qQ",
         "videoUrl": "https://sendvid.com/sojdggxy",
         "duration": "6:36",
@@ -461,7 +461,7 @@
     },
     {
         "id": 319,
-        "title": "Excel (47)",
+        "title": "Excel တွင် Chart များကို မိမိလိုသလို ထိန်းချုပ်ထည့်သွင်းနည်း",
         "videoId": "pNo_fabnlFY",
         "videoUrl": "https://sendvid.com/9yzlt2v1",
         "duration": "5:21",
@@ -471,7 +471,7 @@
     },
     {
         "id": 320,
-        "title": "Excel (48)",
+        "title": "SUMIF function ကို အသုံးပြုပြီး အခြေအနေစစ်ဆေးနည်း",
         "videoId": "5DnhG9ML2FU",
         "videoUrl": "https://sendvid.com/70n35hmz",
         "duration": "3:45",
@@ -481,7 +481,7 @@
     },
     {
         "id": 321,
-        "title": "Excel (49)",
+        "title": "Sheet တစ်ခုနှင့်တစ်ခုကို အချက်အလက်များ ဆက်သွယ်ထားနည်း",
         "videoId": "IUJlRTgcl8c",
         "videoUrl": "https://sendvid.com/otrdqv2f",
         "duration": "4:38",
@@ -491,7 +491,7 @@
     },
     {
         "id": 322,
-        "title": "Excel (50)",
+        "title": "Data ရှိတဲ့ Cell များစွာကို တစ်ခုထဲသို့ ပေါင်းထည့်နည်း",
         "videoId": "iyVNWC41p-s",
         "videoUrl": "https://sendvid.com/3rn576ug",
         "duration": "10:52",
