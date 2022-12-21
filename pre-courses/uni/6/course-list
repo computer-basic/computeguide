@@ -16,5 +16,11 @@
         "courseId": 6,
         "lessons": 17,
         "title": "Photoshop 3"
+    },
+    {
+        "id": 4,
+        "courseId": 6,
+        "lessons": 45,
+        "title": "Photoshop 2020"
     }
 ]
