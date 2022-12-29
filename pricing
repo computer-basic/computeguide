@@ -1,8 +1,8 @@
 {
     "campaign": true,
     "description": "Get the supporter plan with a 30% new year discount for lifetime plans until 31 December.",
-    "start": 24,
-    "end": 37,
+    "start": 30,
+    "end": 50,
     "color": "#91AAE8",
     "price": [
         {
