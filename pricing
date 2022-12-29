@@ -1,6 +1,6 @@
 {
-    "campaign": false,
-    "description": "Get the supporter with a 30% discount for both 3 months and lifetime plans until 10 Oct.",
+    "campaign": true,
+    "description": "Get the supporter plan with a 30% new year discount for lifetime plans until 31 December.",
     "start": 24,
     "end": 37,
     "color": "#91AAE8",
@@ -20,7 +20,7 @@
         {
             "duration": "Lifetime",
             "amount": "10,000 KS",
-            "discountAmount": "",
+            "discountAmount": "7000",
             "type": "KBZPay/Wave Pay"
         }
     ]
