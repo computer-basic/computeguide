@@ -13,19 +13,19 @@
     "icon": "",
     "supporterGuide": "https://myanmarcomputerbasic.blogspot.com/2021/12/supporter.html",
     "campaign": true,
-    "appCampaign": true,
+    "appCampaign": false,
     "campaignUrl": "https://t.me/myanmarcomputerbasic",
-    "campaignPoster": "https://i.imgur.com/2R6hCYI.png",
+    "campaignPoster": "https://i.imgur.com/NaqzecL.png",
     "keyboard": "https://www.mediafire.com/file/et6yhjmv01e7vzu/NZ_Myanmar_Keyboard.apk/file",
     "regions": [
         "Myanmar"
     ],
-    "rShow":true,
-    "rIcon":"https://i.imgur.com/VdxFPWS.png",
-    "gIcon":"https://i.imgur.com/GQWKDD6.png",
+    "rShow": true,
+    "rIcon": "https://i.imgur.com/VdxFPWS.png",
+    "gIcon": "https://i.imgur.com/GQWKDD6.png",
     "rTitle": "Online Restricted",
     "gTitle": "Online Global",
     "rMessage": "Downloads and offline plays are restricted for you region (Myanmar). Watch video for detail explanation.",
     "gMessage": "Additional downloads and plays are added (VPN). Watch the video for a detailed explanation.",
     "userTypeVideo": "https://sendvid.com/b8g5emhm"
-  }
+}
