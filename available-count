@@ -66,8 +66,76 @@
             ]
         },
         {
-            "icon": "https://i.imgur.com/9aCnML5.png",
-            "title": "Supporter",
+            "icon": "https://i.imgur.com/lPk7Ukm.png",
+            "title": "Supporter 1 Month",
+            "features": [
+                {
+                    "title": "Download Video",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Play Offline",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Play Online",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Work Offline",
+                    "description": "true"
+                },
+                {
+                    "title": "No Ads",
+                    "description": "true"
+                },
+                {
+                    "title": "Exculsive features",
+                    "description": "true"
+                },
+                {
+                    "title": "Support Team",
+                    "description": "true"
+                }
+            ]
+        },
+        {
+            "icon": "https://i.imgur.com/8FyVKbt.png",
+            "title": "Supporter 3 Month",
+            "features": [
+                {
+                    "title": "Download Video",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Play Offline",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Play Online",
+                    "description": "Unlimited"
+                },
+                {
+                    "title": "Work Offline",
+                    "description": "true"
+                },
+                {
+                    "title": "No Ads",
+                    "description": "true"
+                },
+                {
+                    "title": "Exculsive features",
+                    "description": "true"
+                },
+                {
+                    "title": "Support Team",
+                    "description": "true"
+                }
+            ]
+        },
+        {
+            "icon": "https://i.imgur.com/7o4aEdZ.png",
+            "title": "Supporter Life Time",
             "features": [
                 {
                     "title": "Download Video",
