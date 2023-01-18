@@ -22,7 +22,7 @@
         "title": "Microsoft Word",
         "server": "youtub",
         "course": "3 courses",
-        "isNewUpdated": false,
+        "isNewUpdated": true,
         "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
     },
@@ -31,7 +31,7 @@
         "title": "Microsoft Excel",
         "server": "youtub",
         "course": "2 courses",
-        "isNewUpdated": false,
+        "isNewUpdated": true,
         "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/cOtAvFa.png"
     },
