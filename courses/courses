@@ -40,6 +40,8 @@
         "title": "Microsoft PowerPoint",
         "server": "youtub",
         "course": "3 courses",
+        "isNewUpdated": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/7tU0XjV.png"
     },
     {
@@ -92,6 +94,8 @@
         "title": "Sketchware",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/jWIJQFu.png"
     },
     {
@@ -108,6 +112,8 @@
         "title": "HTML",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/at4aoSL.png"
     },
     {
