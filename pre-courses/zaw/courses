@@ -4,6 +4,8 @@
         "title": "Computer Basic",
         "server": "youtub",
         "course": "1 course",
+        "isNewUpdated": false,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/Mm25NHG.png"
     },
     {
@@ -11,6 +13,8 @@
         "title": "Computer Knowledge",
         "server": "youtub",
         "course": "2 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/aqpUxj0.png"
     },
     {
@@ -18,6 +22,8 @@
         "title": "Microsoft Word",
         "server": "youtub",
         "course": "3 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
     },
     {
@@ -25,6 +31,8 @@
         "title": "Microsoft Excel",
         "server": "youtub",
         "course": "2 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/cOtAvFa.png"
     },
     {
@@ -32,6 +40,8 @@
         "title": "Microsoft PowerPoint",
         "server": "youtub",
         "course": "3 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/7tU0XjV.png"
     },
     {
@@ -39,6 +49,8 @@
         "title": "Adobe Photoshop",
         "server": "youtub",
         "course": "3 courses",
+        "isNewUpdated": true,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/CFIrhBo.png"
     },
     {
@@ -46,6 +58,8 @@
         "title": "Adobe Premier Pro",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/eX0GGCl.jpg"
     },
     {
@@ -53,6 +67,8 @@
         "title": "Adobe Illustrator",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/lM1kG7G.png"
     },
     {
@@ -60,6 +76,8 @@
         "title": "Adobe Pagemaker",
         "server": "youtub",
         "course": "2 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/wQR4kCA.jpg"
     },
     {
@@ -67,6 +85,8 @@
         "title": "AutoCAD",
         "server": "youtub",
         "course": "3 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/inDO4kO.png"
     },
     {
@@ -74,6 +94,8 @@
         "title": "Sketchware",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/jWIJQFu.png"
     },
     {
@@ -81,6 +103,8 @@
         "title": "SketchUp",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/fv8Uwky.png"
     },
     {
@@ -88,6 +112,8 @@
         "title": "HTML",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/at4aoSL.png"
     },
     {
@@ -95,6 +121,8 @@
         "title": "PHP",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/Gx2Ishb.png"
     },
     {
@@ -102,6 +130,8 @@
         "title": "Python",
         "server": "youtub",
         "course": "1 courses",
+        "isNewUpdated": false,
+        "isRequiredGlobal": true,
         "thumbnail": "https://i.imgur.com/XLw84xZ.png"
     }
 ]
