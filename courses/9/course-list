@@ -3,18 +3,21 @@
         "id": 1,
         "courseId": 9,
         "lessons": 44,
-        "title": "AutoCAD (Basic)"
+        "title": "AutoCAD (Basic)",
+        "need_sup": true
     },
     {
         "id": 2,
         "courseId": 9,
         "lessons": 7,
-        "title": "AutoCAD 2021"
+        "title": "AutoCAD 2021",
+        "need_sup": true
     },
     {
         "id": 3,
         "courseId": 9,
         "lessons": 3,
-        "title": "AutoCAD (Advance)"
+        "title": "AutoCAD (Advance)",
+        "need_sup": true
     }
 ]
