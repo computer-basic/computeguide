@@ -3,12 +3,14 @@
         "id": 1,
         "courseId": 8,
         "lessons": 15,
-        "title": "Adobe Pagemaker 1"
+        "title": "Adobe Pagemaker 1",
+        "need_sup": false
     },
     {
         "id": 2,
         "courseId": 8,
         "lessons": 11,
-        "title": "Adobe Pagemaker 2"
+        "title": "Adobe Pagemaker 2",
+        "need_sup": false
     }
 ]
