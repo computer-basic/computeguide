@@ -3,6 +3,7 @@
         "id": 1,
         "courseId": 12,
         "lessons": 16,
-        "title": "SketchUp"
+        "title": "SketchUp",
+        "need_sup": true
     }
 ]
