@@ -3,18 +3,21 @@
         "id": 1,
         "courseId": 3,
         "lessons": 28,
-        "title": "Microsoft Word 1"
+        "title": "Microsoft Word 1",
+        "need_sup": false
     },
     {
         "id": 2,
         "courseId": 3,
         "lessons": 14,
-        "title": "Microsoft Word 2"
+        "title": "Microsoft Word 2",
+        "need_sup": false
     },
     {
         "id": 3,
         "courseId": 3,
         "lessons": 40,
-        "title": "Microsoft Word 3"
+        "title": "Microsoft Word 3",
+        "need_sup": false
     }
 ]
