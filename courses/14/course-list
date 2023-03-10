@@ -3,6 +3,7 @@
         "id": 1,
         "courseId": 14,
         "lessons": 12,
-        "title": "PHP"
+        "title": "PHP",
+        "need_sup": true
     }
 ]
