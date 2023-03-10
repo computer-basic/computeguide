@@ -3,6 +3,7 @@
         "id": 1,
         "courseId": 10,
         "lessons": 70,
-        "title": "Sketchware"
+        "title": "Sketchware",
+        "need_sup": true
     }
 ]
