@@ -3,18 +3,21 @@
         "id": 1,
         "courseId": 6,
         "lessons": 26,
-        "title": "Photoshop 1"
+        "title": "Photoshop 1",
+        "need_sup": false
     },
     {
         "id": 2,
         "courseId": 6,
         "lessons": 11,
-        "title": "Photoshop 2"
+        "title": "Photoshop 2",
+        "need_sup": false
     },
     {
         "id": 3,
         "courseId": 6,
         "lessons": 17,
-        "title": "Photoshop 3"
+        "title": "Photoshop 3",
+        "need_sup": false
     }
 ]
