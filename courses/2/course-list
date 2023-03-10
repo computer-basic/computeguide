@@ -3,12 +3,14 @@
         "id": 2,
         "courseId": 2,
         "lessons": 34,
-        "title": "Beginner Questions"
+        "title": "Beginner Questions",
+        "need_sup": false
     },
     {
         "id": 1,
         "courseId": 2,
         "lessons": 76,
-        "title": "Computer Knowledge"
+        "title": "Computer Knowledge",
+        "need_sup": false
     }
 ]
