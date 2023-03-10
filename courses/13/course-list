@@ -3,6 +3,7 @@
         "id": 1,
         "courseId": 13,
         "lessons": 8,
-        "title": "HTML"
+        "title": "HTML",
+        "need_sup": true
     }
 ]
