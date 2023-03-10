@@ -23,7 +23,7 @@
         "server": "youtub",
         "course": "3 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
     },
     {
@@ -32,7 +32,7 @@
         "server": "youtub",
         "course": "2 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/cOtAvFa.png"
     },
     {
@@ -50,7 +50,7 @@
         "server": "youtub",
         "course": "3 courses",
         "isNewUpdated": true,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/CFIrhBo.png"
     },
     {
@@ -59,7 +59,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/eX0GGCl.jpg"
     },
     {
@@ -68,7 +68,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/lM1kG7G.png"
     },
     {
@@ -77,7 +77,7 @@
         "server": "youtub",
         "course": "2 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/wQR4kCA.jpg"
     },
     {
@@ -86,7 +86,7 @@
         "server": "youtub",
         "course": "3 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/inDO4kO.png"
     },
     {
@@ -95,7 +95,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/jWIJQFu.png"
     },
     {
@@ -104,7 +104,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/fv8Uwky.png"
     },
     {
@@ -113,7 +113,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/at4aoSL.png"
     },
     {
@@ -122,7 +122,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/Gx2Ishb.png"
     },
     {
@@ -131,7 +131,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/XLw84xZ.png"
     }
 ]
