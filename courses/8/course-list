@@ -4,7 +4,7 @@
         "courseId": 8,
         "lessons": 15,
         "title": "Adobe Pagemaker 1",
-        "need_sup": false
+        "need_sup": true
     },
     {
         "id": 2,
