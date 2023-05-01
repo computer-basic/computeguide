@@ -1,14 +1,5 @@
 [
     {
-        "image": "https://i.imgur.com/Etb2qBY.png",
-        "type": 3,
-        "web": "",
-        "video": "",
-        "bookUrl": "",
-        "bookName": "",
-        "bookSize": ""
-    },
-    {
         "image": "https://i.imgur.com/F8b2Rlz.png",
         "type": 1,
         "web": "https://t.me/myanmarcomputerbasic",
@@ -18,37 +9,10 @@
         "bookSize": ""
     },
     {
-        "image": "https://i.imgur.com/lYCl2Tj.jpg",
-        "type": 6,
-        "web": "",
-        "video": "",
-        "bookUrl": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/bitcoin.pdf",
-        "bookName": "Bitcoin",
-        "bookSize": "5.61 MB"
-    },
-    {
         "image": "https://i.imgur.com/CdQwRRv.jpg",
         "type": 2,
         "web": "",
         "video": "https://sendvid.com/8cbkfnrr",
-        "bookUrl": "",
-        "bookName": "",
-        "bookSize": ""
-    },
-    {
-        "image": "https://i.imgur.com/RpuHVx7.jpg",
-        "type": 1,
-        "web": "",
-        "video": "",
-        "bookUrl": "",
-        "bookName": "",
-        "bookSize": ""
-    },
-    {
-        "image": "https://i.imgur.com/RpuHVx7.jpg",
-        "type": 1,
-        "web": "",
-        "video": "",
         "bookUrl": "",
         "bookName": "",
         "bookSize": ""
@@ -65,15 +29,6 @@
     {
         "image": "https://i.imgur.com/qTaZuVR.jpg",
         "type": 5,
-        "web": "",
-        "video": "",
-        "bookUrl": "",
-        "bookName": "",
-        "bookSize": ""
-    },
-    {
-        "image": "https://i.imgur.com/qTaZuVR.jpg",
-        "type": 10,
         "web": "",
         "video": "",
         "bookUrl": "",
