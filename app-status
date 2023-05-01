@@ -20,7 +20,7 @@
     "regions": [
         "Myanmar"
     ],
-    "rShow": true,
+    "rShow": false,
     "rIcon": "https://i.imgur.com/VdxFPWS.png",
     "gIcon": "https://i.imgur.com/GQWKDD6.png",
     "rTitle": "Online Restricted",
