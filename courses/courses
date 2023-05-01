@@ -131,7 +131,7 @@
         "server": "youtub",
         "course": "1 courses",
         "isNewUpdated": false,
-        "isRequiredGlobal": true,
+        "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/XLw84xZ.png"
     }
 ]
