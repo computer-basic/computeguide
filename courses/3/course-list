@@ -4,7 +4,7 @@
         "courseId": 3,
         "lessons": 28,
         "title": "Microsoft Word 1",
-        "need_sup": false
+        "need_sup": true
     },
     {
         "id": 2,
@@ -18,6 +18,6 @@
         "courseId": 3,
         "lessons": 40,
         "title": "Microsoft Word 3",
-        "need_sup": false
+        "need_sup": true
     }
 ]
