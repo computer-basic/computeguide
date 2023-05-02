@@ -4,6 +4,6 @@
         "courseId": 16,
         "lessons": 10,
         "title": "Python",
-        "need_sup": true
+        "need_sup": false
     }
 ]
