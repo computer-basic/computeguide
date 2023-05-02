@@ -4,6 +4,6 @@
         "courseId": 7,
         "lessons": 7,
         "title": "Adobe Premier Pro",
-        "need_sup": true
+        "need_sup": false
     }
 ]
