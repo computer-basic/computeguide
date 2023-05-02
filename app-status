@@ -1,15 +1,15 @@
 {
     "title": "New Update!",
-    "message": "Please update the new version for bug fixes.",
+    "message": "Please update the new version for new features and bug fixes.",
     "negative": "Cancel",
     "positive": "Update",
     "show": true,
-    "force": false,
+    "force": true,
     "supporter": true,
     "type": "update",
     "url": "https://play.google.com/store/apps/details?id=com.computeguide",
-    "directUrl": "https://www.mediafire.com/file/55d3mysk2dorkvo/MM_Computer_Guide_1.4.1.apk/file",
-    "version": "1.4.1",
+    "directUrl": "https://www.mediafire.com/file/34zi3c6g4ysi0hu/MM_Computer_Guide_1.5.apk/file",
+    "version": "1.5",
     "icon": "",
     "supporterGuide": "https://myanmarcomputerbasic.blogspot.com/2021/12/supporter.html",
     "campaign": true,
@@ -27,6 +27,6 @@
     "gTitle": "Online Global",
     "rMessage": "Downloads and offline plays are restricted for you region (Myanmar). Watch video for detail explanation.",
     "gMessage": "Additional downloads and plays are added (VPN). Watch the video for a detailed explanation.",
-    "rcMessage":"Please connect vpn to watch videos",
+    "rcMessage": "Please connect vpn to watch videos",
     "userTypeVideo": "https://sendvid.com/b8g5emhm"
 }
