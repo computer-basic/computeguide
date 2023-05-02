@@ -4,6 +4,6 @@
         "courseId": 14,
         "lessons": 12,
         "title": "PHP",
-        "need_sup": true
+        "need_sup": false
     }
 ]
