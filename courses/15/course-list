@@ -4,6 +4,6 @@
         "courseId": 15,
         "lessons": 4,
         "title": "Adobe Illustrator",
-        "need_sup": true
+        "need_sup": false
     }
 ]
