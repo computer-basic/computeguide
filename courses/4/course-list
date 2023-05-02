@@ -4,7 +4,7 @@
         "courseId": 4,
         "lessons": 50,
         "title": "Microsoft Excel 1",
-        "need_sup": false
+        "need_sup": true
     },
     {
         "id": 2,
