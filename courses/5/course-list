@@ -11,7 +11,7 @@
         "courseId": 5,
         "lessons": 20,
         "title": "Microsoft PowerPoint 2",
-        "need_sup": false
+        "need_sup": true
     },
     {
         "id": 3,
