@@ -1,5 +1,14 @@
 [
     {
+        "image": "https://i.imgur.com/jLEWoYH.png",
+        "type": 6,
+        "web": "",
+        "video": "",
+        "bookUrl": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Excel%20Advance.pdf",
+        "bookName": "Excel Advance",
+        "bookSize": "15.2 MB"
+    },
+    {
         "image": "https://i.imgur.com/pZptTWg.png",
         "type": 1,
         "web": "https://mmcomputerguide.blogspot.com/2023/05/mm-computer-guide-15.html",
