@@ -1,5 +1,10 @@
 [
     {
+        "version": "v1.5",
+        "date": "May 2, 2023",
+        "changes": "\u2022 New Home Screen UI\n\u2022 Premium Screen for Supporters\n\u2022 Improved Navigation for Supporters\n\u2022 Alphabetical Order in Typing"
+    },
+    {
         "version": "v1.4.1",
         "date": "May 31, 2022",
         "changes": "\u2022 Fixed issue during offline mode\n\u2022 Fixed issue on Home screen\n\u2022 Fixed minor bugs"
