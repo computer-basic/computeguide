@@ -30,8 +30,8 @@
         "id": 4,
         "title": "Microsoft Excel",
         "server": "youtub",
-        "course": "2 courses",
-        "isNewUpdated": false,
+        "course": "3 courses",
+        "isNewUpdated": true,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/cOtAvFa.png"
     },
