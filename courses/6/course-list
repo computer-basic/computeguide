@@ -25,6 +25,6 @@
         "courseId": 6,
         "lessons": 45,
         "title": "Photoshop 2020",
-        "need_sup": false
+        "need_sup": true
     }
 ]
