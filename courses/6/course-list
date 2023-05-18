@@ -4,7 +4,7 @@
         "courseId": 6,
         "lessons": 26,
         "title": "Photoshop 1",
-        "need_sup": false
+        "need_sup": true
     },
     {
         "id": 2,
