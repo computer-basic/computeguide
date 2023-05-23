@@ -4,6 +4,6 @@
         "courseId": 10,
         "lessons": 70,
         "title": "Sketchware",
-        "need_sup": true
+        "need_sup": false
     }
 ]
