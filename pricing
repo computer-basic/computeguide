@@ -13,15 +13,15 @@
         },
         {
             "duration": "3 Months",
-            "amount": "6000 KS",
+            "amount": "6000 KS/100 THB",
             "discountAmount": "",
-            "type": "KBZPay/Wave Pay"
+            "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "Lifetime",
-            "amount": "12,000 KS",
+            "amount": "12,000 KS/200 THB",
             "discountAmount": "",
-            "type": "KBZPay/Wave Pay"
+            "type": "KBZPay/Wave Pay/Thai Banks"
         }
     ]
 }
