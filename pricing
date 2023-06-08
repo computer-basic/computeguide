@@ -7,7 +7,7 @@
     "price": [
         {
             "duration": "1 Month",
-            "amount": "2000 KS",
+            "amount": "3000 KS",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay"
         },
