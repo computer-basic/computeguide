@@ -7,7 +7,7 @@
   },
   {
     "name": "Testing LV2",
-    "expireDate": "10 Jun, 2023",
+    "expireDate": "10 Dec, 2023",
     "level": 2,
     "accessKey": "bGVlc2h3ZTJ1bmtub3duZ2VuZXJpY194ODY="
   },
@@ -534,34 +534,10 @@
     "accessKey": "YXVuZ2NoYW50aGFya2hhbXBhdEBnbWFpbC5jb21URUNOT01PQklMRUxJTUlURURURUNOTy1DSDdu"
   },
   {
-    "name": "Kyaw Thet",
-    "expireDate": "9 Jun, 2023",
-    "level": 1,
-    "accessKey": "MDk"
-  },
-  {
-    "name": "Aye Chan Nge",
-    "expireDate": "9 Jun, 2023",
-    "level": 1,
-    "accessKey": "MDk2"
-  },
-  {
     "name": "wno",
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0NDExMzM5NzFYaWFvbWlkaXBwZXI="
-  },
-  {
-    "name": "May Than Sin",
-    "expireDate": "10 Jun, 2023",
-    "level": 1,
-    "accessKey": "bWF5dGhhbnN"
-  },
-  {
-    "name": "La Min Myat Mon",
-    "expireDate": "10 Jun, 2023",
-    "level": 1,
-    "accessKey": "MDk0NDcxNz"
   },
   {
     "name": "Nan San Shwe Htay",
@@ -1174,5 +1150,11 @@
     "expireDate": "11 Jul, 2023",
     "level": 1,
     "accessKey": "MDk0MDIwMTUzNzlYaWFvbWlzcGVz"
+  },
+  {
+    "name": "Zin Me Ko",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "emlubWlrbzAyOEBnbWFpbC5jb21YaWFvbWljYW1lbGxpYW4="
   }
 ]
