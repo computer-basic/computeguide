@@ -36,83 +36,83 @@
     "normalUse": [
         {
             "rank": 1,
-            "cpu": "Core i3",
+            "cpu": "Intel Core i3 or AMD Ryzen 3",
             "memory": "4 GB",
-            "gpu": "Optional",
+            "gpu": "Integrated graphics",
             "brand": "Acer, ASUS, Dell, HP, Lenovo",
-            "storage": "256 GB (SSD Recommend)",
-            "recommendedCpu": "Core i5",
-            "recommendedMemory": "8 GB",
-            "recommendedGpu": "Optional",
+            "storage": "256 GB SSD",
+            "recommendedCpu": "Intel Core i5 or AMD Ryzen 5",
+            "recommendedMemory": "8 GB or higher",
+            "recommendedGpu": "Integrated graphics or entry-level dedicated graphics card",
             "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo",
-            "recommendedStorage": "512 GB (SSD Recommend)"
+            "recommendedStorage": "512 GB SSD or higher"
         },
         {
             "rank": 2,
-            "cpu": "Core i5",
+            "cpu": "Intel Core i5 or AMD Ryzen 5",
             "memory": "8 GB",
-            "gpu": "Required for Game Dev",
+            "gpu": "Integrated graphics or entry-level dedicated graphics card",
             "brand": "Apple, Window Computer",
             "storage": "256 GB SSD",
-            "recommendedCpu": "Core i7",
-            "recommendedMemory": "16 GB",
-            "recommendedGpu": "Required for Game Dev",
+            "recommendedCpu": "Intel Core i7 or AMD Ryzen 7",
+            "recommendedMemory": "16 GB or higher",
+            "recommendedGpu": "Integrated graphics or entry-level dedicated graphics card",
             "recommendedBrand": "Apple, Window Computer",
-            "recommendedStorage": "512 GB SSD"
+            "recommendedStorage": "512 GB SSD or higher"
         },
         {
             "rank": 3,
-            "cpu": "Core i5",
-            "memory": "Ram 8 GB",
-            "gpu": "Required",
+            "cpu": "Intel Core i5 or AMD Ryzen 5",
+            "memory": "16 GB",
+            "gpu": "Entry-level dedicated graphics card (e.g., NVIDIA GeForce GTX 1650)",
             "brand": "Desktop, ASUS ROG, MSI, Apple",
             "storage": "512 GB SSD",
-            "recommendedCpu": "Core i7",
-            "recommendedMemory": "Ram 4 GB",
-            "recommendedGpu": "Required",
+            "recommendedCpu": "Intel Core i7 or AMD Ryzen 7",
+            "recommendedMemory": "16 GB or higher",
+            "recommendedGpu": "Mid-range to high-end dedicated graphics card (e.g., NVIDIA GeForce RTX 3060)",
             "recommendedBrand": "Desktop, ASUS ROG, MSI, Apple",
-            "recommendedStorage": "1 TB SSD"
+            "recommendedStorage": "1 TB SSD or higher"
         }
     ],
     "professionalUse": [
         {
             "rank": 1,
-            "cpu": "Core i5",
+            "cpu": "Intel Core i5 or AMD Ryzen 5",
             "memory": "8 GB",
-            "gpu": "Optional",
+            "gpu": "Entry-level dedicated graphics card (e.g., NVIDIA GeForce GTX 1650)",
             "brand": "Acer, ASUS, Dell, HP, Lenovo",
             "storage": "512 GB SSD",
-            "recommendedCpu": "Core i7",
-            "recommendedMemory": "16 GB",
-            "recommendedGpu": "Optional",
+            "recommendedCpu": "Intel Core i7 or AMD Ryzen 7",
+            "recommendedMemory": "16 GB or higher",
+            "recommendedGpu": "Mid-range to high-end dedicated graphics card (e.g., NVIDIA GeForce RTX 3060)",
             "recommendedBrand": "Acer, ASUS, Dell, HP, Lenovo",
-            "recommendedStorage": "1 TB SSD"
+            "recommendedStorage": "1 TB SSD or higher"
         },
         {
             "rank": 2,
-            "cpu": "Core i7",
+            "cpu": "Intel Core i7 or AMD Ryzen 7",
             "memory": "16 GB",
-            "gpu": "Required for Game Dev",
+            "gpu": "Mid-range dedicated graphics card (e.g., NVIDIA GeForce GTX 1660 Ti)",
             "brand": "Apple, Window Computer",
             "storage": "512 GB SSD",
-            "recommendedCpu": "Core i9",
-            "recommendedMemory": "32 GB",
-            "recommendedGpu": "Required for Game Dev",
+            "recommendedCpu": "Intel Core i9 or AMD Ryzen 9",
+            "recommendedMemory": "32 GB or higher",
+            "recommendedGpu": "High-end dedicated graphics card (e.g., NVIDIA GeForce RTX 3080)",
             "recommendedBrand": "Apple, Window Computer",
-            "recommendedStorage": "1 TB SSD"
+            "recommendedStorage": "1 TB SSD or higher"
         },
         {
             "rank": 3,
-            "cpu": "Core i7",
-            "memory": "16 GB",
-            "gpu": "Required",
+            "cpu": "Intel Core i7 or AMD Ryzen 7",
+            "memory": "32 GB",
+            "gpu": "Mid-range to high-end dedicated graphics card (e.g., NVIDIA GeForce RTX 3060)",
             "brand": "Desktop, ASUS ROG, MSI, Apple",
             "storage": "512 GB SSD",
-            "recommendedCpu": "Core i9",
-            "recommendedMemory": "32 GB",
-            "recommendedGpu": "Required",
+            "recommendedCpu": "Intel Core i9 or AMD Ryzen 9",
+            "recommendedMemory": "32 GB or higher",
+            "recommendedGpu": "High-end dedicated graphics card (e.g., NVIDIA GeForce RTX 3080)",
             "recommendedBrand": "Desktop, ASUS ROG, MSI, Apple",
-            "recommendedStorage": "1 TB SSD"
+            "recommendedStorage": "1 TB SSD or higher"
         }
     ]
 }
