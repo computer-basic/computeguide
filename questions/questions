@@ -1,17 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Window 10",
+        "title": "Computer Problems",
         "icon": "https://w7.pngwing.com/pngs/399/413/png-transparent-microsoft-start-menu-windows-10-operating-systems-microsoft-blue-angle-text.png"
     },
     {
         "id": 2,
-        "title": "Mac OS",
-        "icon": "https://i.imgur.com/7mCE7Zz.png"
-    },
-    {
-        "id": 3,
-        "title": "Computer Knowledge",
+        "title": "MM Computer Guide",
         "icon": "https://i.imgur.com/7mCE7Zz.png"
     }
 ]
