@@ -4,6 +4,6 @@
     "courseId": 1,
     "lessons": 13,
     "title": "Computer Basic",
-    "need_sup": false
+    "need_sup": true
   }
 ]
