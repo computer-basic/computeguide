@@ -4,11 +4,19 @@
     "answer": [
       {
         "photo": "",
-        "text": "First, check if the power cable is properly plugged into the computer and the electrical outlet. If it is connected, try a different power outlet or power cable."
+        "text": "First, check if the power cable is properly plugged into the computer and the electrical outlet. If it is connected, try a different power outlet or power cable.",
+        "url": "https://example.com/power_cable_url",
+        "urlDesc": "Power Cable Troubleshooting",
+        "tutorial": "",
+        "tutorialDesc": ""
       },
       {
         "photo": "https://example.com/power_cable_image.jpg",
-        "text": "If the problem persists, it could be a hardware issue, such as a faulty power supply or motherboard. In that case, it's recommended to consult a professional technician for further assistance."
+        "text": "If the problem persists, it could be a hardware issue, such as a faulty power supply or motherboard. In that case, it's recommended to consult a professional technician for further assistance.",
+        "url": "",
+        "urlDesc": "",
+        "tutorial": "https://example.com/power_cable_tutorial",
+        "tutorialDesc": "Power Cable Replacement Tutorial"
       }
     ],
     "downloadUrl": "",
@@ -19,15 +27,27 @@
     "answer": [
       {
         "photo": "",
-        "text": "There are several steps you can take to speed up a slow computer:\n\n1. Remove unnecessary programs and files to free up disk space.\n2. Run a disk cleanup utility to delete temporary files."
+        "text": "There are several steps you can take to speed up a slow computer:\n\n1. Remove unnecessary programs and files to free up disk space.\n2. Run a disk cleanup utility to delete temporary files.",
+        "url": "https://example.com/speed_up_computer_url",
+        "urlDesc": "Speed Up Computer Guide",
+        "tutorial": "",
+        "tutorialDesc": ""
       },
       {
         "photo": "https://example.com/disk_cleanup_image.jpg",
-        "text": "3. Disable startup programs that are not needed.\n4. Upgrade your computer's RAM.\n5. Scan for malware and viruses."
+        "text": "3. Disable startup programs that are not needed.\n4. Upgrade your computer's RAM.\n5. Scan for malware and viruses.",
+        "url": "",
+        "urlDesc": "",
+        "tutorial": "https://example.com/speed_up_computer_tutorial",
+        "tutorialDesc": "Computer Speed Optimization Tutorial"
       },
       {
         "photo": "https://example.com/malware_scan_image.jpg",
-        "text": "6. Defragment your hard drive.\n7. Consider upgrading to a solid-state drive (SSD) for faster performance.\n\nKeep in mind that the specific steps may vary depending on your operating system and computer configuration."
+        "text": "6. Defragment your hard drive.\n7. Consider upgrading to a solid-state drive (SSD) for faster performance.\n\nKeep in mind that the specific steps may vary depending on your operating system and computer configuration.",
+        "url": "https://example.com/disk_defragmentation_url",
+        "urlDesc": "Disk Defragmentation Guide",
+        "tutorial": "",
+        "tutorialDesc": ""
       }
     ],
     "downloadUrl": "",
@@ -38,144 +58,42 @@
     "answer": [
       {
         "photo": "",
-        "text": "If you have accidentally deleted a file, you can try the following methods to recover it:\n\n1. Check the Recycle Bin (Windows) or Trash (Mac) to see if the file is there and restore it."
+        "text": "If you have accidentally deleted a file, you can try the following methods to recover it:\n\n1. Check the Recycle Bin (Windows) or Trash (Mac) to see if the file is there and restore it.",
+        "url": "",
+        "urlDesc": "",
+        "tutorial": "https://example.com/file_recovery_tutorial",
+        "tutorialDesc": "File Recovery Step-by-Step Tutorial"
       },
       {
         "photo": "https://example.com/recycle_bin_image.jpg",
-        "text": "2. Use file recovery software like Recuva (Windows) or Disk Drill (Mac) to scan for and recover deleted files.\n3. If you have a backup system in place, restore the file from your backup.\n\nIt's important to note that the chances of successful file recovery may vary depending on the specific circumstances and actions taken after the file was deleted."
+        "text": "2. Use file recovery software like Recuva (Windows) or Disk Drill (Mac) to scan for and recover deleted files.\n3. If you have a backup system in place, restore the file from your backup.\n\nIt's important to note that the chances of successful file recovery may vary depending on various factors, such as how long ago the file was deleted and whether it has been overwritten.",
+        "url": "https://example.com/file_recovery_software",
+        "urlDesc": "File Recovery Software Recommendations",
+        "tutorial": "",
+        "tutorialDesc": ""
       }
     ],
     "downloadUrl": "",
     "tutorialUrl": ""
   },
   {
-    "question": "My computer is displaying a blue screen error. What should I do?",
+    "question": "How do I update my operating system?",
     "answer": [
       {
         "photo": "",
-        "text": "A blue screen error, also known as a BSOD (Blue Screen of Death), typically indicates a serious system error. Here's what you can do:\n\n1. Restart your computer. Sometimes the issue may be temporary."
+        "text": "To update your operating system, follow these general steps:\n\n1. For Windows: Click on the Start button, go to Settings > Update & Security > Windows Update. Click on 'Check for updates' and install any available updates.\n\nFor Mac: Click on the Apple menu, go to System Preferences > Software Update. If updates are available, click on 'Update Now' to install them.",
+        "url": "",
+        "urlDesc": "",
+        "tutorial": "",
+        "tutorialDesc": ""
       },
       {
-        "photo": "https://example.com/blue_screen_error_image.jpg",
-        "text": "2. Note down the error message displayed on the blue screen. It can provide clues about the problem.\n3. Search for the error message online to find possible solutions or troubleshooting steps."
-      },
-      {
-        "photo": "https://example.com/error_message_search_image.jpg",
-        "text": "4. If the problem persists, it's recommended to consult a professional technician for further assistance, as it could be caused by faulty hardware or drivers."
-      }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
-  },
-  {
-    "question": "How can I connect my computer to a Wi-Fi network?",
-    "answer": [
-      {
-        "photo": "",
-        "text": "To connect your computer to a Wi-Fi network, follow these steps:\n\n1. Click on the network icon in the system tray (Windows) or menu bar (Mac).\n2. Select the Wi-Fi network you want to connect to from the list of available networks."
-      },
-      {
-        "photo": "https://example.com/wifi_network_icon_image.jpg",
-        "text": "3. If the network is secured, enter the password when prompted.\n4. Wait for the computer to establish a connection to the Wi-Fi network.\n\nOnce connected, you should be able to access the internet and other network resources."
-      }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
-  },
-  {
-    "question": "How do I remove malware from my computer?",
-    "answer": [
-      {
-        "photo": "",
-        "text": "To remove malware from your computer, you can follow these general steps:\n\n1. Update your antivirus software and run a full system scan. Remove any threats detected."
-      },
-      {
-        "photo": "https://example.com/antivirus_scan_image.jpg",
-        "text": "2. If your antivirus software cannot remove the malware, try using dedicated malware removal tools like Malwarebytes or Windows Defender Offline."
-      },
-      {
-        "photo": "https://example.com/malware_removal_tools_image.jpg",
-        "text": "3. Disconnect your computer from the internet to prevent further infection.\n4. If the malware persists or causes significant damage, it's recommended to seek assistance from a professional technician or a specialized malware removal service."
-      }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
-  },
-  {
-    "question": "My computer is not recognizing USB devices. How can I fix it?",
-    "answer": [
-      {
-        "photo": "",
-        "text": "If your computer is not recognizing USB devices, you can try the following solutions:\n\n1. Try connecting the USB device to a different USB port on your computer."
-      },
-      {
-        "photo": "https://example.com/usb_device_connection_image.jpg",
-        "text": "2. Restart your computer and see if it detects the USB device upon startup.\n3. Update the USB drivers by going to the manufacturer's website or using Windows Update."
-      },
-      {
-        "photo": "https://example.com/usb_driver_update_image.jpg",
-        "text": "4. Check if the USB device works on another computer to rule out a hardware issue.\n5. If none of the above steps work, there might be a problem with your computer's USB controller, and it's recommended to consult a professional technician."
-      }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
-  },
-  {
-    "question": "How do I fix a frozen computer?",
-    "answer": [
-      {
-        "photo": "",
-        "text": "If your computer freezes and becomes unresponsive, you can try these steps to fix it:\n\n1. Press Ctrl + Alt + Delete (Windows) or Command + Option + Escape (Mac) to open the task manager. End any unresponsive applications or processes."
-      },
-      {
-        "photo": "https://example.com/task_manager_image.jpg",
-        "text": "2. If that doesn't work, try a soft reset by pressing and holding the power button until the computer shuts down. Then turn it back on.\n3. Check for overheating by ensuring that the computer's vents are not blocked and the fans are running properly."
-      },
-      {
-        "photo": "https://example.com/computer_overheating_image.jpg",
-        "text": "4. Scan for malware and viruses, as they can cause system freezes.\n\nIf the problem persists, it might be a hardware issue, and you should seek professional assistance."
-      }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
-  },
-  {
-    "question": "How can I update my computer's drivers?",
-    "answer": [
-      {
-        "photo": "",
-        "text": "To update your computer's drivers, you can follow these steps:\n\n1. Identify the specific hardware component for which you want to update the driver (e.g., graphics card, sound card)."
-      },
-      {
-        "photo": "https://example.com/driver_update_image.jpg",
-        "text": "2. Visit the manufacturer's website for the hardware component and look for the latest driver downloads.\n3. Download the appropriate driver for your operating system."
-      },
-      {
-        "photo": "https://example.com/driver_download_image.jpg",
-        "text": "4. Run the downloaded driver installer and follow the on-screen instructions.\n\nAlternatively, you can use driver update software like Driver Booster or Driver Easy to automate the process. However, be cautious and download drivers only from trusted sources."
-      }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
-  },
-  {
-    "question": "My computer is running slow after installing a new program. What should I do?",
-    "answer": [
-      {
-        "photo": "",
-        "text": "If your computer is running slow after installing a new program, you can try the following steps:\n\n1. Uninstall the recently installed program and see if the performance improves."
-      },
-      {
-        "photo": "https://example.com/program_uninstall_image.jpg",
-        "text": "2. Check if the program is running in the background and consuming excessive resources. If so, disable or adjust its settings to reduce its impact on system performance."
-      },
-      {
-        "photo": "https://example.com/background_programs_image.jpg",
-        "text": "3. Scan for malware, as the new program may have introduced unwanted software that is slowing down your computer."
-      },
-      {
-        "photo": "https://example.com/malware_scan_image.jpg",
-        "text": "4. If the problem persists, your computer's hardware might not meet the requirements of the new program. In that case, consider upgrading your hardware or using alternative software with lower system requirements."
+        "photo": "https://example.com/windows_update_image.jpg",
+        "text": "2. Make sure your computer is connected to the internet throughout the update process.\n3. Follow the on-screen instructions to download and install the updates.\n4. Once the updates are installed, restart your computer if prompted to complete the update process.\n\nIt's important to regularly update your operating system to ensure you have the latest security patches and features.",
+        "url": "https://example.com/operating_system_update",
+        "urlDesc": "Operating System Update Guide",
+        "tutorial": "",
+        "tutorialDesc": ""
       }
     ],
     "downloadUrl": "",
