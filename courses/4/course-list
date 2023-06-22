@@ -18,6 +18,6 @@
     "courseId": 4,
     "lessons": 24,
     "title": "Excel Advance",
-    "need_sup": false
+    "need_sup": true
   }
 ]
