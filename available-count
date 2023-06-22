@@ -1,9 +1,9 @@
 {
-    "minDownload": 3,
-    "maxDownload": 3,
-    "offlinePlay": 5,
-    "gMinDownload": 5,
-    "gMaxDownload": 7,
+    "minDownload": 1,
+    "maxDownload": 1,
+    "offlinePlay": 1,
+    "gMinDownload": 3,
+    "gMaxDownload": 3,
     "plan": [
         {
             "icon": "https://i.imgur.com/VdxFPWS.png",
