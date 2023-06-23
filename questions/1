@@ -18,9 +18,7 @@
         "tutorial": "https://example.com/power_cable_tutorial",
         "tutorialDesc": "Power Cable Replacement Tutorial"
       }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
+    ]
   },
   {
     "question": "How can I speed up my slow computer?",
@@ -49,9 +47,7 @@
         "tutorial": "",
         "tutorialDesc": ""
       }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
+    ]
   },
   {
     "question": "How do I recover a deleted file?",
@@ -72,9 +68,7 @@
         "tutorial": "",
         "tutorialDesc": ""
       }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
+    ]
   },
   {
     "question": "How do I update my operating system?",
@@ -95,8 +89,6 @@
         "tutorial": "",
         "tutorialDesc": ""
       }
-    ],
-    "downloadUrl": "",
-    "tutorialUrl": ""
+    ]
   }
 ]
