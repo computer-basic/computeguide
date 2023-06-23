@@ -33,7 +33,11 @@
       },
       {
         "photo": "https://example.com/wifi_network_icon_image.jpg",
-        "text": "၄။ ကြိုတင်ကူးလိုပါက ကွန်ပျူတာနှင့်ဆက်သွယ်ရန်အတွက် ပြန်လည်စိတ်ထိုးနိုင်ပါသည်။"
+        "text": "၄။ ကြိုတင်ကူးလိုပါက ကွန်ပျူတာနှင့်ဆက်သွယ်ရန်အတွက် ပြန်လည်စိတ်ထိုးနိုင်ပါသည်။",
+        "url": "https://example.com/power_cable_url",
+        "urlDesc": "Power Cable Troubleshooting",
+        "tutorial": "",
+        "tutorialDesc": ""
       }
     ]
   },
