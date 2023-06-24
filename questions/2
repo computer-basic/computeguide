@@ -1,115 +1,81 @@
 [
   {
-    "question": "ကွန်ပျူတာကို ပိတ်ရန်မလိုပါသေးတယ်။ ဘာလို့လဲဆိုတာလဲ။",
+    "question": "MM Computer Guide တွင်ပါဝင်သော functions အကြောင်း",
     "answer": [
-      {
-        "photo": "",
-        "text": "အကယ်၍ သင့်ကိုကွန်ပျူတာကို ပိတ်ရန်မလိုပါသေးသည့်အတိုင်း၊ ပြန်လည်မေးလ်ကွန်ပျူတာနှင့်အတူ ကြိုတင်ကူးနိုင်ပါသည်။ ဒါကြောင့်ပြန်လည်စိတ်ထိုးမြင်ရသည့်အခါမှားယွင်းများကိုဖြေရှင်းပေးနိုင်သည်။",
-        "url": "https://example.com/power_cable_url",
-        "urlDesc": "Power Cable Troubleshooting",
-        "tutorial": "",
-        "tutorialDesc": ""
-      },
-      {
-        "photo": "https://example.com/power_cable_image.jpg",
-        "text": "အကယ်၍ ကွန်ပျူတာကို ပိတ်ရန်မှားယွင်းများသည့်အတိုင်း၊ ကိုယ်ပိုင်ဖြစ်စေရန်အတွက်ပြန်လည်ပါရန်စိတ်ကြိုတင်ကူးသည့်ဝန်ကြီးကိုကြိုတင်ကူးနိုင်ပါသည်။",
-        "url": "https://example.com/power_cable_url",
-        "urlDesc": "Power Cable Troubleshooting",
-        "tutorial": "",
-        "tutorialDesc": ""
-      }
-    ]
-  },
-  {
-    "question": "ကျွန်တော်တို့ရဲ့ ကွန်ပျူတာကို အလုပ်အကိုင်းအမြင့် မျှော်နေသောအခါ ဘယ်လိုတွေ့ရမလဲ။",
-    "answer": [
-      {
-        "photo": "",
-        "text": "ကျွန်တော်တို့ကိုယ်စိတ်အကြောင်း၊ ကွန်ပျူတာများကို အလုပ်အကိုင်းအမြင့် အသုံးမပြုရန်အခကြေငြာချက်များရှိသည်။\n\n၁။ အမြင့်အချိန်ကုန်မှားယွင်းများကိုဖျေရှင်းပါ။\n၂။ အလုပ်ချိန်ကုန်မှားယွင်းများကိုဖျေရှင်းပါသည်။\n၃။ အကယ်၍ ကွန်ပျူတာနှင့်အတူ ကြိုတင်ကူးသည့်ဝန်ကြီးကိုကြည့်ပါ။\n\nကျွန်တော်တို့ရဲ့ကွန်ပျူတာအကြောင်းအမြင့်မှားယွင်းများကို အပြန်လည်ရှာဖွေရန်အတွက် ကွန်ပျူတာနှင့်ဆက်သွယ်ရန်အတွက် ကျေးဇူးပြုပြီး အောက်ဖော်ပြပါစေ။",
-        "url": "https://example.com/power_cable_url",
-        "urlDesc": "Power Cable Troubleshooting",
-        "tutorial": "",
-        "tutorialDesc": ""
-      },
-      {
-        "photo": "https://example.com/wifi_network_icon_image.jpg",
-        "text": "၄။ ကြိုတင်ကူးလိုပါက ကွန်ပျူတာနှင့်ဆက်သွယ်ရန်အတွက် ပြန်လည်စိတ်ထိုးနိုင်ပါသည်။",
-        "url": "https://example.com/power_cable_url",
-        "urlDesc": "Power Cable Troubleshooting",
-        "tutorial": "",
-        "tutorialDesc": ""
-      }
-    ]
-  },
-  {
-    "question": "ကျွန်တော်တို့၏ကွန်ပျူတာမှာ မက်ဆေ့ခ်ျပါက ဘယ်လိုမိတ်ဆက်ပေးရမလဲ။",
-    "answer": [
-      {
-        "photo": "",
-        "text": "ကျွန်တော်တို့၏ကွန်ပျူတာမှာ မက်ဆေ့ခ်ျပါက ကိုယ်ပိုင်ဖြစ်စေရန်အတွက် အကယ်၍ ကွန်ပျူတာများနှင့်အတူ ကြိုတင်ကူးနိုင်ပါသည်။",
-        "url": "",
-        "urlDesc": "",
-        "tutorial": "https://example.com/power_cable_tutorial",
-        "tutorialDesc": "Power Cable Replacement Tutorial"
-      },
-      {
-        "photo": "https://example.com/computer_restart_image.jpg",
-        "text": "၂။ ကိုယ်ပိုင်ဖြစ်စေရန်အတွက် ကွန်ပျူတာကို ပိတ်ရန်မလိုပါသေးသည်။ လေ့လာရန်လိုအပ်သော အကယ်၍ ကွန်ပျူတာနှင့်အတူ ကြိုတင်ကူးနိုင်ပါသည်။",
-        "url": "",
-        "urlDesc": "",
-        "tutorial": "https://example.com/power_cable_tutorial",
-        "tutorialDesc": "Power Cable Replacement Tutorial"
-      },
-      {
-        "photo": "https://example.com/computer_overheating_image.jpg",
-        "text": "၄။ ကွန်ပျူတာကိုအလုပ်အကိုင်းအမြင့် လှိမ့်ခြင်းနှင့် အင်တာနက်များကိုစစ်မှန်သည့်အခါမှားယွင်းများကို ရှာဖွေပါ။",
-        "url": "",
-        "urlDesc": "",
-        "tutorial": "https://example.com/power_cable_tutorial",
-        "tutorialDesc": "Power Cable Replacement Tutorial"
-      },
-      {
-        "photo": "https://example.com/malware_scan_image.jpg",
-        "text": "၅။ မိမိကိုယ်တိုင်ဆက်သွယ်ရန်အတွက် မက်ဆေ့ခ်ျပါက ကွန်ပျူတာမှာ မလိုအပ်သော ကိုယ်ရေးဆက်သွယ်မှုများကို ရှာဖွေပါ။",
-        "url": "",
-        "urlDesc": "",
-        "tutorial": "https://example.com/power_cable_tutorial",
-        "tutorialDesc": "Power Cable Replacement Tutorial"
-      }
-    ]
-  },
-  {
-    "question": "ကွန်ပျူတာအတွက် ပိတ်ရန်မလိုပါက ဘယ်လိုမိတ်ဆက်ပေးရမလဲ။",
-    "answer": [
-      {
-        "photo": "",
-        "text": "ကွန်ပျူတာအတွက် ပိတ်ရန်မှားယွင်းများသည့်အတိုင်း၊ ကိုယ်ပိုင်ဖြစ်စေရန်အတွက် အကယ်၍ ကွန်ပျူတာနှင့်အတူ ကြိုတင်ကူးသည့်ဝန်ကြီးကိုကြိုတင်ကူးနိုင်ပါသည်။",
-        "url": "",
-        "urlDesc": "",
-        "tutorial": "https://example.com/power_cable_tutorial",
-        "tutorialDesc": "Power Cable Replacement Tutorial"
-      },
-      {
-        "photo": "https://example.com/power_cable_image.jpg",
-        "text": "ကိုယ်ပိုင်ဖြစ်စေရန်အတွက် ကွန်ပျူတာကို ပိတ်ရန်မလိုပါသေးသည်။",
-        "url": "",
-        "urlDesc": "",
-        "tutorial": "https://example.com/power_cable_tutorial",
-        "tutorialDesc": "Power Cable Replacement Tutorial"
-      }
-    ]
-  },
-  {
-    "question": "ကွန်ပျူတာအတွက် စက်ဝိုင်းကိုယ်စားပြချက်များကိုသိရှိပါလဲ။",
-    "answer": [
-      {
-        "photo": "",
-        "text": "ကွန်ပျူတာအတွက် စက်ဝိုင်းကိုယ်စားပြချက်များကို အောက်ဖော်ပြပါစေ။",
-        "url": "",
-        "urlDesc": "",
-        "tutorial": "https://example.com/power_cable_tutorial",
-        "tutorialDesc": "Power Cable Replacement Tutorial"
-      }
+      [
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာသင်ခန်းစာ video များကို လေ့လာ သင်ယူနိုင်သောနေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာ နည်းပညာ နှင့်သက်ဆိုင်သော စာအုပ်များ ကိုဖတ်နိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာ Typing လက်ကွက် ကို English နဲ့ မြန်မာ ( unicode, zawgyi ) 2 မျိုးလုံးလေ့ကျင့်နိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာ အမေးအဖြေများကို ဖတ်ရှုနိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာ ဉာဏ်စမ်းများ လေ့ကျင့်နိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာ shortcut key များကို အလွယ်တကူ ကြည့်ရှုနိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာ အရောင်းဆိုင်တွေ service ဆိုင်တွေရဲ့ လိပ်စာ ဖုန်းနံပါတ်တွေကိုကြည့်နိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "ကွန်ပျူတာ ဝယ်မည့်သူများ အတွက် လိုအပ်သော computer specification ကို ကြည့်ရှုနိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        },
+        {
+          "photo": "",
+          "text": "MM Computer Guide အတွက် supporter ဝင်နိုင်သော နေရာ",
+          "url": "",
+          "urlDesc": "",
+          "tutorial": "",
+          "tutorialDesc": ""
+        }
+      ]
     ]
   }
 ]
