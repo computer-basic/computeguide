@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "https://i.imgur.com/USYsEOB.png",
+    "title": "Use Offline",
+    "description": "Work offline when network is unavailable"
+  },
+  {
+    "icon": "https://i.imgur.com/9aBhQHE.png",
+    "title": "Remove Ads",
+    "description": "Get rid of all ads"
+  },
+  {
+    "icon": "https://i.imgur.com/WCD2j7U.png",
+    "title": "Download Unlimited",
+    "description": "Download all videos without any limit"
+  },
+  {
+    "icon": "https://i.imgur.com/epbOdMl.png",
+    "title": "Premium Features",
+    "description": "Use supporter exclusive features"
+  },
+  {
+    "icon": "https://i.imgur.com/OfooxoC.png",
+    "title": "Support Development",
+    "description": "Support us to develop more exciting features"
+  }
+]
