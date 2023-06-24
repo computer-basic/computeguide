@@ -1,8 +1,7 @@
 [
   {
-    "question": "MM Computer Guide တွင်ပါဝင်သော functions အကြောင်း",
+    "question": "MM Computer Guide တွင်ပါဝင်သော function များ",
     "answer": [
-      [
         {
           "photo": "",
           "text": "ကွန်ပျူတာသင်ခန်းစာ video များကို လေ့လာ သင်ယူနိုင်သောနေရာ",
@@ -75,7 +74,6 @@
           "tutorial": "",
           "tutorialDesc": ""
         }
-      ]
     ]
   }
 ]
