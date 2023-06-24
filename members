@@ -654,12 +654,6 @@
     "accessKey": "cHlhZXNvbmVhdW5nLjgxMTIwMDFAZ21haWwuY29tWGlhb21pZm9n"
   },
   {
-    "name": "wai yan myo htet kyaw",
-    "expireDate": "24 Jun, 2023",
-    "level": 1,
-    "accessKey": "MDk0MDg3NzE5MTlPUFBPT1A0RjJG"
-  },
-  {
     "name": "Zin Ma Ma Myo",
     "expireDate": "-",
     "level": 3,
@@ -670,18 +664,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0MjYyNTI4NzNyZWFsbWVSRTUwQkY="
-  },
-  {
-    "name": "Kay Kay",
-    "expireDate": "24 Jun, 2023",
-    "level": 1,
-    "accessKey": "MDk3ODcyOTM2NzRYaWFvbWlzZWxlbmU="
-  },
-  {
-    "name": "U Ye Yint Aung",
-    "expireDate": "24 Jun, 2023",
-    "level": 1,
-    "accessKey": "MDkyNTYyOTE5Nzl2aXZvMTkyMA=="
   },
   {
     "name": "Tiger Lady",
@@ -1204,5 +1186,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "am9lamFyNTY3QGdtYWlsLmNvbXNhbXN1bmdhMjJ4"
+  },
+  {
+    "name": "Shiva mgk",
+    "expireDate": "26 Oct, 2023",
+    "level": 2,
+    "accessKey": "a3lhd215aW50aDkyQGdtYWlsLmNvbSgwNjMzNzg4MTI2dml2bzIxMzE="
   }
 ]
