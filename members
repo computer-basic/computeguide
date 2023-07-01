@@ -762,18 +762,6 @@
     "accessKey": "MDk3NzQzNzE1NTBYaWFvbWl4YWdh"
   },
   {
-    "name": "kaung khant",
-    "expireDate": "2 Jul, 2023",
-    "level": 1,
-    "accessKey": "Kzk1OTc2MTgxNjY2M1hpYW9taXNlY3JldA=="
-  },
-  {
-    "name": "San Lin Tun",
-    "expireDate": "2 Jul, 2023",
-    "level": 1,
-    "accessKey": "MDk2NjgzNzA2MjNzYW1zdW5nYTEycw=="
-  },
-  {
     "name": "naung naung",
     "expireDate": "2 Sep, 2023",
     "level": 2,
@@ -1228,5 +1216,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "bW1odHVuMzk5QGdtYWlsLmNvbVhpYW9taXBpc3NhcnJv"
+  },
+  {
+    "name": "Khin Phyo Wai",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk3NjgyODYxMTNzYW1zdW5nYTMzeA=="
   }
 ]
