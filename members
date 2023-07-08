@@ -810,24 +810,6 @@
     "accessKey": "a29reWF3Z3lpLmZlYkBnbWFpbC5jb21PUFBPQ1BIMTgyMw=="
   },
   {
-    "name": "Nyein Nyein Zaw",
-    "expireDate": "8 Jul, 2023",
-    "level": 1,
-    "accessKey": "MDk3OTI0MzExODJJTkZJTklYTU9CSUxJVFlMSU1JVEVESW5maW5peC1YNjgxNg=="
-  },
-  {
-    "name": "Myo Htut Aung",
-    "expireDate": "8 Jul, 2023",
-    "level": 1,
-    "accessKey": "bXlvaHR1dGF1bmc5NEBnbWFpbC5jb21yZWFsbWVSRUUyQURMMQ=="
-  },
-  {
-    "name": "Wai Lwin Paing",
-    "expireDate": "8 Jul, 2023",
-    "level": 1,
-    "accessKey": "MDk5ODk1MDAzODZYaWFvbWl0dWNhbmE="
-  },
-  {
     "name": "Nan Thit Oo",
     "expireDate": "-",
     "level": 3,
@@ -1294,5 +1276,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0NTY0NTIwMDNYaWFvbWllbnVtYQ=="
+  },
+  {
+    "name": "Aung Nyein Chan",
+    "expireDate": "9 Oct, 2023",
+    "level": 2,
+    "accessKey": "YXVuZ255ZWluY2hhbjEzODhAZ21haWwuY29tWGlhb21pbWVybGlu"
   }
 ]
