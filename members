@@ -822,18 +822,6 @@
     "accessKey": "ZWlwaHlvcGh5bzA4QGdtYWlsLmNvbXNhbXN1bmdhMDJx"
   },
   {
-    "name": "Nang Chan Aye ",
-    "expireDate": "9 Jul, 2023",
-    "level": 1,
-    "accessKey": "MDk2ODM5NTY4NTd2aXZvMjExMQ=="
-  },
-  {
-    "name": "Phyu",
-    "expireDate": "9 Jul, 2023",
-    "level": 1,
-    "accessKey": "c2FsbWVyMTE5MkBnbWFpbC5jb21YaWFvbWlnYXVndWluaW5wcm8="
-  },
-  {
     "name": "ZAW ZAW AUNG",
     "expireDate": "-",
     "level": 3,
@@ -1294,5 +1282,11 @@
     "expireDate": "9 Oct, 2023",
     "level": 2,
     "accessKey": "MDk5NTQ0ODA4MjlPUFBPT1A0ODZD"
+  },
+  {
+    "name": "La Min Myat Mon",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk0NDcxNzQ2MTRzYW1zdW5nYTM0eA=="
   }
 ]
