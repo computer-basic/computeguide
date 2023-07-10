@@ -834,12 +834,6 @@
     "accessKey": "dGhhaW5naWh0ZXQxNkBnbWFpbC5jb21yZWFsbWVSTVgzMjMx"
   },
   {
-    "name": "Khaing",
-    "expireDate": "10 Jul, 2023",
-    "level": 1,
-    "accessKey": "a2hpbmVzc3dAZ21haWwuY29tdml2bzE5Mzg="
-  },
-  {
     "name": "Mg Hla Maung ",
     "expireDate": "11 Jul, 2023",
     "level": 1,
@@ -1300,5 +1294,11 @@
     "expireDate": "10 Oct, 2023",
     "level": 2,
     "accessKey": "MDk2OTM2NjIyODRzYW1zdW5nYTEw"
+  },
+  {
+    "name": "Waiyan",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk3OTEzNjc1ODVPUFBPT1A1MzNGTDE="
   }
 ]
