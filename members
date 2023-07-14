@@ -1354,5 +1354,11 @@
     "expireDate": "15 Oct, 2023",
     "level": 2,
     "accessKey": "MDk2Nzg2OTE4NjBYaWFvbWlnaW5rZ28="
+  },
+  {
+    "name": "KO HTUT",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bXIueWUuaHR1dDE5NzdAZ21haWwuY29tdml2bzE3MTY="
   }
 ]
