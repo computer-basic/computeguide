@@ -1372,5 +1372,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "a2hhaW5nemFyaG5pbjA0QGdtYWlsLmNvbU9QUE9PUDU2RjU="
+  },
+  {
+    "name": "zin",
+    "expireDate": "16 Aug, 2023",
+    "level": 1,
+    "accessKey": "MDk5NDA0NjQ4NDZIVUFXRUlIV0FORQ=="
   }
 ]
