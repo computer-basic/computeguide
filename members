@@ -624,12 +624,6 @@
     "accessKey": "c2F5YXJreWF3emF3MTMxMUBnbWFpbC5jb21YaWFvbWlnaW5rZ28="
   },
   {
-    "name": "khant si thu",
-    "expireDate": "22 Jul, 2023",
-    "level": 1,
-    "accessKey": "MDk3OTE0MjQxOTJYaWFvbWlwaXNzYXJybw=="
-  },
-  {
     "name": "aung Kyaw hsan",
     "expireDate": "-",
     "level": 3,
@@ -952,12 +946,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0MjA5ODY0NjdYaWFvbWltZXJsaW4="
-  },
-  {
-    "name": "Shoon Shoon ",
-    "expireDate": "22 Jul, 2023",
-    "level": 1,
-    "accessKey": "MDk5ODQ5Nzc1NTJ2aXZvMjAyNg=="
   },
   {
     "name": "Aung Myo Zin",
@@ -1408,5 +1396,11 @@
     "expireDate": "22 Oct, 2023",
     "level": 2,
     "accessKey": "MDk3Nzk1Mzg5Njd2aXZvMjA1MA=="
+  },
+  {
+    "name": "San Ko Htwe",
+    "expireDate": "23 Aug, 2023",
+    "level": 1,
+    "accessKey": "MDk2NzA0MTg2NTdYaWFvbWlkYW5kZWxpb24="
   }
 ]
