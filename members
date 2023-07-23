@@ -1038,12 +1038,6 @@
     "accessKey": "MDk4ODIyMjY0OTlYaWFvbWlnaW5rZ28="
   },
   {
-    "name": "PHYO NYINE KHANT",
-    "expireDate": "29 Jul, 2023",
-    "level": 1,
-    "accessKey": "MDk4ODMzNzk3NDh2aXZvMjAyNw=="
-  },
-  {
     "name": "Su Tin Win",
     "expireDate": "30 Sep, 2023",
     "level": 2,
@@ -1417,7 +1411,7 @@
   },
   {
     "name": "PHYO NYINE KHANT",
-    "expireDate": "24 Oct, 2023",
+    "expireDate": "30 Oct, 2023",
     "level": 2,
     "accessKey": "MDk4ODMzNzk3NDh2aXZvMjAyNw=="
   }
