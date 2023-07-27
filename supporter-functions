@@ -2,26 +2,26 @@
   {
     "icon": "https://i.imgur.com/USYsEOB.png",
     "title": "Use Offline",
-    "description": "Work offline when network is unavailable"
+    "description": "Internet မရှိဘဲ offline အသုံးပြုနိုင်ခြင်း"
   },
   {
     "icon": "https://i.imgur.com/9aBhQHE.png",
     "title": "Remove Ads",
-    "description": "Get rid of all ads"
+    "description": "ကြော်ညာများမမြင်ရခြင်း"
   },
   {
     "icon": "https://i.imgur.com/WCD2j7U.png",
     "title": "Download Unlimited",
-    "description": "Download all videos without any limit"
+    "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
   },
   {
     "icon": "https://i.imgur.com/epbOdMl.png",
     "title": "Premium Features",
-    "description": "Use supporter exclusive features"
+    "description": "Supporter သီးသန့် function များအား အသုံးပြုနိုင်ခြင်း"
   },
   {
     "icon": "https://i.imgur.com/OfooxoC.png",
     "title": "Support Development",
-    "description": "Support us to develop more exciting features"
+    "description": "MM Computer Guide အားကူညီပံ့ပို့ရောက်ခြင်း"
   }
 ]
