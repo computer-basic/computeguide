@@ -5,5 +5,12 @@
     "description": "",
     "model": "generic_x86",
     "name": "Ko"
+  },
+  {
+    "brand": "samsung",
+    "code": "24e8d2ad3aadb9bc",
+    "description": "",
+    "model": "a13",
+    "name": "ko"
   }
 ]
