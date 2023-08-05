@@ -2,11 +2,13 @@
     {
         "id": 1,
         "title": "Computer Problems",
+        "need_sup": true,
         "icon": "https://w7.pngwing.com/pngs/399/413/png-transparent-microsoft-start-menu-windows-10-operating-systems-microsoft-blue-angle-text.png"
     },
     {
         "id": 2,
         "title": "MM Computer Guide",
+        "need_sup": false,
         "icon": "https://i.imgur.com/7mCE7Zz.png"
     }
 ]
