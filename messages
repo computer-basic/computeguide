@@ -1,0 +1,14 @@
+[
+  {
+    "viewId": "question_supporter_limit",
+    "message": "Supporter 3 လ နှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
+  },
+  {
+    "viewId": "download_limit",
+    "message": "တနေ့တာ download လုပ်ခွင့် ပြည့်သွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ download လုပ်လိုက်ပါ"
+  },
+  {
+    "viewId": "play_limit",
+    "message": "တနေ့တာ ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ ကြည့်ရှုလိုက်ပါ"
+  }
+]
