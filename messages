@@ -4,11 +4,15 @@
     "message": "Supporter 3 လ နှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
   },
   {
-    "viewId": "download_limit",
+    "viewId": "daily_download_limit",
     "message": "တနေ့တာ download လုပ်ခွင့် ပြည့်သွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ download လုပ်လိုက်ပါ"
   },
   {
-    "viewId": "play_limit",
+    "viewId": "daily_play_limit",
+    "message": "တနေ့တာ ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ ကြည့်ရှုလိုက်ပါ"
+  },
+  {
+    "viewId": "play_supporter_limit",
     "message": "တနေ့တာ ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ ကြည့်ရှုလိုက်ပါ"
   }
 ]
