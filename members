@@ -1486,5 +1486,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "aGF5bWFyaHR1bjU3NUBnbWFpbC5jb21zYW1zdW5nYTE0"
+  },
+  {
+    "name": "Jennifer",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bGFscmlucHVpaTI0MUBnbWFpbC5jb21PbmVQbHVzT1A1NTdBTDE="
   }
 ]
