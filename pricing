@@ -1,25 +1,25 @@
 {
-    "campaign": true,
-    "description": "Supporter ဝင်ပြီး function အားလုံးကို အသုံးပြုလိုက်ပါ",
+    "campaign": false,
+    "description": "Get the supporter plan with a 30% new year discount for lifetime plans until 31 December.",
     "start": 30,
     "end": 51,
     "color": "#91AAE8",
     "price": [
         {
-            "duration": "1 လ",
-            "amount": "3000 ကျပ်",
+            "duration": "1 Month",
+            "amount": "3000 KS",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay"
         },
         {
-            "duration": "3 လ",
-            "amount": "6000 ကျပ်/100 ဘတ်",
+            "duration": "3 Months",
+            "amount": "6000 KS/100 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
-            "duration": "တသက်တာ",
-            "amount": "12,000 ကျပ်/200 ဘတ်",
+            "duration": "Lifetime",
+            "amount": "12,000 KS/200 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         }
