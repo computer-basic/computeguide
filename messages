@@ -1,7 +1,15 @@
 [
   {
+    "viewId": "welcome_supporter_dialog",
+    "message": "Supporter ဝင်ပြီး Function အားလုံးကို ရယူလိုက်ပါ"
+  },
+  {
     "viewId": "question_supporter_limit",
     "message": "Supporter 3 လ နှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
+  },
+  {
+    "viewId": "typing_supporter_limit",
+    "message": "Supporter 3 လ နှင့် တသက်တာ ဝင်ထားသူများသာ မြန်မာစာ Typing ကိုအသုံးပြုနိုင်ပါသည်"
   },
   {
     "viewId": "daily_download_limit",
@@ -13,6 +21,10 @@
   },
   {
     "viewId": "play_supporter_limit",
-    "message": "တနေ့တာ ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ ကြည့်ရှုလိုက်ပါ"
+    "message": "သင်ခန်းစာကို Supporter များသာကြည့်ရှုနိုင်ပါသည်"
+  },
+  {
+    "viewId": "myanmar_keyboard",
+    "message": ""
   }
 ]
