@@ -546,18 +546,6 @@
     "accessKey": "MDkyNTU4ODUwMzRPUFBPT1A0QzRCTDE="
   },
   {
-    "name": "Nay Lin Tun",
-    "expireDate": "12 Aug, 2023",
-    "level": 2,
-    "accessKey": "bmxpbnR1bjMyMkBnbWFpbC5jb212aXZvMjExNg=="
-  },
-  {
-    "name": "Zaw Lin Htut",
-    "expireDate": "12 Aug, 2023",
-    "level": 2,
-    "accessKey": "MDk2NzAxODM3OTR2aXZvUEQxOTY1"
-  },
-  {
     "name": "Myat Khine",
     "expireDate": "-",
     "level": 3,
@@ -1152,22 +1140,10 @@
     "accessKey": "MDk3OTEzNjc1ODVPUFBPT1A1MzNGTDE="
   },
   {
-    "name": "Wai Hlu",
-    "expireDate": "12 Aug, 2023",
-    "level": 1,
-    "accessKey": "MDk0NTQzOTIzMjdYaWFvbWlsYXZlbmRlcg=="
-  },
-  {
     "name": "Wai Yan Toemonoo",
     "expireDate": "-",
     "level": 3,
     "accessKey": "d2FpeWFudG9lMDA2NkBnbWFpbC5jb21zYW1zdW5nYTUzeA=="
-  },
-  {
-    "name": "sanput",
-    "expireDate": "12 Aug, 2023",
-    "level": 1,
-    "accessKey": "MDk2ODMyNTg2NzVYaWFvbWlwaW5l"
   },
   {
     "name": "Moe Moe Htwe",
@@ -1570,5 +1546,11 @@
     "expireDate": "12 Nov, 2023",
     "level": 2,
     "accessKey": "bnllaW5zdWhhbmdAZ21haWwuY29tSFVBV0VJSFdMTkQtUQ=="
+  },
+  {
+    "name": "Su Paing Zin",
+    "expireDate": "13 Sep, 2023",
+    "level": 1,
+    "accessKey": "MDk2ODM4MzYwMzZ2aXZvMjExMQ=="
   }
 ]
