@@ -3,25 +3,25 @@
         "name": "Linux Command Line",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Linux%20Command%20Line%20MM.pdf",
         "size": "1.29 MB",
-        "icon": ""
+        "icon": "https://i.imgur.com/HIZEzU5.png"
     },
     {
         "name": "Bootstrap 5",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/bootstrap5.pdf",
         "size": "8.7 MB",
-        "icon": ""
+        "icon": "https://i.imgur.com/HIZEzU5.png"
     },
     {
         "name": "Bitcoin",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/bitcoin.pdf",
         "size": "5.61 MB",
-        "icon": ""
+        "icon": "https://i.imgur.com/HIZEzU5.png"
     },
     {
         "name": "Ubuntu",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/ubuntu.pdf",
         "size": "20.1 MB",
-        "icon": ""
+        "icon": "https://i.imgur.com/HIZEzU5.png"
     },
     {
         "name": "AutoCad",
@@ -261,6 +261,6 @@
         "name": "MS Office Short Cut",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/MS%20Office%20Short%20Cut.pdf",
         "size": "926 KB",
-        "icon": ""
+        "icon": "https://i.imgur.com/HIZEzU5.png"
     }
 ]
