@@ -31,7 +31,7 @@
         "title": "Microsoft Excel",
         "server": "youtub",
         "course": "3 courses",
-        "isNewUpdated": true,
+        "isNewUpdated": false,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/cOtAvFa.png"
     },
@@ -49,7 +49,7 @@
         "title": "Adobe Photoshop",
         "server": "youtub",
         "course": "3 courses",
-        "isNewUpdated": true,
+        "isNewUpdated": false,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/CFIrhBo.png"
     },
