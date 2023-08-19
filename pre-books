@@ -3,40 +3,40 @@
         "name": "Linux Command Line",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Linux%20Command%20Line%20MM.pdf",
         "size": "1.29 MB",
-        "icon": "https://i.imgur.com/HIZEzU5.png"
+        "icon": "https://i.imgur.com/IeLVxYV.png"
     },
     {
-        "name": "Bootstrap 5",
+        "name": "Bootstrap လို-တို-ရှင်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/bootstrap5.pdf",
         "size": "8.7 MB",
-        "icon": "https://i.imgur.com/HIZEzU5.png"
+        "icon": "https://i.imgur.com/uoEZQnf.png"
     },
     {
-        "name": "Bitcoin",
+        "name": "Bitcoin လို-တို-ရှင်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/bitcoin.pdf",
         "size": "5.61 MB",
-        "icon": "https://i.imgur.com/HIZEzU5.png"
+        "icon": "https://i.imgur.com/lbq8Uip.png"
     },
     {
-        "name": "Ubuntu",
+        "name": "Ubuntu သင့်အတွက် Linux",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/ubuntu.pdf",
         "size": "20.1 MB",
-        "icon": "https://i.imgur.com/HIZEzU5.png"
+        "icon": "https://i.imgur.com/7fGnVCt.png"
     },
     {
-        "name": "AutoCad",
+        "name": "AutoCad သင်ခန်းစာ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/AutoCAD.pdf",
         "size": "1.06 MB",
         "icon": "https://i.imgur.com/Hm0zf7Y.png"
     },
     {
-        "name": "Blog",
+        "name": "Blog ပြုလုပ်နည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Blog.pdf",
         "size": "6.74 MB",
         "icon": "https://i.imgur.com/f7H17sZ.png"
     },
     {
-        "name": "Command Key",
+        "name": "အသုံးဝင် Command Key များ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/CommandKey.pdf",
         "size": "34.9 KB",
         "icon": "https://i.imgur.com/2oxxhpgl.png"
@@ -48,13 +48,13 @@
         "icon": "https://i.imgur.com/zphr2kql.jpg"
     },
     {
-        "name": "Computer Problems",
+        "name": "ကွန်ပျူတာ ပြဿနာဖြေရှင်းနည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Computer%20problem.pdf",
         "size": "15.8 MB",
         "icon": "https://i.imgur.com/2ehQF6Hl.jpg"
     },
     {
-        "name": "Computer Questions",
+        "name": "ကွန်ပျူတာ အမေးအဖြေ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Computer%20Questions.pdf",
         "size": "8.04 MB",
         "icon": "https://i.imgur.com/7LYXcYr.png"
