@@ -60,7 +60,7 @@
         "icon": "https://i.imgur.com/7LYXcYr.png"
     },
     {
-        "name": "Computer Screenshot",
+        "name": "Screenshot ရိုက်နည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Computer%20Screenshot.pdf",
         "size": "140 KB",
         "icon": "https://i.imgur.com/5xznsZz.png"
@@ -72,37 +72,37 @@
         "icon": "https://i.imgur.com/wexFeZJ.png"
     },
     {
-        "name": "Excel 2007",
+        "name": "Excel 2007 သင်ခန်းစာ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Excel%202007.pdf",
         "size": "16.9 MB",
         "icon": "https://i.imgur.com/CXKlqXW.png"
     },
     {
-        "name": "Excel 2010",
+        "name": "Excel 2010 သင်ခန်းစာ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Excel%202010.pdf",
         "size": "12.1 MB",
         "icon": "https://i.imgur.com/LY9PG73l.jpg"
     },
     {
-        "name": "Excel 2013",
+        "name": "Excel 2013 သင်ခန်းစာ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Excel%202013.pdf",
         "size": "7.19 MB",
         "icon": "https://i.imgur.com/PpEvf1Fl.jpg"
     },
     {
-        "name": "Excel Advance",
+        "name": "Excel Advance သင်ခန်းစာ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Excel%20Advance.pdf",
         "size": "15.2 MB",
         "icon": "https://i.imgur.com/jT4MNbwl.jpg"
     },
     {
-        "name": "Facebook",
+        "name": "Facebook Guide",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/facebook.pdf",
         "size": "9.32 MB",
         "icon": "https://i.imgur.com/Bw3W1IKl.jpg"
     },
     {
-        "name": "Gmail Secret",
+        "name": "Gmail လျှို့ဝှက်ချက်များ",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Gmail%20Secret.pdf",
         "size": "530 KB",
         "icon": "https://i.imgur.com/gIPNFBD.png"
@@ -114,43 +114,43 @@
         "icon": "https://i.imgur.com/2GQhTQC.png"
     },
     {
-        "name": "Google",
+        "name": "Google အသုံးပြုနည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Google.pdf",
         "size": "9.51 MB",
         "icon": "https://i.imgur.com/fYFUT2ql.jpg"
     },
     {
-        "name": "Internet",
+        "name": "နေ့စဉ်သုံး အင်တာနက်",
         "link": "https://drive.google.com/uc?export=download&id=1ACVppZtRP0X3xUHaR4W8bQen5odTgOKt",
         "size": "31.2 MB",
         "icon": "https://i.imgur.com/VayQCIql.jpg"
     },
     {
-        "name": "Laptop Service",
+        "name": "ကွန်ပျူတာ ပြုပြင်နည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Laptop%20Service.pdf",
         "size": "12.9 MB",
         "icon": "https://i.imgur.com/BK0jkPfl.jpg"
     },
     {
-        "name": "Networking",
+        "name": "A+ Computer",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Neworking.pdf",
         "size": "8.6 MB",
         "icon": "https://i.imgur.com/IgauKMYl.png"
     },
     {
-        "name": "Page Maker",
+        "name": "Page Maker အသုံးပြုနည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/PageMaker.pdf",
         "size": "3.38 MB",
         "icon": "https://i.imgur.com/GFiuocX.png"
     },
     {
-        "name": "PC Building",
+        "name": "PC တလုံးတပ်ဆင်ခြင်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/PC%20Build.pdf",
         "size": "542 KB",
         "icon": "https://i.imgur.com/oFsdRJQ.jpg"
     },
     {
-        "name": "Photoshop",
+        "name": "Photoshop အသုံးပြုနည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/PhotoShop.pdf",
         "size": "13.1 MB",
         "icon": "https://i.imgur.com/GsbS1YS.png"
@@ -168,7 +168,7 @@
         "icon": "https://i.imgur.com/mk1Tyau.png"
     },
     {
-        "name": "Wordpress",
+        "name": "Wordpress အသုံးပြုနည်း",
         "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/books/pdf/Wordpress.pdf",
         "size": "1 MB",
         "icon": "https://i.imgur.com/aewAsdG.jpg"
