@@ -1224,12 +1224,6 @@
     "accessKey": "Kzk1OTc1MDA5NzUxOVhpYW9taW1hdGlzc2U="
   },
   {
-    "name": "Thu Reain Tun",
-    "expireDate": "22 Aug, 2023",
-    "level": 1,
-    "accessKey": "bnk2OTU1NjVAZ21haWwuY29tWGlhb21pdml2YQ=="
-  },
-  {
     "name": "ye gyi",
     "expireDate": "22 Oct, 2023",
     "level": 2,
@@ -1674,9 +1668,15 @@
     "accessKey": "Kzk1OTc5MDM1NzgyN3Zpdm8yMDIz"
   },
   {
-    "name": "Aung Chan ",
+    "name": "Aung Chan",
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3NjY5OTg5NzRYaWFvbWlvbGl2ZWxpdGU="
+  },
+  {
+    "name": "Nann Khaing Phoo Ngon ",
+    "expireDate": "24 Dec, 2023",
+    "level": 2,
+    "accessKey": "bmFubmtoYWluZ3Bob29uZ29uQGdtYWlsLmNvbU9QUE9DUEgxOTAx"
   }
 ]
