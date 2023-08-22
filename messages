@@ -34,5 +34,9 @@
   {
     "viewId": "myanmar_keyboard",
     "message": "မြန်မာစာ ရိုက်ရန် NZ Keyboard လိုအပ်ပါသည်"
+  },
+  {
+    "viewId": "otg_keyboard",
+    "message": "OTG ကိုအသုံးပြု၍ ဖုန်း နှင့် Keyboard ချိတ်ဆက်ပြီး Typing လေ့ကျင့်နိုင်ပါပြီ"
   }
 ]
