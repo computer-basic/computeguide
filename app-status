@@ -28,5 +28,6 @@
     "rMessage": "Downloads and offline plays are restricted for you region (Myanmar). Watch video for detail explanation.",
     "gMessage": "Additional downloads and plays are added (VPN). Watch the video for a detailed explanation.",
     "rcMessage": "Please connect vpn to watch videos",
-    "userTypeVideo": "https://sendvid.com/b8g5emhm"
+    "userTypeVideo": "https://sendvid.com/b8g5emhm",
+    "scriptApiUrl": "https://script.google.com/macros/s/AKfycbynrI7KvZq1n4DHhNIDNeGOw40MoY7HaKmzaZJ6bXyUUK1COK6OMUsMWEbyVdKsGyC5IQ/"
 }
