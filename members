@@ -1702,5 +1702,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "YXNoaW5rdXZlcmE1QGdtYWlsLmNvbXZpdm8yMTEx"
+  },
+  {
+    "name": "Aung Ko Ko Tum",
+    "expireDate": "29 Sep, 2023",
+    "level": 1,
+    "accessKey": "MDk4ODkxMjk5MDZYaWFvbWliZWdvbmlh"
   }
 ]
