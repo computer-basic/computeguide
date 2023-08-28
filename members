@@ -1696,5 +1696,11 @@
     "expireDate": "29 Nov, 2023",
     "level": 2,
     "accessKey": "MDk5NTU2ODM0OTl2aXZvMTgxNg=="
+  },
+  {
+    "name": "KUVERA",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "YXNoaW5rdXZlcmE1QGdtYWlsLmNvbXZpdm8yMTEx"
   }
 ]
