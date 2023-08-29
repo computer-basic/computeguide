@@ -678,12 +678,6 @@
     "accessKey": "MDkyNTMxMzgzNjlPUFBPT1A0QkZC"
   },
   {
-    "name": "Hla Min Paing",
-    "expireDate": "29 Aug, 2023",
-    "level": 2,
-    "accessKey": "MDk2NzI5NDQ0N09QUE9PUDRFRkRMMQ=="
-  },
-  {
     "name": "ThidarSoe",
     "expireDate": "-",
     "level": 3,
@@ -1272,12 +1266,6 @@
     "accessKey": "MDk2NzQ4MDUwMDNYaWFvbWl2ZXV4"
   },
   {
-    "name": "Myo Thu",
-    "expireDate": "29 Aug, 2023",
-    "level": 1,
-    "accessKey": "bXlvdGh1Lm5ldDEzQGdtYWlsLmNvbVhpYW9taXJlbm9pcg=="
-  },
-  {
     "name": "Ma kyi su han",
     "expireDate": "-",
     "level": 3,
@@ -1714,5 +1702,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk1NDA0MDQxSFVBV0VJSFdNQVI="
+  },
+  {
+    "name": "Ko Naing",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bmFpbmd0aW50MTMxQGdtYWlsLmNvbXZpdm8yMTE2"
   }
 ]
