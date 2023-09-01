@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "courseId": 4,
+        "lessons": 50,
+        "title": "Microsoft Excel 1"
+    },
+    {
+        "id": 2,
+        "courseId": 4,
+        "lessons": 12,
+        "title": "Microsoft Excel 2"
+    },
+    {
+        "id": 3,
+        "courseId": 4,
+        "lessons": 24,
+        "title": "Excel Advance"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "courseId": 6,
+        "lessons": 26,
+        "title": "Photoshop 1"
+    },
+    {
+        "id": 2,
+        "courseId": 6,
+        "lessons": 11,
+        "title": "Photoshop 2"
+    },
+    {
+        "id": 3,
+        "courseId": 6,
+        "lessons": 17,
+        "title": "Photoshop 3"
+    },
+    {
+        "id": 4,
+        "courseId": 6,
+        "lessons": 45,
+        "title": "Photoshop 2020"
+    }
+]
