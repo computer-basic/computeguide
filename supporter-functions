@@ -1,32 +1,32 @@
 [
-  {
-    "icon": "https://i.imgur.com/Gf5cORs.png",
-    "title": "Play Unlimited",
-    "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
-  },
-  {
-    "icon": "https://i.imgur.com/WCD2j7U.png",
-    "title": "Download Unlimited",
-    "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
-  },
-  {
-    "icon": "https://i.imgur.com/USYsEOB.png",
-    "title": "Use Offline",
-    "description": "Internet မရှိဘဲ offline အသုံးပြုနိုင်ခြင်း"
-  },
-  {
-    "icon": "https://i.imgur.com/9aBhQHE.png",
-    "title": "Remove Ads",
-    "description": "ကြော်ညာများမမြင်ရခြင်း"
-  },
-  {
-    "icon": "https://i.imgur.com/epbOdMl.png",
-    "title": "Premium Features",
-    "description": "Supporter သီးသန့် function များအား အသုံးပြုနိုင်ခြင်း"
-  },
-  {
-    "icon": "https://i.imgur.com/OfooxoC.png",
-    "title": "Support Development",
-    "description": "MM Computer Guide အားကူညီပံ့ပို့ရောက်ခြင်း"
-  }
+    {
+        "icon": "https://i.imgur.com/Gf5cORs.png",
+        "title": "Play Unlimited",
+        "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+    },
+    {
+        "icon": "https://i.imgur.com/WCD2j7U.png",
+        "title": "Download Unlimited",
+        "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+    },
+    {
+        "icon": "https://i.imgur.com/USYsEOB.png",
+        "title": "Use Offline",
+        "description": "Internet မရှိဘဲ offline အသုံးပြုနိုင်ခြင်း"
+    },
+    {
+        "icon": "https://i.imgur.com/9aBhQHE.png",
+        "title": "Remove Ads",
+        "description": "ကြော်ညာများမမြင်ရခြင်း"
+    },
+    {
+        "icon": "https://i.imgur.com/epbOdMl.png",
+        "title": "Premium Features",
+        "description": "မြန်မာစာ Typing, ကွန်ပြူတာအမေးအဖြေ နှင့် တခြားသီးသန့် function များ (Supporter 3လ နှင့် တသက်တာ သမားများသာ)"
+    },
+    {
+        "icon": "https://i.imgur.com/OfooxoC.png",
+        "title": "Support Development",
+        "description": "MM Computer Guide အားကူညီပံ့ပို့ရောက်ခြင်း"
+    }
 ]
