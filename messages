@@ -1,19 +1,19 @@
 [
   {
     "viewId": "welcome_supporter_dialog",
-    "message": "Supporter ဝင်ပြီး Function အားလုံးကို ရယူလိုက်ပါ"
+    "message": "Supporter ဝင်ပြီး Function အားလုံးကို အသုံးပြုလိုက်ပါ"
   },
   {
     "viewId": "question_supporter_limit",
-    "message": "Supporter 3 လ နှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
+    "message": "ကွန်ပျူတာ အမေးအဖြေများ ကို Supporter 3 လနှင့် တသက်တာ ဝင်ထားသူများသာ ဖတ်ရှုနိုင်ပါသည်"
   },
   {
     "viewId": "typing_supporter_limit",
-    "message": "Supporter 3 လ နှင့် တသက်တာ ဝင်ထားသူများသာ မြန်မာစာ Typing ကိုအသုံးပြုနိုင်ပါသည်"
+    "message": "မြန်မာစာ Typing ကို Supporter 3 လနှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
   },
   {
     "viewId": "supporter_intro_message",
-    "message": "Supporter အခုဘဲဝင်လိုက်ပါ"
+    "message": ""
   },
   {
     "viewId": "supporter_detail_message",
@@ -21,7 +21,7 @@
   },
   {
     "viewId": "daily_download_limit",
-    "message": "တနေ့တာ download လုပ်ခွင့် ပြည့်သွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ download လုပ်လိုက်ပါ"
+    "message": "တနေ့တာ download လုပ်ခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ download လုပ်လိုက်ပါ"
   },
   {
     "viewId": "daily_play_limit",
@@ -29,11 +29,11 @@
   },
   {
     "viewId": "play_supporter_limit",
-    "message": "သင်ခန်းစာကို Supporter များသာကြည့်ရှုနိုင်ပါသည်"
+    "message": "Supporter ဝင်ထားသူ များသာကြည့်ရှုနိုင်ပါသည်"
   },
   {
     "viewId": "myanmar_keyboard",
-    "message": "မြန်မာစာ ရိုက်ရန် NZ Keyboard လိုအပ်ပါသည်"
+    "message": ""
   },
   {
     "viewId": "otg_keyboard",
