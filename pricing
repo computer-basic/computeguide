@@ -6,20 +6,20 @@
     "color": "#91AAE8",
     "price": [
         {
-            "duration": "1 Month",
-            "amount": "3000 KS",
+            "duration": "၁ လ",
+            "amount": "3000 MMK",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay"
         },
         {
-            "duration": "3 Months",
-            "amount": "6000 KS/100 THB",
+            "duration": "၃ လ",
+            "amount": "6000 MMK/100 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
-            "duration": "Lifetime",
-            "amount": "12,000 KS/200 THB",
+            "duration": "တစ်သက်တာ",
+            "amount": "12,000 MMK/200 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         }
