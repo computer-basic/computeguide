@@ -1296,12 +1296,6 @@
     "accessKey": "OTU5OTc4MjY4MDc3c2Ftc3VuZ3dpbm5lcg=="
   },
   {
-    "name": "Shoon lai khaing",
-    "expireDate": "6 Sep, 2023",
-    "level": 1,
-    "accessKey": "MDk5NzIzMTc1NDlyZWFsbWVSRTg3QkFMMQ=="
-  },
-  {
     "name": "Hay Mar Htun",
     "expireDate": "-",
     "level": 3,
@@ -1786,5 +1780,11 @@
     "expireDate": "6 Dec, 2023",
     "level": 2,
     "accessKey": "a2hhaW5nemlud2luMTM2NkBnbWFpbC5jaW1YaWFvbWlhbmdlbGljYQ=="
+  },
+  {
+    "name": "Suan Cin Khai",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "KzYwMTEyMTMzMTkwN0hPTk9SSE5STU8tUQ=="
   }
 ]
