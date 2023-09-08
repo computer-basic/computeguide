@@ -1804,5 +1804,11 @@
     "expireDate": "8 Oct, 2023",
     "level": 1,
     "accessKey": "cG5heWxpbm44MzJAZ21haWwuY29tVEVDTk9NT0JJTEVMSU1JVEVEVEVDTk8tS0Y2cA=="
+  },
+  {
+    "name": "Naupau",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "KzYwMTE2NDExMDg4NE9QUE9PUDRDNTFMMQ=="
   }
 ]
