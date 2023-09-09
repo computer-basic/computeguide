@@ -38,5 +38,9 @@
   {
     "viewId": "otg_keyboard",
     "message": "OTG ကိုအသုံးပြု၍ ဖုန်း နှင့် Keyboard ချိတ်ဆက်ပြီး Typing လေ့ကျင့်နိုင်ပါပြီ"
+  },
+  {
+    "viewId": "payment_message",
+    "message": "Supporter ငွေလွှဲရန်အတွက် ဆက်သွယ်ရန်"
   }
 ]
