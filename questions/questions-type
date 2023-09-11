@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Computer Problems",
+        "need_sup": true,
+        "icon": "https://i.imgur.com/FsThPSU.png"
+    },
+    {
+        "id": 2,
+        "title": "MM Computer Guide",
+        "need_sup": false,
+        "icon": "https://i.imgur.com/AeonqKo.png"
+    }
+]
