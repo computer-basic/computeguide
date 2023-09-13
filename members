@@ -780,12 +780,6 @@
     "accessKey": "MDk0NTEyMjk1MTVYaWFvbWltaWVs"
   },
   {
-    "name": "U Kyaw Soe",
-    "expireDate": "13 Sep, 2023",
-    "level": 2,
-    "accessKey": "MDk2NzEwMDkxNzdYaWFvbWltZXJsaW4="
-  },
-  {
     "name": "Ei Moe Swe",
     "expireDate": "-",
     "level": 3,
@@ -1380,12 +1374,6 @@
     "accessKey": "bnllaW5zdWhhbmdAZ21haWwuY29tSFVBV0VJSFdMTkQtUQ=="
   },
   {
-    "name": "Su Paing Zin",
-    "expireDate": "13 Sep, 2023",
-    "level": 1,
-    "accessKey": "MDk2ODM4MzYwMzZ2aXZvMjExMQ=="
-  },
-  {
     "name": "Mya Zaw Oo ",
     "expireDate": "-",
     "level": 3,
@@ -1834,5 +1822,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3ODQ3MTI5MDRPUFBPT1A1MzNGTDE="
+  },
+  {
+    "name": "Phyo Pwint Phyu",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk3OTAxMTE5ODhYaWFvbWl0YXBhcw=="
   }
 ]
