@@ -1,0 +1,45 @@
+{
+  "question": "Window 7 တွင် password ထည့်နည်း ဖြုတ်နည်း",
+  "answer": [
+    {
+      "photo": "https://i.imgur.com/UtqyrL9.png",
+      "text": "ကွန်ပျူတာတွင် Control Panel ထဲသို့ဝင်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/3MRXwLH.png",
+      "text": "User Account ထဲသို့ဝင်ပြီး User Account ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/0ibu88p.png",
+      "text": "Create a password for your account ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/McYJfFe.png",
+      "text": "Password နှင့် Confirm Password ကိုဖြည့်ပါ Create Password ကိုနှိပ်ပြီး ကွန်ပျူတာတွင် Password ထည့်နိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/82ybn9x.png",
+      "text": "Password ဖြုတ်ရန်အတွက် Remove your password ကိုနှိပ်ပါ\nPassword ရိုက်ပြီး Remove Password ကိုနှိပ်ကာ ကွန်ပျူတာ Password အားဖြုတ်နိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "https://sendvid.com/1c2xwi7w",
+      "tutorialDesc": "video tutorial ကြည့်ရန်"
+    }
+  ]
+}

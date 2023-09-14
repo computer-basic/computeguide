@@ -1,0 +1,29 @@
+{
+  "question": "ကွန်ပျူတာတွင် Screen ရိုက်နည်းများ",
+  "answer": [
+    {
+      "photo": "",
+      "text": "1: Windows search box မှ Snapping Tool လို့ရိုက်ရှာပြီး app ကိုဖွင့်လိုက်ပါ။ ပေါ်လာသော box မှာ New ကိုနှိပ်ပြီး မိမိ Screenshot ရိုက်လိုသောနေရာကို ဖိပြီး drag ဆွဲလိုက်ပါ။ ထို့နောက် File မှ Save as ကိုနှိပ်ကာမိမိ Save  လုပ်လို့ရပါတယ်။",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "",
+      "text": "2: Keyboard မှ Windows key နှင့် PrtScSysRq  သို့မဟုတ် PrtScn ကိုတွဲနှိပ်ပါ။ Screenshot ပုံကို Pictures >> Screenshots Folder ထဲတွင် ကြည့်နိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "",
+      "text": "3: Keyboard မှ PrtScSysRq သို့မဟုတ် PrtScn ကိုတချက်နှိပ်လိုက်ပါ။ ထို့နောက် မိမိတို့ဖွင့်ထားသော Microsoft Word , Microsoft Excel  , Photoshop,... အစရှိသည်တို့တွင်ထို screenshot ပုံကိုအသုံးပြုနိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    }
+  ]
+}
