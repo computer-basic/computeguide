@@ -1,0 +1,37 @@
+{
+  "question": "Taskbar ပေါ်တွင် software များတင်နည်းဖြုတ်နည်း",
+  "answer": [
+    {
+      "photo": "https://i.imgur.com/6k3ghLC.jpg",
+      "text": "ကွန်ပျူတာတွင် Widow logo ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/ZBMYdDP.jpg",
+      "text": "All apps ကိုရွေးပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/t2LVQxd.jpg",
+      "text": "မိမိ တင်ချင်သော software ပေါ်တွင် right click ထောက်ပြီး Pin to taskbar ကိုနှိပ်ပြီး software ကို taskbar ပေါ်တင်နိုင်ပါပြီ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/vqjJB7v.png",
+      "text": "Taskbar ပေါ်မှ software အားဖြုတ်လိုပါက software ပေါ်တွင် right click ထောက်ပြီး Unpin this program from taskbar ကိုနှိပ်ပြီး ဖြုတ်နိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "https://sendvid.com/unf5sy20",
+      "tutorialDesc": "video tutorial ကြည့်ရန်"
+    }
+  ]
+}
