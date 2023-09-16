@@ -1,0 +1,21 @@
+{
+  "question": "ကွန်ပျူတာတွင် Taskbar နေရာပြောင်းနည်း",
+  "answer": [
+    {
+      "photo": "https://i.imgur.com/vTtQJ8u.png",
+      "text": "Taskbar ပေါ်တွင် right click ထောက်ပြီး Taskbar settings ထဲဝင်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/SKc2BNS.png",
+      "text": "Taskbar location on screen တွင် မိမိ ပြောင်းချင်သောနေရာကိုရွေးပြီး Taskbar အားနောက်ပြောင်းနိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "https://sendvid.com/aygvlf5g",
+      "tutorialDesc": "video tutorial ကြည့်ရန်"
+    }
+  ]
+}
