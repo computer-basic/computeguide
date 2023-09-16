@@ -8,5 +8,15 @@
         "id": 2,
         "question": "ကွန်ပျူတာတွင် Screen ရိုက်နည်းများ",
         "image": ""
+    },
+    {
+        "id": 3,
+        "question": "ကွန်ပျူတာတွင် Taskbar နေရာပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "question": "Taskbar ပေါ်တွင် software များတင်နည်းဖြုတ်နည်း",
+        "image": ""
     }
 ]
