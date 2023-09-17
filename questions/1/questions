@@ -21,7 +21,22 @@
     },
     {
         "id": 5,
-        "question": "ကွန်ပျူတာမှာ This PC ပျောက်နေလျှင်ပြန်ဖော်နည်း",
+        "question": "ကွန်ပျူတာမှာ This PC ပျောက်နေလျှင် ပြန်ဖော်နည်း",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "question": "ကွန်ပျူတာ စဖွင့်ဖွင့်ချင်း Auto ပွင့်လာတဲ့ Software တွေကို ပိတ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "question": "ကွန်ပျူတာတွင် Software များဖျက်နည်း",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "question": "Window 10 တွင် System information ကြည့်နည်း",
         "image": ""
     }
 ]
