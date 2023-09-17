@@ -1,0 +1,21 @@
+{
+  "question": "ကွန်ပျူတာ စဖွင့်ဖွင့်ချင်း Auto ပွင့်လာတဲ့ Software တွေကို ပိတ်နည်း",
+  "answer": [
+    {
+      "photo": "https://i.imgur.com/LeC27KW.png",
+      "text": "ကွန်ပျူတာ Taskbar ပေါ်တွင် right click ထောက်ပြီး task manager ကိုနှိပ်ပါ (Keyboard မှ Ctrl+Shift+Esc ကိုနှိပ်ပြီးလဲ task manager ကိုဖွင့်နိုင်ပါသည်)",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/B1tfL1k.png",
+      "text": "Task manager မှ Startup ကိုရွေးပါ မိမိ ပိတ်လိုသော software ကိုရွေးပြီး Disable ကိုနှိပ်ပြီး ပိတ်နိုင်ပါသည် ပြန်ဖွင့်လို့ပါက Enable ကိုနှိပ်ပြီး ပြန်ဖွင့်နိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "https://sendvid.com/9dbjgmu8",
+      "tutorialDesc": "video tutorial ကြည့်ရန်"
+    }
+  ]
+}
