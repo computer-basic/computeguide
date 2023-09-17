@@ -1,0 +1,29 @@
+{
+  "question": "ကွန်ပျူတာမှာ This PC ပျောက်နေလျှင်ပြန်ဖော်နည်း",
+  "answer": [
+    {
+      "photo": "https://i.imgur.com/L37YU4N.png",
+      "text": "ကွန်ပျူတ Desktop ပေါ်တွင် Right Click ထောက်ပြီး Personalize ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/soE7vsc.png",
+      "text": "Theme ကိုရွေးပြီး Desktop icon settings ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/ayJSkcl.png",
+      "text": "Computer ကို အမှန်ခြစ် ခြစ်ပြီး Apply ကိုနှိပ်ပါ Ok ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    }
+  ]
+}
