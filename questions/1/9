@@ -1,0 +1,45 @@
+{
+  "question": "ကွန်ပျူတာ တွင် font အရွယ်အစား ပြောင်းနည်း",
+  "answer": [
+    {
+      "photo": "https://i.imgur.com/WBhcril.jpg",
+      "text": "ကွန်ပျူတာတွင် start menu ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/N1a40hp.jpg",
+      "text": "Setting ထဲသို့ဝင်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/o5WS4OV.png",
+      "text": "Ease of Access ထဲသို့ဝင်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/T1tnHS0.png",
+      "text": "Display ကိုရွေးပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/altZGjB.png",
+      "text": "မိမိ လိုချင်သော font size ကိုပြောင်းပြီး Apply နှိပ်ကာပြောင်းနိုင်ပါသည် Desktop ပေါ်မှ font size အား ပြောင်းလိုပါက 100% (Recommended) နေရာတွင်ပြောင်းနိုင်ပါသည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "https://sendvid.com/0yhf4q6v",
+      "tutorialDesc": "Video tutorial ကြည့်ရန်"
+    }
+  ]
+}
