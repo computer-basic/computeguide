@@ -6,7 +6,7 @@
     },
     {
         "id": 2,
-        "question": "ကွန်ပျူတာတွင် Screen ရိုက်နည်းများ",
+        "question": "ကွန်ပျူတာတွင် Screenshot ရိုက်နည်းများ",
         "image": ""
     },
     {
@@ -37,6 +37,16 @@
     {
         "id": 8,
         "question": "Window 10 တွင် System information ကြည့်နည်း",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "question": "ကွန်ပျူတာ တွင် font အရွယ်အစား ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "question": "ကွန်ပျူတာ Screen sleep time ပြောင်းနည်း",
         "image": ""
     }
 ]
