@@ -1,0 +1,45 @@
+{
+    "question": "ကွန်ပျူတာတွင် Software များဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/WBhcril.jpg",
+            "text": "ကွန်ပျူတာတွင် start menu ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/N1a40hp.jpg",
+            "text": "Setting ထဲသို့ဝင်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/OCgfoXT.jpg",
+            "text": "Apps ထဲသိ့ဝင်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/eBLokKe.jpg",
+            "text": "Apps & features ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/K5pLmT7.jpg",
+            "text": "မိမိ ဖျက်လိုသော software ကိုရွေးပြီး Uninstall ကိုနှိပ်ကာ ဖျက်နိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}
