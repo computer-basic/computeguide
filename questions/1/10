@@ -1,0 +1,37 @@
+{
+  "question": "ကွန်ပျူတာ Screen sleep time ပြောင်းနည်း",
+  "answer": [
+    {
+      "photo": "https://i.imgur.com/WBhcril.jpg",
+      "text": "ကွန်ပျူတာတွင် start menu ကိုနှိပ်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/N1a40hp.jpg",
+      "text": "Setting ထဲသို့ဝင်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/vooKoWW.png",
+      "text": "System ထဲသို့ဝင်ပါ",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.imgur.com/k09FCsW.jpg",
+      "text": "Power & Sleep ကိုနှိပ်ပါ On battery power သည် laptop battery နှင့်အသုံးပြုနေစဉ် screen ပိတ်မည့်အချိန်ဖြစ်ပြီး When plugged in သည် အားသွင်းကြိုး တပ်ထားစဉ် screen ပိတ်မည့်အချိန်ဖြစ်သည်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    }
+  ]
+}
