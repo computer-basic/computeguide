@@ -1410,22 +1410,10 @@
     "accessKey": "c2F3MjAwM3RoYW50emluQGdtYWlsLmNvbVhpYW9taWZpcmU="
   },
   {
-    "name": "Kaung Myat Khaing",
-    "expireDate": "17 Sep, 2023",
-    "level": 1,
-    "accessKey": "MDk5NDAwODU2MzBYaWFvbWlzZWxlbmU="
-  },
-  {
     "name": "aye kham nwet",
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3NzkzMTA2OFhpYW9taW1lcmxpbg=="
-  },
-  {
-    "name": "Htet Wai",
-    "expireDate": "17 Sep, 2023",
-    "level": 1,
-    "accessKey": "d2h0ZXQ3ODE0QGdtYWlsLmNvbVhpYW9taXNlbGVuZQ=="
   },
   {
     "name": "Ayenandar Nandar",
@@ -1444,12 +1432,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "YXllbWFraGlua2hpbkBnbWFpbC5jb212aXZvMTkyMA=="
-  },
-  {
-    "name": "Paing Thu Htet",
-    "expireDate": "18 Sep, 2023",
-    "level": 1,
-    "accessKey": "aHRldHA4Nzg2QGdtYWlsLmNvbXZpdm8yMDI3"
   },
   {
     "name": "Wai Phyo Aung",
@@ -1882,5 +1864,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "Y2h1ZXdhaW5haW5nQGdtYWlsLmNvbUhVQVdFSUhXUE9ULUg="
+  },
+  {
+    "name": "zaw min",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "emF3MzQ0MTg0QGdtYWlsLmNvbVhpYW9taWRhbmRlbGlvbg=="
   }
 ]
