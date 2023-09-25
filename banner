@@ -61,5 +61,14 @@
         "bookUrl": "",
         "bookName": "",
         "bookSize": ""
+    },
+    {
+        "image": "https://i.imgur.com/8MNrjVQ.png",
+        "type": 7,
+        "web": "",
+        "video": "",
+        "bookUrl": "",
+        "bookName": "",
+        "bookSize": ""
     }
 ]
