@@ -1,4 +1,4 @@
 {
     "watchLimit": 2,
-    "downloadLimit": 2
+    "downloadLimit": 1
 }
