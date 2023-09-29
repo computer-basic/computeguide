@@ -1,0 +1,53 @@
+{
+    "question": "ကွန်ပျူတာ စတင်လေ့လာမည့်သူများအတွက် လမ်းညွှန်",
+    "answer": [
+        {
+            "photo": "",
+            "text": "မဖြစ်မနေ လေ့လာသင့်သော သင်ခန်းစာများ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Computer Basic\nMicrosoft Word\nMicrosoft Excel\nMicrosoft Powerpoint\nComputer Knowledge ထဲမှ Widnow နှင့်သက်ဆိုင်သော သင်ခန်းစာ တချို့ကိုလဲ လေ့လာသင့်သည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "စိတ်ဝင်စားလျှင် လေ့လာသင့်သော သင်ခန်းစာများ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Photoshop\nPremium Pro\nIllustrator\nPagemaker",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Programming အတွက်သင်ခန်းစာများ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "HTML\nPHP\nPython",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}
