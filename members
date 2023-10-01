@@ -1,13 +1,13 @@
 [
     {
       "name": "Testing LV1",
-      "expireDate": "30 Sep, 2023",
+      "expireDate": "30 Dec, 2023",
       "level": 1,
       "accessKey": "bGVlc2h3ZTF1bmtub3duZ2VuZXJpY194ODY="
     },
     {
       "name": "Testing LV2",
-      "expireDate": "30 Sep, 2023",
+      "expireDate": "30 Dec, 2023",
       "level": 2,
       "accessKey": "bGVlc2h3ZTJ1bmtub3duZ2VuZXJpY194ODY="
     },
@@ -1978,5 +1978,11 @@
       "expireDate": "31 Oct, 2023",
       "level": 1,
       "accessKey": "MDk0MjMyMzEzNzFURUNOT01PQklMRUxJTUlURURURUNOTy1LQjJq"
+    },
+    {
+      "name": "Paing Chit",
+      "expireDate": "-",
+      "level": 3,
+      "accessKey": "MDkyNjg4NTI3ODhIVUFXRUlIV0VNTA=="
     }
   ]
