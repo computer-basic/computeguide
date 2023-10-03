@@ -40,5 +40,12 @@
     "description": "You have been banned from MM Computer Guide",
     "model": "TECNO-LD7",
     "name": "Phyo Zaw Hein"
+  },
+  {
+    "brand": "HUAWEI",
+    "code": "e3b85d52cda5ca02",
+    "description": "You have been banned from MM Computer Guide",
+    "model": "HWSTK-HF",
+    "name": "Khin Cho Cho Khaing"
   }
 ]
