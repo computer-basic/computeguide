@@ -65,8 +65,15 @@
   {
     "brand": "realme",
     "code": "6171b0715a3d7d27",
-    "description": "",
+    "description": "You have been banned from MM Computer Guide",
     "model": "RE50BF",
     "name": "Naw Ah Po"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "34a225efd37d3c08",
+    "description": "You have been banned from MM Computer Guide",
+    "model": "ysl",
+    "name": "Phyo Thi Ha"
   }
 ]
