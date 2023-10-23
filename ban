@@ -75,5 +75,12 @@
     "description": "You have been banned from MM Computer Guide",
     "model": "ysl",
     "name": "Phyo Thi Ha"
+  },
+  {
+    "brand": "HUAWEI",
+    "code": "7d07a19cd0f8c55d",
+    "description": "",
+    "model": "HWEVE-H",
+    "name": "Tinlay Nwe"
   }
 ]
