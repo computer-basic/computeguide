@@ -96,5 +96,19 @@
     "description": "",
     "model": "OP4EFDL1",
     "name": "thi"
+  },
+  {
+    "brand": "TECNO MOBILE LIMITED",
+    "code": "4f22c80fe5f01eb7",
+    "description": "",
+    "model": "TECNO-LD7",
+    "name": "Tin Lin Kyaw"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "3c32a2b279ac597e",
+    "description": "",
+    "model": "veux",
+    "name": "Zinko"
   }
 ]
