@@ -1032,24 +1032,6 @@
     "accessKey": "bW9ubGlnaHQ0MjQzQGdtYWlsLmNvbVRFQ05PVEVDTk8tTEc4bg=="
   },
   {
-    "name": "Khin Than May",
-    "expireDate": "28 Oct, 2023",
-    "level": 2,
-    "accessKey": "Kzk1MDk0NTY2MzAyODhyZWFsbWVSRTUwQkY="
-  },
-  {
-    "name": "Khaing Thazin May",
-    "expireDate": "28 Oct, 2023",
-    "level": 2,
-    "accessKey": "a2hhaW5ndGhhemlubWF5N0BnbWFpbC5jb21zYW1zdW5nYTcx"
-  },
-  {
-    "name": "Naing Min",
-    "expireDate": "28 Oct, 2023",
-    "level": 2,
-    "accessKey": "MDk2NzQ4MDUwMDNYaWFvbWl2ZXV4"
-  },
-  {
     "name": "Ma kyi su han",
     "expireDate": "-",
     "level": 3,
@@ -2518,5 +2500,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "aGFuemF3dHVucmVhbGNyN0BnbWFpbC5jb21YaWFvbWlzZWxlbmU="
+  },
+  {
+    "name": "SattPyThein",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "b29uZ2FoZWluMjE0QGdtYWlsLmNvbXNhbXN1bmdjMXE="
   }
 ]
