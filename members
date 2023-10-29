@@ -2542,5 +2542,11 @@
     "expireDate": "30 Jan, 2024",
     "level": 2,
     "accessKey": "bHV0aGFyNzk0QGdtYWlsLmNvbXNhbXN1bmdhMjN4cQ=="
+  },
+  {
+    "name": "Chit ko ko",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk0MzA2ODQ0MEhPTk9SSE5STU8tUQ=="
   }
 ]
