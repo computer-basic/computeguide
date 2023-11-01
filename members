@@ -2566,5 +2566,11 @@
     "expireDate": "2 Dec, 2023",
     "level": 1,
     "accessKey": "YXVuZ2t5YXduYWluZzEyM3R0QGdtYWlsLmNvbU9uZVBsdXNPUDUzNURMMQ=="
+  },
+  {
+    "name": "Moses",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bW9zZXNiYXdpam1AZ21haWwuY29tdml2bzIwMjc="
   }
 ]
