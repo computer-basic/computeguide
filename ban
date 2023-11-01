@@ -124,5 +124,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "OP4F2F",
     "name": "Phune Phune thwe"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "07772fe2caef7ef8",
+    "description": "You have been banned from MM Computer Guide",
+    "model": "yuechu",
+    "name": "Hnin Ei Mon"
   }
 ]
