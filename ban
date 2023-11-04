@@ -135,8 +135,15 @@
   {
     "brand": "Xiaomi",
     "code": "33695f82e2736e6f",
-    "description": "",
+    "description": "You have been restricted from MM Computer Guide",
     "model": "phoenix",
     "name": "Hsu Lai Yin Mon"
+  },
+  {
+    "brand": "OPPO",
+    "code": "498e8ade2d89de49",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "OP4F97",
+    "name": "kowaizin"
   }
 ]
