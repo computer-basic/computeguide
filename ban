@@ -145,5 +145,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "OP4F97",
     "name": "kowaizin"
+  },
+  {
+    "brand": "vivo",
+    "code": "003f505123442d55",
+    "description": "You have been banned from MM Computer Guide",
+    "model": "2027",
+    "name": "wi ra"
   }
 ]
