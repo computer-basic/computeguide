@@ -1050,12 +1050,6 @@
     "accessKey": "MDk2NjU3OTc2NjZIVUFXRUlIV0xZQQ=="
   },
   {
-    "name": "Nyein Chan Aung",
-    "expireDate": "5 Nov, 2023",
-    "level": 2,
-    "accessKey": "MDk2OTIyMzU2MjRzYW1zdW5nYTIw"
-  },
-  {
     "name": "THANT ZIN AUNG",
     "expireDate": "-",
     "level": 3,
@@ -1828,18 +1822,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "YXVuZ2F1bmcuYXVnLjIwMTVAZ21haWwuY29tWGlhb21pZ2lua2dv"
-  },
-  {
-    "name": "Zaw Phyo Aung",
-    "expireDate": "5 Nov, 2023",
-    "level": 1,
-    "accessKey": "emF3OTE3ODEzQGdtYWlsLmNvbVhpYW9taXBpc3NhcnJv"
-  },
-  {
-    "name": "ZAW ZAW",
-    "expireDate": "5 Nov, 2023",
-    "level": 1,
-    "accessKey": "MDk0MjEwOTQ4NDZzYW1zdW5nb243eGVsdGU="
   },
   {
     "name": "အရွင္ဉာဏိႆရ",
@@ -2644,5 +2626,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3NzMzNTk2MzBYaWFvbWlhdG9t"
+  },
+  {
+    "name": "khinmaungwin",
+    "expireDate": "6 Dec, 2023",
+    "level": 1,
+    "accessKey": "MDk2OTQ0MzU0ODNIVUFXRUlIV01BUg=="
   }
 ]
