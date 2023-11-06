@@ -2650,5 +2650,11 @@
     "expireDate": "7 Dec, 2023",
     "level": 1,
     "accessKey": "cHlhZTcyNTUzQGdtYWlsLmNvbVRFQ05PTU9CSUxFTElNSVRFRFRFQ05PLUtFNWo="
+  },
+  {
+    "name": "A Thu rein",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk3NzU0MjA2MDdJVEVMaXRlbC1TNjY1TA=="
   }
 ]
