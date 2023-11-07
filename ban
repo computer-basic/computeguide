@@ -159,5 +159,12 @@
     "description": "You have been banned from MM Computer Guide",
     "model": "TECNO-LD7",
     "name": "Maung Soe Naing"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "7e98ec973d16ceb1",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "tiffany",
+    "name": "ka law"
   }
 ]
