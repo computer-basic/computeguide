@@ -1,4 +1,6 @@
 {
     "watchLimit": 2,
-    "downloadLimit": 1
+    "downloadLimit": 1,
+    "lvl1WatchLimit": 3,
+    "lvl1DownloadLimit": 2
 }
