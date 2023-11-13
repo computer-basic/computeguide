@@ -180,5 +180,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "phoenixin",
     "name": "HW"
+  },
+  {
+    "brand": "vivo",
+    "code": "c70af14609655476",
+    "description": "",
+    "model": "V2207",
+    "name": "Thawtar"
   }
 ]
