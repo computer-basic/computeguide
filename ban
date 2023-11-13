@@ -173,5 +173,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "garnet",
     "name": "yamin"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "40ded050d0411617",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "phoenixin",
+    "name": "HW"
   }
 ]
