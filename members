@@ -1962,28 +1962,10 @@
     "accessKey": "enRwLnBnbWZAZ21haWwuY29tT1BQT09QNEYyRg=="
   },
   {
-    "name": "Saw Char Lie",
-    "expireDate": "14 Nov, 2023",
-    "level": 1,
-    "accessKey": "MDk0NTgwNjU5MzJyZWFsbWVSRUNFNDI0NA=="
-  },
-  {
     "name": "phyo thu",
     "expireDate": "-",
     "level": 3,
     "accessKey": "cGh5b3RodXNhaTE5OTZAZ21haWwuY29tc2Ftc3VuZ2IycQ=="
-  },
-  {
-    "name": "Cho Lwin Zaw",
-    "expireDate": "14 Nov, 2023",
-    "level": 1,
-    "accessKey": "MDk3ODEwMzcxNzVURUNOT01PQklMRUxJTUlURURURUNOTy1MRDc="
-  },
-  {
-    "name": "Zue Zue Zan",
-    "expireDate": "14 Nov, 2023",
-    "level": 1,
-    "accessKey": "MDg3ODYxNTEyNzdYaWFvbWlwaWNhc3Nv"
   },
   {
     "name": "Lin Htet",
@@ -2752,5 +2734,11 @@
     "expireDate": "14 Feb, 2024",
     "level": 2,
     "accessKey": "MDk5NjA4ODc0NTVYaWFvbWlhbWJlcg=="
+  },
+  {
+    "name": "Su Latt Phyu",
+    "expireDate": "15 Dec, 2023",
+    "level": 1,
+    "accessKey": "MDk0NDA3MTQzMjR2aXZvMTgwNw=="
   }
 ]
