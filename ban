@@ -191,8 +191,22 @@
   {
     "brand": "TECNO MOBILE LIMITED",
     "code": "e9b3f1a3bd1f0726",
-    "description": "",
+    "description": "You have been restricted from MM Computer Guide",
     "model": "TECNO-KG5k",
     "name": "Lwin Mar Oo"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "06a859b81d1a1448",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "merlin",
+    "name": "Myo Min Thu "
+  },
+  {
+    "brand": "HUAWEI",
+    "code": "102db0205a0bb347",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "HWARS-Q",
+    "name": "Ashinzargara"
   }
 ]
