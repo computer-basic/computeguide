@@ -2770,5 +2770,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDYxNzg3OTUyN3JlYWxtZVJFNTRFMkwx"
+  },
+  {
+    "name": "CHIN",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "dHVudGhhcm15b21lZW5AZ21haWwuY29tT1BQT09QNEYyRg=="
   }
 ]
