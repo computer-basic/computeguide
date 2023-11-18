@@ -222,5 +222,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "lisa",
     "name": "Xiao Shan"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "d6322ab6a2a81a44",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "chopin",
+    "name": "Ma Ei Phyo Zin"
   }
 ]
