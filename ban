@@ -222,5 +222,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "lisa",
     "name": "Xiao Shan"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "3f795b6c1b52c986",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့်ပိတ်လိုက်ပါပြီ",
+    "model": "lime",
+    "name": "1"
   }
 ]
