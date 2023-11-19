@@ -229,5 +229,26 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့်ပိတ်လိုက်ပါပြီ",
     "model": "lime",
     "name": "1"
+  },
+  {
+    "brand": "OPPO",
+    "code": "adcaf6bc01f724e2",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "OP4E59",
+    "name": "Sumlut Kai"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "b676d477ede2fe1f",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "platina",
+    "name": "ThanvHtun"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "c5b2423805e37829",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "mona",
+    "name": "Hnin Cherry"
   }
 ]
