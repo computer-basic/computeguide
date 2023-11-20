@@ -2106,12 +2106,6 @@
     "accessKey": "MDk0MDE0MTM3NDZPUFBPT1A0RjJG"
   },
   {
-    "name": "Thiri",
-    "expireDate": "20 Nov, 2023",
-    "level": 1,
-    "accessKey": "dGhpcmltNTk2QGdtYWlsLmNvbXZpdm9WMjIzNg=="
-  },
-  {
     "name": "Shwe Yi Thoon Phyo",
     "expireDate": "20 Jan, 2024",
     "level": 2,
@@ -2890,5 +2884,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk5NDM4MzU5NzNYaWFvbWlzZWxlbmU="
+  },
+  {
+    "name": "uwar",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk3Nzc3MDMzNDBYaWFvbWlnaW5rZ28="
   }
 ]
