@@ -243,5 +243,19 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "OP5637L1",
     "name": "Kyaw Aung Naing "
+  },
+  {
+    "brand": "samsung",
+    "code": "a219df40c63bd45e",
+    "description": "",
+    "model": "a21s",
+    "name": "Saw Jack"
+  },
+  {
+    "brand": "realme",
+    "code": "fb4bf08e8350cc47",
+    "description": "",
+    "model": "RE50BF",
+    "name": "Ei Mon Tun"
   }
 ]
