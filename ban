@@ -243,5 +243,33 @@
     "description": "",
     "model": "a21s",
     "name": "Saw Jack"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "85ee5f0ffbcbff18",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "merlin",
+    "name": "Mg Min Than Oo"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "08abc13caa9bc1c0",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "camellia",
+    "name": "Pearl Yin Hlaing"
+  },
+  {
+    "brand": "HUAWEI",
+    "code": "bb1f805648823a1d",
+    "description": "You have been restricted from MM Computer Guide",
+    "model": "HWMED-MR",
+    "name": "Ma Aye Aye Thin"
+  },
+  {
+    "brand": "samsung",
+    "code": "196f50854ab98480",
+    "description": "",
+    "model": "a32",
+    "name": "Thiha aung soe"
   }
 ]
