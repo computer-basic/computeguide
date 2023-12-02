@@ -264,5 +264,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "pine",
     "name": "Lin htet kyaw "
+  },
+  {
+    "brand": "blackshark",
+    "code": "8c7be1632126d76e",
+    "description": "",
+    "model": "kaiser-os",
+    "name": "Yan Paing Htet "
   }
 ]
