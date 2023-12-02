@@ -1326,12 +1326,6 @@
     "accessKey": "bGljb25zaTM3MkBnbWFpbC5jb212aXZvMjAzNA=="
   },
   {
-    "name": "Thet Htwe",
-    "expireDate": "2 Dec, 2023",
-    "level": 2,
-    "accessKey": "MDk2NzE0NDc1NTVPbmVQbHVzT1A1MTZGTDE="
-  },
-  {
     "name": "Ashin Thu kha va ra",
     "expireDate": "4 Dec, 2023",
     "level": 2,
@@ -2250,12 +2244,6 @@
     "accessKey": "MDk0MjUwOTQ5ODBPUFBPT1A1MjYz"
   },
   {
-    "name": "Aung Kyaw Naing",
-    "expireDate": "2 Dec, 2023",
-    "level": 1,
-    "accessKey": "YXVuZ2t5YXduYWluZzEyM3R0QGdtYWlsLmNvbU9uZVBsdXNPUDUzNURMMQ=="
-  },
-  {
     "name": "Moses",
     "expireDate": "-",
     "level": 3,
@@ -3106,5 +3094,11 @@
     "expireDate": "2 Jan, 2024",
     "level": 1,
     "accessKey": "MDk2NjI4ODU5MjhYaWFvbWlwaW5l"
+  },
+  {
+    "name": "Mg Khay",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bWdraGF5NkBnbWFpbC5jb21YaWFvbWlwbGF0aW5h"
   }
 ]
