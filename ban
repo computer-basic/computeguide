@@ -285,5 +285,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "veux",
     "name": "Mg Nyi Naung htun"
+  },
+  {
+    "brand": "samsung",
+    "code": "bbf47cf49a4e91ec",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "a20s",
+    "name": "Thazin Moe"
   }
 ]
