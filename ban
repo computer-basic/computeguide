@@ -292,5 +292,19 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "a20s",
     "name": "Thazin Moe"
+  },
+  {
+    "brand": "vivo",
+    "code": "cce191662f91afb2",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "2111",
+    "name": "Thae Mg "
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "a90815702ffb7955",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "olive",
+    "name": "thuthu"
   }
 ]
