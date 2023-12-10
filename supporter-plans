@@ -1,0 +1,64 @@
+[
+  {
+    "plan": "၁ လ",
+    "amount": "4000 MMK",
+    "discountAmount": "",
+    "features": [
+      {
+        "icon": "https://i.imgur.com/Gf5cORs.png",
+        "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/WCD2j7U.png",
+        "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/USYsEOB.png",
+        "description": "Internet မရှိဘဲ offline အသုံးပြုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/9aBhQHE.png",
+        "description": "ကြော်ညာများမမြင်ရခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/epbOdMl.png",
+        "description": "မြန်မာစာ Typing, ကွန်ပြူတာအမေးအဖြေ နှင့် တခြားသီးသန့် function များ (Supporter 3လ နှင့် တစ်သက်တာ သမားများအတွက်သာ)"
+      },
+      {
+        "icon": "https://i.imgur.com/OfooxoC.png",
+        "description": "MM Computer Guide အားကူညီထောက်ပံ့ရာရောက်ခြင်း"
+      }
+    ]
+  },
+  {
+    "plan": "၃ လ",
+    "amount": "8000 MMK",
+    "discountAmount": "",
+    "features": [
+      {
+        "icon": "https://i.imgur.com/Gf5cORs.png",
+        "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/WCD2j7U.png",
+        "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/USYsEOB.png",
+        "description": "Internet မရှိဘဲ offline အသုံးပြုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/9aBhQHE.png",
+        "description": "ကြော်ညာများမမြင်ရခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/epbOdMl.png",
+        "description": "မြန်မာစာ Typing, ကွန်ပြူတာအမေးအဖြေ နှင့် တခြားသီးသန့် function များ (Supporter 3လ နှင့် တစ်သက်တာ သမားများအတွက်သာ)"
+      },
+      {
+        "icon": "https://i.imgur.com/OfooxoC.png",
+        "description": "MM Computer Guide အားကူညီထောက်ပံ့ရာရောက်ခြင်း"
+      }
+    ]
+  }
+]
