@@ -17,7 +17,7 @@
         "description": "Offline အသုံးပြုနိုင်ခြင်း"
       },
       {
-        "icon": "https://i.imgur.com/pz7PGz1.png",
+        "icon": "https://i.imgur.com/y99X82J.png",
         "description": "ကြော်ညာများမမြင်ရခြင်း"
       },
       {
@@ -32,27 +32,31 @@
     "discountAmount": "6000 MMK",
     "features": [
       {
-        "icon": "https://i.imgur.com/Gf5cORs.png",
+        "icon": "https://i.imgur.com/Tq9Ud3r.png",
         "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
       },
       {
-        "icon": "https://i.imgur.com/WCD2j7U.png",
+        "icon": "https://i.imgur.com/XmVBfht.png",
         "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
       },
       {
-        "icon": "https://i.imgur.com/USYsEOB.png",
-        "description": "Internet မရှိဘဲ offline အသုံးပြုနိုင်ခြင်း"
+        "icon": "https://i.imgur.com/cYYz3ct.png",
+        "description": "Offline အသုံးပြုနိုင်ခြင်း"
       },
       {
-        "icon": "https://i.imgur.com/9aBhQHE.png",
+        "icon": "https://i.imgur.com/y99X82J.png",
         "description": "ကြော်ညာများမမြင်ရခြင်း"
       },
       {
-        "icon": "https://i.imgur.com/epbOdMl.png",
-        "description": "မြန်မာစာ Typing, ကွန်ပြူတာအမေးအဖြေ နှင့် တခြားသီးသန့် function များ (Supporter 3လ နှင့် တစ်သက်တာ သမားများအတွက်သာ)"
+        "icon": "https://i.imgur.com/pU3eLQy.png",
+        "description": "မြန်မာစာ Typing"
       },
       {
-        "icon": "https://i.imgur.com/OfooxoC.png",
+        "icon": "https://i.imgur.com/pWgcRLg.png",
+        "description": "ကွန်ပြူတာအမေးအဖြေ"
+      },
+      {
+        "icon": "https://i.imgur.com/tFyIKgS.png",
         "description": "MM Computer Guide အားကူညီထောက်ပံ့ရာရောက်ခြင်း"
       }
     ]
