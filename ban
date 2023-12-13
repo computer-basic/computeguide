@@ -320,5 +320,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "veux",
     "name": "Hein Min Thu"
+  },
+  {
+    "brand": "samsung",
+    "code": "061c743f352ee498",
+    "description": "",
+    "model": "a13",
+    "name": "Hsu Shin Thant"
   }
 ]
