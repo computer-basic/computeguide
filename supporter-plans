@@ -1,7 +1,7 @@
 [
   {
-    "plan": "၁ လ",
-    "amount": "4000 MMK",
+    "plan": "၁ လ (၃၀ ရက်)",
+    "amount": "4,000 MMK",
     "discountAmount": "",
     "features": [
       {
@@ -27,9 +27,79 @@
     ]
   },
   {
-    "plan": "၃ လ",
-    "amount": "8000 MMK",
-    "discountAmount": "6000 MMK",
+    "plan": "၃ လ (၉၀ ရက်)",
+    "amount": "8,000 MMK",
+    "discountAmount": "",
+    "features": [
+      {
+        "icon": "https://i.imgur.com/Tq9Ud3r.png",
+        "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/XmVBfht.png",
+        "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/cYYz3ct.png",
+        "description": "Offline အသုံးပြုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/y99X82J.png",
+        "description": "ကြော်ညာများမမြင်ရခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/pU3eLQy.png",
+        "description": "မြန်မာစာ Typing"
+      },
+      {
+        "icon": "https://i.imgur.com/pWgcRLg.png",
+        "description": "ကွန်ပြူတာအမေးအဖြေ"
+      },
+      {
+        "icon": "https://i.imgur.com/tFyIKgS.png",
+        "description": "MM Computer Guide အားကူညီထောက်ပံ့ရာရောက်ခြင်း"
+      }
+    ]
+  },
+  {
+    "plan": "တစ်နှစ် (၃၆၅ ရက်)",
+    "amount": "15,000 MMK",
+    "discountAmount": "",
+    "features": [
+      {
+        "icon": "https://i.imgur.com/Tq9Ud3r.png",
+        "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/XmVBfht.png",
+        "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/cYYz3ct.png",
+        "description": "Offline အသုံးပြုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/y99X82J.png",
+        "description": "ကြော်ညာများမမြင်ရခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/pU3eLQy.png",
+        "description": "မြန်မာစာ Typing"
+      },
+      {
+        "icon": "https://i.imgur.com/pWgcRLg.png",
+        "description": "ကွန်ပြူတာအမေးအဖြေ"
+      },
+      {
+        "icon": "https://i.imgur.com/tFyIKgS.png",
+        "description": "MM Computer Guide အားကူညီထောက်ပံ့ရာရောက်ခြင်း"
+      }
+    ]
+  },
+  {
+    "plan": "တစ်သက်တာ (Lifetime)",
+    "amount": "30,000 MMK",
+    "discountAmount": "23,000 MMK",
     "features": [
       {
         "icon": "https://i.imgur.com/Tq9Ud3r.png",
