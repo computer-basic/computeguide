@@ -3328,5 +3328,11 @@
     "expireDate": "14 Mar, 2024",
     "level": 2,
     "accessKey": "MDk4OTA2NzAwOTRURUNOT01PQklMRUxJTUlURURURUNOTy1MQzc="
+  },
+  {
+    "name": "Khaipi",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "Z25raGFpcGlAZ21haWwuY29tWGlhb21pb2xpdmU="
   }
 ]
