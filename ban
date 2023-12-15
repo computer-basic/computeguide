@@ -334,5 +334,12 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "TECNO-LC8",
     "name": "Min Khant Nyi Nyi"
+  },
+  {
+    "brand": "INFINIX",
+    "code": "a52711897f38950e",
+    "description": "",
+    "model": "Infinix-X670",
+    "name": "MinMinNaing "
   }
 ]
