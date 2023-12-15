@@ -40,6 +40,18 @@
     "message": "OTG ကိုအသုံးပြု၍ ဖုန်း နှင့် Keyboard ချိတ်ဆက်ပြီး Typing လေ့ကျင့်နိုင်ပါပြီ"
   },
   {
+    "viewId": "supporter_submitted",
+    "message": "Supporter ဖြည့်သွင်းပြီးပါပြီ"
+  },
+  {
+    "viewId": "get_supporter",
+    "message": "Supporter ဝင်ရန်"
+  },
+  {
+    "viewId": "how_to_get_supporter",
+    "message": "Supporter ဝင်နည်း"
+  },
+  {
     "viewId": "payment_message",
     "message": "Supporter ငွေလွှဲရန်အတွက် ဆက်သွယ်ရန်"
   }
