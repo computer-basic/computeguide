@@ -1,6 +1,6 @@
 [
   {
-    "plan": "၁ လ (၃၀ ရက်)",
+    "plan": "၁ လ (1 Month)",
     "amount": "4,000 MMK",
     "discountAmount": "",
     "features": [
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "plan": "၃ လ (၉၀ ရက်)",
+    "plan": "၃ လ (3 Months)",
     "amount": "8,000 MMK",
     "discountAmount": "",
     "features": [
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "plan": "တစ်နှစ် (၃၆၅ ရက်)",
+    "plan": "တစ်နှစ် (1 Year)",
     "amount": "15,000 MMK",
     "discountAmount": "",
     "features": [
