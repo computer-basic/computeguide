@@ -366,8 +366,15 @@
   {
     "brand": "Xiaomi",
     "code": "238b26e0af6d63e6",
-    "description": "",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "lime",
     "name": "Zay Yar Naing"
+  },
+  {
+    "brand": "TECNO MOBILE LIMITED",
+    "code": "bdd1b0e0917b25bc",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "TECNO-LD7",
+    "name": "Soe Moe Naing "
   }
 ]
