@@ -3376,5 +3376,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "bWludGhpYWhhNzYwQGdtYWlsLmNvbXNhbXN1bmdhMzI="
+  },
+  {
+    "name": "Zinko",
+    "expireDate": "19 Jan, 2024",
+    "level": 1,
+    "accessKey": "dGhlZm9vbDM0NTZAZ21haWwuY29tWGlhb21pdGFwYXM="
   }
 ]
