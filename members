@@ -3490,5 +3490,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "dmFuYmF3aXJlbTYwQGdtYWlsLmNvbXZpdm8yMDE1"
+  },
+  {
+    "name": "Rot",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "Y2hhblhpYW9taWNhbm5vbmc="
   }
 ]
