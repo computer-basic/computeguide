@@ -3526,5 +3526,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "bW9ldGh1MzA3NDBAZ21haWwuY29tWGlhb21pZ2F1Z3VpbmlucHJv"
+  },
+  {
+    "name": "Naw Tawng",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bmRhdW5hd3Rhd25nQGdtYWlsLmNvbVhpYW9taXN3ZWV0"
   }
 ]
