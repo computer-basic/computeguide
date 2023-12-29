@@ -1,13 +1,13 @@
 [
   {
     "name": "Testing LV1",
-    "expireDate": "30 Dec, 2023",
+    "expireDate": "30 Dec, 2024",
     "level": 1,
     "accessKey": "bGVlc2h3ZTF1bmtub3duZ2VuZXJpY194ODY="
   },
   {
     "name": "Testing LV2",
-    "expireDate": "30 Dec, 2023",
+    "expireDate": "30 Dec, 2024",
     "level": 2,
     "accessKey": "bGVlc2h3ZTJ1bmtub3duZ2VuZXJpY194ODY="
   },
