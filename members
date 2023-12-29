@@ -3622,5 +3622,11 @@
     "expireDate": "30 Jan, 2024",
     "level": 1,
     "accessKey": "c3VuYW5kYXJodHVuNDhAZ21haWwuY29tWGlhb21pZGFuZGVsaW9u"
+  },
+  {
+    "name": "Mg Myo That Paing",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk4ODIxMDIyMTBYaWFvbWlzcGVz"
   }
 ]
