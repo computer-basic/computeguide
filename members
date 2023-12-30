@@ -1500,12 +1500,6 @@
     "accessKey": "MDk3NjU1Nzg1MTBYaWFvbWlmaXJl"
   },
   {
-    "name": "Aye Thinzar",
-    "expireDate": "30 Dec, 2023",
-    "level": 2,
-    "accessKey": "MDk5NzYzNDIxNzByZWFsbWVSRTUwQzE="
-  },
-  {
     "name": "U Naing Tun",
     "expireDate": "-",
     "level": 3,
@@ -1524,12 +1518,6 @@
     "accessKey": "aHN1cHlhZW55bzIwMDFAZ21haWwuY29tcmVhbG1lUkU1ODg3"
   },
   {
-    "name": "Paing Thu Htet ",
-    "expireDate": "30 Dec, 2023",
-    "level": 2,
-    "accessKey": "MDk3Nzc1NDM4NDh2aXZvMjAyNw=="
-  },
-  {
     "name": "ASAW",
     "expireDate": "-",
     "level": 3,
@@ -1540,12 +1528,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDkyNjA3NzI0MTFzYW1zdW5nYTczeHE="
-  },
-  {
-    "name": "Htet Phyo Wai",
-    "expireDate": "30 Dec, 2023",
-    "level": 2,
-    "accessKey": "MDk5NjE4MTgzNTRYaWFvbWltZXJsaW4="
   },
   {
     "name": "Shinehtet ko",
@@ -3646,5 +3628,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk5NjEwMDA2OTF2aXZvVjIyMDc="
+  },
+  {
+    "name": "phyu moh moh zaw",
+    "expireDate": "31 Jan, 2024",
+    "level": 1,
+    "accessKey": "MDk3OTMxMDAxMDVPUFBPT1A0Rjk3"
   }
 ]
