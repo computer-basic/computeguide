@@ -411,5 +411,19 @@
     "description": "You have been restricted from MM Computer Guide",
     "model": "Infinix-X678B",
     "name": "SWAM ZAY HTET"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "ad97d614bb718b6c",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "merlin",
+    "name": "NyeinNyeinSoe "
+  },
+  {
+    "brand": "TECNO MOBILE LIMITED",
+    "code": "20eea5d643d06fca",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "TECNO-BD4",
+    "name": "Hnin Yu Wai"
   }
 ]
