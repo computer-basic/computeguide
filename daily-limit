@@ -1,5 +1,5 @@
 {
-    "watchLimit": 1,
+    "watchLimit": 3,
     "downloadLimit": 1,
     "lvl1WatchLimit": 3,
     "lvl1DownloadLimit": 2
