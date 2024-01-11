@@ -21,7 +21,7 @@
   },
   {
     "viewId": "daily_download_limit",
-    "message": "တနေ့တာ download လုပ်ခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ download လုပ်လိုက်ပါ"
+    "message": "Supporter ဝင်ထားသူများသာ သင်ခန်းစာများကို Download လုပ်နိုင်ပါသည်"
   },
   {
     "viewId": "daily_play_limit",
