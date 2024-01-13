@@ -474,5 +474,26 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "OP4C51L1",
     "name": ""
+  },
+  {
+    "brand": "INFINIX",
+    "code": "b99c20e65b6c6ea5",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "Infinix-X6831",
+    "name": "Ngun Lian Sang"
+  },
+  {
+    "brand": "ITEL",
+    "code": "b1c467dfce39afb6",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "itel-P662L",
+    "name": "Htet Wai Aung "
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "50aacfe9d4ec56a9",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "pissarro",
+    "name": "min htet"
   }
 ]
