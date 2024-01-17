@@ -1788,18 +1788,6 @@
     "accessKey": "MDk3Njk5NTI0MjJIVUFXRUlIV0pLTS1I"
   },
   {
-    "name": "aye thida moe",
-    "expireDate": "17 Jan, 2024",
-    "level": 2,
-    "accessKey": "MDk5NjQ2MjA0NjNIVUFXRUlIV0NEWQ=="
-  },
-  {
-    "name": "Htoo Myat Pyae Sone",
-    "expireDate": "17 Jan, 2024",
-    "level": 2,
-    "accessKey": "aHRvb3B5YWVzb25lMTU1QGdtYWlsLmNvbVhpYW9taXN1bnN0b25l"
-  },
-  {
     "name": "Zaw Myo Win",
     "expireDate": "-",
     "level": 3,
@@ -1816,12 +1804,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "bGF3bXRoYXJpNzgyQGdtYWlsLmNvbU9QUE9PUDRGMkY="
-  },
-  {
-    "name": "Hnin Pyae Sone",
-    "expireDate": "17 Jan, 2024",
-    "level": 2,
-    "accessKey": "aG5pbnB5YWVzb25lb283OUBnbWFpbC5jb21YaWFvbWlkYW5kZWxpb24="
   },
   {
     "name": "John wick",
@@ -3054,18 +3036,6 @@
     "accessKey": "MDk0NDQ0MjgwNDhPUFBPUEJBTTAw"
   },
   {
-    "name": "winminaung",
-    "expireDate": "17 Jan, 2024",
-    "level": 1,
-    "accessKey": "MDkyNTgyNzMxMThYaWFvbWliZWdvbmlh"
-  },
-  {
-    "name": "U Kan Hlaing",
-    "expireDate": "17 Jan, 2024",
-    "level": 1,
-    "accessKey": "MDk3NjE4ODA4OTdYaWFvbWltZXJsaW4="
-  },
-  {
     "name": "siya",
     "expireDate": "17 Mar, 2024",
     "level": 2,
@@ -3796,5 +3766,11 @@
     "expireDate": "17 Apr, 2024",
     "level": 2,
     "accessKey": "MDk3OTkwNjcyMnNhbXN1bmdhNTN4"
+  },
+  {
+    "name": "SWAM ZAY HTET",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "c3dhbnpheWh0ZXQyOEBnbWFpbC5jb21JTkZJTklYSW5maW5peC1YNjc4Qg=="
   }
 ]
