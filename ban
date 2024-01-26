@@ -544,5 +544,19 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "V2237",
     "name": "Myat Thu Aung"
+  },
+  {
+    "brand": "samsung",
+    "code": "0f44beab61a903cc",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "a12",
+    "name": "Myo Kyaw Kyaw"
+  },
+  {
+    "brand": "HUAWEI",
+    "code": "7018ae33be4e428b",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "HWBG2",
+    "name": "theinzawlatt"
   }
 ]
