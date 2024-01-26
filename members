@@ -1878,12 +1878,6 @@
     "accessKey": "a2luemhlYXJ6OTdAZ21haWwuY29tWGlhb21pZGF2aW5jaQ=="
   },
   {
-    "name": "Jue Thazin Moe",
-    "expireDate": "26 Jan, 2024",
-    "level": 2,
-    "accessKey": "MDk5ODY2NDA4ODdYaWFvbWltZXJsaW4="
-  },
-  {
     "name": "U Naing Oo",
     "expireDate": "-",
     "level": 3,
@@ -3760,5 +3754,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "dGhhZW51c2FuNTUwQGdtYWlsLmNvbVhpYW9taWxpc2E="
+  },
+  {
+    "name": "Kaung Zin Thant",
+    "expireDate": "27 Feb, 2024",
+    "level": 1,
+    "accessKey": "a2F1bmd6aW50aGFudDk4QGdtYWlsLmNvbXJlYWxtZVJFRDhDMUwx"
   }
 ]
