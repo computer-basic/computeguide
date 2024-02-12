@@ -2142,12 +2142,6 @@
     "accessKey": "MDk2NjcyMjM2NTJYaWFvbWlnaW5rZ28="
   },
   {
-    "name": "Soe Her Aung",
-    "expireDate": "12 Feb, 2024",
-    "level": 2,
-    "accessKey": "aHRldGF1bmdzb2UyMzVAZ21haWwuY29tcmVhbG1lUk1YMTkxMQ=="
-  },
-  {
     "name": "Chit Myat Nwe",
     "expireDate": "-",
     "level": 3,
@@ -2158,12 +2152,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3ODU1NTUzOThYaWFvbWlzdW5zdG9uZQ=="
-  },
-  {
-    "name": "Su su",
-    "expireDate": "12 Feb, 2024",
-    "level": 2,
-    "accessKey": "MDk0NDQwNjc0NTh2aXZvUEQxNzMxRA=="
   },
   {
     "name": "ko thura",
@@ -3790,5 +3778,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3ODQyODE5MDJYaWFvbWl2aXZh"
+  },
+  {
+    "name": "A Thae",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "YXRoYWU5OTRAZ21haWwuY29tT1BQT09QNTZGNQ=="
   }
 ]
