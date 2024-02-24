@@ -607,5 +607,19 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "RMX2086L1",
     "name": "KHUN AUNG KHANT"
+  },
+  {
+    "brand": "INFINIX",
+    "code": "e75ae92371187239",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "Infinix-X6515",
+    "name": "Khin Thandar Moe"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "db4ff2555b64a14e",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "miel",
+    "name": "KYAWMINAUN "
   }
 ]
