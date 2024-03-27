@@ -1,5 +1,14 @@
 [
     {
+        "image": "https://i.imgur.com/PWkCvv2.png",
+        "type": 3,
+        "web": "",
+        "video": "",
+        "bookUrl": "",
+        "bookName": "",
+        "bookSize": ""
+    },
+    {
         "image": "https://i.imgur.com/WCWJCtU.jpg",
         "type": 8,
         "web": "",
@@ -11,15 +20,6 @@
     {
         "image": "https://i.imgur.com/8MNrjVQ.png",
         "type": 7,
-        "web": "",
-        "video": "",
-        "bookUrl": "",
-        "bookName": "",
-        "bookSize": ""
-    },
-    {
-        "image": "https://i.imgur.com/m94HaFx.png",
-        "type": 3,
         "web": "",
         "video": "",
         "bookUrl": "",
