@@ -4042,5 +4042,11 @@
     "expireDate": "17 Jul, 2024",
     "level": 2,
     "accessKey": "MDk0OTUzMTY0M0lORklOSVhJbmZpbml4LVg2NzFC"
+  },
+  {
+    "name": "Kyaw",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "cGhvemV6aXJhbUBnbWFpbC5jb21YaWFvbWliZWdvbmlhaW4="
   }
 ]
