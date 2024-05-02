@@ -789,5 +789,40 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "W-K211",
     "name": "จิรายุ"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "75cb08a58492cd7e",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "veux",
+    "name": "Kyawt Nwe Soe"
+  },
+  {
+    "brand": "samsung",
+    "code": "1ff8410a16cd78ed",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "a53x",
+    "name": "kyaw "
+  },
+  {
+    "brand": "ITEL",
+    "code": "6be7e6f23d603f91",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "itel-A662L",
+    "name": "Phyo Wai Thin"
+  },
+  {
+    "brand": "OPPO",
+    "code": "c587699ac1dbedd3",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "CPH1909",
+    "name": "win ei shwe "
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "b05061e52c86dbef",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "ziyi",
+    "name": "Hay Marn Nay Lin"
   }
 ]
