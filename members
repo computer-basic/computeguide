@@ -2493,7 +2493,7 @@
     "name": "Thein Min Kyaw",
     "expireDate": "-",
     "level": 3,
-    "accessKey": "dGhlaW5taW4xMjM2N0BnbWFpbC5jb21YaWFvbWlsaXNh"
+    "accessKey": "dGhlaW5taW4xMjM2N0BnbWFpbC5jb21YaWFvbWlkdWNoYW1w"
   },
   {
     "name": "ZARNI KO KO",
@@ -3108,12 +3108,6 @@
     "accessKey": "ZG9pamE3MjZAZ21haWwuY29tc2Ftc3VuZ2E3MQ=="
   },
   {
-    "name": "Khin Min Aung",
-    "expireDate": "2 May, 2024",
-    "level": 2,
-    "accessKey": "a2hpbm1pbmF1bmcxNDJAZ21haWwuY29tcmVhbG1lUkVFMkFETDE="
-  },
-  {
     "name": "Shine Myatmin",
     "expireDate": "-",
     "level": 3,
@@ -3718,12 +3712,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0NTgwNjU5MzJyZWFsbWVSRUUyQURMMQ=="
-  },
-  {
-    "name": "moethet phyu",
-    "expireDate": "2 May, 2024",
-    "level": 1,
-    "accessKey": "bW9ldGhldHBoeXUzNUBnbWFpbC5jb21YaWFvbWlsaWdodA=="
   },
   {
     "name": "Phyusin Thein",
