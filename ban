@@ -803,5 +803,33 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "a53x",
     "name": "kyaw "
+  },
+  {
+    "brand": "samsung",
+    "code": "0dc01709840f2cfc",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "greatlte",
+    "name": "thet lwin oo"
+  },
+  {
+    "brand": "realme",
+    "code": "470af3ef415ecfe2",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "RE50BF",
+    "name": "Kaunghtetnaing "
+  },
+  {
+    "brand": "OPPO",
+    "code": "101bbe753289d583",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "OP4B79L1",
+    "name": "သက်နွယ်စိုး"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "c12e6b0d564b2b74",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "veux",
+    "name": "Naing Khant Kyaw"
   }
 ]
