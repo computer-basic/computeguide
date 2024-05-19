@@ -54,5 +54,13 @@
   {
     "viewId": "payment_message",
     "message": "Supporter ငွေလွှဲရန်အတွက် ဆက်သွယ်ရန်"
+  },
+  {
+    "viewId": "unicode_font",
+    "message": "မြန်မာစာ"
+  },
+  {
+    "viewId": "zawgyi_font",
+    "message": "ျမန္မာစာ"
   }
 ]
