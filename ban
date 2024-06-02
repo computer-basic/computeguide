@@ -859,5 +859,54 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "lancelot",
     "name": "Thinzar"
+  },
+  {
+    "brand": "TECNO MOBILE LIMITED",
+    "code": "75d042a2b8ed1b50",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "TECNO-BB4k",
+    "name": "Van Sui Thar"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "b85a872722b44dab",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "lavender",
+    "name": "Lin Maung"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "282511224d9418c7",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "dandelion",
+    "name": "la min wai"
+  },
+  {
+    "brand": "HUAWEI",
+    "code": "f6056b4ff91a282b",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "HWMGA-H",
+    "name": "Bhone myint thuya"
+  },
+  {
+    "brand": "ITEL",
+    "code": "0d1e9f40a393675f",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "itel-S681LN",
+    "name": "Gaday Soe"
+  },
+  {
+    "brand": "vivo",
+    "code": "29be8aac7ddb3476",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "2135",
+    "name": "Htet"
+  },
+  {
+    "brand": "samsung",
+    "code": "88ae8811a566a80e",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "a31",
+    "name": "Kyaw Zaw Win"
   }
 ]
