@@ -915,5 +915,33 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "curtana",
     "name": "Phyu Thwin"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "c013ac5efff7f0fb",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "ruby",
+    "name": "Nant La Sandar Htwe"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "5fb4780d48cba9ab",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "ginkgo",
+    "name": "Thiha"
+  },
+  {
+    "brand": "vivo",
+    "code": "e5f6951a3e8b4745",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "2026",
+    "name": "Zakir Ahmed "
+  },
+  {
+    "brand": "OPPO",
+    "code": "553e5c4fd5bf98ee",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "CPH1909",
+    "name": "jet koko"
   }
 ]
