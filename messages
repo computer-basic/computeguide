@@ -62,5 +62,17 @@
   {
     "viewId": "zawgyi_font",
     "message": "ျမန္မာစာ"
+  },
+  {
+    "viewId": "restore_info_message",
+    "message": "ဤဖုန်းသည် သင်၏ Supporter ဝင်ထားသော မူရင်းဖုန်းဖြစ်ပါသလား သို့မဟုတ် ဖုန်းအသစ်ဖြစ်ပါသလား"
+  },
+  {
+    "viewId": "original_device",
+    "message": "မူရင်းဖုန်း"
+  },
+  {
+    "viewId": "new_device",
+    "message": "ဖုန်းအသစ်"
   }
 ]
