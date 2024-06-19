@@ -56,6 +56,10 @@
     "message": "Supporter ငွေလွှဲရန်အတွက် ဆက်သွယ်ရန်"
   },
   {
+    "viewId": "restore_message",
+    "message": "Supporter ပြောင်းရန်အတွက် ဆက်သွယ်ရန်"
+  },
+  {
     "viewId": "unicode_font",
     "message": "မြန်မာစာ"
   },
