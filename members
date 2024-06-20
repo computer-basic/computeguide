@@ -3288,34 +3288,16 @@
     "accessKey": "d3d3LnRvbW9ycm93ODI3QGdtYWlsLmNvbVhpYW9taWxpZ2h0"
   },
   {
-    "name": "ya min",
-    "expireDate": "20 Jun, 2024",
-    "level": 2,
-    "accessKey": "MDk3NzI3NzEzNjNYaWFvbWlmb2c="
-  },
-  {
     "name": "Naw Hnin Lai Lai Thin",
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3ODI5NTEyNzNYaWFvbWlnaW5rZ28="
   },
   {
-    "name": "Min Khant Ko",
-    "expireDate": "20 Jun, 2024",
-    "level": 2,
-    "accessKey": "a2hhbnRrb21pbjQ4MkBnbWFpbC5jb21YaWFvbWltYXJibGU="
-  },
-  {
     "name": "Yan Naing Aung",
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3NDA5MzQ2NzNzYW1zdW5nYTEz"
-  },
-  {
-    "name": "nanayesan",
-    "expireDate": "20 Jun, 2024",
-    "level": 2,
-    "accessKey": "MDk5NzgzNjY3NDdzYW1zdW5nYTEz"
   },
   {
     "name": "Min Naing",
@@ -4522,5 +4504,11 @@
     "expireDate": "20 Jul, 2024",
     "level": 1,
     "accessKey": "MDk3ODI2MjUwODRYaWFvbWlza3k="
+  },
+  {
+    "name": "Chit Ko Ko Aung",
+    "expireDate": "21 Sep, 2024",
+    "level": 2,
+    "accessKey": "MDk3NjU2MzQ1MjdYaWFvbWlnYXVndWlucHJv"
   }
 ]
