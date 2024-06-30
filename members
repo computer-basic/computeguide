@@ -4588,5 +4588,11 @@
     "expireDate": "30 Sep, 2024",
     "level": 2,
     "accessKey": "MDk2ODQ5ODU3NTlYaWFvbWlsYW5jZWxvdA=="
+  },
+  {
+    "name": "Thura",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk0MjgxMzM5NzBYaWFvbWlwaXBh"
   }
 ]
