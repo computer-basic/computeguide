@@ -978,5 +978,19 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "OP571F",
     "name": "Zingyi"
+  },
+  {
+    "brand": "TECNO",
+    "code": "d89f394648dcad46",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "TECNO-BF7",
+    "name": "Nann Thazin Nwe"
+  },
+  {
+    "brand": "OPPO",
+    "code": "e566801be83ea534",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "OP4BFB",
+    "name": "Pyae Sone Aung"
   }
 ]
