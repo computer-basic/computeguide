@@ -4152,18 +4152,6 @@
     "accessKey": "Kzk1OTk1MTM4ODcyMnJlYWxtZVJNWDIwMDFMMQ=="
   },
   {
-    "name": "phyohaymann",
-    "expireDate": "11 Jul, 2024",
-    "level": 1,
-    "accessKey": "MDk2NjEyNzA1MzJYaWFvbWlnb2xk"
-  },
-  {
-    "name": "White & Black",
-    "expireDate": "11 Jul, 2024",
-    "level": 1,
-    "accessKey": "d2I2MzU5MkBnbWFpbC5jb21YaWFvbWluYWJ1"
-  },
-  {
     "name": "Ku Ku San",
     "expireDate": "12 Sep, 2024",
     "level": 2,
@@ -4570,5 +4558,11 @@
     "expireDate": "11 Oct, 2024",
     "level": 2,
     "accessKey": "MDkyNTIyMjI2NTRzYW1zdW5nYTUx"
+  },
+  {
+    "name": "Ashin Thihanyana",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk2OTYxMzg1OTVYaWFvbWlydWJ5"
   }
 ]
