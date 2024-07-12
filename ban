@@ -985,5 +985,12 @@
     "description": "MM Computer Guide ကို supporter ဝင်မှ အသုံးပြုနိုင်ပါမည်",
     "model": "TECNO-BF7",
     "name": "Nann Thazin Nwe"
+  },
+  {
+    "brand": "OPPO",
+    "code": "70903dd100c90fcc",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "OP575DL1",
+    "name": "R2 Poe Bell"
   }
 ]
