@@ -992,5 +992,12 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "OP575DL1",
     "name": "R2 Poe Bell"
+  },
+  {
+    "brand": "P60",
+    "code": "c474a1272a4f9cc0",
+    "description": "MM Computer Guide ကို supporter ဝင်မှ အသုံးပြုနိုင်ပါမည်",
+    "model": "P60",
+    "name": "Myat Thu"
   }
 ]
