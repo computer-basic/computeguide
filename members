@@ -3474,12 +3474,6 @@
     "accessKey": "bXIuYXVuZzJhdW5nMTk5M0BnbWFpbC5jb21PUFBPT1A0QzcyTDE="
   },
   {
-    "name": "Amy Than",
-    "expireDate": "14 Jul, 2024",
-    "level": 2,
-    "accessKey": "YW15dGhhbjg5MEBnbWFpbC5jb21YaWFvbWlvbmM="
-  },
-  {
     "name": "Ko lat",
     "expireDate": "14 Apr, 2025",
     "level": 3,
@@ -4182,12 +4176,6 @@
     "accessKey": "MDk3NzczNDU2NzZYaWFvbWlwaG9lbml4"
   },
   {
-    "name": "Thae",
-    "expireDate": "14 Jul, 2024",
-    "level": 1,
-    "accessKey": "MDk5NzY3MTc0NzdzYW1zdW5nYTIz"
-  },
-  {
     "name": "Chan Thar",
     "expireDate": "14 Jun, 2025",
     "level": 3,
@@ -4594,5 +4582,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "bXlvbXlpbnRhdW5nNDkyQGdtYWlsLmNvbUFzdXNBU1VTX0kwMDNERA=="
+  },
+  {
+    "name": "SOE PAING ",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "a29zb2VwYWluZzE5ODFAZ21haWwuY29tT1BQT09QNTJEMUwx"
   }
 ]
