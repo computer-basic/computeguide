@@ -3528,12 +3528,6 @@
     "accessKey": "dGhldGxheS55Z24yMDE5QGdtYWlsLmNvbXJlYWxtZVJFRTJBREwx"
   },
   {
-    "name": "Zwe Khant Aung",
-    "expireDate": "21 Jul, 2024",
-    "level": 2,
-    "accessKey": "endla2hhbnQwNjBAZ21haWwuY29tWGlhb21pcGVyaWRvdA=="
-  },
-  {
     "name": "kyaw min khaing",
     "expireDate": "-",
     "level": 3,
@@ -3544,18 +3538,6 @@
     "expireDate": "22 Apr, 2025",
     "level": 3,
     "accessKey": "bXhrNjg4NEBnbWFpbC5jb21PUFBPQ1BIMTkwOQ=="
-  },
-  {
-    "name": "Van Tha Ceu",
-    "expireDate": "22 Jul, 2024",
-    "level": 2,
-    "accessKey": "c21hcnRjZXUxNjRAZ21haWwuY29tc2Ftc3VuZ2ExMnM="
-  },
-  {
-    "name": "naymyo",
-    "expireDate": "22 Jul, 2024",
-    "level": 2,
-    "accessKey": "MDk2NzA2MzI0OTdYaWFvbWlwaG9lbml4"
   },
   {
     "name": "အရှင်ဉာဏိဿရ",
@@ -4660,5 +4642,11 @@
     "expireDate": "21 Oct, 2024",
     "level": 2,
     "accessKey": "bm5vZTQ2NzcwQGdtYWlsLmNvbVhpYW9taWZpcmU="
+  },
+  {
+    "name": "Min Aung Naing",
+    "expireDate": "23 Jul, 2025",
+    "level": 3,
+    "accessKey": "MDkyNTg2ODU3NzNYaWFvbWlkYW5kZWxpb24="
   }
 ]
