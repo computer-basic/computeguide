@@ -1020,5 +1020,12 @@
     "description": "MM Computer Guide ကို supporter ဝင်မှ အသုံးပြုနိုင်ပါမည်",
     "model": "tapas",
     "name": "Hein Htet"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "26f48032c2f482ba",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "ruby",
+    "name": "Wai Lin phyo"
   }
 ]
