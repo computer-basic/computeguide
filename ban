@@ -1034,5 +1034,40 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "fire",
     "name": "May Myat Noe"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "7ef2fc4a6c2b3f00",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "marble",
+    "name": "Pyae Phyo Zaw"
+  },
+  {
+    "brand": "vivo",
+    "code": "16e60cdea5eb5837",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "PD1901",
+    "name": "Naw Elizabeth"
+  },
+  {
+    "brand": "realme",
+    "code": "9d2777ffa163de0f",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "RMX3261",
+    "name": "moe thae wai"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "d4add5440f3a1172",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "fire",
+    "name": "May Myat Noe"
+  },
+  {
+    "brand": "vivo",
+    "code": "8045f4c63f1e7251",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "2027",
+    "name": "Aung Thant Zin"
   }
 ]
