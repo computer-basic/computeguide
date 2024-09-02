@@ -1069,5 +1069,12 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "TECNO-BE7",
     "name": "ko nge"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "2c2a3c72c55fc22c",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "zijin",
+    "name": "winhanoo"
   }
 ]
