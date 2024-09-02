@@ -3696,12 +3696,6 @@
     "accessKey": "bGF5bGF5Y2hpdHphd0BnbWFpbC5jb21zYW1zdW5nYTMx"
   },
   {
-    "name": "Aung Thu ra",
-    "expireDate": "2 Sep, 2024",
-    "level": 2,
-    "accessKey": "YTM0MzExMTQ3QGdtYWlsLmNvbVhpYW9taWZpcmU="
-  },
-  {
     "name": "Htay Min Tun",
     "expireDate": "-",
     "level": 3,
@@ -4780,5 +4774,11 @@
     "expireDate": "2 Oct, 2024",
     "level": 1,
     "accessKey": "MDk3NzQxNTMxNjZYaWFvbWltZXJsaW4="
+  },
+  {
+    "name": "Thet Myat Oo",
+    "expireDate": "3 Dec, 2024",
+    "level": 2,
+    "accessKey": "MDk0NDExMTU4MjdYaWFvbWlsaWdodA=="
   }
 ]
