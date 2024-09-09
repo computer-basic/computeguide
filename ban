@@ -1076,5 +1076,40 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
     "model": "zijin",
     "name": "winhanoo"
+  },
+  {
+    "brand": "vivo",
+    "code": "7910c3c27a81b2f5",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "V2201",
+    "name": "Ma May Thinzar Aung "
+  },
+  {
+    "brand": "samsung",
+    "code": "13597ece1ee5adaa",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "r11s",
+    "name": "Aung San Tun"
+  },
+  {
+    "brand": "vivo",
+    "code": "2ed2707343d83731",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "2025",
+    "name": "AshinRsarra "
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "621757136e3d2e3c",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "merlin",
+    "name": "sandi"
+  },
+  {
+    "brand": "OPPO",
+    "code": "d1020e1ad40cde98",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည်",
+    "model": "OP4EFDL1",
+    "name": "Ei Ei"
   }
 ]
