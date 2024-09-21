@@ -1,38 +1,4590 @@
 [
     {
-        "type": "normal",
-        "data": "there"
+        "category": "normal",
+        "word": "there"
     },
     {
-        "type": "normal",
-        "data": "when"
+        "category": "normal",
+        "word": "when"
     },
     {
-        "type": "normal",
-        "data": "up"
+        "category": "normal",
+        "word": "up"
     },
     {
-        "type": "hard",
-        "data": "zephyr"
+        "category": "normal",
+        "word": "use"
     },
     {
-        "type": "hard",
-        "data": "wily"
+        "category": "normal",
+        "word": "your"
     },
     {
-        "type": "hard",
-        "data": "tirade"
+        "category": "normal",
+        "word": "how"
     },
     {
-        "type": "number",
-        "data": "345235"
+        "category": "normal",
+        "word": "said"
     },
     {
-        "type": "number",
-        "data": "23823489234"
+        "category": "normal",
+        "word": "an"
     },
     {
-        "type": "number",
-        "data": "9766483"
+        "category": "normal",
+        "word": "each"
+    },
+    {
+        "category": "normal",
+        "word": "she"
+    },
+    {
+        "category": "normal",
+        "word": "which"
+    },
+    {
+        "category": "normal",
+        "word": "do"
+    },
+    {
+        "category": "normal",
+        "word": "their"
+    },
+    {
+        "category": "normal",
+        "word": "time"
+    },
+    {
+        "category": "normal",
+        "word": "if"
+    },
+    {
+        "category": "normal",
+        "word": "will"
+    },
+    {
+        "category": "normal",
+        "word": "way"
+    },
+    {
+        "category": "normal",
+        "word": "about"
+    },
+    {
+        "category": "normal",
+        "word": "many"
+    },
+    {
+        "category": "normal",
+        "word": "then"
+    },
+    {
+        "category": "normal",
+        "word": "them"
+    },
+    {
+        "category": "normal",
+        "word": "write"
+    },
+    {
+        "category": "normal",
+        "word": "would"
+    },
+    {
+        "category": "normal",
+        "word": "like"
+    },
+    {
+        "category": "normal",
+        "word": "follow"
+    },
+    {
+        "category": "normal",
+        "word": "act"
+    },
+    {
+        "category": "normal",
+        "word": "why"
+    },
+    {
+        "category": "normal",
+        "word": "ask"
+    },
+    {
+        "category": "normal",
+        "word": "men"
+    },
+    {
+        "category": "normal",
+        "word": "change"
+    },
+    {
+        "category": "normal",
+        "word": "went"
+    },
+    {
+        "category": "normal",
+        "word": "light"
+    },
+    {
+        "category": "normal",
+        "word": "kind"
+    },
+    {
+        "category": "normal",
+        "word": "off"
+    },
+    {
+        "category": "normal",
+        "word": "need"
+    },
+    {
+        "category": "normal",
+        "word": "house"
+    },
+    {
+        "category": "normal",
+        "word": "picture"
+    },
+    {
+        "category": "normal",
+        "word": "try"
+    },
+    {
+        "category": "normal",
+        "word": "us"
+    },
+    {
+        "category": "normal",
+        "word": "again"
+    },
+    {
+        "category": "normal",
+        "word": "animal"
+    },
+    {
+        "category": "normal",
+        "word": "point"
+    },
+    {
+        "category": "normal",
+        "word": "mother"
+    },
+    {
+        "category": "normal",
+        "word": "world"
+    },
+    {
+        "category": "normal",
+        "word": "near"
+    },
+    {
+        "category": "normal",
+        "word": "build"
+    },
+    {
+        "category": "normal",
+        "word": "self"
+    },
+    {
+        "category": "normal",
+        "word": "earth"
+    },
+    {
+        "category": "normal",
+        "word": "father"
+    },
+    {
+        "category": "normal",
+        "word": "head"
+    },
+    {
+        "category": "normal",
+        "word": "stand"
+    },
+    {
+        "category": "normal",
+        "word": "own"
+    },
+    {
+        "category": "normal",
+        "word": "page"
+    },
+    {
+        "category": "normal",
+        "word": "should"
+    },
+    {
+        "category": "normal",
+        "word": "country"
+    },
+    {
+        "category": "normal",
+        "word": "found"
+    },
+    {
+        "category": "normal",
+        "word": "answer"
+    },
+    {
+        "category": "normal",
+        "word": "school"
+    },
+    {
+        "category": "normal",
+        "word": "grow"
+    },
+    {
+        "category": "normal",
+        "word": "study"
+    },
+    {
+        "category": "normal",
+        "word": "still"
+    },
+    {
+        "category": "normal",
+        "word": "learn"
+    },
+    {
+        "category": "normal",
+        "word": "plant"
+    },
+    {
+        "category": "normal",
+        "word": "cover"
+    },
+    {
+        "category": "normal",
+        "word": "food"
+    },
+    {
+        "category": "normal",
+        "word": "sun"
+    },
+    {
+        "category": "normal",
+        "word": "four"
+    },
+    {
+        "category": "normal",
+        "word": "between"
+    },
+    {
+        "category": "normal",
+        "word": "state"
+    },
+    {
+        "category": "normal",
+        "word": "keep"
+    },
+    {
+        "category": "normal",
+        "word": "eye"
+    },
+    {
+        "category": "normal",
+        "word": "never"
+    },
+    {
+        "category": "normal",
+        "word": "last"
+    },
+    {
+        "category": "normal",
+        "word": "let"
+    },
+    {
+        "category": "normal",
+        "word": "thought"
+    },
+    {
+        "category": "normal",
+        "word": "city"
+    },
+    {
+        "category": "normal",
+        "word": "tree"
+    },
+    {
+        "category": "normal",
+        "word": "cross"
+    },
+    {
+        "category": "normal",
+        "word": "farm"
+    },
+    {
+        "category": "normal",
+        "word": "hard"
+    },
+    {
+        "category": "normal",
+        "word": "start"
+    },
+    {
+        "category": "normal",
+        "word": "might"
+    },
+    {
+        "category": "normal",
+        "word": "story"
+    },
+    {
+        "category": "normal",
+        "word": "saw"
+    },
+    {
+        "category": "normal",
+        "word": "far"
+    },
+    {
+        "category": "normal",
+        "word": "sea"
+    },
+    {
+        "category": "normal",
+        "word": "draw"
+    },
+    {
+        "category": "normal",
+        "word": "left"
+    },
+    {
+        "category": "normal",
+        "word": "late"
+    },
+    {
+        "category": "normal",
+        "word": "run"
+    },
+    {
+        "category": "normal",
+        "word": "while"
+    },
+    {
+        "category": "normal",
+        "word": "press"
+    },
+    {
+        "category": "normal",
+        "word": "close"
+    },
+    {
+        "category": "normal",
+        "word": "night"
+    },
+    {
+        "category": "normal",
+        "word": "real"
+    },
+    {
+        "category": "normal",
+        "word": "life"
+    },
+    {
+        "category": "normal",
+        "word": "few"
+    },
+    {
+        "category": "normal",
+        "word": "north"
+    },
+    {
+        "category": "normal",
+        "word": "open"
+    },
+    {
+        "category": "normal",
+        "word": "seem"
+    },
+    {
+        "category": "normal",
+        "word": "together"
+    },
+    {
+        "category": "normal",
+        "word": "next"
+    },
+    {
+        "category": "normal",
+        "word": "white"
+    },
+    {
+        "category": "normal",
+        "word": "children"
+    },
+    {
+        "category": "normal",
+        "word": "begin"
+    },
+    {
+        "category": "normal",
+        "word": "got"
+    },
+    {
+        "category": "normal",
+        "word": "walk"
+    },
+    {
+        "category": "normal",
+        "word": "example"
+    },
+    {
+        "category": "normal",
+        "word": "ease"
+    },
+    {
+        "category": "normal",
+        "word": "paper"
+    },
+    {
+        "category": "normal",
+        "word": "group"
+    },
+    {
+        "category": "normal",
+        "word": "always"
+    },
+    {
+        "category": "normal",
+        "word": "music"
+    },
+    {
+        "category": "normal",
+        "word": "those"
+    },
+    {
+        "category": "normal",
+        "word": "both"
+    },
+    {
+        "category": "normal",
+        "word": "mark"
+    },
+    {
+        "category": "normal",
+        "word": "often"
+    },
+    {
+        "category": "normal",
+        "word": "letter"
+    },
+    {
+        "category": "normal",
+        "word": "until"
+    },
+    {
+        "category": "normal",
+        "word": "mile"
+    },
+    {
+        "category": "normal",
+        "word": "river"
+    },
+    {
+        "category": "normal",
+        "word": "car"
+    },
+    {
+        "category": "normal",
+        "word": "feet"
+    },
+    {
+        "category": "normal",
+        "word": "care"
+    },
+    {
+        "category": "normal",
+        "word": "second"
+    },
+    {
+        "category": "normal",
+        "word": "book"
+    },
+    {
+        "category": "normal",
+        "word": "carry"
+    },
+    {
+        "category": "normal",
+        "word": "took"
+    },
+    {
+        "category": "normal",
+        "word": "science"
+    },
+    {
+        "category": "normal",
+        "word": "eat"
+    },
+    {
+        "category": "normal",
+        "word": "room"
+    },
+    {
+        "category": "normal",
+        "word": "friend"
+    },
+    {
+        "category": "normal",
+        "word": "began"
+    },
+    {
+        "category": "normal",
+        "word": "idea"
+    },
+    {
+        "category": "normal",
+        "word": "fish"
+    },
+    {
+        "category": "normal",
+        "word": "mountain"
+    },
+    {
+        "category": "normal",
+        "word": "stop"
+    },
+    {
+        "category": "normal",
+        "word": "once"
+    },
+    {
+        "category": "normal",
+        "word": "base"
+    },
+    {
+        "category": "normal",
+        "word": "hear"
+    },
+    {
+        "category": "normal",
+        "word": "horse"
+    },
+    {
+        "category": "normal",
+        "word": "cut"
+    },
+    {
+        "category": "normal",
+        "word": "sure"
+    },
+    {
+        "category": "normal",
+        "word": "watch"
+    },
+    {
+        "category": "normal",
+        "word": "color"
+    },
+    {
+        "category": "normal",
+        "word": "face"
+    },
+    {
+        "category": "normal",
+        "word": "wood"
+    },
+    {
+        "category": "normal",
+        "word": "main"
+    },
+    {
+        "category": "normal",
+        "word": "enough"
+    },
+    {
+        "category": "normal",
+        "word": "plain"
+    },
+    {
+        "category": "normal",
+        "word": "girl"
+    },
+    {
+        "category": "normal",
+        "word": "usual"
+    },
+    {
+        "category": "normal",
+        "word": "young"
+    },
+    {
+        "category": "normal",
+        "word": "ready"
+    },
+    {
+        "category": "normal",
+        "word": "above"
+    },
+    {
+        "category": "normal",
+        "word": "ever"
+    },
+    {
+        "category": "normal",
+        "word": "red"
+    },
+    {
+        "category": "normal",
+        "word": "list"
+    },
+    {
+        "category": "normal",
+        "word": "though"
+    },
+    {
+        "category": "normal",
+        "word": "feel"
+    },
+    {
+        "category": "normal",
+        "word": "talk"
+    },
+    {
+        "category": "normal",
+        "word": "bird"
+    },
+    {
+        "category": "normal",
+        "word": "soon"
+    },
+    {
+        "category": "normal",
+        "word": "body"
+    },
+    {
+        "category": "normal",
+        "word": "dog"
+    },
+    {
+        "category": "normal",
+        "word": "family"
+    },
+    {
+        "category": "normal",
+        "word": "direct"
+    },
+    {
+        "category": "normal",
+        "word": "pose"
+    },
+    {
+        "category": "normal",
+        "word": "leave"
+    },
+    {
+        "category": "normal",
+        "word": "song"
+    },
+    {
+        "category": "normal",
+        "word": "measure"
+    },
+    {
+        "category": "normal",
+        "word": "door"
+    },
+    {
+        "category": "normal",
+        "word": "product"
+    },
+    {
+        "category": "normal",
+        "word": "black"
+    },
+    {
+        "category": "normal",
+        "word": "short"
+    },
+    {
+        "category": "normal",
+        "word": "numeral"
+    },
+    {
+        "category": "normal",
+        "word": "class"
+    },
+    {
+        "category": "normal",
+        "word": "wind"
+    },
+    {
+        "category": "normal",
+        "word": "question"
+    },
+    {
+        "category": "normal",
+        "word": "happen"
+    },
+    {
+        "category": "normal",
+        "word": "complete"
+    },
+    {
+        "category": "normal",
+        "word": "ship"
+    },
+    {
+        "category": "normal",
+        "word": "area"
+    },
+    {
+        "category": "normal",
+        "word": "half"
+    },
+    {
+        "category": "normal",
+        "word": "rock"
+    },
+    {
+        "category": "normal",
+        "word": "order"
+    },
+    {
+        "category": "normal",
+        "word": "fire"
+    },
+    {
+        "category": "normal",
+        "word": "south"
+    },
+    {
+        "category": "normal",
+        "word": "problem"
+    },
+    {
+        "category": "normal",
+        "word": "piece"
+    },
+    {
+        "category": "normal",
+        "word": "told"
+    },
+    {
+        "category": "normal",
+        "word": "knew"
+    },
+    {
+        "category": "normal",
+        "word": "pass"
+    },
+    {
+        "category": "normal",
+        "word": "since"
+    },
+    {
+        "category": "normal",
+        "word": "top"
+    },
+    {
+        "category": "normal",
+        "word": "whole"
+    },
+    {
+        "category": "normal",
+        "word": "king"
+    },
+    {
+        "category": "normal",
+        "word": "space"
+    },
+    {
+        "category": "normal",
+        "word": "heard"
+    },
+    {
+        "category": "normal",
+        "word": "best"
+    },
+    {
+        "category": "normal",
+        "word": "hour"
+    },
+    {
+        "category": "normal",
+        "word": "better"
+    },
+    {
+        "category": "normal",
+        "word": "true"
+    },
+    {
+        "category": "normal",
+        "word": "during"
+    },
+    {
+        "category": "normal",
+        "word": "hundred"
+    },
+    {
+        "category": "normal",
+        "word": "five"
+    },
+    {
+        "category": "normal",
+        "word": "remember"
+    },
+    {
+        "category": "normal",
+        "word": "step"
+    },
+    {
+        "category": "normal",
+        "word": "early"
+    },
+    {
+        "category": "normal",
+        "word": "hold"
+    },
+    {
+        "category": "normal",
+        "word": "west"
+    },
+    {
+        "category": "normal",
+        "word": "ground"
+    },
+    {
+        "category": "normal",
+        "word": "interest"
+    },
+    {
+        "category": "normal",
+        "word": "reach"
+    },
+    {
+        "category": "normal",
+        "word": "fast"
+    },
+    {
+        "category": "normal",
+        "word": "verb"
+    },
+    {
+        "category": "normal",
+        "word": "sing"
+    },
+    {
+        "category": "normal",
+        "word": "listen"
+    },
+    {
+        "category": "normal",
+        "word": "six"
+    },
+    {
+        "category": "normal",
+        "word": "table"
+    },
+    {
+        "category": "normal",
+        "word": "travel"
+    },
+    {
+        "category": "normal",
+        "word": "less"
+    },
+    {
+        "category": "normal",
+        "word": "morning"
+    },
+    {
+        "category": "normal",
+        "word": "ten"
+    },
+    {
+        "category": "normal",
+        "word": "simple"
+    },
+    {
+        "category": "normal",
+        "word": "several"
+    },
+    {
+        "category": "normal",
+        "word": "vowel"
+    },
+    {
+        "category": "normal",
+        "word": "toward"
+    },
+    {
+        "category": "normal",
+        "word": "war"
+    },
+    {
+        "category": "normal",
+        "word": "lay"
+    },
+    {
+        "category": "normal",
+        "word": "against"
+    },
+    {
+        "category": "normal",
+        "word": "pattern"
+    },
+    {
+        "category": "normal",
+        "word": "slow"
+    },
+    {
+        "category": "normal",
+        "word": "center"
+    },
+    {
+        "category": "normal",
+        "word": "love"
+    },
+    {
+        "category": "normal",
+        "word": "person"
+    },
+    {
+        "category": "normal",
+        "word": "money"
+    },
+    {
+        "category": "normal",
+        "word": "serve"
+    },
+    {
+        "category": "normal",
+        "word": "appear"
+    },
+    {
+        "category": "normal",
+        "word": "road"
+    },
+    {
+        "category": "normal",
+        "word": "map"
+    },
+    {
+        "category": "normal",
+        "word": "rain"
+    },
+    {
+        "category": "normal",
+        "word": "rule"
+    },
+    {
+        "category": "normal",
+        "word": "govern"
+    },
+    {
+        "category": "normal",
+        "word": "pull"
+    },
+    {
+        "category": "normal",
+        "word": "cold"
+    },
+    {
+        "category": "normal",
+        "word": "notice"
+    },
+    {
+        "category": "normal",
+        "word": "voice"
+    },
+    {
+        "category": "normal",
+        "word": "unit"
+    },
+    {
+        "category": "normal",
+        "word": "power"
+    },
+    {
+        "category": "normal",
+        "word": "town"
+    },
+    {
+        "category": "normal",
+        "word": "fine"
+    },
+    {
+        "category": "normal",
+        "word": "certain"
+    },
+    {
+        "category": "normal",
+        "word": "fly"
+    },
+    {
+        "category": "normal",
+        "word": "fall"
+    },
+    {
+        "category": "normal",
+        "word": "lead"
+    },
+    {
+        "category": "normal",
+        "word": "cry"
+    },
+    {
+        "category": "normal",
+        "word": "dark"
+    },
+    {
+        "category": "normal",
+        "word": "machine"
+    },
+    {
+        "category": "normal",
+        "word": "note"
+    },
+    {
+        "category": "normal",
+        "word": "wait"
+    },
+    {
+        "category": "normal",
+        "word": "plan"
+    },
+    {
+        "category": "normal",
+        "word": "figure"
+    },
+    {
+        "category": "normal",
+        "word": "star"
+    },
+    {
+        "category": "normal",
+        "word": "box"
+    },
+    {
+        "category": "normal",
+        "word": "noun"
+    },
+    {
+        "category": "normal",
+        "word": "field"
+    },
+    {
+        "category": "normal",
+        "word": "rest"
+    },
+    {
+        "category": "normal",
+        "word": "correct"
+    },
+    {
+        "category": "normal",
+        "word": "able"
+    },
+    {
+        "category": "normal",
+        "word": "pound"
+    },
+    {
+        "category": "normal",
+        "word": "done"
+    },
+    {
+        "category": "normal",
+        "word": "beauty"
+    },
+    {
+        "category": "normal",
+        "word": "drive"
+    },
+    {
+        "category": "normal",
+        "word": "stood"
+    },
+    {
+        "category": "normal",
+        "word": "contain"
+    },
+    {
+        "category": "normal",
+        "word": "front"
+    },
+    {
+        "category": "normal",
+        "word": "teach"
+    },
+    {
+        "category": "normal",
+        "word": "week"
+    },
+    {
+        "category": "normal",
+        "word": "final"
+    },
+    {
+        "category": "normal",
+        "word": "gave"
+    },
+    {
+        "category": "normal",
+        "word": "green"
+    },
+    {
+        "category": "normal",
+        "word": "oh"
+    },
+    {
+        "category": "normal",
+        "word": "quick"
+    },
+    {
+        "category": "normal",
+        "word": "develop"
+    },
+    {
+        "category": "normal",
+        "word": "ocean"
+    },
+    {
+        "category": "normal",
+        "word": "warm"
+    },
+    {
+        "category": "normal",
+        "word": "free"
+    },
+    {
+        "category": "normal",
+        "word": "minute"
+    },
+    {
+        "category": "normal",
+        "word": "strong"
+    },
+    {
+        "category": "normal",
+        "word": "special"
+    },
+    {
+        "category": "normal",
+        "word": "mind"
+    },
+    {
+        "category": "normal",
+        "word": "behind"
+    },
+    {
+        "category": "normal",
+        "word": "clear"
+    },
+    {
+        "category": "normal",
+        "word": "tail"
+    },
+    {
+        "category": "normal",
+        "word": "produce"
+    },
+    {
+        "category": "normal",
+        "word": "fact"
+    },
+    {
+        "category": "normal",
+        "word": "street"
+    },
+    {
+        "category": "normal",
+        "word": "inch"
+    },
+    {
+        "category": "normal",
+        "word": "multiply"
+    },
+    {
+        "category": "normal",
+        "word": "nothing"
+    },
+    {
+        "category": "normal",
+        "word": "course"
+    },
+    {
+        "category": "normal",
+        "word": "stay"
+    },
+    {
+        "category": "normal",
+        "word": "wheel"
+    },
+    {
+        "category": "normal",
+        "word": "full"
+    },
+    {
+        "category": "normal",
+        "word": "force"
+    },
+    {
+        "category": "normal",
+        "word": "blue"
+    },
+    {
+        "category": "normal",
+        "word": "object"
+    },
+    {
+        "category": "normal",
+        "word": "decide"
+    },
+    {
+        "category": "normal",
+        "word": "surface"
+    },
+    {
+        "category": "normal",
+        "word": "deep"
+    },
+    {
+        "category": "normal",
+        "word": "moon"
+    },
+    {
+        "category": "normal",
+        "word": "island"
+    },
+    {
+        "category": "normal",
+        "word": "foot"
+    },
+    {
+        "category": "normal",
+        "word": "system"
+    },
+    {
+        "category": "normal",
+        "word": "busy"
+    },
+    {
+        "category": "normal",
+        "word": "test"
+    },
+    {
+        "category": "normal",
+        "word": "record"
+    },
+    {
+        "category": "normal",
+        "word": "boat"
+    },
+    {
+        "category": "normal",
+        "word": "common"
+    },
+    {
+        "category": "normal",
+        "word": "gold"
+    },
+    {
+        "category": "normal",
+        "word": "possible"
+    },
+    {
+        "category": "normal",
+        "word": "plane"
+    },
+    {
+        "category": "normal",
+        "word": "stead"
+    },
+    {
+        "category": "normal",
+        "word": "dry"
+    },
+    {
+        "category": "normal",
+        "word": "wonder"
+    },
+    {
+        "category": "normal",
+        "word": "laugh"
+    },
+    {
+        "category": "normal",
+        "word": "thousand"
+    },
+    {
+        "category": "normal",
+        "word": "ago"
+    },
+    {
+        "category": "normal",
+        "word": "ran"
+    },
+    {
+        "category": "normal",
+        "word": "check"
+    },
+    {
+        "category": "normal",
+        "word": "game"
+    },
+    {
+        "category": "normal",
+        "word": "shape"
+    },
+    {
+        "category": "normal",
+        "word": "equate"
+    },
+    {
+        "category": "normal",
+        "word": "hot"
+    },
+    {
+        "category": "normal",
+        "word": "miss"
+    },
+    {
+        "category": "normal",
+        "word": "brought"
+    },
+    {
+        "category": "normal",
+        "word": "heat"
+    },
+    {
+        "category": "normal",
+        "word": "snow"
+    },
+    {
+        "category": "normal",
+        "word": "tire"
+    },
+    {
+        "category": "normal",
+        "word": "bring"
+    },
+    {
+        "category": "normal",
+        "word": "yes"
+    },
+    {
+        "category": "normal",
+        "word": "distant"
+    },
+    {
+        "category": "normal",
+        "word": "fill"
+    },
+    {
+        "category": "normal",
+        "word": "east"
+    },
+    {
+        "category": "normal",
+        "word": "paint"
+    },
+    {
+        "category": "normal",
+        "word": "language"
+    },
+    {
+        "category": "normal",
+        "word": "among"
+    },
+    {
+        "category": "normal",
+        "word": "grand"
+    },
+    {
+        "category": "normal",
+        "word": "ball"
+    },
+    {
+        "category": "normal",
+        "word": "yet"
+    },
+    {
+        "category": "normal",
+        "word": "wave"
+    },
+    {
+        "category": "normal",
+        "word": "drop"
+    },
+    {
+        "category": "normal",
+        "word": "heart"
+    },
+    {
+        "category": "normal",
+        "word": "am"
+    },
+    {
+        "category": "normal",
+        "word": "present"
+    },
+    {
+        "category": "normal",
+        "word": "heavy"
+    },
+    {
+        "category": "normal",
+        "word": "dance"
+    },
+    {
+        "category": "normal",
+        "word": "engine"
+    },
+    {
+        "category": "normal",
+        "word": "position"
+    },
+    {
+        "category": "normal",
+        "word": "arm"
+    },
+    {
+        "category": "normal",
+        "word": "wide"
+    },
+    {
+        "category": "normal",
+        "word": "sail"
+    },
+    {
+        "category": "normal",
+        "word": "material"
+    },
+    {
+        "category": "normal",
+        "word": "size"
+    },
+    {
+        "category": "normal",
+        "word": "vary"
+    },
+    {
+        "category": "normal",
+        "word": "settle"
+    },
+    {
+        "category": "normal",
+        "word": "speak"
+    },
+    {
+        "category": "normal",
+        "word": "weight"
+    },
+    {
+        "category": "normal",
+        "word": "general"
+    },
+    {
+        "category": "normal",
+        "word": "ice"
+    },
+    {
+        "category": "normal",
+        "word": "matter"
+    },
+    {
+        "category": "normal",
+        "word": "circle"
+    },
+    {
+        "category": "normal",
+        "word": "pair"
+    },
+    {
+        "category": "normal",
+        "word": "include"
+    },
+    {
+        "category": "normal",
+        "word": "divide"
+    },
+    {
+        "category": "normal",
+        "word": "syllable"
+    },
+    {
+        "category": "normal",
+        "word": "felt"
+    },
+    {
+        "category": "normal",
+        "word": "perhaps"
+    },
+    {
+        "category": "normal",
+        "word": "pick"
+    },
+    {
+        "category": "normal",
+        "word": "sudden"
+    },
+    {
+        "category": "normal",
+        "word": "count"
+    },
+    {
+        "category": "normal",
+        "word": "square"
+    },
+    {
+        "category": "normal",
+        "word": "reason"
+    },
+    {
+        "category": "normal",
+        "word": "length"
+    },
+    {
+        "category": "normal",
+        "word": "represent"
+    },
+    {
+        "category": "normal",
+        "word": "art"
+    },
+    {
+        "category": "normal",
+        "word": "subject"
+    },
+    {
+        "category": "normal",
+        "word": "region"
+    },
+    {
+        "category": "normal",
+        "word": "energy"
+    },
+    {
+        "category": "normal",
+        "word": "hunt"
+    },
+    {
+        "category": "normal",
+        "word": "probable"
+    },
+    {
+        "category": "normal",
+        "word": "bed"
+    },
+    {
+        "category": "normal",
+        "word": "brother"
+    },
+    {
+        "category": "normal",
+        "word": "egg"
+    },
+    {
+        "category": "normal",
+        "word": "ride"
+    },
+    {
+        "category": "normal",
+        "word": "cell"
+    },
+    {
+        "category": "normal",
+        "word": "believe"
+    },
+    {
+        "category": "normal",
+        "word": "fraction"
+    },
+    {
+        "category": "normal",
+        "word": "forest"
+    },
+    {
+        "category": "normal",
+        "word": "sit"
+    },
+    {
+        "category": "normal",
+        "word": "race"
+    },
+    {
+        "category": "normal",
+        "word": "window"
+    },
+    {
+        "category": "normal",
+        "word": "store"
+    },
+    {
+        "category": "normal",
+        "word": "summer"
+    },
+    {
+        "category": "normal",
+        "word": "train"
+    },
+    {
+        "category": "normal",
+        "word": "sleep"
+    },
+    {
+        "category": "normal",
+        "word": "prove"
+    },
+    {
+        "category": "normal",
+        "word": "lone"
+    },
+    {
+        "category": "normal",
+        "word": "leg"
+    },
+    {
+        "category": "normal",
+        "word": "exercise"
+    },
+    {
+        "category": "normal",
+        "word": "wall"
+    },
+    {
+        "category": "normal",
+        "word": "catch"
+    },
+    {
+        "category": "normal",
+        "word": "mount"
+    },
+    {
+        "category": "normal",
+        "word": "wish"
+    },
+    {
+        "category": "normal",
+        "word": "sky"
+    },
+    {
+        "category": "normal",
+        "word": "board"
+    },
+    {
+        "category": "normal",
+        "word": "joy"
+    },
+    {
+        "category": "normal",
+        "word": "winter"
+    },
+    {
+        "category": "normal",
+        "word": "sat"
+    },
+    {
+        "category": "normal",
+        "word": "written"
+    },
+    {
+        "category": "normal",
+        "word": "wild"
+    },
+    {
+        "category": "normal",
+        "word": "instrument"
+    },
+    {
+        "category": "normal",
+        "word": "kept"
+    },
+    {
+        "category": "normal",
+        "word": "glass"
+    },
+    {
+        "category": "normal",
+        "word": "grass"
+    },
+    {
+        "category": "normal",
+        "word": "cow"
+    },
+    {
+        "category": "normal",
+        "word": "job"
+    },
+    {
+        "category": "normal",
+        "word": "edge"
+    },
+    {
+        "category": "normal",
+        "word": "sign"
+    },
+    {
+        "category": "normal",
+        "word": "visit"
+    },
+    {
+        "category": "normal",
+        "word": "past"
+    },
+    {
+        "category": "normal",
+        "word": "soft"
+    },
+    {
+        "category": "normal",
+        "word": "fun"
+    },
+    {
+        "category": "normal",
+        "word": "bright"
+    },
+    {
+        "category": "normal",
+        "word": "gas"
+    },
+    {
+        "category": "normal",
+        "word": "weather"
+    },
+    {
+        "category": "normal",
+        "word": "month"
+    },
+    {
+        "category": "normal",
+        "word": "million"
+    },
+    {
+        "category": "normal",
+        "word": "bear"
+    },
+    {
+        "category": "normal",
+        "word": "finish"
+    },
+    {
+        "category": "normal",
+        "word": "happy"
+    },
+    {
+        "category": "normal",
+        "word": "hope"
+    },
+    {
+        "category": "normal",
+        "word": "flower"
+    },
+    {
+        "category": "normal",
+        "word": "clothe"
+    },
+    {
+        "category": "normal",
+        "word": "strange"
+    },
+    {
+        "category": "normal",
+        "word": "gone"
+    },
+    {
+        "category": "normal",
+        "word": "jump"
+    },
+    {
+        "category": "normal",
+        "word": "baby"
+    },
+    {
+        "category": "normal",
+        "word": "eight"
+    },
+    {
+        "category": "normal",
+        "word": "village"
+    },
+    {
+        "category": "normal",
+        "word": "meet"
+    },
+    {
+        "category": "normal",
+        "word": "root"
+    },
+    {
+        "category": "normal",
+        "word": "buy"
+    },
+    {
+        "category": "normal",
+        "word": "raise"
+    },
+    {
+        "category": "normal",
+        "word": "solve"
+    },
+    {
+        "category": "normal",
+        "word": "metal"
+    },
+    {
+        "category": "normal",
+        "word": "whether"
+    },
+    {
+        "category": "normal",
+        "word": "push"
+    },
+    {
+        "category": "normal",
+        "word": "seven"
+    },
+    {
+        "category": "normal",
+        "word": "paragraph"
+    },
+    {
+        "category": "normal",
+        "word": "third"
+    },
+    {
+        "category": "normal",
+        "word": "shall"
+    },
+    {
+        "category": "normal",
+        "word": "held"
+    },
+    {
+        "category": "normal",
+        "word": "hair"
+    },
+    {
+        "category": "normal",
+        "word": "describe"
+    },
+    {
+        "category": "normal",
+        "word": "cook"
+    },
+    {
+        "category": "normal",
+        "word": "floor"
+    },
+    {
+        "category": "normal",
+        "word": "either"
+    },
+    {
+        "category": "normal",
+        "word": "result"
+    },
+    {
+        "category": "normal",
+        "word": "burn"
+    },
+    {
+        "category": "normal",
+        "word": "hill"
+    },
+    {
+        "category": "normal",
+        "word": "safe"
+    },
+    {
+        "category": "normal",
+        "word": "cat"
+    },
+    {
+        "category": "normal",
+        "word": "century"
+    },
+    {
+        "category": "normal",
+        "word": "consider"
+    },
+    {
+        "category": "normal",
+        "word": "type"
+    },
+    {
+        "category": "normal",
+        "word": "law"
+    },
+    {
+        "category": "normal",
+        "word": "bit"
+    },
+    {
+        "category": "normal",
+        "word": "coast"
+    },
+    {
+        "category": "normal",
+        "word": "copy"
+    },
+    {
+        "category": "normal",
+        "word": "phrase"
+    },
+    {
+        "category": "normal",
+        "word": "silent"
+    },
+    {
+        "category": "normal",
+        "word": "tall"
+    },
+    {
+        "category": "normal",
+        "word": "sand"
+    },
+    {
+        "category": "normal",
+        "word": "soil"
+    },
+    {
+        "category": "normal",
+        "word": "roll"
+    },
+    {
+        "category": "normal",
+        "word": "temperature"
+    },
+    {
+        "category": "normal",
+        "word": "finger"
+    },
+    {
+        "category": "normal",
+        "word": "industry"
+    },
+    {
+        "category": "normal",
+        "word": "value"
+    },
+    {
+        "category": "normal",
+        "word": "fight"
+    },
+    {
+        "category": "normal",
+        "word": "lie"
+    },
+    {
+        "category": "normal",
+        "word": "beat"
+    },
+    {
+        "category": "normal",
+        "word": "excite"
+    },
+    {
+        "category": "normal",
+        "word": "natural"
+    },
+    {
+        "category": "normal",
+        "word": "view"
+    },
+    {
+        "category": "normal",
+        "word": "sense"
+    },
+    {
+        "category": "normal",
+        "word": "ear"
+    },
+    {
+        "category": "normal",
+        "word": "else"
+    },
+    {
+        "category": "normal",
+        "word": "quite"
+    },
+    {
+        "category": "normal",
+        "word": "broke"
+    },
+    {
+        "category": "normal",
+        "word": "case"
+    },
+    {
+        "category": "normal",
+        "word": "middle"
+    },
+    {
+        "category": "normal",
+        "word": "kill"
+    },
+    {
+        "category": "normal",
+        "word": "son"
+    },
+    {
+        "category": "normal",
+        "word": "lake"
+    },
+    {
+        "category": "normal",
+        "word": "moment"
+    },
+    {
+        "category": "normal",
+        "word": "scale"
+    },
+    {
+        "category": "normal",
+        "word": "loud"
+    },
+    {
+        "category": "normal",
+        "word": "spring"
+    },
+    {
+        "category": "normal",
+        "word": "observe"
+    },
+    {
+        "category": "normal",
+        "word": "child"
+    },
+    {
+        "category": "normal",
+        "word": "straight"
+    },
+    {
+        "category": "normal",
+        "word": "consonant"
+    },
+    {
+        "category": "normal",
+        "word": "nation"
+    },
+    {
+        "category": "normal",
+        "word": "dictionary"
+    },
+    {
+        "category": "normal",
+        "word": "milk"
+    },
+    {
+        "category": "normal",
+        "word": "speed"
+    },
+    {
+        "category": "normal",
+        "word": "method"
+    },
+    {
+        "category": "normal",
+        "word": "organ"
+    },
+    {
+        "category": "normal",
+        "word": "pay"
+    },
+    {
+        "category": "normal",
+        "word": "age"
+    },
+    {
+        "category": "normal",
+        "word": "section"
+    },
+    {
+        "category": "normal",
+        "word": "dress"
+    },
+    {
+        "category": "normal",
+        "word": "cloud"
+    },
+    {
+        "category": "normal",
+        "word": "surprise"
+    },
+    {
+        "category": "normal",
+        "word": "quiet"
+    },
+    {
+        "category": "normal",
+        "word": "stone"
+    },
+    {
+        "category": "normal",
+        "word": "tiny"
+    },
+    {
+        "category": "normal",
+        "word": "climb"
+    },
+    {
+        "category": "normal",
+        "word": "cool"
+    },
+    {
+        "category": "normal",
+        "word": "design"
+    },
+    {
+        "category": "normal",
+        "word": "poor"
+    },
+    {
+        "category": "normal",
+        "word": "lot"
+    },
+    {
+        "category": "normal",
+        "word": "experiment"
+    },
+    {
+        "category": "normal",
+        "word": "bottom"
+    },
+    {
+        "category": "normal",
+        "word": "key"
+    },
+    {
+        "category": "normal",
+        "word": "iron"
+    },
+    {
+        "category": "normal",
+        "word": "single"
+    },
+    {
+        "category": "normal",
+        "word": "stick"
+    },
+    {
+        "category": "normal",
+        "word": "flat"
+    },
+    {
+        "category": "normal",
+        "word": "twenty"
+    },
+    {
+        "category": "normal",
+        "word": "skin"
+    },
+    {
+        "category": "normal",
+        "word": "smile"
+    },
+    {
+        "category": "normal",
+        "word": "crease"
+    },
+    {
+        "category": "normal",
+        "word": "hole"
+    },
+    {
+        "category": "normal",
+        "word": "trade"
+    },
+    {
+        "category": "normal",
+        "word": "melody"
+    },
+    {
+        "category": "normal",
+        "word": "trip"
+    },
+    {
+        "category": "normal",
+        "word": "office"
+    },
+    {
+        "category": "normal",
+        "word": "receive"
+    },
+    {
+        "category": "normal",
+        "word": "row"
+    },
+    {
+        "category": "normal",
+        "word": "mouth"
+    },
+    {
+        "category": "normal",
+        "word": "exact"
+    },
+    {
+        "category": "normal",
+        "word": "symbol"
+    },
+    {
+        "category": "normal",
+        "word": "die"
+    },
+    {
+        "category": "normal",
+        "word": "least"
+    },
+    {
+        "category": "normal",
+        "word": "trouble"
+    },
+    {
+        "category": "normal",
+        "word": "shout"
+    },
+    {
+        "category": "normal",
+        "word": "except"
+    },
+    {
+        "category": "normal",
+        "word": "wrote"
+    },
+    {
+        "category": "normal",
+        "word": "seed"
+    },
+    {
+        "category": "normal",
+        "word": "tone"
+    },
+    {
+        "category": "normal",
+        "word": "join"
+    },
+    {
+        "category": "normal",
+        "word": "suggest"
+    },
+    {
+        "category": "normal",
+        "word": "clean"
+    },
+    {
+        "category": "normal",
+        "word": "break"
+    },
+    {
+        "category": "normal",
+        "word": "lady"
+    },
+    {
+        "category": "normal",
+        "word": "yard"
+    },
+    {
+        "category": "normal",
+        "word": "rise"
+    },
+    {
+        "category": "normal",
+        "word": "bad"
+    },
+    {
+        "category": "normal",
+        "word": "blow"
+    },
+    {
+        "category": "normal",
+        "word": "oil"
+    },
+    {
+        "category": "normal",
+        "word": "blood"
+    },
+    {
+        "category": "normal",
+        "word": "touch"
+    },
+    {
+        "category": "normal",
+        "word": "grew"
+    },
+    {
+        "category": "normal",
+        "word": "cent"
+    },
+    {
+        "category": "normal",
+        "word": "mix"
+    },
+    {
+        "category": "normal",
+        "word": "team"
+    },
+    {
+        "category": "normal",
+        "word": "wire"
+    },
+    {
+        "category": "normal",
+        "word": "cost"
+    },
+    {
+        "category": "normal",
+        "word": "lost"
+    },
+    {
+        "category": "normal",
+        "word": "brown"
+    },
+    {
+        "category": "normal",
+        "word": "wear"
+    },
+    {
+        "category": "normal",
+        "word": "garden"
+    },
+    {
+        "category": "normal",
+        "word": "equal"
+    },
+    {
+        "category": "normal",
+        "word": "sent"
+    },
+    {
+        "category": "normal",
+        "word": "choose"
+    },
+    {
+        "category": "normal",
+        "word": "fell"
+    },
+    {
+        "category": "normal",
+        "word": "fit"
+    },
+    {
+        "category": "normal",
+        "word": "flow"
+    },
+    {
+        "category": "normal",
+        "word": "fair"
+    },
+    {
+        "category": "normal",
+        "word": "bank"
+    },
+    {
+        "category": "normal",
+        "word": "collect"
+    },
+    {
+        "category": "normal",
+        "word": "save"
+    },
+    {
+        "category": "normal",
+        "word": "control"
+    },
+    {
+        "category": "normal",
+        "word": "decimal"
+    },
+    {
+        "category": "normal",
+        "word": "gentle"
+    },
+    {
+        "category": "normal",
+        "word": "woman"
+    },
+    {
+        "category": "normal",
+        "word": "captain"
+    },
+    {
+        "category": "normal",
+        "word": "practice"
+    },
+    {
+        "category": "normal",
+        "word": "separate"
+    },
+    {
+        "category": "normal",
+        "word": "difficult"
+    },
+    {
+        "category": "normal",
+        "word": "doctor"
+    },
+    {
+        "category": "normal",
+        "word": "please"
+    },
+    {
+        "category": "normal",
+        "word": "protect"
+    },
+    {
+        "category": "normal",
+        "word": "noon"
+    },
+    {
+        "category": "normal",
+        "word": "whose"
+    },
+    {
+        "category": "normal",
+        "word": "locate"
+    },
+    {
+        "category": "normal",
+        "word": "ring"
+    },
+    {
+        "category": "normal",
+        "word": "character"
+    },
+    {
+        "category": "normal",
+        "word": "insect"
+    },
+    {
+        "category": "normal",
+        "word": "caught"
+    },
+    {
+        "category": "normal",
+        "word": "period"
+    },
+    {
+        "category": "normal",
+        "word": "indicate"
+    },
+    {
+        "category": "normal",
+        "word": "radio"
+    },
+    {
+        "category": "normal",
+        "word": "spoke"
+    },
+    {
+        "category": "normal",
+        "word": "atom"
+    },
+    {
+        "category": "normal",
+        "word": "human"
+    },
+    {
+        "category": "normal",
+        "word": "history"
+    },
+    {
+        "category": "normal",
+        "word": "effect"
+    },
+    {
+        "category": "normal",
+        "word": "electric"
+    },
+    {
+        "category": "normal",
+        "word": "expect"
+    },
+    {
+        "category": "normal",
+        "word": "crop"
+    },
+    {
+        "category": "normal",
+        "word": "modern"
+    },
+    {
+        "category": "normal",
+        "word": "element"
+    },
+    {
+        "category": "normal",
+        "word": "hit"
+    },
+    {
+        "category": "normal",
+        "word": "student"
+    },
+    {
+        "category": "normal",
+        "word": "corner"
+    },
+    {
+        "category": "normal",
+        "word": "party"
+    },
+    {
+        "category": "normal",
+        "word": "supply"
+    },
+    {
+        "category": "normal",
+        "word": "bone"
+    },
+    {
+        "category": "normal",
+        "word": "rail"
+    },
+    {
+        "category": "normal",
+        "word": "imagine"
+    },
+    {
+        "category": "normal",
+        "word": "provide"
+    },
+    {
+        "category": "normal",
+        "word": "agree"
+    },
+    {
+        "category": "normal",
+        "word": "thus"
+    },
+    {
+        "category": "normal",
+        "word": "capital"
+    },
+    {
+        "category": "normal",
+        "word": "chair"
+    },
+    {
+        "category": "normal",
+        "word": "danger"
+    },
+    {
+        "category": "normal",
+        "word": "fruit"
+    },
+    {
+        "category": "normal",
+        "word": "rich"
+    },
+    {
+        "category": "normal",
+        "word": "thick"
+    },
+    {
+        "category": "normal",
+        "word": "soldier"
+    },
+    {
+        "category": "normal",
+        "word": "process"
+    },
+    {
+        "category": "normal",
+        "word": "operate"
+    },
+    {
+        "category": "normal",
+        "word": "guess"
+    },
+    {
+        "category": "normal",
+        "word": "necessary"
+    },
+    {
+        "category": "normal",
+        "word": "sharp"
+    },
+    {
+        "category": "normal",
+        "word": "wing"
+    },
+    {
+        "category": "normal",
+        "word": "create"
+    },
+    {
+        "category": "normal",
+        "word": "neighbor"
+    },
+    {
+        "category": "normal",
+        "word": "wash"
+    },
+    {
+        "category": "normal",
+        "word": "bat"
+    },
+    {
+        "category": "normal",
+        "word": "rather"
+    },
+    {
+        "category": "normal",
+        "word": "crowd"
+    },
+    {
+        "category": "normal",
+        "word": "corn"
+    },
+    {
+        "category": "normal",
+        "word": "compare"
+    },
+    {
+        "category": "normal",
+        "word": "poem"
+    },
+    {
+        "category": "normal",
+        "word": "string"
+    },
+    {
+        "category": "normal",
+        "word": "bell"
+    },
+    {
+        "category": "normal",
+        "word": "depend"
+    },
+    {
+        "category": "normal",
+        "word": "meat"
+    },
+    {
+        "category": "normal",
+        "word": "rub"
+    },
+    {
+        "category": "normal",
+        "word": "tube"
+    },
+    {
+        "category": "normal",
+        "word": "famous"
+    },
+    {
+        "category": "normal",
+        "word": "dollar"
+    },
+    {
+        "category": "normal",
+        "word": "stream"
+    },
+    {
+        "category": "normal",
+        "word": "fear"
+    },
+    {
+        "category": "normal",
+        "word": "sight"
+    },
+    {
+        "category": "normal",
+        "word": "thin"
+    },
+    {
+        "category": "normal",
+        "word": "triangle"
+    },
+    {
+        "category": "normal",
+        "word": "planet"
+    },
+    {
+        "category": "normal",
+        "word": "hurry"
+    },
+    {
+        "category": "normal",
+        "word": "chief"
+    },
+    {
+        "category": "normal",
+        "word": "colony"
+    },
+    {
+        "category": "normal",
+        "word": "clock"
+    },
+    {
+        "category": "normal",
+        "word": "mine"
+    },
+    {
+        "category": "normal",
+        "word": "tie"
+    },
+    {
+        "category": "normal",
+        "word": "enter"
+    },
+    {
+        "category": "normal",
+        "word": "major"
+    },
+    {
+        "category": "normal",
+        "word": "fresh"
+    },
+    {
+        "category": "normal",
+        "word": "search"
+    },
+    {
+        "category": "normal",
+        "word": "send"
+    },
+    {
+        "category": "normal",
+        "word": "yellow"
+    },
+    {
+        "category": "normal",
+        "word": "gun"
+    },
+    {
+        "category": "normal",
+        "word": "allow"
+    },
+    {
+        "category": "normal",
+        "word": "print"
+    },
+    {
+        "category": "normal",
+        "word": "dead"
+    },
+    {
+        "category": "normal",
+        "word": "spot"
+    },
+    {
+        "category": "normal",
+        "word": "desert"
+    },
+    {
+        "category": "normal",
+        "word": "suit"
+    },
+    {
+        "category": "normal",
+        "word": "current"
+    },
+    {
+        "category": "normal",
+        "word": "lift"
+    },
+    {
+        "category": "normal",
+        "word": "rose"
+    },
+    {
+        "category": "normal",
+        "word": "continue"
+    },
+    {
+        "category": "normal",
+        "word": "block"
+    },
+    {
+        "category": "normal",
+        "word": "chart"
+    },
+    {
+        "category": "normal",
+        "word": "hat"
+    },
+    {
+        "category": "normal",
+        "word": "sell"
+    },
+    {
+        "category": "normal",
+        "word": "success"
+    },
+    {
+        "category": "normal",
+        "word": "company"
+    },
+    {
+        "category": "normal",
+        "word": "subtract"
+    },
+    {
+        "category": "normal",
+        "word": "event"
+    },
+    {
+        "category": "normal",
+        "word": "particular"
+    },
+    {
+        "category": "normal",
+        "word": "deal"
+    },
+    {
+        "category": "normal",
+        "word": "swim"
+    },
+    {
+        "category": "normal",
+        "word": "term"
+    },
+    {
+        "category": "normal",
+        "word": "opposite"
+    },
+    {
+        "category": "normal",
+        "word": "wife"
+    },
+    {
+        "category": "normal",
+        "word": "shoe"
+    },
+    {
+        "category": "normal",
+        "word": "shoulder"
+    },
+    {
+        "category": "normal",
+        "word": "spread"
+    },
+    {
+        "category": "normal",
+        "word": "arrange"
+    },
+    {
+        "category": "normal",
+        "word": "camp"
+    },
+    {
+        "category": "normal",
+        "word": "invent"
+    },
+    {
+        "category": "normal",
+        "word": "cotton"
+    },
+    {
+        "category": "normal",
+        "word": "born"
+    },
+    {
+        "category": "normal",
+        "word": "determine"
+    },
+    {
+        "category": "normal",
+        "word": "quart"
+    },
+    {
+        "category": "normal",
+        "word": "nine"
+    },
+    {
+        "category": "normal",
+        "word": "truck"
+    },
+    {
+        "category": "normal",
+        "word": "noise"
+    },
+    {
+        "category": "normal",
+        "word": "level"
+    },
+    {
+        "category": "normal",
+        "word": "chance"
+    },
+    {
+        "category": "normal",
+        "word": "gather"
+    },
+    {
+        "category": "normal",
+        "word": "shop"
+    },
+    {
+        "category": "normal",
+        "word": "stretch"
+    },
+    {
+        "category": "normal",
+        "word": "throw"
+    },
+    {
+        "category": "normal",
+        "word": "shine"
+    },
+    {
+        "category": "normal",
+        "word": "property"
+    },
+    {
+        "category": "normal",
+        "word": "column"
+    },
+    {
+        "category": "normal",
+        "word": "molecule"
+    },
+    {
+        "category": "normal",
+        "word": "select"
+    },
+    {
+        "category": "normal",
+        "word": "wrong"
+    },
+    {
+        "category": "normal",
+        "word": "gray"
+    },
+    {
+        "category": "normal",
+        "word": "repeat"
+    },
+    {
+        "category": "normal",
+        "word": "require"
+    },
+    {
+        "category": "normal",
+        "word": "broad"
+    },
+    {
+        "category": "normal",
+        "word": "prepare"
+    },
+    {
+        "category": "normal",
+        "word": "salt"
+    },
+    {
+        "category": "normal",
+        "word": "nose"
+    },
+    {
+        "category": "normal",
+        "word": "plural"
+    },
+    {
+        "category": "normal",
+        "word": "anger"
+    },
+    {
+        "category": "normal",
+        "word": "claim"
+    },
+    {
+        "category": "normal",
+        "word": "continent"
+    },
+    {
+        "category": "normal",
+        "word": "oxygen"
+    },
+    {
+        "category": "normal",
+        "word": "sugar"
+    },
+    {
+        "category": "normal",
+        "word": "death"
+    },
+    {
+        "category": "normal",
+        "word": "pretty"
+    },
+    {
+        "category": "normal",
+        "word": "skill"
+    },
+    {
+        "category": "normal",
+        "word": "women"
+    },
+    {
+        "category": "normal",
+        "word": "season"
+    },
+    {
+        "category": "normal",
+        "word": "solution"
+    },
+    {
+        "category": "normal",
+        "word": "magnet"
+    },
+    {
+        "category": "normal",
+        "word": "silver"
+    },
+    {
+        "category": "normal",
+        "word": "thank"
+    },
+    {
+        "category": "normal",
+        "word": "branch"
+    },
+    {
+        "category": "normal",
+        "word": "match"
+    },
+    {
+        "category": "normal",
+        "word": "suffix"
+    },
+    {
+        "category": "normal",
+        "word": "especially"
+    },
+    {
+        "category": "normal",
+        "word": "fig"
+    },
+    {
+        "category": "normal",
+        "word": "afraid"
+    },
+    {
+        "category": "normal",
+        "word": "huge"
+    },
+    {
+        "category": "normal",
+        "word": "sister"
+    },
+    {
+        "category": "normal",
+        "word": "steel"
+    },
+    {
+        "category": "normal",
+        "word": "discuss"
+    },
+    {
+        "category": "normal",
+        "word": "forward"
+    },
+    {
+        "category": "normal",
+        "word": "similar"
+    },
+    {
+        "category": "normal",
+        "word": "guide"
+    },
+    {
+        "category": "normal",
+        "word": "experience"
+    },
+    {
+        "category": "normal",
+        "word": "score"
+    },
+    {
+        "category": "normal",
+        "word": "apple"
+    },
+    {
+        "category": "normal",
+        "word": "bought"
+    },
+    {
+        "category": "normal",
+        "word": "led"
+    },
+    {
+        "category": "normal",
+        "word": "pitch"
+    },
+    {
+        "category": "normal",
+        "word": "coat"
+    },
+    {
+        "category": "normal",
+        "word": "mass"
+    },
+    {
+        "category": "normal",
+        "word": "card"
+    },
+    {
+        "category": "normal",
+        "word": "band"
+    },
+    {
+        "category": "normal",
+        "word": "rope"
+    },
+    {
+        "category": "normal",
+        "word": "slip"
+    },
+    {
+        "category": "normal",
+        "word": "win"
+    },
+    {
+        "category": "normal",
+        "word": "dream"
+    },
+    {
+        "category": "normal",
+        "word": "evening"
+    },
+    {
+        "category": "normal",
+        "word": "condition"
+    },
+    {
+        "category": "normal",
+        "word": "feed"
+    },
+    {
+        "category": "normal",
+        "word": "tool"
+    },
+    {
+        "category": "normal",
+        "word": "total"
+    },
+    {
+        "category": "normal",
+        "word": "basic"
+    },
+    {
+        "category": "normal",
+        "word": "smell"
+    },
+    {
+        "category": "normal",
+        "word": "valley"
+    },
+    {
+        "category": "normal",
+        "word": "nor"
+    },
+    {
+        "category": "normal",
+        "word": "double"
+    },
+    {
+        "category": "normal",
+        "word": "seat"
+    },
+    {
+        "category": "normal",
+        "word": "arrive"
+    },
+    {
+        "category": "normal",
+        "word": "master"
+    },
+    {
+        "category": "normal",
+        "word": "track"
+    },
+    {
+        "category": "normal",
+        "word": "parent"
+    },
+    {
+        "category": "normal",
+        "word": "shore"
+    },
+    {
+        "category": "normal",
+        "word": "division"
+    },
+    {
+        "category": "normal",
+        "word": "sheet"
+    },
+    {
+        "category": "normal",
+        "word": "substance"
+    },
+    {
+        "category": "normal",
+        "word": "favor"
+    },
+    {
+        "category": "normal",
+        "word": "connect"
+    },
+    {
+        "category": "normal",
+        "word": "post"
+    },
+    {
+        "category": "normal",
+        "word": "spend"
+    },
+    {
+        "category": "normal",
+        "word": "chord"
+    },
+    {
+        "category": "normal",
+        "word": "fat"
+    },
+    {
+        "category": "normal",
+        "word": "glad"
+    },
+    {
+        "category": "normal",
+        "word": "original"
+    },
+    {
+        "category": "normal",
+        "word": "share"
+    },
+    {
+        "category": "normal",
+        "word": "station"
+    },
+    {
+        "category": "normal",
+        "word": "dad"
+    },
+    {
+        "category": "normal",
+        "word": "bread"
+    },
+    {
+        "category": "normal",
+        "word": "charge"
+    },
+    {
+        "category": "normal",
+        "word": "proper"
+    },
+    {
+        "category": "normal",
+        "word": "bar"
+    },
+    {
+        "category": "normal",
+        "word": "offer"
+    },
+    {
+        "category": "normal",
+        "word": "segment"
+    },
+    {
+        "category": "normal",
+        "word": "slave"
+    },
+    {
+        "category": "normal",
+        "word": "duck"
+    },
+    {
+        "category": "normal",
+        "word": "instant"
+    },
+    {
+        "category": "normal",
+        "word": "market"
+    },
+    {
+        "category": "normal",
+        "word": "degree"
+    },
+    {
+        "category": "normal",
+        "word": "populate"
+    },
+    {
+        "category": "normal",
+        "word": "chick"
+    },
+    {
+        "category": "normal",
+        "word": "dear"
+    },
+    {
+        "category": "normal",
+        "word": "enemy"
+    },
+    {
+        "category": "normal",
+        "word": "reply"
+    },
+    {
+        "category": "normal",
+        "word": "drink"
+    },
+    {
+        "category": "normal",
+        "word": "occur"
+    },
+    {
+        "category": "normal",
+        "word": "support"
+    },
+    {
+        "category": "normal",
+        "word": "speech"
+    },
+    {
+        "category": "normal",
+        "word": "nature"
+    },
+    {
+        "category": "normal",
+        "word": "range"
+    },
+    {
+        "category": "normal",
+        "word": "steam"
+    },
+    {
+        "category": "normal",
+        "word": "motion"
+    },
+    {
+        "category": "normal",
+        "word": "path"
+    },
+    {
+        "category": "normal",
+        "word": "liquid"
+    },
+    {
+        "category": "normal",
+        "word": "log"
+    },
+    {
+        "category": "normal",
+        "word": "meant"
+    },
+    {
+        "category": "normal",
+        "word": "quotient"
+    },
+    {
+        "category": "normal",
+        "word": "teeth"
+    },
+    {
+        "category": "normal",
+        "word": "shell"
+    },
+    {
+        "category": "normal",
+        "word": "neck"
+    },
+    {
+        "category": "hard",
+        "word": "abject"
+    },
+    {
+        "category": "hard",
+        "word": "aberration"
+    },
+    {
+        "category": "hard",
+        "word": "abjure"
+    },
+    {
+        "category": "hard",
+        "word": "abnegation"
+    },
+    {
+        "category": "hard",
+        "word": "abrogate"
+    },
+    {
+        "category": "hard",
+        "word": "abscond"
+    },
+    {
+        "category": "hard",
+        "word": "abstruse"
+    },
+    {
+        "category": "hard",
+        "word": "accede"
+    },
+    {
+        "category": "hard",
+        "word": "accost"
+    },
+    {
+        "category": "hard",
+        "word": "accretion"
+    },
+    {
+        "category": "hard",
+        "word": "acumen"
+    },
+    {
+        "category": "hard",
+        "word": "adamant"
+    },
+    {
+        "category": "hard",
+        "word": "admonish"
+    },
+    {
+        "category": "hard",
+        "word": "adumbrate"
+    },
+    {
+        "category": "hard",
+        "word": "adverse"
+    },
+    {
+        "category": "hard",
+        "word": "advocate"
+    },
+    {
+        "category": "hard",
+        "word": "affluent"
+    },
+    {
+        "category": "hard",
+        "word": "aggrandize"
+    },
+    {
+        "category": "hard",
+        "word": "alacrity"
+    },
+    {
+        "category": "hard",
+        "word": "alias"
+    },
+    {
+        "category": "hard",
+        "word": "ambivalent"
+    },
+    {
+        "category": "hard",
+        "word": "amenable"
+    },
+    {
+        "category": "hard",
+        "word": "amorphous"
+    },
+    {
+        "category": "hard",
+        "word": "anachronistic"
+    },
+    {
+        "category": "hard",
+        "word": "anathema"
+    },
+    {
+        "category": "hard",
+        "word": "annex"
+    },
+    {
+        "category": "hard",
+        "word": "antediluvian"
+    },
+    {
+        "category": "hard",
+        "word": "antiseptic"
+    },
+    {
+        "category": "hard",
+        "word": "apathetic"
+    },
+    {
+        "category": "hard",
+        "word": "antithesis"
+    },
+    {
+        "category": "hard",
+        "word": "apocryphal"
+    },
+    {
+        "category": "hard",
+        "word": "approbation"
+    },
+    {
+        "category": "hard",
+        "word": "arbitrary"
+    },
+    {
+        "category": "hard",
+        "word": "arboreal"
+    },
+    {
+        "category": "hard",
+        "word": "arcane"
+    },
+    {
+        "category": "hard",
+        "word": "archetypal"
+    },
+    {
+        "category": "hard",
+        "word": "arrogate"
+    },
+    {
+        "category": "hard",
+        "word": "ascetic"
+    },
+    {
+        "category": "hard",
+        "word": "aspersion"
+    },
+    {
+        "category": "hard",
+        "word": "assiduous"
+    },
+    {
+        "category": "hard",
+        "word": "atrophy"
+    },
+    {
+        "category": "hard",
+        "word": "bane"
+    },
+    {
+        "category": "hard",
+        "word": "bashful"
+    },
+    {
+        "category": "hard",
+        "word": "beguile"
+    },
+    {
+        "category": "hard",
+        "word": "bereft"
+    },
+    {
+        "category": "hard",
+        "word": "blandishment"
+    },
+    {
+        "category": "hard",
+        "word": "bilk"
+    },
+    {
+        "category": "hard",
+        "word": "bombastic"
+    },
+    {
+        "category": "hard",
+        "word": "cajole"
+    },
+    {
+        "category": "hard",
+        "word": "callous"
+    },
+    {
+        "category": "hard",
+        "word": "calumny"
+    },
+    {
+        "category": "hard",
+        "word": "camaraderie"
+    },
+    {
+        "category": "hard",
+        "word": "candor"
+    },
+    {
+        "category": "hard",
+        "word": "capitulate"
+    },
+    {
+        "category": "hard",
+        "word": "carouse"
+    },
+    {
+        "category": "hard",
+        "word": "carp"
+    },
+    {
+        "category": "hard",
+        "word": "caucus"
+    },
+    {
+        "category": "hard",
+        "word": "cavort"
+    },
+    {
+        "category": "hard",
+        "word": "circumlocution"
+    },
+    {
+        "category": "hard",
+        "word": "circumscribe"
+    },
+    {
+        "category": "hard",
+        "word": "circumvent"
+    },
+    {
+        "category": "hard",
+        "word": "clamor"
+    },
+    {
+        "category": "hard",
+        "word": "cleave"
+    },
+    {
+        "category": "hard",
+        "word": "cobbler"
+    },
+    {
+        "category": "hard",
+        "word": "cogent"
+    },
+    {
+        "category": "hard",
+        "word": "cognizant"
+    },
+    {
+        "category": "hard",
+        "word": "commensurate"
+    },
+    {
+        "category": "hard",
+        "word": "complement"
+    },
+    {
+        "category": "hard",
+        "word": "compunction"
+    },
+    {
+        "category": "hard",
+        "word": "concomitant"
+    },
+    {
+        "category": "hard",
+        "word": "conduit"
+    },
+    {
+        "category": "hard",
+        "word": "conflagration"
+    },
+    {
+        "category": "hard",
+        "word": "congruity"
+    },
+    {
+        "category": "hard",
+        "word": "connive"
+    },
+    {
+        "category": "hard",
+        "word": "consign"
+    },
+    {
+        "category": "hard",
+        "word": "constituent"
+    },
+    {
+        "category": "hard",
+        "word": "construe"
+    },
+    {
+        "category": "hard",
+        "word": "contusion"
+    },
+    {
+        "category": "hard",
+        "word": "contrite"
+    },
+    {
+        "category": "hard",
+        "word": "contentious"
+    },
+    {
+        "category": "hard",
+        "word": "contravene"
+    },
+    {
+        "category": "hard",
+        "word": "convivial"
+    },
+    {
+        "category": "hard",
+        "word": "corpulence"
+    },
+    {
+        "category": "hard",
+        "word": "covet"
+    },
+    {
+        "category": "hard",
+        "word": "cupidity"
+    },
+    {
+        "category": "hard",
+        "word": "dearth"
+    },
+    {
+        "category": "hard",
+        "word": "debacle"
+    },
+    {
+        "category": "hard",
+        "word": "debauch"
+    },
+    {
+        "category": "hard",
+        "word": "debunk"
+    },
+    {
+        "category": "hard",
+        "word": "defunct"
+    },
+    {
+        "category": "hard",
+        "word": "demagogue"
+    },
+    {
+        "category": "hard",
+        "word": "denigrate"
+    },
+    {
+        "category": "hard",
+        "word": "derivative"
+    },
+    {
+        "category": "hard",
+        "word": "despot"
+    },
+    {
+        "category": "hard",
+        "word": "diaphanous"
+    },
+    {
+        "category": "hard",
+        "word": "didactic"
+    },
+    {
+        "category": "hard",
+        "word": "dirge"
+    },
+    {
+        "category": "hard",
+        "word": "disaffected"
+    },
+    {
+        "category": "hard",
+        "word": "discomfit"
+    },
+    {
+        "category": "hard",
+        "word": "disparate"
+    },
+    {
+        "category": "hard",
+        "word": "dispel"
+    },
+    {
+        "category": "hard",
+        "word": "disrepute"
+    },
+    {
+        "category": "hard",
+        "word": "divisive"
+    },
+    {
+        "category": "hard",
+        "word": "dogmatic"
+    },
+    {
+        "category": "hard",
+        "word": "dour"
+    },
+    {
+        "category": "hard",
+        "word": "duplicity"
+    },
+    {
+        "category": "hard",
+        "word": "duress"
+    },
+    {
+        "category": "hard",
+        "word": "eclectic"
+    },
+    {
+        "category": "hard",
+        "word": "edict"
+    },
+    {
+        "category": "hard",
+        "word": "ebullient"
+    },
+    {
+        "category": "hard",
+        "word": "egregious"
+    },
+    {
+        "category": "hard",
+        "word": "elegy"
+    },
+    {
+        "category": "hard",
+        "word": "elicit"
+    },
+    {
+        "category": "hard",
+        "word": "embezzlement"
+    },
+    {
+        "category": "hard",
+        "word": "emend"
+    },
+    {
+        "category": "hard",
+        "word": "emollient"
+    },
+    {
+        "category": "hard",
+        "word": "empirical"
+    },
+    {
+        "category": "hard",
+        "word": "emulate"
+    },
+    {
+        "category": "hard",
+        "word": "enervate"
+    },
+    {
+        "category": "hard",
+        "word": "enfranchise"
+    },
+    {
+        "category": "hard",
+        "word": "engender"
+    },
+    {
+        "category": "hard",
+        "word": "ephemeral"
+    },
+    {
+        "category": "hard",
+        "word": "epistolary"
+    },
+    {
+        "category": "hard",
+        "word": "equanimity"
+    },
+    {
+        "category": "hard",
+        "word": "equivocal"
+    },
+    {
+        "category": "hard",
+        "word": "espouse"
+    },
+    {
+        "category": "hard",
+        "word": "evanescent"
+    },
+    {
+        "category": "hard",
+        "word": "evince"
+    },
+    {
+        "category": "hard",
+        "word": "exacerbate"
+    },
+    {
+        "category": "hard",
+        "word": "exhort"
+    },
+    {
+        "category": "hard",
+        "word": "execrable"
+    },
+    {
+        "category": "hard",
+        "word": "exigent"
+    },
+    {
+        "category": "hard",
+        "word": "expedient"
+    },
+    {
+        "category": "hard",
+        "word": "expiate"
+    },
+    {
+        "category": "hard",
+        "word": "expunge"
+    },
+    {
+        "category": "hard",
+        "word": "extraneous"
+    },
+    {
+        "category": "hard",
+        "word": "extol"
+    },
+    {
+        "category": "hard",
+        "word": "extant"
+    },
+    {
+        "category": "hard",
+        "word": "expurgate"
+    },
+    {
+        "category": "hard",
+        "word": "fallacious"
+    },
+    {
+        "category": "hard",
+        "word": "fatuous"
+    },
+    {
+        "category": "hard",
+        "word": "fetter"
+    },
+    {
+        "category": "hard",
+        "word": "flagrant"
+    },
+    {
+        "category": "hard",
+        "word": "foil"
+    },
+    {
+        "category": "hard",
+        "word": "forbearance"
+    },
+    {
+        "category": "hard",
+        "word": "fortuitous"
+    },
+    {
+        "category": "hard",
+        "word": "fractious"
+    },
+    {
+        "category": "hard",
+        "word": "garrulous"
+    },
+    {
+        "category": "hard",
+        "word": "gourmand"
+    },
+    {
+        "category": "hard",
+        "word": "grandiloquent"
+    },
+    {
+        "category": "hard",
+        "word": "gratuitous"
+    },
+    {
+        "category": "hard",
+        "word": "hapless"
+    },
+    {
+        "category": "hard",
+        "word": "hegemony"
+    },
+    {
+        "category": "hard",
+        "word": "heterogenous"
+    },
+    {
+        "category": "hard",
+        "word": "iconoclast"
+    },
+    {
+        "category": "hard",
+        "word": "idiosyncratic"
+    },
+    {
+        "category": "hard",
+        "word": "impecunious"
+    },
+    {
+        "category": "hard",
+        "word": "impetuous"
+    },
+    {
+        "category": "hard",
+        "word": "impinge"
+    },
+    {
+        "category": "hard",
+        "word": "impute"
+    },
+    {
+        "category": "hard",
+        "word": "inane"
+    },
+    {
+        "category": "hard",
+        "word": "inchoate"
+    },
+    {
+        "category": "hard",
+        "word": "incontrovertible"
+    },
+    {
+        "category": "hard",
+        "word": "incumbent"
+    },
+    {
+        "category": "hard",
+        "word": "inexorable"
+    },
+    {
+        "category": "hard",
+        "word": "inimical"
+    },
+    {
+        "category": "hard",
+        "word": "injunction"
+    },
+    {
+        "category": "hard",
+        "word": "inoculate"
+    },
+    {
+        "category": "hard",
+        "word": "insidious"
+    },
+    {
+        "category": "hard",
+        "word": "instigate"
+    },
+    {
+        "category": "hard",
+        "word": "insurgent"
+    },
+    {
+        "category": "hard",
+        "word": "interlocutor"
+    },
+    {
+        "category": "hard",
+        "word": "intimation"
+    },
+    {
+        "category": "hard",
+        "word": "inure"
+    },
+    {
+        "category": "hard",
+        "word": "invective"
+    },
+    {
+        "category": "hard",
+        "word": "intransigent"
+    },
+    {
+        "category": "hard",
+        "word": "inveterate"
+    },
+    {
+        "category": "hard",
+        "word": "irreverence"
+    },
+    {
+        "category": "hard",
+        "word": "knell"
+    },
+    {
+        "category": "hard",
+        "word": "laconic"
+    },
+    {
+        "category": "hard",
+        "word": "largesse"
+    },
+    {
+        "category": "hard",
+        "word": "legerdemain"
+    },
+    {
+        "category": "hard",
+        "word": "libertarian"
+    },
+    {
+        "category": "hard",
+        "word": "licentious"
+    },
+    {
+        "category": "hard",
+        "word": "linchpin"
+    },
+    {
+        "category": "hard",
+        "word": "litigant"
+    },
+    {
+        "category": "hard",
+        "word": "maelstrom"
+    },
+    {
+        "category": "hard",
+        "word": "maudlin"
+    },
+    {
+        "category": "hard",
+        "word": "maverick"
+    },
+    {
+        "category": "hard",
+        "word": "mawkish"
+    },
+    {
+        "category": "hard",
+        "word": "maxim"
+    },
+    {
+        "category": "hard",
+        "word": "mendacious"
+    },
+    {
+        "category": "hard",
+        "word": "modicum"
+    },
+    {
+        "category": "hard",
+        "word": "morass"
+    },
+    {
+        "category": "hard",
+        "word": "mores"
+    },
+    {
+        "category": "hard",
+        "word": "munificent"
+    },
+    {
+        "category": "hard",
+        "word": "multifarious"
+    },
+    {
+        "category": "hard",
+        "word": "nadir"
+    },
+    {
+        "category": "hard",
+        "word": "negligent"
+    },
+    {
+        "category": "hard",
+        "word": "neophyte"
+    },
+    {
+        "category": "hard",
+        "word": "noisome"
+    },
+    {
+        "category": "hard",
+        "word": "noxious"
+    },
+    {
+        "category": "hard",
+        "word": "obdurate"
+    },
+    {
+        "category": "hard",
+        "word": "obfuscate"
+    },
+    {
+        "category": "hard",
+        "word": "obstreperous"
+    },
+    {
+        "category": "hard",
+        "word": "officious"
+    },
+    {
+        "category": "hard",
+        "word": "onerous"
+    },
+    {
+        "category": "hard",
+        "word": "ostensible"
+    },
+    {
+        "category": "hard",
+        "word": "ostracism"
+    },
+    {
+        "category": "hard",
+        "word": "palliate"
+    },
+    {
+        "category": "hard",
+        "word": "panacea"
+    },
+    {
+        "category": "hard",
+        "word": "paradigm"
+    },
+    {
+        "category": "hard",
+        "word": "pariah"
+    },
+    {
+        "category": "hard",
+        "word": "partisan"
+    },
+    {
+        "category": "hard",
+        "word": "paucity"
+    },
+    {
+        "category": "hard",
+        "word": "pejorative"
+    },
+    {
+        "category": "hard",
+        "word": "pellucid"
+    },
+    {
+        "category": "hard",
+        "word": "penchant"
+    },
+    {
+        "category": "hard",
+        "word": "penurious"
+    },
+    {
+        "category": "hard",
+        "word": "pert"
+    },
+    {
+        "category": "hard",
+        "word": "pernicious"
+    },
+    {
+        "category": "hard",
+        "word": "pertinacious"
+    },
+    {
+        "category": "hard",
+        "word": "phlegmatic"
+    },
+    {
+        "category": "hard",
+        "word": "philanthropic"
+    },
+    {
+        "category": "hard",
+        "word": "pithy"
+    },
+    {
+        "category": "hard",
+        "word": "platitude"
+    },
+    {
+        "category": "hard",
+        "word": "plaudit"
+    },
+    {
+        "category": "hard",
+        "word": "plenitude"
+    },
+    {
+        "category": "hard",
+        "word": "plethora"
+    },
+    {
+        "category": "hard",
+        "word": "portent"
+    },
+    {
+        "category": "hard",
+        "word": "potentate"
+    },
+    {
+        "category": "hard",
+        "word": "preclude"
+    },
+    {
+        "category": "hard",
+        "word": "predilection"
+    },
+    {
+        "category": "hard",
+        "word": "preponderance"
+    },
+    {
+        "category": "hard",
+        "word": "presage"
+    },
+    {
+        "category": "hard",
+        "word": "probity"
+    },
+    {
+        "category": "hard",
+        "word": "proclivity"
+    },
+    {
+        "category": "hard",
+        "word": "profligate"
+    },
+    {
+        "category": "hard",
+        "word": "promulgate"
+    },
+    {
+        "category": "hard",
+        "word": "proscribe"
+    },
+    {
+        "category": "hard",
+        "word": "protean"
+    },
+    {
+        "category": "hard",
+        "word": "prurient"
+    },
+    {
+        "category": "hard",
+        "word": "puerile"
+    },
+    {
+        "category": "hard",
+        "word": "pugnacious"
+    },
+    {
+        "category": "hard",
+        "word": "pulchritude"
+    },
+    {
+        "category": "hard",
+        "word": "punctilious"
+    },
+    {
+        "category": "hard",
+        "word": "quaint"
+    },
+    {
+        "category": "hard",
+        "word": "quixotic"
+    },
+    {
+        "category": "hard",
+        "word": "quixotic"
+    },
+    {
+        "category": "hard",
+        "word": "recalcitrant"
+    },
+    {
+        "category": "hard",
+        "word": "redoubtable"
+    },
+    {
+        "category": "hard",
+        "word": "relegate"
+    },
+    {
+        "category": "hard",
+        "word": "remiss"
+    },
+    {
+        "category": "hard",
+        "word": "reprieve"
+    },
+    {
+        "category": "hard",
+        "word": "reprobate"
+    },
+    {
+        "category": "hard",
+        "word": "rescind"
+    },
+    {
+        "category": "hard",
+        "word": "requisition"
+    },
+    {
+        "category": "hard",
+        "word": "rife"
+    },
+    {
+        "category": "hard",
+        "word": "sanctimonious"
+    },
+    {
+        "category": "hard",
+        "word": "sanguine"
+    },
+    {
+        "category": "hard",
+        "word": "scurrilous"
+    },
+    {
+        "category": "hard",
+        "word": "semaphore"
+    },
+    {
+        "category": "hard",
+        "word": "serendipity"
+    },
+    {
+        "category": "hard",
+        "word": "sobriety"
+    },
+    {
+        "category": "hard",
+        "word": "solicitous"
+    },
+    {
+        "category": "hard",
+        "word": "solipsism"
+    },
+    {
+        "category": "hard",
+        "word": "spurious"
+    },
+    {
+        "category": "hard",
+        "word": "staid"
+    },
+    {
+        "category": "hard",
+        "word": "stolid"
+    },
+    {
+        "category": "hard",
+        "word": "subjugate"
+    },
+    {
+        "category": "hard",
+        "word": "surfeit"
+    },
+    {
+        "category": "hard",
+        "word": "surreptitious"
+    },
+    {
+        "category": "hard",
+        "word": "swarthy"
+    },
+    {
+        "category": "hard",
+        "word": "tangential"
+    },
+    {
+        "category": "hard",
+        "word": "tome"
+    },
+    {
+        "category": "hard",
+        "word": "toady"
+    },
+    {
+        "category": "hard",
+        "word": "torpid"
+    },
+    {
+        "category": "hard",
+        "word": "travesty"
+    },
+    {
+        "category": "hard",
+        "word": "trenchant"
+    },
+    {
+        "category": "hard",
+        "word": "trite"
+    },
+    {
+        "category": "hard",
+        "word": "truculent"
+    },
+    {
+        "category": "hard",
+        "word": "turpitude"
+    },
+    {
+        "category": "hard",
+        "word": "ubiquitous"
+    },
+    {
+        "category": "hard",
+        "word": "umbrage"
+    },
+    {
+        "category": "hard",
+        "word": "upbraid"
+    },
+    {
+        "category": "hard",
+        "word": "utilitarian"
+    },
+    {
+        "category": "hard",
+        "word": "veracity"
+    },
+    {
+        "category": "hard",
+        "word": "vestige"
+    },
+    {
+        "category": "hard",
+        "word": "vicissitude"
+    },
+    {
+        "category": "hard",
+        "word": "vilify"
+    },
+    {
+        "category": "hard",
+        "word": "virtuoso"
+    },
+    {
+        "category": "hard",
+        "word": "vitriolic"
+    },
+    {
+        "category": "hard",
+        "word": "vituperate"
+    },
+    {
+        "category": "hard",
+        "word": "vociferous"
+    },
+    {
+        "category": "hard",
+        "word": "wanton"
+    },
+    {
+        "category": "hard",
+        "word": "winsome"
+    },
+    {
+        "category": "hard",
+        "word": "yoke"
+    },
+    {
+        "category": "hard",
+        "word": "zephyr"
+    },
+    {
+        "category": "hard",
+        "word": "wily"
+    },
+    {
+        "category": "hard",
+        "word": "tirade"
     }
 ]
