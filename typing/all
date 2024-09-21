@@ -22,5 +22,17 @@
     {
         "type": "hard",
         "data": "tirade"
+    },
+    {
+        "type": "number",
+        "data": "345235"
+    },
+    {
+        "type": "number",
+        "data": "23823489234"
+    },
+    {
+        "type": "number",
+        "data": "9766483"
     }
 ]
