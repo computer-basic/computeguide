@@ -1,0 +1,26 @@
+[
+    {
+        "type": "normal",
+        "data": "there"
+    },
+    {
+        "type": "normal",
+        "data": "when"
+    },
+    {
+        "type": "normal",
+        "data": "up"
+    },
+    {
+        "type": "hard",
+        "data": "zephyr"
+    },
+    {
+        "type": "hard",
+        "data": "wily"
+    },
+    {
+        "type": "hard",
+        "data": "tirade"
+    }
+]
