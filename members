@@ -3846,18 +3846,6 @@
     "accessKey": "bWlyYWFraXNhbkBnbWFpbC5jb21zYW1zdW5nYTEz"
   },
   {
-    "name": "Chit Ko Ko Aung",
-    "expireDate": "21 Sep, 2024",
-    "level": 2,
-    "accessKey": "MDk3NjU2MzQ1MjdYaWFvbWlnYXVndWlucHJv"
-  },
-  {
-    "name": "Htet Htet Yu Paing",
-    "expireDate": "21 Sep, 2024",
-    "level": 2,
-    "accessKey": "MDk5NjE4ODIyMTBYaWFvbWlzZWxlbmU="
-  },
-  {
     "name": "ဦးကျော်ဇာနည်အောင်",
     "expireDate": "24 Sep, 2024",
     "level": 2,
@@ -4446,12 +4434,6 @@
     "accessKey": "bWF5dGh1dGh1dHVuNjM5QGdtYWlsLmNvbUlORklOSVhJbmZpbml4LVg2NTI1Qg=="
   },
   {
-    "name": "Kay Thari Soe",
-    "expireDate": "21 Sep, 2024",
-    "level": 1,
-    "accessKey": "MDk3ODcyOTM2NzRyZWFsbWVSRTVDOTFMMQ=="
-  },
-  {
     "name": "Nyi Khant Zaw",
     "expireDate": "-",
     "level": 3,
@@ -4798,5 +4780,11 @@
     "expireDate": "21 Dec, 2024",
     "level": 2,
     "accessKey": "MDk5NzQyNDQxNzlYaWFvbWlsaXNh"
+  },
+  {
+    "name": "Kay Thari Soe",
+    "expireDate": "23 Oct, 2024",
+    "level": 1,
+    "accessKey": "MDk3ODcyOTM2NzRyZWFsbWVSRTVDOTFMMQ=="
   }
 ]
