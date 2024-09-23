@@ -4786,5 +4786,11 @@
     "expireDate": "23 Oct, 2024",
     "level": 1,
     "accessKey": "MDk3ODcyOTM2NzRyZWFsbWVSRTVDOTFMMQ=="
+  },
+  {
+    "name": "minko",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "KzYwMTE2MzkzNTc2Mk9QUE9PUDRGMTFMMQ=="
   }
 ]
