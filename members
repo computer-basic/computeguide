@@ -3882,12 +3882,6 @@
     "accessKey": "bWF5bGF5Mzc4NzhAZ21haWwuY29tT1BQT09QNTc1OUwx"
   },
   {
-    "name": "Soung Oo Lay Paya",
-    "expireDate": "3 Oct, 2024",
-    "level": 2,
-    "accessKey": "MDk2NjI3MDM1MTBYaWFvbWl0YXBhcw=="
-  },
-  {
     "name": "Myat Kay",
     "expireDate": "-",
     "level": 3,
@@ -4488,12 +4482,6 @@
     "accessKey": "Y3luaWM1NTNAZ21haWwuY29tWGlhb21pZ29sZA=="
   },
   {
-    "name": "Nay Win Aung",
-    "expireDate": "3 Oct, 2024",
-    "level": 1,
-    "accessKey": "MDk2ODczMDA4ODVYaWFvbWlkYW5kZWxpb24="
-  },
-  {
     "name": "mg cung",
     "expireDate": "-",
     "level": 3,
@@ -4756,5 +4744,11 @@
     "expireDate": "3 Oct, 2025",
     "level": 3,
     "accessKey": "KzY2OTkxMDE1MTgwdml2bzIwMjc="
+  },
+  {
+    "name": "Thinzar",
+    "expireDate": "5 Jan, 2025",
+    "level": 2,
+    "accessKey": "dHphcnp3ZWxAZ21haWwuY29tcmVhbG1lUkU1MEMx"
   }
 ]
