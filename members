@@ -3936,12 +3936,6 @@
     "accessKey": "a29zb2VwYWluZzE5ODFAZ21haWwuY29tT1BQT09QNTJEMUwx"
   },
   {
-    "name": "Aung Paing Phyo",
-    "expireDate": "15 Oct, 2024",
-    "level": 2,
-    "accessKey": "ZWllaXBoeW9wcDIwMDJAZ21haWwuY29tdml2bzIxMTY="
-  },
-  {
     "name": "Blink ",
     "expireDate": "-",
     "level": 3,
@@ -4566,12 +4560,6 @@
     "accessKey": "c3dhcjY3NzVAZ21haWwuY29tT1BQT09QNEYyRg=="
   },
   {
-    "name": "Aung nyein chan",
-    "expireDate": "15 Oct, 2024",
-    "level": 1,
-    "accessKey": "MDk3NTY5NzE4MjlYaWFvbWlnaW5rZ28="
-  },
-  {
     "name": "TharAung",
     "expireDate": "-",
     "level": 3,
@@ -4762,5 +4750,11 @@
     "expireDate": "15 Jan, 2025",
     "level": 2,
     "accessKey": "MDk3OTc0NjM4MzlzYW1zdW5nYTMy"
+  },
+  {
+    "name": "Ashin Kumara",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk5NDE1NDc0NDNURUNOT1RFQ05PLUxIN24="
   }
 ]
