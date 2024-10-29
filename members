@@ -4056,12 +4056,6 @@
     "accessKey": "bGFycm9pOTdAZ21haWwuY29tc2Ftc3VuZ2EzMQ=="
   },
   {
-    "name": "Zar Zar",
-    "expireDate": "29 Oct, 2024",
-    "level": 2,
-    "accessKey": "MjcwOTUxbGF3eWVyemFyemFyQGdtYWlsLmNvbXNhbXN1bmdhMDVz"
-  },
-  {
     "name": "Naw Julia ",
     "expireDate": "31 Oct, 2024",
     "level": 2,
@@ -4774,5 +4768,11 @@
     "expireDate": "29 Oct, 2025",
     "level": 3,
     "accessKey": "aHRldGhsYW1pbjUxQGdtYWlsLmNvbU9QUE9PUDU3NEZMMQ=="
+  },
+  {
+    "name": "chit thein",
+    "expireDate": "30 Jan, 2025",
+    "level": 2,
+    "accessKey": "MDk0MDQ3OTM1MjRPUFBPT1A0RUQ1"
   }
 ]
