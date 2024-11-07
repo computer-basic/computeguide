@@ -4080,12 +4080,6 @@
     "accessKey": "bmF3Y2hyaXN0c2FiYWw1MjhAZ21haWwuY29tc2Ftc3VuZ2ExNA=="
   },
   {
-    "name": "Win Thuraa",
-    "expireDate": "7 Nov, 2024",
-    "level": 2,
-    "accessKey": "MDk5MjIwNTU5MjA5OTIyMDU1OTJYaWFvbWlydWJ5"
-  },
-  {
     "name": "Moe Sandar",
     "expireDate": "-",
     "level": 3,
@@ -4596,22 +4590,10 @@
     "accessKey": "dHphcnp3ZWxAZ21haWwuY29tcmVhbG1lUkU1MEMx"
   },
   {
-    "name": "Aye Pyae Sone",
-    "expireDate": "6 Nov, 2024",
-    "level": 1,
-    "accessKey": "MDk2NzYxNDkyNTZURUNOT1RFQ05PLUJHNg=="
-  },
-  {
     "name": "ko nay gyi ",
     "expireDate": "7 Jan, 2025",
     "level": 2,
     "accessKey": "MDk0NTQ4NTc1ODcwOTk1OTYyNDQ1MFhpYW9taXZldXg="
-  },
-  {
-    "name": "Su Su Aye",
-    "expireDate": "7 Nov, 2024",
-    "level": 1,
-    "accessKey": "MDkyNTIwOTUyNTBYaWFvbWl5dWVjaHU="
   },
   {
     "name": "Chan Myae Thet Oo",
@@ -4828,5 +4810,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3OTk5OTEzNjFYaWFvbWl6aXJjb24="
+  },
+  {
+    "name": "Mg Nay Jal Lin",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk2OTE2MjczNzZYaWFvbWlsYW5jZWxvdA=="
   }
 ]
