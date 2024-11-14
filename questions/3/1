@@ -1,0 +1,53 @@
+{
+    "question": "Window 10 တွင် Wifi ချိတ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/WlMovhY.png",
+            "text": "Taskbar ပေါ်မှ Network ပုံကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/cjYM1rC.png",
+            "text": "Taskbar ပေါ်တွင် network ပုံကို မတွေ့ပါက မြား ကိုနှိပ်ပြီး ရှာနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Ode0m8D.png",
+            "text": "Turned off ဆိုပြီးပေါ်နေပါက Wifi ကိုနှိပ်ပြီး ဖွင့်ပေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/mnFseOO.png",
+            "text": "ချိတ်လိုသော Wi-Fi network ကိုရွေးပြီး Connect ကိုနှိပ်ပါ။ Connect automatically ကို  အမှန်ခြစ်ထားပါက နောက်အခါတွင် ယခု Wi-Fi အား အလိုအလျောက် ချိတ်သွားမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/DQwSrrO.png",
+            "text": "Wifi Password ကိုထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/4dTRMcR.png",
+            "text": "ချိတ်ဆက်မှု အောင်မြင်သွားပါက Wi-Fi network တွင် Connected ဆိုပြီးပြနေမှာဖြစ်ပြီး Taskbar ပေါ်တွင် Wifi ပုံလေးပေါ်နေမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}
