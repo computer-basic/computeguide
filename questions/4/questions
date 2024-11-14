@@ -13,5 +13,10 @@
         "id": 3,
         "question": "Window 11 တွင် Desktop icon များ ဖျောက်နည်း ပြန်ဖော်နည်း",
         "image": ""
+    },
+    {
+        "id": 4,
+        "question": "Window 11 တွင် Desktop icon များရဲ့ အရွယ်အစား ပြောင်းနည်း",
+        "image": ""
     }
 ]
