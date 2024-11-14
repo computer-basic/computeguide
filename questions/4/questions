@@ -3,5 +3,15 @@
         "id": 1,
         "question": "Window 11 တွင် Wifi ချိတ်နည်း",
         "image": ""
+    },
+    {
+        "id": 2,
+        "question": "Window 11 တွင် This PC, Recycler Bin, Control Panel Desktop icon များ ထည့်နည်း ဖြုတ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "question": "Window 11 တွင် Desktop icon များ ဖျောက်နည်း ပြန်ဖော်နည်း",
+        "image": ""
     }
 ]
