@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် This PC, Recycler Bin, Control Panel Desktop icon များ ထည့်နည်း ဖြုတ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/zgBBhOx.png",
+            "text": "Window Search တွင် Themes and related settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/kLP89Hd.png",
+            "text": "Related Settings အောက်မှ Desktop icon settings ကို နှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/PARPC5i.png",
+            "text": "Desktop ပေါ်တွင် မိမိထားလိုသော icons ကို အမှန်ခြစ်ပေးပါ။ Desktop ပေါ်မှ ပြန်ပြီး ဖြုတ်လိုပါက အမှန်ခြစ်ကိုပြန်ဖြုတ်ပေးပါ။ ထို့နောက် Apply ကိုနှိပ်ပြီး Ok ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}
