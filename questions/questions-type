@@ -10,5 +10,17 @@
         "title": "MM Computer Guide",
         "need_sup": false,
         "icon": "https://i.imgur.com/AeonqKo.png"
+    },
+    {
+        "id": 3,
+        "title": "Window 10",
+        "need_sup": true,
+        "icon": "https://i.imgur.com/YjJPkwp.png"
+    },
+    {
+        "id": 4,
+        "title": "Window 11",
+        "need_sup": true,
+        "icon": "https://i.imgur.com/ZQEO48L.png"
     }
 ]
