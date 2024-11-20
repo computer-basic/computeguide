@@ -4894,5 +4894,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "YTgwNDE3NTVAZ21haWwuY29tcmVhbG1lUkVFMkFETDE="
+  },
+  {
+    "name": "Thinzar sane",
+    "expireDate": "21 Feb, 2025",
+    "level": 2,
+    "accessKey": "MDk5NzkwOTg5MDdyZWFsbWVSRTVDOUY="
   }
 ]
