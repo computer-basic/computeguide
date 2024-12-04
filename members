@@ -4948,5 +4948,11 @@
     "expireDate": "4 Mar, 2025",
     "level": 2,
     "accessKey": "MDk5NTI2MTM1MDBYaWFvbWlzcGVz"
+  },
+  {
+    "name": "Daniel",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "d3d3LmRhbmllbHd1bm5hMjU1OTdAZ21haWwuY29tWGlhb21pY2Fubm9uZw=="
   }
 ]
