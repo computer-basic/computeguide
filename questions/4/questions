@@ -1,7 +1,42 @@
 [
     {
+        "id": 5,
+        "question": "Window 11 Taskbar တွင် search icon ပျောက်နေရင် ထည့်နည်း",
+        "image": ""
+    },
+    {
         "id": 1,
         "question": "Window 11 တွင် Wifi ချိတ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "question": "Window 11 တွင်ချိတ်ထားသော Wifi Password အား ပြန်ကြည့်နည်း",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "question": "Window 11 တွင် Bluetooth ချိတ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "question": "Window 11 တွင် Bluetooth နာမည် ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "question": "Window 11 တွင် Shut Down လုပ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "question": "Window 11 တွင် Sleep လုပ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 11,
+        "question": "Window 11 တွင် Sleep Mode အချိန်ပြောင်းနည်း",
         "image": ""
     },
     {
@@ -17,6 +52,126 @@
     {
         "id": 4,
         "question": "Window 11 တွင် Desktop icon များရဲ့ အရွယ်အစား ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "question": "Window 11 တွင် စာလုံး အရွယ်အစား ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "question": "Window 11 တွင် Password ထည့်နည်း",
+        "image": ""
+    },
+    {
+        "id": 14,
+        "question": "Window 11 တွင် Password ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 15,
+        "question": "Window 11 တွင် Password ဖြုတ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 16,
+        "question": "Window 11 Sign in တွင် Fingerprint (လက်ဗွေ) ထည့်နည်း",
+        "image": ""
+    },
+    {
+        "id": 17,
+        "question": "Window 11 Sign in တွင် Fingerprint (လက်ဗွေ) ဖျက်နည်း",
+        "image": ""
+    },
+    {
+        "id": 18,
+        "question": "Window 11 တွင် applications, files နှင့် settings များရှာနည်း",
+        "image": ""
+    },
+    {
+        "id": 19,
+        "question": "Window 11 တွင် Software (သို့) App များဖျက်နည်း",
+        "image": ""
+    },
+    {
+        "id": 20,
+        "question": "Window 11 တွင် Computer စဖွင့်ချိန် App များအလိုအလျောက် ပွင့်အောင်လုပ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 21,
+        "question": "Window 11 တွင် Desktop Background ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 22,
+        "question": "Window 11 တွင် Lock Screen ၏ နောက်ခံပုံ ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 23,
+        "question": "Window 11 တွင် Theme ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 24,
+        "question": "Window 11 တွင် ဘာသာစကားအသစ် ကို install လုပ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 25,
+        "question": "Window 11 တွင် install လုပ်ထားသော ဘာသာစကား ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 26,
+        "question": "Window 11 တွင် install လုပ်ထားသော ဘာသာစကားများ ကို ဖျက်နည်း",
+        "image": ""
+    },
+    {
+        "id": 27,
+        "question": "Window 11 တွင် Mouse Cursor Speed ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 28,
+        "question": "Window 11 တွင် Touchpad Cursor Speed ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 29,
+        "question": "Window 11 တွင် Resolution နဲ့ Display orientation ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 30,
+        "question": "Window 11 တွင် Display Refresh Rate ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 31,
+        "question": "Window 11 တွင် Drivers များဖျက်နည်း",
+        "image": ""
+    },
+    {
+        "id": 32,
+        "question": "Window 11 တွင် Computer နာမည် ပြောင်းနည်း",
+        "image": ""
+    },
+    {
+        "id": 33,
+        "question": "Window 11 တွင် Window Version ကြည့်နည်း",
+        "image": ""
+    },
+    {
+        "id": 34,
+        "question": "Window 11 တွင် Windows Update ပြုလုပ်နည်း",
+        "image": ""
+    },
+    {
+        "id": 35,
+        "question": "Window 11 တွင် Install လုပ်ထားသော Windows Update ကိုဖျက်နည်း",
         "image": ""
     }
 ]
