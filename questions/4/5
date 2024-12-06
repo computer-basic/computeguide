@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 Taskbar တွင် search icon ပျောက်နေရင် ထည့်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/JE1BmKK.png",
+            "text": "Window 11 Taskbar တွင် search icon ပျောက်နေပါက အောက်ပါအတိုင်း ပြန်ဖော်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/cyLPt7n.png",
+            "text": "Taskbar နေရာ တစ်ခုခုတွင် Right-click နှိပ်ပြီး Taskbar settings ကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/PRbGU6F.png",
+            "text": "Taskbar items အောက်မှ ပြလိုသော search button ကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

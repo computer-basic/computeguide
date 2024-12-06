@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် Display Refresh Rate ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/F9q7kGF.png",
+            "text": "Window Search တွင် View advanced display info ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/pNkb4oE.png",
+            "text": "မိမိ device အတွက် Refresh rate ပြောင်းလိုပါက Choose a refresh rate အောက်မှ ရွေးချယ်နိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "မှတ်ချက်: Refresh rate သည် device specification ပေါ်မူတည်၍ ပြောင်းလဲနိုင်ခြင်း ရှိ/မရှိ ကွာခြားပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

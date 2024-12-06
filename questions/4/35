@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် Install လုပ်ထားသော Windows Update ကိုဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/IXr5maR.png",
+            "text": "Window Search တွင် Uninstall updates ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/zTwRoQX.png",
+            "text": "ဖျက်လိုသော Windows Update ကိုရွေးပြီး Uninstall ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/31H7T5z.png",
+            "text": "ဖျက်လိုသော Windows Update ဟုတ်မဟုတ် စစ်ပြီးပါက Uninstall ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

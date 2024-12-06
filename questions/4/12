@@ -1,0 +1,45 @@
+{
+    "question": "Window 11 တွင် စာလုံး အရွယ်အစား ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/BjbvQXH.png",
+            "text": "Window Search တွင် Change the size of text, apps, and other items ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/T3Gv3Kc.png",
+            "text": "စာလုံးနှင့် Window အရွယ်အစားများ ပြောင်းလိုပါက Scale မှ size ကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "မှတ်ချက်: ဤ setting သည် စာလုံး အရွယ်အစားသာမက icons နှင့် အခြား Window အားလုံး၏ အရွယ်အစားကိုပါ ပြောင်းပေးမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/W3Qw9j4.png",
+            "text": "စာလုံးအရွယ်အစား တခုတည်းပြောင်းလိုပါက Window Search တွင် Make text size bigger ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/RplFb0u.png",
+            "text": "Text size နေရာတွင် ပြောင်းလိုသော အရွယ်အစားကို ရွှေ့ပြီး Apply ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

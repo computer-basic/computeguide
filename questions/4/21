@@ -1,0 +1,37 @@
+{
+    "question": "Window 11 တွင် Desktop Background ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/VOGGM0E.png",
+            "text": "Window Search တွင် Background image settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/9sbSfGm.png",
+            "text": "Personalize your background အပိုင်းတွင် Picture, Solid color သို့မဟုတ် Slideshow တစ်ခုကို ရွေးနိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Desktop background အတွက် အခြားပုံများကို ရွေးချယ်လိုပါက Browse photo ကိုနှိပ်ပြီးရွေးနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/UsDxN20.png",
+            "text": "Background ပေါ်တွင် ပုံရဲ့အချိုးအစားကို ပြောင်းလိုပါက Choose a fit for your desktop image အပိုင်းတွင် Fill, Fit, Stretch, Tile, Center, Span တို့မှ ရွေးချယ်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

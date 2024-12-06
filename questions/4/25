@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် install လုပ်ထားသော ဘာသာစကား ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/aeRamyT.png",
+            "text": "Window Search တွင် Language settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/irVwz3j.png",
+            "text": "Windows display language မှ ပြောင်းလိုသော ဘာသာစကားကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/rrbMB4U.png",
+            "text": "ဘာသာစကား ရွေးပြီးပါက Sign out ဆိုပြီးပေါ်လာမှာဖြစ်ပါတယ်။ ရွေးထားသော ဘာသာစကား ကိုပြောင်းရန်အတွက် Window အား sign out ပြုလုပ်ပေးရန်လိုအပ်ပါသည်။ Sign out ကိုနှိပ်ပါက ယခုချက်ချင်း Sign out ပြုလုပ်သွားမှာဖြစ်ပြီး မနှိပ်ရင်တော့ နောက်တခါ window ကို sign in ပြန်ဝင်တဲ့အခါ ဘာသာစကားကိုပြောင်းပေးသွားမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

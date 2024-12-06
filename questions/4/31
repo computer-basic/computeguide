@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် Drivers များဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/mR35jhS.png",
+            "text": "Window Search တွင် Device Manager ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/X6mHrmQ.png",
+            "text": "ဖျက်လိုသော Driver ကို Right-click နှိပ်ပြီး Uninstall device ကို နှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/4axQB4R.png",
+            "text": "ထိုနောက် Uninstall ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

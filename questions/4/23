@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် Theme ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "",
+            "text": "Theme ဆိုတာက Background image, Window color, Sounds တို့ကို ပေါင်းစပ်ထားခြင်းဖြစ်ပါတယ်။ Windows ရဲ့ မူရင်းပါပြီးသား theme ကိုတန်းပြီးအသုံးပြုနိုင်သလို Microsoft Store မှ Theme အသစ်များရယူနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/6FiIRy3.png",
+            "text": "Window Search တွင် Themes and related settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/9a1krMy.png",
+            "text": "Themes အပိုင်းတွင် Windows ရဲ့ မူရင်းပါပြီးသား Theme တစ်ခုကို ရွေးချယ်နိုင်သလို Browse themes ကိုနှိပ်ပြီး Microsoft Store မှ သုံးစွဲလိုသည့် Theme အသစ်များ ကိုလည်းရယူနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "question": "Window 11 တွင် Password ထည့်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/WIhus5W.png",
+            "text": "Taskbar ပေါ်က Start icon ကိုနှိပ်ပြီး Settings ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/89oVpjq.png",
+            "text": "Accounts ကိုနှိပ်ပြီး Sign-in options ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/gcdLt8O.png",
+            "text": "Password ကိုရွေးပြီး Add ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/bf5nU4r.png",
+            "text": "Password နဲ့ Password hint ကိုရိုက်ထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/NuObLuT.png",
+            "text": "Finish ကိုနှိပ်ပါ။ နောက်တခါ Computer ဖွင့်ရင် Password တောင်းမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

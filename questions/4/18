@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် applications, files နှင့် settings များရှာနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/wSnfSWc.png",
+            "text": "Taskbar ပေါ်က Search icon ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "ရှာလိုသော အမည် (သို့) keyword ကိုရိုက်ထည့်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Best match အောက်တွင် ရှာဖွေထားသည့် နမူနာများကို တွေ့ရမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

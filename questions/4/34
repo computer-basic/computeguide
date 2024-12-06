@@ -1,0 +1,61 @@
+{
+    "question": "Window 11 တွင် Windows Update ပြုလုပ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/j9bvvXI.png"
+            "text": "Window Search တွင် Check for updates ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/U3P5sF1.png",
+            "text": "Check for updates ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Hhl5Rhe.png",
+            "text": "Update လုပ်စရာရှိပါက ပုံပါအတိုင်းပေါ်လာမှာဖြစ်ပါတယ်။ Update လုပ်ရန်အတွက် Download and install ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/V2mY1dq.png",
+            "text": "Window 11 ၏ Update အား စတင် Download လုပ်နေပြီဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/zuwiI0N.png",
+            "text": "Download ပြီးသွားပါက Window update ကို install လုပ်ရန်အတွက် Restart now ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "မှတ်ချက် - Windows Update အား install ရာတွင် အချိန်ကြာနိုင်သဖြင့် Update ပြုလုပ်နေစဉ်အတွင်း Power cable (အားသွင်းကြိုး) ကို တပ်ထားရန် လိုအပ်ပါသည်။ Update install လုပ်နေချိန်တွင် Computer ကို အတင်းပိတ်ခြင်း မပြုလုပ်ပါနဲ့",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Computer ပြန်ပွင့်လာပါက Window Update ကို install လုပ်ပြီးပြီ ဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

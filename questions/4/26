@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် install လုပ်ထားသော ဘာသာစကားများ ကို ဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/aeRamyT.png",
+            "text": "Window Search တွင် Language settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Or1bRMh.png",
+            "text": "ဖျက်လိုသော ဘာသာစကား ၏ ညာဘက်ရှိ (...) နှိပ်ပြီး Remove ကိုနှိပ်ကာ ဖျက်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "မှတ်ချက်: လက်ရှိအသုံးပြုနေသော system language ကို ဖျက်၍မရပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

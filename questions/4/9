@@ -1,0 +1,21 @@
+{
+    "question": "Window 11 တွင် Shut Down လုပ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/0LpH3DN.png",
+            "text": "Taskbar မှ Start ခလုတ်ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Power ကိုရွေးပြီး Shut down ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

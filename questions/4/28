@@ -1,0 +1,21 @@
+{
+    "question": "Window 11 တွင် Touchpad Cursor Speed ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/vLgx5R7.png",
+            "text": "Window Search တွင် Touchpad settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/40hKzH1.png",
+            "text": "Cursor speed တွင် slider ကိုဘယ်ညာ ရွှေ့၍ touchpad cursor speed ကို ပြောင်းနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

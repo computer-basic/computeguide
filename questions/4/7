@@ -1,0 +1,61 @@
+{
+    "question": "Window 11 တွင် Bluetooth ချိတ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/Ci5kaWL.png",
+            "text": "Window Search တွင် Bluetooth and other devices settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/HVMJdKD.png",
+            "text": "Bluetooth ကို ဖွင့်ပါ။ ဖွင့်ပြီးပါက သင့် Computer ၏ Bluetooth နာမည် ကို အောက်တွင် မြင်ရပါမည် (ဥပမာ - “LAPTOP-I0IM31M4”)",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/eOrcnCK.png",
+            "text": "Add device ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/16jNfIn.png",
+            "text": "Bluetooth ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/hLb5Ofx.png",
+            "text": "ချိတ်လိုသော Device ကိုရွေးပြီး Connect ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/uh2CMsy.png",
+            "text": "Connected ဖြစ်သွားပါက Done ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/lvr6WlV.png",
+            "text": "ချိတ်ထားသော Bluetooth device ကို ဖြုတ်လိုပါက Device ဘေးမှ အစက်သုံးစက်ကို ကိုနှိပ်ပြီး Disconnect ကို နှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

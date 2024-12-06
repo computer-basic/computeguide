@@ -1,0 +1,101 @@
+{
+    "question": "Window 11 Sign in တွင် Fingerprint (လက်ဗွေ) ထည့်နည်း",
+    "answer": [
+        {
+            "photo": "",
+            "text": "Sign in with fingerprint scanner ကို Fingerprint scanner (လက်ဗွေ) ပါရှိသော Model များတွင်သာ အသုံးပြုနိုင်မှာဖြစ်ပါတယ်။ Fingerprint sign-in option မတွေ့ပါက သင့်ကွန်ပျူတာတွင် Fingerprint scanner မပါသောကြောင့်ဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/T6405UH.png",
+            "text": "Laptop များ၏ Fingerprint scanner များသည် အများအားဖြင့် Touchpad အနားတွင် ရှိတတ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/6mb4YKw.png",
+            "text": "တချို့ Laptop များတွင် Fingerprint scanner သည် Power ခလုတ်မှာရှိတတ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/WphOxOj.png",
+            "text": "Window Search တွင် Sign-in options ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/aUOCVmV.png",
+            "text": "Fingerprint recognition (Windows Hello) ကိုရွေးပြီး Set up ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/RnUavHC.png",
+            "text": "Get started ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/sNV0cAE.png",
+            "text": "Computer ရဲ့ password ကိုရိုက်ထည့်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/9XAv0Ei.png",
+            "text": "လက်ချောင်းတစ်ချောင်းကို fingerprint Sensor ပေါ်တွင် တင်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/g4wZyS3.png",
+            "text": "Screen ပေါ်တွင် ပြထားတဲ့အတိုင်း လက်ချောင်းကို Sensor ပေါ်တွင် တင်လိုက် ပြန်ချလိုက် လုပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/XJNZeML.png",
+            "text": "Next ကို နှိပ်ပြီး sensor ပေါ်မှာ လက်ချောင်းရဲ့ အစွန်းပတ်ပတ်လည်လည် စုံအောင် တင်ပေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/EqraXjr.png",
+            "text": "ပြီးပါက Close ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Zmj28IM.png",
+            "text": "fingerprint sign-in ထည့်ပြီးပြီဖြစ်ပါတယ်။ နောက် လက်ချောင်းတချောင်းစာ ထပ်ထည့်လိုပါက Add a finger ကိုနှိပ်ပြီးထည့်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

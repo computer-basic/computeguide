@@ -1,0 +1,29 @@
+{
+    "question": "Window 11 တွင် Window Version ကြည့်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/hhqvhHI.png",
+            "text": "Taskbar မှ Start ခလုတ်ကိုနှိပ်ပြီး Settings ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/zei8Tsk.png",
+            "text": "ဘယ်ဘက်မှ System ကိုရွေးပြီး About ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/gNIoXa9.png",
+            "text": "Windows specifications အောက်တွင် Window edition နဲ့ version ကိုကြည့်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

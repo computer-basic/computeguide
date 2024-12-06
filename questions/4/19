@@ -1,0 +1,37 @@
+{
+    "question": "Window 11 တွင် Software (သို့) App များဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/msHVQNF.png",
+            "text": "Window Search တွင် Installed apps ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/RluMZrn.png",
+            "text": "Installed apps အပိုင်းတွင် All drives သို့မဟုတ် Specific drives အလိုက် Filter လုပ်နိုင်သလို Apps များကို Name, Size, Date installed အလိုက်စီပြီး ရှာနိုင်မှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/r7PQzFh.png",
+            "text": "Search apps တွင်လည်း App နာမည် (သို့မဟုတ် Keyword) ကို ရိုက်ထည့်ပြီး ရှာနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/veqHCyt.png",
+            "text": "ဖျက်လိုသော App ညာဘက်မှ အစက်သုံးစက်ကို နှိပ်ပြီး Uninstall ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "question": "Window 11 Sign in တွင် Fingerprint (လက်ဗွေ) ဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/WphOxOj.png",
+            "text": "Window Search တွင် Sign-in options ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/4n8nnwJ.png",
+            "text": "Fingerprint recognition (Windows Hello) ကိုရွေးပြီး Remove ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "question": "Window 11 တွင် Sleep Mode အချိန်ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "",
+            "text": "Computer ကို အသုံးမပြုဘဲ အချိန်အတော်ကြာ ထားပါက အလိုအလျောက် Sleep ဖြစ်သွားမှာဖြစ်ပါတယ်။ အလိုအလျောက် Sleep ဖြစ်သွားမယ့် အချိန်ကို အောက်ပါ အတိုင်းပြောင်းနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/5fukmJ4.png",
+            "text": "Window Search တွင် Power, sleep and battery settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/ukJ22sb.png",
+            "text": "Screen and sleep အပိုင်းကိုဖွင့်ပြီး Sleep ဖြစ်မယ့် အချိန်ကိုပြောင်းနိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "On battery power သည် Battery နဲ့အသုံးပြုနေချိန် Sleep ဖြစ်မယ့် အချိန် ဖြစ်ပြီး When plugged in သည် အားသွင်းကြိုးတပ်ထားချိန်တွင် Sleep ဖြစ်မယ့်အချိန်ဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

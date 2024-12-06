@@ -1,0 +1,37 @@
+{
+    "question": "Window 11 တွင် Resolution နဲ့ Display orientation ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/DTn37Iw.png",
+            "text": "Window Search တွင် Change the resolution of the display ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/8lm9DnU.png",
+            "text": "Display resolution အောက်တွင် ပြောင်းလိုသော resolution ကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Display orientation အပိုင်းတွင် Landscape, Portrait, Landscape (flipped), Portrait (flipped) တို့ကိုရွေးချယ်ကာ ပြောင်းနိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/r1p3Ib1.png",
+            "text": "Resolution ပြောင်းပြီးတိုင်း \"Keep these display settings?\" ဆိုပြီးမေးမှာဖြစ်ပြီး Keep changes နှိပ်မှသာ ပြောင်းတာက အတည်ဖြစ်သွားမှာပါ။ Revert ကိုနှိပ်ပါက မူလ အတိုင်းပြန်ဖြစ်သွားမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "question": "Window 11 တွင် Password ဖြုတ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/WIhus5W.png",
+            "text": "Taskbar ပေါ်က Start icon ကိုနှိပ်ပြီး Settings ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/89oVpjq.png",
+            "text": "Accounts ကိုနှိပ်ပြီး Sign-in options ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/K8Svgwi.png",
+            "text": "Password ကိုရွေးပြီး Change ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/FqVfnRs.png",
+            "text": "Current password နေရာတွင် လက်ရှိ Password ကိုရိုက်ထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/6x3VHki.png",
+            "text": "New password, Confirm password  နဲ့ Password hint တို့ကို အလွတ်ထားပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/lhCOZpf.png",
+            "text": "Finish ကိုနှိပ်ပါ။ နောက်တခါ Computer အား Password မလိုဘဲဝင်နိုင်ပါပြီ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

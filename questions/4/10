@@ -1,0 +1,53 @@
+{
+    "question": "Window 11 တွင် Sleep လုပ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/IYZn8cz.png",
+            "text": "Taskbar မှ Start ခလုတ်ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Power ကိုရွေးပြီး Sleep ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Sleep Mode အကြောင်း",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Computer ကို Sleep mode သို့ ပြောင်းလိုက်ပါက Battery ကုန်သက်သာစေပြီး စက်ကို ပြန်ဖွင့်သောအခါ မြန်မြန်ပြန်ဖွင့်နိုင်မှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Battery ကုန်ခါနီးပါက လုပ်လက်စ အလုပ်အားလုံးကို Windows ကအလိုအလျောက် သိမ်းပေးထားမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Sleep mode ပြောင်းပြီးနောက်, Power button နှိပ်ခြင်း, Keyboard မှ key တစ်ခုခုနှိပ်ခြင်း, Mouse button နှိပ်ခြင်း သို့မဟုတ် Laptop အဖုံး ကို ဖွင့်ခြင်းဖြင့် စက်ကို ပြန်ဖွင့်နိုင်မှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}
