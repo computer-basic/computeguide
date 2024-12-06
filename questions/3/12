@@ -1,0 +1,45 @@
+{
+    "question": "Window 10 တွင် စာလုံး အရွယ်အစား ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/YtYXENi.png",
+            "text": "Window Search တွင် Change the size of text, apps, and other items ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/dj99xfH.png",
+            "text": "စာလုံးနှင့် Window အရွယ်အစားများ ပြောင်းလိုပါက Change the size of text, apps, and other items မှ size ကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "မှတ်ချက်: ဤ setting သည် စာလုံး အရွယ်အစားသာမက icons နှင့် အခြား Window အားလုံး၏ အရွယ်အစားကိုပါ ပြောင်းပေးမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/rx7Mwrl.png",
+            "text": "စာလုံးအရွယ်အစား တခုတည်းပြောင်းလိုပါက Window Search တွင် Ease of Access display settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/OptjlV4.png",
+            "text": "Make text bigger မှ ပြောင်းလိုသော အရွယ်အစားကို ရွှေ့ပြီး Apply ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

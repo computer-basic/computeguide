@@ -1,0 +1,45 @@
+{
+    "question": "Window 10 တွင်ချိတ်ထားသော Wifi Password အား ပြန်ကြည့်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/q6XMmzM.png",
+            "text": "Taskbar ပေါ်မှ Network icon ပေါ်တွင် right-click နှိပ်ပြီး Open Network & Internet settings ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/6kwngKX.png",
+            "text": "Advanced network settings အောက်မှ Network and Sharing Center ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/NSO3C1Q.png",
+            "text": "ချိတ်ထားသော Wi-Fi network ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/8BliU0H.png",
+            "text": "Wireless Properties ကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/z4VK8yW.png",
+            "text": "Security ကိုနှိပ်ပြီး Show characters ကိုအမှန်ခြစ်ပေးပါ။ Wifi password ကို Network security key နေရာမှာမြင်ရမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "question": "Window 10 တွင် Computer စဖွင့်ချိန် App များအလိုအလျောက် ပွင့်အောင်လုပ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/c48XMbl.png",
+            "text": "Window Search တွင် Startup Apps ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/c8zqnDu.png",
+            "text": "Startup Apps တွင် Apps များကို Name, Status, Startup impact အလိုက် စီပြီးကြည့်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "အလိုအလျောက်ပွင့်လိုသော App ကို ရှာပြီး On ပေးပါ။ အကယ်ရွေ့ ပိတ်လိုပါက Off ပေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "question": "Window 10 တွင် Bluetooth နာမည် ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "",
+            "text": "Windows တွင် Bluetooth နာမည်သည် Computer နာမည်နဲ့ အတူတူဖြစ်ပါတယ်။ Bluetooth နာမည် ကို ပြောင်းလိုပါက Computer နာမည် ကို ပြောင်းရန် လိုအပ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Dj2tLFn.png",
+            "text": "Window Search တွင် About your PC ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/DMdSP54.png",
+            "text": "Rename this PC ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/fD4Xrql.png",
+            "text": "ပြောင်းလိုသော နာမည် အသစ်ကို ရိုက်ထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/xQGSHKd.png",
+            "text": "Computer နာမည် ပြောင်းရန်အတွက် Restart လုပ်ရန်လိုအပ်ပါသည်။ ယခု Restart လုပ်လိုပါက Restart now ကိုနှိပ်ပါ။ နောက်မှ Restart လုပ်လိုပါက Restart later ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

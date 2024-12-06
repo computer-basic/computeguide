@@ -1,0 +1,37 @@
+{
+    "question": "Window 10 တွင် Password ထည့်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/bycFyfk.png",
+            "text": "Window Search တွင် Your account info ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/pyKxpqn.png",
+            "text": "Sign-in options ကိုနှိပ်ပြီး Password ကိုရွေးပါ။ ထို့နောက် Add ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/R0jMm69.png",
+            "text": "Password နဲ့ Password hint ကိုရိုက်ထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/08BFb9r.png",
+            "text": "Finish ကိုနှိပ်ပါ။ နောက်တခါ Computer ဖွင့်ရင် Password တောင်းမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

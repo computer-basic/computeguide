@@ -1,0 +1,21 @@
+{
+    "question": "Window 10 Sign in တွင် Fingerprint (လက်ဗွေ) ဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/E2ll5vU.png",
+            "text": "Window Search တွင် Sign-in options ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Z4g9rMf.png",
+            "text": "Windows Hello Fingerprint ကိုရွေးပြီး Remove ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

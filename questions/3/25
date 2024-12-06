@@ -1,0 +1,29 @@
+{
+    "question": "Window 10 တွင် install လုပ်ထားသော ဘာသာစကား ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/1K7e2Aw.png",
+            "text": "Window Search တွင် Language settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/q9MF2s2.png",
+            "text": "Windows display language အောက်မှ ပြောင်းလိုသော ဘာသာစကားကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/FJ1ZVPu.png",
+            "text": "ရွေးထားသော ဘာသာစကား ကိုပြောင်းရန်အတွက် Window အား sign out ပြုလုပ်ပေးရန်လိုအပ်ပါသည်။ Yes, sign out now ကိုနှိပ်ပါက ယခုချက်ချင်း Sign out ပြုလုပ်သွားမှာဖြစ်ပြီး No, sign out later ကိုရွေးပါက နောက်တခါ sign in ဝင်တဲ့အခါ ဘာသာစကားကိုပြောင်းပေးသွားမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

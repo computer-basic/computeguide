@@ -1,0 +1,45 @@
+{
+    "question": "Window 10 တွင် Password ဖြုတ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/bycFyfk.png",
+            "text": "Window Search တွင် Your account info ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/lFudhsG.png",
+            "text": "Sign-in options ကိုနှိပ်ပြီး Password ကိုရွေးပါ။ ထို့နောက် Change ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/RJL8BYa.png",
+            "text": "Current password နေရာတွင် လက်ရှိ Password ကိုရိုက်ထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Ly7dmT8.png",
+            "text": "New password, Confirm password  နဲ့ Password hint တို့ကို အလွတ်ထားပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/9uBcKPR.png",
+            "text": "Finish ကိုနှိပ်ပါ။ နောက်တခါ Computer အား Password မလိုဘဲဝင်နိုင်ပါပြီ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

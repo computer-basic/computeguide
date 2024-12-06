@@ -1,0 +1,45 @@
+{
+    "question": "Window 10 တွင် Lock Screen ၏ နောက်ခံပုံ ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/VzC8mBr.png",
+            "text": "Window Search တွင် Lock screen settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/gB8YKHn.png",
+            "text": "Lock screen ၏ နောက်ခံပုံကို Windows spotlight , Picture နဲ့ Picture Slideshow ဆိုပြီးရွေးချယ်နိုင်မှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Windows spotlight ကို ရွေးပါက ကမ္ဘာ့နေရာအနှံ့ မှ ပုံတွေကို နေ့စဉ် အလိုအလျောက် ပြောင်းပြီး ပြပေးမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/cllCBAc.png",
+            "text": "Lock screen status အပိုင်းတွင် Lock screen ပေါ်တွင် detailed status ပြမည့် app တစ်ခု သို့မဟုတ် quick status ပြမည့် apps များကို ရွေးချယ်နိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Show lock screen background picture on the sign-in screen ကို On ထားပါက Lock screen နှင့် Sign-in screen နောက်ခံပုံ တူတူဖြစ်နေမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

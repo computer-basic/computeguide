@@ -1,0 +1,29 @@
+{
+    "question": "Window 10 တွင် Display Refresh Rate ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/r6zKVIb.png",
+            "text": "Window Search တွင် View advanced display info ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/3uyJfxR.png",
+            "text": "မိမိ device အတွက် Refresh rate ပြောင်းလိုပါက Refresh Rate အောက်မှ ရွေးချယ်နိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "မှတ်ချက်: Refresh rate သည် device specification ပေါ်မူတည်၍ ပြောင်းလဲနိုင်ခြင်း ရှိ/မရှိ ကွာခြားပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "question": "Window 10 တွင် Install လုပ်ထားသော Windows Update ကိုဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/oh19qNp.png",
+            "text": "Window Search တွင် Control Panel ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/5cGgyKR.png",
+            "text": "Programs ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/r0cLqIt.png",
+            "text": "View installed updates ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/wqp6GVl.png",
+            "text": "ဖျက်လိုသော Windows Update ကိုရွေးပြီး Uninstall ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/jrIE4E9.png",
+            "text": "ဖျက်လိုသော Windows Update ဟုတ်မဟုတ် စစ်ပြီးပါက Yes ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

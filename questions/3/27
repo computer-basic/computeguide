@@ -1,0 +1,21 @@
+{
+    "question": "Window 10 တွင် Mouse Cursor Speed ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/Ec7PuCU.png",
+            "text": "Window Search တွင် Mouse settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/IbDKsJm.png",
+            "text": "Cursor speed တွင် slider ကိုဘယ်ညာ ရွှေ့၍ cursor speed ကို ပြောင်းနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

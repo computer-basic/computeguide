@@ -1,0 +1,53 @@
+{
+    "question": "Window 10 တွင် ဘာသာစကားအသစ် ကို install လုပ်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/1K7e2Aw.png",
+            "text": "Window Search တွင် Language settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/zE0dqNU.png",
+            "text": "Preferred languages အောက်မှ Add a language ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Md7IDZ5.png",
+            "text": "Install လုပ်လိုသော ဘာသာစကား ကိုရွေးပြီး next ကိုနှိပ်ပါ။ နမူနာပုံတွင် Chinese (Traditional, Taiwan) ကိုရွေးပြထားပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/UtuK65E.png",
+            "text": "Install လုပ်လိုသော language features ကို အမှန်ခြစ်ပြီး install ကိုနှိပ်ပါ။ Install လုပ်ရန်အတွက် internet connection လိုအပ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/YjgjREn.png",
+            "text": "Install လုပ်ရာတွင် Set as my Windows display language ကို အမှန်ခြစ်ထားပါက install အပြီးတွင် ထိုဘာသာစကား ကို ပြောင်းရန် အတွက် Sign out လုပ်မလုပ်မေးမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Install လုပ်ထားသော ဘာသာစကား ကိုပြောင်းရန်အတွက် Window အား sign out ပြုလုပ်ပေးရန်လိုအပ်ပါသည်။ Yes, sign out now ကိုနှိပ်ပါက ယခုချက်ချင်း Sign out ပြုလုပ်သွားမှာဖြစ်ပြီး No, sign out later ကိုရွေးပါက နောက်တခါ sign in ဝင်တဲ့အခါ ဘာသာစကားကိုပြောင်းပေးသွားမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "question": "Window 10 တွင် Window Version ကြည့်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/J0UwSiv.png",
+            "text": "Taskbar မှ Start ခလုတ်ကိုနှိပ်ပြီး Settings ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/IijwkHi.png",
+            "text": "System ကိုရွေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/SKs2RDM.png",
+            "text": "ဘယ်ဘက်မှ About ကိုရွေးပြီး Windows specifications အောက်တွင် Window edition နဲ့ version ကိုကြည့်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

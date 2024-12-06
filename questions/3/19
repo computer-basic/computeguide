@@ -1,0 +1,37 @@
+{
+    "question": "Window 10 တွင် Software (သို့) App များဖျက်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/OPFOmWC.png",
+            "text": "Window Search တွင် Apps & features ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/OO21Z9E.png",
+            "text": "Apps & features အပိုင်းတွင် All drives သို့မဟုတ် Specific drives အလိုက် Filter လုပ်နိုင်သလို Apps များကို Name, Size, Install date အလိုက်စီပြီး ရှာနိုင်မှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/gjuufcQ.png",
+            "text": "Search this list တွင်လည်း App နာမည် (သို့မဟုတ် Keyword) ကို ရိုက်ထည့်ပြီး ရှာနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Ji6eix0.png",
+            "text": "ဖျက်လိုသော App ကို နှိပ်ပြီး Uninstall ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

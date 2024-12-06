@@ -1,0 +1,37 @@
+{
+    "question": "Window 10 တွင် Desktop Background ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/Fr5EITh.png",
+            "text": "Window Search တွင် Background image settings ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/NddQwg8.png",
+            "text": "Background အပိုင်းတွင် Picture, Solid color သို့မဟုတ် Slideshow တစ်ခုကို ရွေးနိုင်ပါသည်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "",
+            "text": "Desktop background အတွက် အခြားပုံများကို ရွေးချယ်လိုပါက Browse photo ကိုနှိပ်ပြီးရွေးနိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/KHOceAH.png",
+            "text": "Background ပေါ်တွင် ပုံရဲ့အချိုးအစားကို ပြောင်းလိုပါက Choose a fit အပိုင်းတွင် Fill, Fit, Stretch, Tile, Center, Span တို့မှ ရွေးချယ်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

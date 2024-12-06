@@ -1,0 +1,29 @@
+{
+    "question": "Window 10 Taskbar တွင် search icon ပျောက်နေရင် ထည့်နည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/852F1O5.png",
+            "text": "Window 10 Taskbar တွင် search icon ပျောက်နေပါက အောက်ပါအတိုင်း ပြန်ဖော်နိုင်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/AESS4Nf.png",
+            "text": "Taskbar နေရာ တစ်ခုခုတွင် Right-click နှိပ်ပြီး Search ထဲမှ Show search icon ကိုနှိပ်ပေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Pm35yLZ.png",
+            "text": "Search icon အစား search box အဖြစ်ပြလိုပါက Search ထဲမှ Show search box ကိုနှိပ်ပေးပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}

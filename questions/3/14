@@ -1,0 +1,45 @@
+{
+    "question": "Window 10 တွင် Password ပြောင်းနည်း",
+    "answer": [
+        {
+            "photo": "https://i.imgur.com/bycFyfk.png",
+            "text": "Window Search တွင် Your account info ကိုရှာပြီး Open ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/lFudhsG.png",
+            "text": "Sign-in options ကိုနှိပ်ပြီး Password ကိုရွေးပါ။ ထို့နောက် Change ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/RJL8BYa.png",
+            "text": "Current password နေရာတွင် လက်ရှိ Password ကိုရိုက်ထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/Ly7dmT8.png",
+            "text": "New password နဲ့ Password hint ကိုရိုက်ထည့်ပြီး Next ကိုနှိပ်ပါ",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        },
+        {
+            "photo": "https://i.imgur.com/9uBcKPR.png",
+            "text": "Finish ကိုနှိပ်ပါ။ နောက်တခါ Computer ဖွင့်ရင် Password အသစ်ကိုရိုက်ထည့်ရမှာဖြစ်ပါတယ်",
+            "url": "",
+            "urlDesc": "",
+            "tutorial": "",
+            "tutorialDesc": ""
+        }
+    ]
+}
