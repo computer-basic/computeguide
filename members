@@ -5020,5 +5020,11 @@
     "expireDate": "17 Dec, 2025",
     "level": 3,
     "accessKey": "c2VpbmF5ZTU4MkBnbWFpbC5jb21zYW1zdW5nYTEy"
+  },
+  {
+    "name": "myominchit",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bXlvbWluY2hpdDYwQGdtYWlsc2Ftc3VuZ2MycQ=="
   }
 ]
