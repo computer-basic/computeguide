@@ -4296,12 +4296,6 @@
     "accessKey": "eW9sZWVjaGFyQGdtYWlsLmNvbVhpYW9taXRhcGFz"
   },
   {
-    "name": "Ei Thandar Mon ",
-    "expireDate": "21 Dec, 2024",
-    "level": 2,
-    "accessKey": "MDk5NzQyNDQxNzlYaWFvbWlsaXNh"
-  },
-  {
     "name": "minko",
     "expireDate": "-",
     "level": 3,
@@ -5068,5 +5062,11 @@
     "expireDate": "21 Jan, 2025",
     "level": 1,
     "accessKey": "eWltb25sd2luMzZAZ21haWwuY29tcmVhbG1lUkU1OEMy"
+  },
+  {
+    "name": "U Naing Ye",
+    "expireDate": "22 Mar, 2025",
+    "level": 2,
+    "accessKey": "MDk0NDU2MDU2NjJPUFBPUEJBTTAw"
   }
 ]
