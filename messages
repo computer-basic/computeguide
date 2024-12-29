@@ -5,11 +5,11 @@
   },
   {
     "viewId": "question_supporter_limit",
-    "message": "ကွန်ပျူတာ အမေးအဖြေများ ကို Supporter 3 လနှင့် တသက်တာ ဝင်ထားသူများသာ ဖတ်ရှုနိုင်ပါသည်"
+    "message": "ကွန်ပျူတာ အမေးအဖြေများ ကို Supporter 3 လ ၊ ၁ နှစ် နှင့် တသက်တာ ဝင်ထားသူများသာ ဖတ်ရှုနိုင်ပါသည်"
   },
   {
     "viewId": "typing_supporter_limit",
-    "message": "မြန်မာစာ Typing ကို Supporter 3 လနှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
+    "message": "မြန်မာစာ Typing ကို Supporter 3 လ ၊ ၁ နှစ် နှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
   },
   {
     "viewId": "supporter_intro_message",
