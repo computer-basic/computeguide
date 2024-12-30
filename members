@@ -1,17 +1,5 @@
 [
   {
-    "name": "Testing LV1",
-    "expireDate": "30 Dec, 2024",
-    "level": 1,
-    "accessKey": "bGVlc2h3ZTFHb29nbGVnZW5lcmljX3g4Nl9hcm0="
-  },
-  {
-    "name": "Testing LV2",
-    "expireDate": "30 Dec, 2024",
-    "level": 2,
-    "accessKey": "bGVlc2h3ZTJHb29nbGVnZW5lcmljX3g4Nl9hcm0="
-  },
-  {
     "name": "Testing LV3",
     "expireDate": "-",
     "level": 3,
@@ -5140,5 +5128,11 @@
     "expireDate": "30 Dec, 2025",
     "level": 3,
     "accessKey": "cG9lZWl6aW4wMDIzMjMxMkBnbWFpbC5jb21YaWFvbWljYW1lbGxpYW4="
+  },
+  {
+    "name": "Naw Sabal Phyu",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDgyNzcxOTMyN3NhbXN1bmdhMjN4cQ=="
   }
 ]
