@@ -1293,5 +1293,12 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
     "model": "a12s",
     "name": "Thiha"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "468c22187e6b8de0",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "stone",
+    "name": "mnc"
   }
 ]
