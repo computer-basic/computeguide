@@ -2970,12 +2970,6 @@
     "accessKey": "MDk5ODcwOTE4MzhYaWFvbWlyZW5vaXI="
   },
   {
-    "name": "Way zartun ",
-    "expireDate": "3 Jan, 2025",
-    "level": 3,
-    "accessKey": "Z3Vhbmd6aGFuZ2ppMzAwQGdtYWlsLmNvbVhpYW9taXNreQ=="
-  },
-  {
     "name": "Ma Cherry Oo",
     "expireDate": "4 Jan, 2025",
     "level": 3,
@@ -4326,18 +4320,6 @@
     "accessKey": "a3lhd215b2h0ZXQzOTY5QGdtYWlsLmNvbU9QUE9PUDVBRTdMMQ=="
   },
   {
-    "name": "HninEiMon",
-    "expireDate": "3 Jan, 2025",
-    "level": 2,
-    "accessKey": "MDk5Nzk3MTM2MDJYaWFvbWl5dWVjaHU="
-  },
-  {
-    "name": "Kyaw Zin",
-    "expireDate": "3 Jan, 2025",
-    "level": 2,
-    "accessKey": "MDk2OTE3MTUxNjNIT05PUkhOQ0xLLVE="
-  },
-  {
     "name": "Zaw Hkun Aung",
     "expireDate": "3 Oct, 2025",
     "level": 3,
@@ -5170,5 +5152,11 @@
     "expireDate": "3 Feb, 2025",
     "level": 1,
     "accessKey": "YWwzNDI1MzAwQGdtYWlsLmNvbVhpYW9taWRhbmRlbGlvbg=="
+  },
+  {
+    "name": "Zin Mar Htay",
+    "expireDate": "4 Apr, 2025",
+    "level": 2,
+    "accessKey": "MDk4OTAxODA1NzRYaWFvbWlydWJ5"
   }
 ]
