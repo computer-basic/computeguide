@@ -4320,12 +4320,6 @@
     "accessKey": "KzY2OTkxMDE1MTgwdml2bzIwMjc="
   },
   {
-    "name": "Thinzar",
-    "expireDate": "5 Jan, 2025",
-    "level": 2,
-    "accessKey": "dHphcnp3ZWxAZ21haWwuY29tcmVhbG1lUkU1MEMx"
-  },
-  {
     "name": "ko nay gyi ",
     "expireDate": "7 Jan, 2025",
     "level": 2,
@@ -4782,12 +4776,6 @@
     "accessKey": "dGhhemluaHR1bjE5NDIwMjNAZ21haWwuY29tc2Ftc3VuZ2ExNA=="
   },
   {
-    "name": "Thet Naing",
-    "expireDate": "5 Jan, 2025",
-    "level": 1,
-    "accessKey": "dGhldDM2NjU5QGdtYWlsLmNvbU9QUE9PUDQ4ODM="
-  },
-  {
     "name": "MU Ei Thu Aung",
     "expireDate": "6 Mar, 2025",
     "level": 2,
@@ -5188,5 +5176,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk2NjYxMjYyMjJzYW1zdW5nZ3RhNHhsdmU="
+  },
+  {
+    "name": "Ohmar Kyaw",
+    "expireDate": "6 Apr, 2025",
+    "level": 2,
+    "accessKey": "MDk2NjM3MDI0MDZyZWFsbWVSRUUyQURMMQ=="
   }
 ]
