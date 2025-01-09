@@ -1321,5 +1321,40 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
     "model": "sky",
     "name": "Zun Htet Aung"
+  },
+  {
+    "brand": "vivo",
+    "code": "472a8d39f0b0d8a9",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "V2333",
+    "name": "cho sapal"
+  },
+  {
+    "brand": "realme",
+    "code": "088544713686d01a",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "RE5C9F",
+    "name": "sall"
+  },
+  {
+    "brand": "OPPO",
+    "code": "c3aa686eb9a592e8",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "OP526D",
+    "name": "Shwe Zin"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "dc349a00bf560a4d",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "lancelot",
+    "name": "ko thu"
+  },
+  {
+    "brand": "HUAWEI",
+    "code": "f6056b4ff91a282b",
+    "description": "MM Computer Guide မှ သင့်အား ရာသက်ပန် အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "HWMGA-H",
+    "name": "Bhone myint thuya"
   }
 ]
