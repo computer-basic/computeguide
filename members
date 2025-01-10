@@ -5248,5 +5248,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk5NDMwOTkwN3JlYWxtZVJFNThDMg=="
+  },
+  {
+    "name": "ခိုင်ဇင်မြတ်စံ",
+    "expireDate": "12 Feb, 2025",
+    "level": 1,
+    "accessKey": "a2hhaW5nemluLjI2aGFwcHlnaXJsQGdtYWlsLmNvbVhpYW9taXppeWk="
   }
 ]
