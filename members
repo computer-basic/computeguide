@@ -3057,7 +3057,7 @@
     "name": "Doi Ja",
     "expireDate": "-",
     "level": 3,
-    "accessKey": "ZG9pamE3MjZAZ21haWwuY29tc2Ftc3VuZ2E3MQ=="
+    "accessKey": "ZG9pamE3MjZAZ21haWwuY29tc2Ftc3VuZ2ExMg=="
   },
   {
     "name": "Shine Myatmin",
@@ -4318,12 +4318,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "eWF3Y2hlbmczM0BnbWFpbC5jb21yZWFsbWVSTVgxOTEx"
-  },
-  {
-    "name": "Khin Lay Nwe",
-    "expireDate": "18 Jan, 2025",
-    "level": 2,
-    "accessKey": "emFyemFybmdlMDA4QGdtYWlsLmNvbVhpYW9taWdhbGU="
   },
   {
     "name": "Witt Yie Han",
