@@ -5392,5 +5392,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0MDczNTUyODZyZWFsbWVSRTU4OEJMMQ=="
+  },
+  {
+    "name": "Nu Nu Lwin",
+    "expireDate": "10 Feb, 2026",
+    "level": 3,
+    "accessKey": "MDk0MjMzMTcxNjFYaWFvbWllbWVyYWxk"
   }
 ]
