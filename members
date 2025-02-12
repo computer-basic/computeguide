@@ -4398,12 +4398,6 @@
     "accessKey": "MDk0MDAzOTczNjRPUFBPT1A1MzIx"
   },
   {
-    "name": "May Myat Noe",
-    "expireDate": "12 Feb, 2025",
-    "level": 2,
-    "accessKey": "MDk2NzIwNjk5MTlYaWFvbWlmaXJl"
-  },
-  {
     "name": "yanlinaung",
     "expireDate": "-",
     "level": 3,
@@ -5022,12 +5016,6 @@
     "accessKey": "MDk5NDMwOTkwN3JlYWxtZVJFNThDMg=="
   },
   {
-    "name": "ခိုင်ဇင်မြတ်စံ",
-    "expireDate": "12 Feb, 2025",
-    "level": 1,
-    "accessKey": "a2hhaW5nemluLjI2aGFwcHlnaXJsQGdtYWlsLmNvbVhpYW9taXppeWk="
-  },
-  {
     "name": "Kyaw Zin Oo",
     "expireDate": "12 Apr, 2025",
     "level": 2,
@@ -5386,5 +5374,11 @@
     "expireDate": "12 May, 2025",
     "level": 2,
     "accessKey": "MDkyNjY1OTExOTVYaWFvbWl2ZXV4"
+  },
+  {
+    "name": "Thaw Khant",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk2Njk2NTYzMFhpYW9taWZsZXVy"
   }
 ]
