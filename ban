@@ -1363,5 +1363,40 @@
     "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
     "model": "V2310",
     "name": "Nwe Mar San"
+  },
+  {
+    "brand": "OPPO",
+    "code": "5f0c649a8398fb37",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "OP486C",
+    "name": "hnin moe hlaing"
+  },
+  {
+    "brand": "realme",
+    "code": "d63a45cf8017cda2",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "RMX2040",
+    "name": "Phone Myint"
+  },
+  {
+    "brand": "OPPO",
+    "code": "c645f6bfc6992402",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "OP4C7D",
+    "name": "saung hay mar kyaw"
+  },
+  {
+    "brand": "Xiaomi",
+    "code": "dcf97fe75043ea2f",
+    "description": "MM Computer Guide မှ သင့်အား အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "sweet",
+    "name": "khant khant"
+  },
+  {
+    "brand": "samsung",
+    "code": "324098e0af7c1848",
+    "description": "MM Computer Guide မှ သင့်အား ရာသက်ပန် အသုံးပြုခွင့် ပိတ်ထားပါသည် MM Computer Guide အားဆက်သွယ်ရန် contact us ကို နှိပ်ပါ",
+    "model": "m33x",
+    "name": " Akhayar"
   }
 ]
