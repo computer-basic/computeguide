@@ -5500,5 +5500,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk2Nzc5MTk0MzByZWFsbWVSRTU4QzI="
+  },
+  {
+    "name": "Sak Sit",
+    "expireDate": "11 Jun, 2025",
+    "level": 2,
+    "accessKey": "KzY2ODA0OTAwNTc3WGlhb21paXJvbg=="
   }
 ]
