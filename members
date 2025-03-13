@@ -3168,12 +3168,6 @@
     "accessKey": "bmdvbGFtbnVhbUBnbWFpbC5jb21PUFBPQ1BIMTkwOQ=="
   },
   {
-    "name": "Win Myat Myat Soe",
-    "expireDate": "12 Mar, 2025",
-    "level": 3,
-    "accessKey": "MDkyNjQ2ODQwMDRYaWFvbWlmbGV1cg=="
-  },
-  {
     "name": "အရှင်တိဿာလင်္ကါရ",
     "expireDate": "-",
     "level": 3,
@@ -4506,18 +4500,6 @@
     "accessKey": "c2Fuc2FuYXllMTE5OWF5ZUBnbWFpbC5jb21PUFBPT1A0RjI1TDE="
   },
   {
-    "name": "Myint Myint Thein",
-    "expireDate": "12 Mar, 2025",
-    "level": 2,
-    "accessKey": "MDkyNTUwODIyODNYaWFvbWlydWJ5"
-  },
-  {
-    "name": "Twetar",
-    "expireDate": "12 Mar, 2025",
-    "level": 2,
-    "accessKey": "dHdldGFyMjAwNHd3QGdtYWlsLmNvbVhpYW9taXJ1Ynk="
-  },
-  {
     "name": "ဦးကျော်စိုး",
     "expireDate": "-",
     "level": 3,
@@ -5512,5 +5494,11 @@
     "expireDate": "12 Jun, 2025",
     "level": 2,
     "accessKey": "MDk3NzE4MDQ2NTV2aXZvVjIyNTA="
+  },
+  {
+    "name": "Han Zaw Thein",
+    "expireDate": "14 Jun, 2025",
+    "level": 2,
+    "accessKey": "Kzk1OTc4MzM3MTE5MFhpYW9taXNwZXM="
   }
 ]
