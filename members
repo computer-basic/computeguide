@@ -5476,5 +5476,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3ODg5MzQ5MjVPUFBPT1A0QjlC"
+  },
+  {
+    "name": "ချစ်သိန်း",
+    "expireDate": "7 Apr, 2026",
+    "level": 3,
+    "accessKey": "MDk0MDQ3OTM1MjRPUFBPT1A0RUQ1"
   }
 ]
