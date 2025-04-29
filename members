@@ -3039,7 +3039,7 @@
     "name": "Thae Nu San",
     "expireDate": "-",
     "level": 3,
-    "accessKey": "dGhhZW51c2FuNTUwQGdtYWlsLmNvbVhpYW9taWxpc2E="
+    "accessKey": "dGhhZW51c2FuNTUwQGdtYWlsLmNvbXZpdm9WMjM1Mg=="
   },
   {
     "name": "SAN LIN NAING",
@@ -4648,12 +4648,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "dG0yMzQ0MThAZ21haWwuY29tWGlhb21pc2VsZW5l"
-  },
-  {
-    "name": "chaw ei theint",
-    "expireDate": "29 Apr, 2025",
-    "level": 2,
-    "accessKey": "Y2hhd2VpdGhlaW50MTZAZ21haWwuY29tcmVhbG1lUkU2MDU0"
   },
   {
     "name": "Hein Zaw",
