@@ -5458,5 +5458,11 @@
     "expireDate": "10 Aug, 2025",
     "level": 2,
     "accessKey": "Kzk1OTc5NjgyNzc5MXNhbXN1bmdhMjA="
+  },
+  {
+    "name": "Chit",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "c3RyYXdiZXJyeW1yczU2QGdtYWlsLmNvbVhpYW9taXJ1Ynk="
   }
 ]
