@@ -4770,34 +4770,10 @@
     "accessKey": "MDk3OTE5ODQ5OThYaWFvbWlwaXNzYXJybw=="
   },
   {
-    "name": "Aung Min Thu",
-    "expireDate": "2 Jun, 2025",
-    "level": 2,
-    "accessKey": "YXVuZ21pbnRodTIwMDIuMS4yMEBnbWFpbC5jb21YaWFvbWl2aXZh"
-  },
-  {
     "name": "Ma Ma",
     "expireDate": "-",
     "level": 3,
     "accessKey": "bmF3d2Fod2FocGhhdzY2QGdtYWlsLmNvbU9QUE9PUDRCRkI="
-  },
-  {
-    "name": "Zaw Zaw Lwin",
-    "expireDate": "2 Jun, 2025",
-    "level": 2,
-    "accessKey": "c2FyZGFxYWthc3NAZ21haWwuY29tT1BQT09QNTYzN0wx"
-  },
-  {
-    "name": "AyaMyatMon",
-    "expireDate": "2 Jun, 2025",
-    "level": 2,
-    "accessKey": "MDk0Mjg1NjU2MTBYaWFvbWlnYXVndWlucHJv"
-  },
-  {
-    "name": "Mg Myat Hein",
-    "expireDate": "2 Jun, 2025",
-    "level": 2,
-    "accessKey": "MDk3ODE0MzgzNTVYaWFvbWlnYWxl"
   },
   {
     "name": "NAUNG YINN",
@@ -5662,5 +5638,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3NzcwNTE4NTVPUFBPT1BEMkEw"
+  },
+  {
+    "name": "Min Khant Ko",
+    "expireDate": "3 Sep, 2025",
+    "level": 2,
+    "accessKey": "MDk3NzI5NDQ2MDBYaWFvbWllbWVyYWxk"
   }
 ]
