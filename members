@@ -4836,12 +4836,6 @@
     "accessKey": "a29vb2gxMjU3QGdtYWlsLmNvbXZpdm9WMjM0OA=="
   },
   {
-    "name": "Aung Paing Htwe",
-    "expireDate": "6 Jul, 2025",
-    "level": 2,
-    "accessKey": "MDYzMzEwNDQyN1hpYW9taWZpcmU="
-  },
-  {
     "name": "Nan Cherry",
     "expireDate": "-",
     "level": 3,
@@ -5854,5 +5848,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0MjA3NDc5NjByZWFsbWVSRUUyQURMMQ=="
+  },
+  {
+    "name": "BlueStack",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "a29rb3NhbXN1bmd6M3E="
   }
 ]
