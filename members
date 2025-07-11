@@ -3594,12 +3594,6 @@
     "accessKey": "MDk0NTgyOTg4M3NhbXN1bmdhMzV4"
   },
   {
-    "name": "WAI Yan",
-    "expireDate": "10 Jul, 2025",
-    "level": 3,
-    "accessKey": "d2FpeWgyMjM0QGdhbWFpbC5jb21zYW1zdW5nYTM0eA=="
-  },
-  {
     "name": "Ashin Thihanyana",
     "expireDate": "-",
     "level": 3,
@@ -4848,12 +4842,6 @@
     "accessKey": "a3lhd3RoZXR0dW44NjUxQGdtYWlsLmNvbVhpYW9taWdhcm5ldA=="
   },
   {
-    "name": "kaung khant",
-    "expireDate": "10 Jul, 2025",
-    "level": 2,
-    "accessKey": "MDk1MDAxOTczVEVDTk9URUNOTy1UMTAwMQ=="
-  },
-  {
     "name": "Nyi Min Thu",
     "expireDate": "-",
     "level": 3,
@@ -5538,12 +5526,6 @@
     "accessKey": "KzQ0OTk1ODEyNjU3NFhpYW9taXNhcHBoaXJl"
   },
   {
-    "name": "Ashin Visuddha",
-    "expireDate": "11 Jul, 2025",
-    "level": 1,
-    "accessKey": "dmlzdWRkaGE1MDBAZ21haWwuY29tVEVDTk9URUNOTy1DTDk="
-  },
-  {
     "name": "Salai Kap Vung",
     "expireDate": "-",
     "level": 3,
@@ -5908,5 +5890,11 @@
     "expireDate": "10 Aug, 2025",
     "level": 1,
     "accessKey": "MDkyNTA5NDY4OTNYaWFvbWltdW5jaA=="
+  },
+  {
+    "name": "Moe Wai Aung",
+    "expireDate": "12 Oct, 2025",
+    "level": 2,
+    "accessKey": "MDk0MjIxNTAwNzdIVUFXRUlIV0pLTS1I"
   }
 ]
