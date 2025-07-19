@@ -5562,12 +5562,6 @@
     "accessKey": "endlaHRpa2VzYW44MkBnbWFpbC5jb21YaWFvbWlyb2Rpbg=="
   },
   {
-    "name": "kaung set naing",
-    "expireDate": "19 Jul, 2025",
-    "level": 1,
-    "accessKey": "MDk2Njg4NzY0MDNYaWFvbWlnb2xk"
-  },
-  {
     "name": "adim",
     "expireDate": "-",
     "level": 3,
@@ -5908,5 +5902,11 @@
     "expireDate": "18 Oct, 2025",
     "level": 2,
     "accessKey": "MDk5ODEzNjYzOTB2aXZvUEQyMjcx"
+  },
+  {
+    "name": "Thinzar Soe",
+    "expireDate": "20 Oct, 2025",
+    "level": 2,
+    "accessKey": "MDk3NTgwOTAzNjhYaWFvbWlnYWxl"
   }
 ]
