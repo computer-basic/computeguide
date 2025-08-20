@@ -3768,12 +3768,6 @@
     "accessKey": "bXR3LmtvQGljbG91ZC5jb21YaWFvbWl6aXJjb24="
   },
   {
-    "name": "Tun Naing",
-    "expireDate": "20 Aug, 2025",
-    "level": 3,
-    "accessKey": "YXN1bm5obmFwaGF0QGdtYWlsLmNvbU9QUE9PUDRFRkRMMQ=="
-  },
-  {
     "name": "Nyi Khant Zaw",
     "expireDate": "-",
     "level": 3,
@@ -4944,18 +4938,6 @@
     "accessKey": "KzYwMTgzMjU2MDg3T1BQT09QNTMwREwx"
   },
   {
-    "name": "Wai Yan",
-    "expireDate": "20 Aug, 2025",
-    "level": 2,
-    "accessKey": "d2FpeWFuMDU5NjYyQGdtYWlsLmNvbVhpYW9taXJ1Ynlwcm8="
-  },
-  {
-    "name": "Anthony ",
-    "expireDate": "20 Aug, 2025",
-    "level": 2,
-    "accessKey": "YW50aG9ueWhsYXduQGdtYWlsLmNvbU9QUE9PUDU3NURMMQ=="
-  },
-  {
     "name": "Ashinindrira ",
     "expireDate": "21 Aug, 2025",
     "level": 2,
@@ -6124,5 +6106,11 @@
     "expireDate": "20 Nov, 2025",
     "level": 2,
     "accessKey": "MDk3NTA2NjY3ODlYaWFvbWlhbWV0aHlzdA=="
+  },
+  {
+    "name": "Ma Thidar Aung ",
+    "expireDate": "21 Nov, 2025",
+    "level": 2,
+    "accessKey": "MDk2NjczNjczMTJYaWFvbWltYXJibGU="
   }
 ]
