@@ -5736,12 +5736,6 @@
     "accessKey": "MDk3NjUxMjcyNTJYaWFvbWlzYXBwaGlyZQ=="
   },
   {
-    "name": "Hnin Pwint ",
-    "expireDate": "10 Sep, 2025",
-    "level": 1,
-    "accessKey": "aG5pbnB3aW50NTkyMDA0QGdtYWlsLmNvbVhpYW9taXJ1Ynk="
-  },
-  {
     "name": "Ashin khaymarwontha ",
     "expireDate": "11 Aug, 2026",
     "level": 3,
@@ -6106,5 +6100,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "a29rb0dvb2dsZWVtdTY0YQ=="
+  },
+  {
+    "name": "Chan Nyein",
+    "expireDate": "11 Sep, 2026",
+    "level": 3,
+    "accessKey": "MDk2ODkwMDQ2MDNYaWFvbWliZXJ5bA=="
   }
 ]
