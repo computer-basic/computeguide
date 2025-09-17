@@ -6082,5 +6082,11 @@
     "expireDate": "17 Oct, 2025",
     "level": 1,
     "accessKey": "a3lhd3pheWFybGluODMxQGdtYWlsLmNvbXZpdm9WMjM1Mg=="
+  },
+  {
+    "name": "AMOS",
+    "expireDate": "18 Sep, 2026",
+    "level": 3,
+    "accessKey": "MjcwNzkwNDg1NUBxcS5jb21YaWFvbWlwb25k"
   }
 ]
