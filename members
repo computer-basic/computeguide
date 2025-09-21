@@ -6106,5 +6106,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "YmVhcmFuZGJlYXJzLmxhc2hpb0BnbWFpbC5jb21YaWFvbWltYXJibGU="
+  },
+  {
+    "name": "Nang Kham Loike",
+    "expireDate": "22 Sep, 2026",
+    "level": 3,
+    "accessKey": "MDk4OTUyNzQ4MjVYaWFvbWlydWJ5"
   }
 ]
