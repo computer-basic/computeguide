@@ -2043,7 +2043,7 @@
     "name": "Phyu Sin Shin Thant",
     "expireDate": "-",
     "level": 3,
-    "accessKey": "MDk3NDA4NDAzNzNYaWFvbWlzZWxlbmU="
+    "accessKey": "MDk3NDA4NDAzNzNYaWFvbWlhdG9t"
   },
   {
     "name": "Ko Moe Zaw Aung",
@@ -5134,12 +5134,6 @@
     "expireDate": "23 Jun, 2026",
     "level": 3,
     "accessKey": "MDk5NjIzMTIzNTRzYW1zdW5nZ3RhOXA="
-  },
-  {
-    "name": "Thel Thel",
-    "expireDate": "23 Sep, 2025",
-    "level": 2,
-    "accessKey": "MDk1OTc2MzIyOXZpdm8yMTA1"
   },
   {
     "name": "Ko Chit",
