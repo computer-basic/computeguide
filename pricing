@@ -1,8 +1,8 @@
 {
     "campaign": true,
-    "description": "Get the supporter plan with a 3000 MMK/30 Baht Thadingyut discount for 1 year and lifetime plans until 8 October.",
+    "description": "Get the supporter plan with a 3000 MMK/30 THB Thadingyut discount for 1 year and lifetime plans until 8 October.",
     "start": 30,
-    "end": 51,
+    "end": 60,
     "color": "#91AAE8",
     "price": [
         {
