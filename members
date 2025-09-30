@@ -5172,18 +5172,6 @@
     "accessKey": "MDk2ODk4OTc5OTBzYW1zdW5nYTA2"
   },
   {
-    "name": "မေသူခိုင်",
-    "expireDate": "30 Sep, 2025",
-    "level": 2,
-    "accessKey": "MDk3NTA1OTIwNzFYaWFvbWlnb2xk"
-  },
-  {
-    "name": "chitsnow",
-    "expireDate": "30 Sep, 2025",
-    "level": 2,
-    "accessKey": "MDk4OTM1OTI4NjJ2aXZvUEQxOTMw"
-  },
-  {
     "name": "Myo Thandar Aung",
     "expireDate": "2 Jul, 2026",
     "level": 3,
@@ -6118,5 +6106,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk0MDM1NDQ3MDNYaWFvbWlzYXBwaGlyZQ=="
+  },
+  {
+    "name": "Kyaw Zin Phyo",
+    "expireDate": "31 Dec, 2025",
+    "level": 2,
+    "accessKey": "MDk0NTk2MDQ3NjBYaWFvbWlhcmVz"
   }
 ]
