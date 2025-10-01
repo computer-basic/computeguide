@@ -6112,5 +6112,11 @@
     "expireDate": "31 Dec, 2025",
     "level": 2,
     "accessKey": "MDk0NTk2MDQ3NjBYaWFvbWlhcmVz"
+  },
+  {
+    "name": "Pin Lon Ko Ko",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "a29waW40MTFAZ21haWwuY29tWGlhb21peHVu"
   }
 ]
