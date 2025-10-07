@@ -5184,18 +5184,6 @@
     "accessKey": "eWVuYW53aW41NUBnbWFpbC5jb21YaWFvbWl2ZXV4"
   },
   {
-    "name": "Labyi",
-    "expireDate": "6 Oct, 2025",
-    "level": 2,
-    "accessKey": "ZGFpbGF3dHJ1bmdAZ21haWwuY29tWGlhb21pb2JzaWRpYW4="
-  },
-  {
-    "name": "Moe Moe San",
-    "expireDate": "6 Oct, 2025",
-    "level": 2,
-    "accessKey": "bW1vZXNhbjIxN0BnbWFpbC5jb21PUFBPT1A1NzVETDE="
-  },
-  {
     "name": "ko Tay Zar win",
     "expireDate": "-",
     "level": 3,
@@ -5206,18 +5194,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "a29rb3NhbXN1bmd6M3E="
-  },
-  {
-    "name": "Hein Htet",
-    "expireDate": "7 Oct, 2025",
-    "level": 2,
-    "accessKey": "MDk5ODE1MzYyNTVPUFBPT1A0QkZC"
-  },
-  {
-    "name": "Asia",
-    "expireDate": "7 Oct, 2025",
-    "level": 2,
-    "accessKey": "MDk0MDAxMDY4NjFzYW1zdW5nYTM0eA=="
   },
   {
     "name": "Kaung Thant ",
@@ -6148,5 +6124,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk5NjkzODE2NzRyZWFsbWVSTVgyMDQw"
+  },
+  {
+    "name": "waiyanphyo",
+    "expireDate": "8 Jan, 2026",
+    "level": 2,
+    "accessKey": "d3AwNTU1NTA4QGdtYWlsLmNvbVRFQ05PVEVDTk8tTEY3"
   }
 ]
