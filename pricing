@@ -1,5 +1,5 @@
 {
-    "campaign": true,
+    "campaign": false,
     "description": "Get the supporter plan with a 3000 MMK/30 THB Thadingyut discount for 1 year and lifetime plans until 8 October.",
     "start": 30,
     "end": 57,
@@ -19,13 +19,13 @@
         },
         {
             "duration": "၁ နှစ်",
-            "amount": "12,000 MMK/150 THB",
+            "amount": "15,000 MMK/180 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "တစ်သက်တာ",
-            "amount": "20,000 MMK/230 THB",
+            "amount": "23,000 MMK/260 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         }
