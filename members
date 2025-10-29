@@ -6160,5 +6160,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "cm9iaW5qaW45ODg5OUBnbWFpbC5jb21PUFBPT1A0Rjk3"
+  },
+  {
+    "name": "Khing mar tun",
+    "expireDate": "30 Jan, 2026",
+    "level": 2,
+    "accessKey": "eWFubmFpbmdodHVuODA4MUBnbWFpbC5jb21YaWFvbWl2ZXV4"
   }
 ]
