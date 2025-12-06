@@ -6004,5 +6004,11 @@
     "expireDate": "6 Jan, 2026",
     "level": 1,
     "accessKey": "MDk3NTMwMDA2MzdYaWFvbWlwZXJpZG90"
+  },
+  {
+    "name": "HAN SOE",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk3NzQ0ODIwMDZPbmVQbHVzT1A1OTUzTDE="
   }
 ]
