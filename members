@@ -4146,12 +4146,6 @@
     "accessKey": "MDk2NjQxNDY2NzdYaWFvbWlnaW5rZ28="
   },
   {
-    "name": "Sein Aye ",
-    "expireDate": "17 Dec, 2025",
-    "level": 3,
-    "accessKey": "c2VpbmF5ZTU4MkBnbWFpbC5jb21zYW1zdW5nYTEy"
-  },
-  {
     "name": "myominchit",
     "expireDate": "-",
     "level": 3,
@@ -6034,5 +6028,11 @@
     "expireDate": "17 Dec, 2026",
     "level": 3,
     "accessKey": "KzYwMTcyMTkwMDg1T1BQT09QNTMwREwx"
+  },
+  {
+    "name": "Aung Chit Min",
+    "expireDate": "18 Jan, 2026",
+    "level": 1,
+    "accessKey": "KzYwMTExNjAzOTM5MlhpYW9taXN3ZWV0"
   }
 ]
