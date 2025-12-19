@@ -1,8 +1,8 @@
 {
     "campaign": false,
-    "description": "Get the supporter plan with a 3000 MMK/30 THB Thadingyut discount for 1 year and lifetime plans until 8 October.",
-    "start": 30,
-    "end": 57,
+    "description": "Get the Supporter plan with Christmas and New Year discounts for 3-month, 1-year, and lifetime plans.",
+    "start": 0,
+    "end": 0,
     "color": "#91AAE8",
     "price": [
         {
@@ -13,19 +13,19 @@
         },
         {
             "duration": "၃ လ",
-            "amount": "8,000 MMK/100 THB",
+            "amount": "6,000 MMK/90 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "၁ နှစ်",
-            "amount": "15,000 MMK/180 THB",
+            "amount": "12,000 MMK/140 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "တစ်သက်တာ",
-            "amount": "23,000 MMK/260 THB",
+            "amount": "17,000 MMK/210 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         }
