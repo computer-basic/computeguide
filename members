@@ -6052,5 +6052,11 @@
     "expireDate": "24 Mar, 2026",
     "level": 2,
     "accessKey": "MDkyNjYxMDk0NzF2aXZvVjIzMzM="
+  },
+  {
+    "name": "ဆရာလေး မဝံသပါလီ",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bWF2b25zYXBhbGlAZ21haWwuY29tc2Ftc3VuZ2EyMw=="
   }
 ]
