@@ -1305,7 +1305,7 @@
     "name": "Min Hein",
     "expireDate": "-",
     "level": 3,
-    "accessKey": "MjI3MjAwNG1pbmhlaW5AZ21haWwuY29tWGlhb21paXJvbg=="
+    "accessKey": "MjI3MjAwNG1pbmhlaW5AZ21haWwuY29tSFVBV0VJSFdCQUgzLUg="
   },
   {
     "name": "SOE MYINT OO ",
@@ -5530,12 +5530,6 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk3NzMzMjU0MjV2aXZvMTkwNA=="
-  },
-  {
-    "name": "Aye Thandar Khaing",
-    "expireDate": "24 Jan, 2026",
-    "level": 2,
-    "accessKey": "MDk0MDAyODkzNTl2aXZvMjAyNw=="
   },
   {
     "name": "Tun Tun Oo",
