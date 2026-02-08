@@ -5544,12 +5544,6 @@
     "accessKey": "dGhvb29vb202OUBnbWFpbC5jb21zYW1zdW5nYTU2eA=="
   },
   {
-    "name": "Kyaw Thu",
-    "expireDate": "8 Feb, 2026",
-    "level": 2,
-    "accessKey": "MDk2Nzk2NzAxMzdyZWFsbWVSRUQ4RjY="
-  },
-  {
     "name": "အရှင်တိလောက",
     "expireDate": "9 Feb, 2026",
     "level": 2,
@@ -6034,5 +6028,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "YmxhODMzOTk2QGdtYWlsLmNvbXJlYWxtZVJFNUM5NEwx"
+  },
+  {
+    "name": "Mg htay naing",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "bWF1bmdzdGF5c2xhaW5nNTc0QGdtYWlsLmNvbXJlYWxtZVJFNTREMQ=="
   }
 ]
