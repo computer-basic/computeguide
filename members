@@ -4332,12 +4332,6 @@
     "accessKey": "bmlodXB0aGFuZ0BnbWFpbC5jb21YaWFvbWlhaXI="
   },
   {
-    "name": "Hein Yarzar",
-    "expireDate": "9 Feb, 2026",
-    "level": 3,
-    "accessKey": "aGVpbnlhcnphcjM5MkBnbWFpbC5jb21PUFBPT1A1MzEyTDE="
-  },
-  {
     "name": "Nyan Min Htun",
     "expireDate": "-",
     "level": 3,
@@ -5544,12 +5538,6 @@
     "accessKey": "dGhvb29vb202OUBnbWFpbC5jb21zYW1zdW5nYTU2eA=="
   },
   {
-    "name": "အရှင်တိလောက",
-    "expireDate": "9 Feb, 2026",
-    "level": 2,
-    "accessKey": "MDk0MDQxMDE3OTNYaWFvbWl6b3Ju"
-  },
-  {
     "name": "Kwan Kwan",
     "expireDate": "-",
     "level": 3,
@@ -6034,5 +6022,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "bWF1bmdzdGF5c2xhaW5nNTc0QGdtYWlsLmNvbXJlYWxtZVJFNTREMQ=="
+  },
+  {
+    "name": "Kyawthurasoe ",
+    "expireDate": "10 Feb, 2027",
+    "level": 3,
+    "accessKey": "MDk5NjgwMjY0MTVYaWFvbWlydWJ5"
   }
 ]
