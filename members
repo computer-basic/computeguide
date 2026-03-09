@@ -6076,5 +6076,11 @@
     "expireDate": "9 Mar, 2027",
     "level": 3,
     "accessKey": "a2t5YW4xNjc2QGdtYWlsLmNvbUlORklOSVhJbmZpbml4LVg2NTI4"
+  },
+  {
+    "name": "Honey",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk5ODI0MzEzODdIVUFXRUlIV1RHUi1M"
   }
 ]
