@@ -6040,5 +6040,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "MDk5NDQwODMwNDdYaWFvbWlnYXJuZXQ="
+  },
+  {
+    "name": "Wadi",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "MDk5NjQ5ODg4NjZYaWFvbWl5dWVjaHU="
   }
 ]
