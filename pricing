@@ -1,6 +1,6 @@
 {
     "campaign": false,
-    "description": "Get the Supporter plan with Christmas and New Year discounts for 3-month, 1-year, and lifetime plans.",
+    "description": "Get the Supporter plan with Thingyan discounts for 3-month, 1-year, and lifetime plans.",
     "start": 0,
     "end": 0,
     "color": "#91AAE8",
@@ -13,19 +13,19 @@
         },
         {
             "duration": "၃ လ",
-            "amount": "8,000 MMK/100 THB",
+            "amount": "7,000 MMK/80 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "၁ နှစ်",
-            "amount": "15,000 MMK/180 THB",
+            "amount": "12,000 MMK/150 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "တစ်သက်တာ",
-            "amount": "23,000 MMK/260 THB",
+            "amount": "20,000 MMK/210 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         }
