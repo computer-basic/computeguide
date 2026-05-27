@@ -579,15 +579,13 @@
     "id": "review_32",
     "section": "Review",
     "order": 32,
-    "title": "Full Keyboard Review",
+    "title": "Full Keyboard Review TESTIng",
     "keys": [
-      "all"
+      "f"
     ],
     "patterns": [
-      "the quick fox",
-      "practice every day",
-      "accuracy before speed",
-      "touch typing is a skill"
+      "ffff",
+      "jjjj"
     ]
   }
 ]
