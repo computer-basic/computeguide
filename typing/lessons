@@ -3,7 +3,7 @@
     "id": "home_01",
     "section": "Getting Started",
     "order": 1,
-    "title": "F and J Keys",
+    "title": "F, J",
     "keys": [
       "f",
       "j"
@@ -20,7 +20,7 @@
     "id": "home_02",
     "section": "Getting Started",
     "order": 2,
-    "title": "D and K Keys",
+    "title": "D, K",
     "keys": [
       "d",
       "k"
@@ -36,7 +36,7 @@
     "id": "home_03",
     "section": "Getting Started",
     "order": 3,
-    "title": "S and L Keys",
+    "title": "S, L",
     "keys": [
       "s",
       "l"
@@ -52,7 +52,7 @@
     "id": "home_04",
     "section": "Getting Started",
     "order": 4,
-    "title": "A and Semicolon",
+    "title": "A, ;",
     "keys": [
       "a",
       ";"
@@ -68,7 +68,7 @@
     "id": "home_05",
     "section": "Getting Started",
     "order": 5,
-    "title": "G and H Keys",
+    "title": "G, H",
     "keys": [
       "g",
       "h"
@@ -106,7 +106,7 @@
     "id": "reach_07",
     "section": "Reaching Out",
     "order": 7,
-    "title": "U, R, and K Keys",
+    "title": "U, R, K",
     "keys": [
       "u",
       "r",
@@ -123,7 +123,7 @@
     "id": "reach_08",
     "section": "Reaching Out",
     "order": 8,
-    "title": "D, E, and I Keys",
+    "title": "D, E, I",
     "keys": [
       "d",
       "e",
@@ -140,7 +140,7 @@
     "id": "reach_09",
     "section": "Reaching Out",
     "order": 9,
-    "title": "C, G, and N Keys",
+    "title": "C, G, N",
     "keys": [
       "c",
       "g",
@@ -157,7 +157,7 @@
     "id": "reach_10",
     "section": "Reaching Out",
     "order": 10,
-    "title": "T, S, and L Keys",
+    "title": "T, S, L",
     "keys": [
       "t",
       "s",
@@ -174,7 +174,7 @@
     "id": "reach_11",
     "section": "Reaching Out",
     "order": 11,
-    "title": "O, B, and A Keys",
+    "title": "O, B, A",
     "keys": [
       "o",
       "b",
@@ -191,7 +191,7 @@
     "id": "reach_12",
     "section": "Reaching Out",
     "order": 12,
-    "title": "V, H, and M Keys",
+    "title": "V, H, M",
     "keys": [
       "v",
       "h",
@@ -208,7 +208,7 @@
     "id": "reach_13",
     "section": "Reaching Out",
     "order": 13,
-    "title": "Period and Comma",
+    "title": ". ,",
     "keys": [
       ".",
       ","
@@ -224,7 +224,7 @@
     "id": "reach_14",
     "section": "Reaching Out",
     "order": 14,
-    "title": "W, X, and Semicolon",
+    "title": "W, X, ;",
     "keys": [
       "w",
       "x",
@@ -241,7 +241,7 @@
     "id": "reach_15",
     "section": "Reaching Out",
     "order": 15,
-    "title": "Q, Y, and P Keys",
+    "title": "Q, Y, P",
     "keys": [
       "q",
       "y",
@@ -258,7 +258,7 @@
     "id": "reach_16",
     "section": "Reaching Out",
     "order": 16,
-    "title": "Z and Slash",
+    "title": "Z, /",
     "keys": [
       "z",
       "/"
@@ -341,7 +341,7 @@
     "id": "word_20",
     "section": "Building Words",
     "order": 20,
-    "title": "Left Hand Focus",
+    "title": "Left Hand",
     "keys": [
       "q",
       "w",
@@ -370,7 +370,7 @@
     "id": "word_21",
     "section": "Building Words",
     "order": 21,
-    "title": "Right Hand Focus",
+    "title": "Right Hand",
     "keys": [
       "y",
       "u",
@@ -410,7 +410,7 @@
     "id": "word_23",
     "section": "Building Words",
     "order": 23,
-    "title": "Common Pairs",
+    "title": "Letter Pairs",
     "keys": [
       "t",
       "h",
@@ -429,7 +429,7 @@
     "id": "word_24",
     "section": "Building Words",
     "order": 24,
-    "title": "Common Triples",
+    "title": "Letter Groups",
     "keys": [
       "i",
       "n",
@@ -449,7 +449,7 @@
     "id": "sent_25",
     "section": "Small Sentences",
     "order": 25,
-    "title": "Easy Sentences",
+    "title": "Simple Sentences",
     "keys": [
       "all"
     ],
@@ -464,7 +464,7 @@
     "id": "sent_26",
     "section": "Small Sentences",
     "order": 26,
-    "title": "Accuracy Sentences",
+    "title": "Accuracy",
     "keys": [
       "all"
     ],
@@ -479,7 +479,7 @@
     "id": "sent_27",
     "section": "Small Sentences",
     "order": 27,
-    "title": "Rhythm Practice",
+    "title": "Rhythm",
     "keys": [
       "all"
     ],
@@ -494,7 +494,7 @@
     "id": "sent_28",
     "section": "Small Sentences",
     "order": 28,
-    "title": "Punctuation Practice",
+    "title": "Punctuation",
     "keys": [
       ".",
       ",",
@@ -512,7 +512,7 @@
     "id": "review_29",
     "section": "Review",
     "order": 29,
-    "title": "Beginner Review 1",
+    "title": "Home Row Review",
     "keys": [
       "a",
       "s",
@@ -534,7 +534,7 @@
     "id": "review_30",
     "section": "Review",
     "order": 30,
-    "title": "Beginner Review 2",
+    "title": "Top Row Review",
     "keys": [
       "q",
       "w",
@@ -558,7 +558,7 @@
     "id": "review_31",
     "section": "Review",
     "order": 31,
-    "title": "Beginner Review 3",
+    "title": "Bottom Row Review",
     "keys": [
       "z",
       "x",
