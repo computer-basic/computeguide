@@ -17,13 +17,13 @@
   "typingPracticeAccess": {
     "en": {
       "freeLessonLimit": 5,
-      "minSupporterLevel": 1,
+      "minSupporterLevel": 2,
       "freeLessonIds": [],
       "lockedLessonIds": []
     },
     "mm": {
-      "freeLessonLimit": 5,
-      "minSupporterLevel": 1,
+      "freeLessonLimit": 2,
+      "minSupporterLevel": 2,
       "freeLessonIds": [],
       "lockedLessonIds": []
     }
