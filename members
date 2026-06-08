@@ -6094,5 +6094,11 @@
     "expireDate": "-",
     "level": 3,
     "accessKey": "Y2hvY2FsYXRlLmNyYXp5MUBnbWFpbC5jb21YaWFvbWl2aXZh"
+  },
+  {
+    "name": "Cherry",
+    "expireDate": "9 Sep, 2026",
+    "level": 2,
+    "accessKey": "MDk5NjUzODQwOThYaWFvbWl6aXlp"
   }
 ]
