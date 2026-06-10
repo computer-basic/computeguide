@@ -11,7 +11,7 @@
     "id": "logical",
     "order": 2,
     "title": "Logical formulas",
-    "description": "အခြေအနေ စစ်ပြီး result ထုတ်ရန် အသုံးများသော formula များ",
+    "description": "အခြေအနေများ စစ်ဆေးပြီး ရလဒ်ထုတ်ပေးရန် အသုံးများသော formula များ",
     "icon": "IF",
     "formulaCount": 7
   },
@@ -35,7 +35,7 @@
     "id": "lookup",
     "order": 5,
     "title": "Lookup formulas",
-    "description": "ဇယားထဲမှ data ရှာယူရန် အသုံးများသော formula များ",
+    "description": "ဇယားထဲမှ အချက်အလက်များ ရှာယူရန် အသုံးများသော formula များ",
     "icon": "LU",
     "formulaCount": 7
   },
@@ -43,7 +43,7 @@
     "id": "counting",
     "order": 6,
     "title": "Counting formulas",
-    "description": "အရေအတွက် ရေတွက်ခြင်း၊ condition ဖြင့် ရေတွက်ခြင်း formula များ",
+    "description": "အရေအတွက် ရေတွက်ခြင်းနှင့် သတ်မှတ်ချက်များဖြင့် ရေတွက်ရန် formula များ",
     "icon": "#",
     "formulaCount": 6
   },
@@ -51,7 +51,7 @@
     "id": "rounding",
     "order": 7,
     "title": "Rounding formulas",
-    "description": "ဒဿမ၊ ဂဏန်းတန်ဖိုးများကို round လုပ်ရန် formula များ",
+    "description": "ဒဿမနှင့် ဂဏန်းတန်ဖိုးများကို အနီးစပ်ဆုံးကိန်းယူရန် formula များ",
     "icon": ".0",
     "formulaCount": 6
   },
@@ -59,7 +59,7 @@
     "id": "financial",
     "order": 8,
     "title": "Financial formulas",
-    "description": "ချေးငွေ၊ အတိုးနှုန်း၊ payment တွက်ရန် အသုံးများသော formula များ",
+    "description": "ချေးငွေ၊ အတိုးနှုန်းနှင့် ပေးချေမှုများ တွက်ချက်ရန် အသုံးများသော formula များ",
     "icon": "$",
     "formulaCount": 5
   }
