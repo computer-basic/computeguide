@@ -1,0 +1,139 @@
+[
+  {
+    "id": "sum",
+    "categoryId": "basic",
+    "order": 1,
+    "title": "SUM",
+    "syntax": "=SUM(A1:A10)",
+    "description": "ရွေးထားသော cell range ထဲရှိ ဂဏန်းများကို ပေါင်းပေးသည်။",
+    "example": "=SUM(B2:B6)",
+    "result": "B2 မှ B6 ထိရှိသော ဂဏန်းများ စုစုပေါင်းကို ပြသည်။",
+    "note": "ဂဏန်းမဟုတ်သော စာသားများကို မပေါင်းပါ။",
+    "keywords": [
+      "ပေါင်း",
+      "စုစုပေါင်း",
+      "total",
+      "add",
+      "sum"
+    ]
+  },
+  {
+    "id": "average",
+    "categoryId": "basic",
+    "order": 2,
+    "title": "AVERAGE",
+    "syntax": "=AVERAGE(A1:A10)",
+    "description": "ရွေးထားသော ဂဏန်းများ၏ ပျမ်းမျှတန်ဖိုးကို တွက်ပေးသည်။",
+    "example": "=AVERAGE(C2:C6)",
+    "result": "C2 မှ C6 ထိရှိသော ဂဏန်းများ၏ average ကို ပြသည်။",
+    "note": "စာသားနှင့် blank cell များကို မတွက်ပါ။",
+    "keywords": [
+      "ပျမ်းမျှ",
+      "average",
+      "mean"
+    ]
+  },
+  {
+    "id": "min",
+    "categoryId": "basic",
+    "order": 3,
+    "title": "MIN",
+    "syntax": "=MIN(A1:A10)",
+    "description": "ရွေးထားသော range ထဲမှ အနည်းဆုံး ဂဏန်းတန်ဖိုးကို ရှာပေးသည်။",
+    "example": "=MIN(D2:D20)",
+    "result": "D2 မှ D20 ထဲရှိ အနည်းဆုံးတန်ဖိုးကို ပြသည်။",
+    "note": "စာမေးပွဲအမှတ်၊ စျေးနှုန်း၊ stock အနည်းဆုံးရှာရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "အနည်းဆုံး",
+      "minimum",
+      "smallest",
+      "min"
+    ]
+  },
+  {
+    "id": "max",
+    "categoryId": "basic",
+    "order": 4,
+    "title": "MAX",
+    "syntax": "=MAX(A1:A10)",
+    "description": "ရွေးထားသော range ထဲမှ အများဆုံး ဂဏန်းတန်ဖိုးကို ရှာပေးသည်။",
+    "example": "=MAX(D2:D20)",
+    "result": "D2 မှ D20 ထဲရှိ အများဆုံးတန်ဖိုးကို ပြသည်။",
+    "note": "အမြင့်ဆုံးအမှတ်၊ အမြင့်ဆုံးရောင်းအား စသည်တို့တွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "အများဆုံး",
+      "maximum",
+      "largest",
+      "max"
+    ]
+  },
+  {
+    "id": "subtotal",
+    "categoryId": "basic",
+    "order": 5,
+    "title": "SUBTOTAL",
+    "syntax": "=SUBTOTAL(9,A2:A100)",
+    "description": "Filter လုပ်ထားသော table တွင် မြင်နေရသော row များကိုသာ တွက်ရန် အသုံးဝင်သည်။",
+    "example": "=SUBTOTAL(9,C2:C100)",
+    "result": "Filter ပြီးမြင်နေရသော C column တန်ဖိုးများကို ပေါင်းပေးသည်။",
+    "note": "9 သည် SUM အတွက် function number ဖြစ်သည်။ 1 သည် AVERAGE၊ 2 သည် COUNT ဖြစ်သည်။",
+    "keywords": [
+      "filter",
+      "subtotal",
+      "မြင်ရသော row",
+      "sum"
+    ]
+  },
+  {
+    "id": "sumproduct",
+    "categoryId": "basic",
+    "order": 6,
+    "title": "SUMPRODUCT",
+    "syntax": "=SUMPRODUCT(A2:A10,B2:B10)",
+    "description": "Range နှစ်ခု၏ တူညီသော row တန်ဖိုးများကို မြှောက်ပြီး စုစုပေါင်းပေးသည်။",
+    "example": "=SUMPRODUCT(B2:B6,C2:C6)",
+    "result": "အရေအတွက်နှင့် စျေးနှုန်းကို row အလိုက်မြှောက်ပြီး စုစုပေါင်း amount ထုတ်ပေးသည်။",
+    "note": "Qty x Price စုစုပေါင်းတွက်ရာတွင် အလွန်အသုံးများသည်။",
+    "keywords": [
+      "မြှောက်ပြီးပေါင်း",
+      "qty price",
+      "sumproduct",
+      "total amount"
+    ]
+  },
+  {
+    "id": "rank_eq",
+    "categoryId": "basic",
+    "order": 7,
+    "title": "RANK.EQ",
+    "syntax": "=RANK.EQ(B2,$B$2:$B$10,0)",
+    "description": "တန်ဖိုးတစ်ခု၏ အဆင့်ကို range တစ်ခုအတွင်း တွက်ပေးသည်။",
+    "example": "=RANK.EQ(C2,$C$2:$C$30,0)",
+    "result": "C2 အမှတ်သည် C2:C30 အတွင်း အဆင့်ဘယ်လောက်လဲ ပြသည်။",
+    "note": "0 သည် အများဆုံးတန်ဖိုးကို rank 1 အဖြစ် သတ်မှတ်သည်။ 1 သည် အနည်းဆုံးကို rank 1 သတ်မှတ်သည်။",
+    "keywords": [
+      "အဆင့်",
+      "rank",
+      "အမှတ်စဉ်",
+      "position"
+    ]
+  },
+  {
+    "id": "percent_change",
+    "categoryId": "basic",
+    "order": 8,
+    "title": "Percent change",
+    "syntax": "=(B2-A2)/A2",
+    "description": "တန်ဖိုးဟောင်းမှ တန်ဖိုးအသစ်သို့ ပြောင်းလဲမှု percent ကို တွက်ရန် အသုံးပြုသည်။",
+    "example": "=(C2-B2)/B2",
+    "result": "B2 မှ C2 သို့ တိုး/လျော့သွားသော percent ကို ပြသည်။",
+    "note": "Result cell ကို Percentage format ပြောင်းပါ။ A2 သည် 0 ဖြစ်ပါက error ဖြစ်နိုင်သည်။",
+    "keywords": [
+      "ရာခိုင်နှုန်း",
+      "percent",
+      "တိုးနှုန်း",
+      "change",
+      "growth"
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "if",
+    "categoryId": "logical",
+    "order": 1,
+    "title": "IF",
+    "syntax": "=IF(A2>=40,\"Pass\",\"Fail\")",
+    "description": "အခြေအနေတစ်ခု စစ်ပြီး မှန်လျှင် result တစ်ခု၊ မှားလျှင် result တစ်ခု ပြပေးသည်။",
+    "example": "=IF(B2>=50,\"အောင်\",\"ကျ\")",
+    "result": "B2 သည် 50 နှင့်အထက်ဆိုလျှင် အောင်၊ မဟုတ်လျှင် ကျ ပြသည်။",
+    "note": "စာသား result များကို double quote ထဲတွင် ထည့်ရသည်။",
+    "keywords": [
+      "condition",
+      "if",
+      "pass fail",
+      "အောင် ကျ",
+      "စစ်"
+    ]
+  },
+  {
+    "id": "ifs",
+    "categoryId": "logical",
+    "order": 2,
+    "title": "IFS",
+    "syntax": "=IFS(A2>=80,\"A\",A2>=60,\"B\",A2>=40,\"C\",TRUE,\"Fail\")",
+    "description": "အခြေအနေများစွာကို အစဉ်လိုက် စစ်ပြီး ပထမဆုံးမှန်သော result ကို ပြပေးသည်။",
+    "example": "=IFS(B2>=80,\"Excellent\",B2>=50,\"Pass\",TRUE,\"Fail\")",
+    "result": "B2 တန်ဖိုးပေါ်မူတည်ပြီး grade/result ပြသည်။",
+    "note": "နောက်ဆုံး TRUE ကို default result အဖြစ် ထည့်ထားလျှင် အခြေအနေမကိုက်သော case များကို ထိန်းနိုင်သည်။",
+    "keywords": [
+      "multiple if",
+      "grade",
+      "အဆင့်",
+      "ifs"
+    ]
+  },
+  {
+    "id": "and",
+    "categoryId": "logical",
+    "order": 3,
+    "title": "AND",
+    "syntax": "=AND(A2>=40,B2>=40)",
+    "description": "အခြေအနေအားလုံး မှန်မှ TRUE ပြသည်။ တစ်ခုခုမှားလျှင် FALSE ပြသည်။",
+    "example": "=IF(AND(B2>=40,C2>=40),\"Pass\",\"Fail\")",
+    "result": "B2 နှင့် C2 နှစ်ခုလုံး 40 နှင့်အထက်ဆိုမှ Pass ပြသည်။",
+    "note": "IF နှင့်တွဲသုံးလျှင် အခြေအနေများစွာကို စစ်နိုင်သည်။",
+    "keywords": [
+      "and",
+      "အားလုံးမှန်",
+      "condition"
+    ]
+  },
+  {
+    "id": "or",
+    "categoryId": "logical",
+    "order": 4,
+    "title": "OR",
+    "syntax": "=OR(A2=\"Cash\",A2=\"KBZPay\")",
+    "description": "အခြေအနေများထဲမှ တစ်ခုခု မှန်လျှင် TRUE ပြသည်။",
+    "example": "=IF(OR(B2=\"Cash\",B2=\"WavePay\"),\"Accepted\",\"Check\")",
+    "result": "B2 သည် Cash သို့မဟုတ် WavePay ဖြစ်လျှင် Accepted ပြသည်။",
+    "note": "ရွေးချယ်ခွင့်ရှိသော condition များစစ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "or",
+      "တစ်ခုခုမှန်",
+      "condition"
+    ]
+  },
+  {
+    "id": "not",
+    "categoryId": "logical",
+    "order": 5,
+    "title": "NOT",
+    "syntax": "=NOT(A2=\"Done\")",
+    "description": "TRUE ကို FALSE ပြောင်းပြီး FALSE ကို TRUE ပြောင်းပေးသည်။",
+    "example": "=IF(NOT(B2=\"Paid\"),\"Need payment\",\"OK\")",
+    "result": "B2 သည် Paid မဟုတ်လျှင် Need payment ပြသည်။",
+    "note": "မဟုတ်သော condition စစ်ရန် သုံးနိုင်သည်။",
+    "keywords": [
+      "not",
+      "မဟုတ်",
+      "opposite"
+    ]
+  },
+  {
+    "id": "iferror",
+    "categoryId": "logical",
+    "order": 6,
+    "title": "IFERROR",
+    "syntax": "=IFERROR(A2/B2,0)",
+    "description": "Formula error ဖြစ်လျှင် ကိုယ်သတ်မှတ်ထားသော value ကို ပြပေးသည်။",
+    "example": "=IFERROR(VLOOKUP(E2,A2:C10,3,FALSE),\"Not found\")",
+    "result": "ရှာမတွေ့လျှင် error မပြဘဲ Not found ပြသည်။",
+    "note": "VLOOKUP, division, calculation error များကို professional ဖြစ်အောင် ထိန်းရန် အသုံးများသည်။",
+    "keywords": [
+      "error",
+      "iferror",
+      "not found",
+      "အမှား"
+    ]
+  },
+  {
+    "id": "switch",
+    "categoryId": "logical",
+    "order": 7,
+    "title": "SWITCH",
+    "syntax": "=SWITCH(A2,\"M\",\"Male\",\"F\",\"Female\",\"Other\")",
+    "description": "တန်ဖိုးတစ်ခုကို case များစွာနှင့် နှိုင်းယှဉ်ပြီး ကိုက်ညီသော result ကို ပြပေးသည်။",
+    "example": "=SWITCH(B2,\"A\",\"Excellent\",\"B\",\"Good\",\"C\",\"Pass\",\"Check\")",
+    "result": "B2 မှ grade code ပေါ်မူတည်ပြီး စာသား result ပြသည်။",
+    "note": "Nested IF များလွန်းသောနေရာတွင် ပိုဖတ်ရလွယ်သည်။",
+    "keywords": [
+      "switch",
+      "case",
+      "grade",
+      "ရွေး"
+    ]
+  }
+]

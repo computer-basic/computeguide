@@ -1,0 +1,88 @@
+[
+  {
+    "id": "pmt",
+    "categoryId": "financial",
+    "order": 1,
+    "title": "PMT",
+    "syntax": "=PMT(8%/12,36,-1000000)",
+    "description": "ချေးငွေတစ်ခုအတွက် လစဉ်ပေးရမည့် payment ကို တွက်ပေးသည်။",
+    "example": "=PMT(B2/12,C2,-A2)",
+    "result": "A2 loan amount၊ B2 annual interest၊ C2 months အလိုက် လစဉ်ပေးငွေကို ပြသည်။",
+    "note": "Loan amount ကို negative ထားလျှင် payment result ကို positive အဖြစ် မြင်ရလွယ်သည်။",
+    "keywords": [
+      "loan",
+      "payment",
+      "pmt",
+      "ချေးငွေ",
+      "လစဉ်"
+    ]
+  },
+  {
+    "id": "fv",
+    "categoryId": "financial",
+    "order": 2,
+    "title": "FV",
+    "syntax": "=FV(6%/12,12,-50000)",
+    "description": "ပုံမှန်စုဆောင်းငွေ၏ အနာဂတ်တန်ဖိုးကို တွက်ပေးသည်။",
+    "example": "=FV(B2/12,C2,-A2)",
+    "result": "လစဉ်စုငွေ၊ အတိုးနှုန်း၊ ကာလအလိုက် နောက်ဆုံးတန်ဖိုးကို ပြသည်။",
+    "note": "Saving plan များတွက်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "future value",
+      "fv",
+      "စုငွေ",
+      "အနာဂတ်တန်ဖိုး"
+    ]
+  },
+  {
+    "id": "pv",
+    "categoryId": "financial",
+    "order": 3,
+    "title": "PV",
+    "syntax": "=PV(6%/12,24,-50000)",
+    "description": "အနာဂတ် payment များ၏ ယနေ့တန်ဖိုးကို တွက်ပေးသည်။",
+    "example": "=PV(B2/12,C2,-A2)",
+    "result": "လစဉ်ရငွေ/ပေးငွေများ၏ present value ကို ပြသည်။",
+    "note": "Investment တန်ဖိုးနှိုင်းယှဉ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "present value",
+      "pv",
+      "ယနေ့တန်ဖိုး",
+      "investment"
+    ]
+  },
+  {
+    "id": "rate",
+    "categoryId": "financial",
+    "order": 4,
+    "title": "RATE",
+    "syntax": "=RATE(36,-35000,1000000)*12",
+    "description": "Payment, period, loan amount တို့မှ အတိုးနှုန်းကို ပြန်တွက်ပေးသည်။",
+    "example": "=RATE(C2,-B2,A2)*12",
+    "result": "A2 loan amount၊ B2 monthly payment၊ C2 months မှ annual rate ကို ပြသည်။",
+    "note": "Result ကို Percentage format ပြောင်းပါ။",
+    "keywords": [
+      "interest",
+      "rate",
+      "အတိုးနှုန်း",
+      "loan"
+    ]
+  },
+  {
+    "id": "npv",
+    "categoryId": "financial",
+    "order": 5,
+    "title": "NPV",
+    "syntax": "=NPV(10%,B2:B6)+B1",
+    "description": "Cash flow များ၏ net present value ကို တွက်ပေးသည်။",
+    "example": "=NPV(A2,C2:C6)+B2",
+    "result": "Discount rate နှင့် cash flow များအလိုက် investment value ကို ပြသည်။",
+    "note": "Initial investment ကို NPV range ထဲမထည့်ဘဲ သီးခြားပေါင်း/နှုတ်ပါ။",
+    "keywords": [
+      "npv",
+      "cash flow",
+      "investment",
+      "present value"
+    ]
+  }
+]

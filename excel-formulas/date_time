@@ -1,0 +1,131 @@
+[
+  {
+    "id": "today",
+    "categoryId": "date_time",
+    "order": 1,
+    "title": "TODAY",
+    "syntax": "=TODAY()",
+    "description": "ယနေ့ရက်စွဲကို ပြပေးသည်။",
+    "example": "=TODAY()",
+    "result": "လက်ရှိနေ့စွဲကို ပြသည်။",
+    "note": "Workbook ပြန်ဖွင့်သောအခါ date သည် update ဖြစ်နိုင်သည်။",
+    "keywords": [
+      "ယနေ့",
+      "today",
+      "date"
+    ]
+  },
+  {
+    "id": "now",
+    "categoryId": "date_time",
+    "order": 2,
+    "title": "NOW",
+    "syntax": "=NOW()",
+    "description": "လက်ရှိ ရက်စွဲနှင့် အချိန်ကို ပြပေးသည်။",
+    "example": "=NOW()",
+    "result": "ယနေ့ date နှင့် time ကို ပြသည်။",
+    "note": "File calculate/update ဖြစ်သောအခါ အချိန်ပြောင်းနိုင်သည်။",
+    "keywords": [
+      "အချိန်",
+      "now",
+      "date time"
+    ]
+  },
+  {
+    "id": "date",
+    "categoryId": "date_time",
+    "order": 3,
+    "title": "DATE",
+    "syntax": "=DATE(2026,6,10)",
+    "description": "Year, month, day ကိုပေးပြီး date တစ်ခု ဖန်တီးပေးသည်။",
+    "example": "=DATE(A2,B2,C2)",
+    "result": "A2 နှစ်၊ B2 လ၊ C2 ရက်ကို date အဖြစ် ပြသည်။",
+    "note": "Date ကို စာသားအဖြစ်မရေးဘဲ formula ဖြင့် တည်ဆောက်ရန် အသုံးဝင်သည်။",
+    "keywords": [
+      "date",
+      "ရက်စွဲ",
+      "year month day"
+    ]
+  },
+  {
+    "id": "day",
+    "categoryId": "date_time",
+    "order": 4,
+    "title": "DAY",
+    "syntax": "=DAY(A2)",
+    "description": "Date တစ်ခုမှ ရက်ပိုင်းကို ထုတ်ပေးသည်။",
+    "example": "=DAY(\"2026-06-10\")",
+    "result": "10",
+    "note": "Month end report များတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "day",
+      "ရက်",
+      "date"
+    ]
+  },
+  {
+    "id": "month",
+    "categoryId": "date_time",
+    "order": 5,
+    "title": "MONTH",
+    "syntax": "=MONTH(A2)",
+    "description": "Date တစ်ခုမှ လနံပါတ်ကို ထုတ်ပေးသည်။",
+    "example": "=MONTH(\"2026-06-10\")",
+    "result": "6",
+    "note": "January သည် 1၊ December သည် 12 ဖြစ်သည်။",
+    "keywords": [
+      "month",
+      "လ",
+      "date"
+    ]
+  },
+  {
+    "id": "year",
+    "categoryId": "date_time",
+    "order": 6,
+    "title": "YEAR",
+    "syntax": "=YEAR(A2)",
+    "description": "Date တစ်ခုမှ နှစ်ကို ထုတ်ပေးသည်။",
+    "example": "=YEAR(\"2026-06-10\")",
+    "result": "2026",
+    "note": "မွေးသက္ကရာဇ်၊ invoice year ခွဲရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "year",
+      "နှစ်",
+      "date"
+    ]
+  },
+  {
+    "id": "datedif",
+    "categoryId": "date_time",
+    "order": 7,
+    "title": "DATEDIF",
+    "syntax": "=DATEDIF(A2,B2,\"Y\")",
+    "description": "Date နှစ်ခုကြားကွာခြားမှုကို နှစ်၊ လ၊ ရက် အဖြစ် တွက်ပေးသည်။",
+    "example": "=DATEDIF(B2,TODAY(),\"Y\")",
+    "result": "B2 မွေးနေ့မှ ယနေ့ထိ အသက်နှစ်ကို ပြသည်။",
+    "note": "\"Y\" သည် နှစ်၊ \"M\" သည် လ၊ \"D\" သည် ရက် ဖြစ်သည်။",
+    "keywords": [
+      "အသက်",
+      "ကြာချိန်",
+      "datedif",
+      "date difference"
+    ]
+  },
+  {
+    "id": "eomonth",
+    "categoryId": "date_time",
+    "order": 8,
+    "title": "EOMONTH",
+    "syntax": "=EOMONTH(A2,0)",
+    "description": "သတ်မှတ်ထားသော date ၏ လကုန်ရက်ကို ပြပေးသည်။",
+    "example": "=EOMONTH(TODAY(),0)",
+    "result": "ယခုလ၏ နောက်ဆုံးရက်ကို ပြသည်။",
+    "note": "ဒုတိယ argument 1 ဆို နောက်လကုန်၊ -1 ဆို ပြီးခဲ့သောလကုန် ဖြစ်သည်။",
+    "keywords": [
+      "လကုန်",
+      "end of month",
+      "eomonth"
+    ]
+  }
+]

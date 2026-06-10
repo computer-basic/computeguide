@@ -1,0 +1,100 @@
+[
+  {
+    "id": "round",
+    "categoryId": "rounding",
+    "order": 1,
+    "title": "ROUND",
+    "syntax": "=ROUND(A2,2)",
+    "description": "ဂဏန်းကို သတ်မှတ်ထားသော ဒဿမနေရာအထိ round လုပ်သည်။",
+    "example": "=ROUND(12.345,2)",
+    "result": "12.35",
+    "note": "ဒဿမ 2 နေရာလိုလျှင် 2 ထည့်ပါ။",
+    "keywords": [
+      "round",
+      "ဒဿမ",
+      "ပတ်"
+    ]
+  },
+  {
+    "id": "roundup",
+    "categoryId": "rounding",
+    "order": 2,
+    "title": "ROUNDUP",
+    "syntax": "=ROUNDUP(A2,0)",
+    "description": "ဂဏန်းကို အပေါ်ဘက်သို့ round လုပ်သည်။",
+    "example": "=ROUNDUP(12.1,0)",
+    "result": "13",
+    "note": "အမြဲတမ်း တက်ဘက်ကို round လုပ်ချင်သောအခါ သုံးသည်။",
+    "keywords": [
+      "roundup",
+      "အပေါ်",
+      "တက်"
+    ]
+  },
+  {
+    "id": "rounddown",
+    "categoryId": "rounding",
+    "order": 3,
+    "title": "ROUNDDOWN",
+    "syntax": "=ROUNDDOWN(A2,0)",
+    "description": "ဂဏန်းကို အောက်ဘက်သို့ round လုပ်သည်။",
+    "example": "=ROUNDDOWN(12.9,0)",
+    "result": "12",
+    "note": "အမြဲတမ်း လျှော့ဘက်ကို round လုပ်ချင်သောအခါ သုံးသည်။",
+    "keywords": [
+      "rounddown",
+      "အောက်",
+      "လျှော့"
+    ]
+  },
+  {
+    "id": "int",
+    "categoryId": "rounding",
+    "order": 4,
+    "title": "INT",
+    "syntax": "=INT(A2)",
+    "description": "ဂဏန်းကို အောက်ဘက် integer တန်ဖိုးသို့ ပြောင်းပေးသည်။",
+    "example": "=INT(12.9)",
+    "result": "12",
+    "note": "Positive number အတွက် decimal ဖြုတ်လိုသကဲ့သို့ အသုံးများသည်။",
+    "keywords": [
+      "integer",
+      "int",
+      "ဒဿမဖြုတ်"
+    ]
+  },
+  {
+    "id": "ceiling",
+    "categoryId": "rounding",
+    "order": 5,
+    "title": "CEILING",
+    "syntax": "=CEILING(A2,5)",
+    "description": "ဂဏန်းကို သတ်မှတ်ထားသော multiple အပေါ်ဘက်သို့ round လုပ်သည်။",
+    "example": "=CEILING(23,5)",
+    "result": "25",
+    "note": "5, 10, 100 အလိုက် price round လုပ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "ceiling",
+      "multiple",
+      "price round",
+      "အပေါ်"
+    ]
+  },
+  {
+    "id": "floor",
+    "categoryId": "rounding",
+    "order": 6,
+    "title": "FLOOR",
+    "syntax": "=FLOOR(A2,5)",
+    "description": "ဂဏန်းကို သတ်မှတ်ထားသော multiple အောက်ဘက်သို့ round လုပ်သည်။",
+    "example": "=FLOOR(23,5)",
+    "result": "20",
+    "note": "Discount, package size စသည်တို့တွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "floor",
+      "multiple",
+      "အောက်",
+      "round"
+    ]
+  }
+]

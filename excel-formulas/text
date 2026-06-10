@@ -1,0 +1,155 @@
+[
+  {
+    "id": "concat",
+    "categoryId": "text",
+    "order": 1,
+    "title": "CONCAT",
+    "syntax": "=CONCAT(A2,\" \",B2)",
+    "description": "Cell များမှ စာသားများကို ပေါင်းပေးသည်။",
+    "example": "=CONCAT(B2,\" - \",C2)",
+    "result": "B2 နှင့် C2 စာသားကို dash ဖြင့် ပေါင်းပြီး ပြသည်။",
+    "note": "စာလုံးကြား space လိုပါက \" \" ကို ထည့်ပါ။",
+    "keywords": [
+      "စာပေါင်း",
+      "concat",
+      "combine",
+      "join"
+    ]
+  },
+  {
+    "id": "textjoin",
+    "categoryId": "text",
+    "order": 2,
+    "title": "TEXTJOIN",
+    "syntax": "=TEXTJOIN(\", \",TRUE,A2:A5)",
+    "description": "Range ထဲရှိ စာသားများကို separator ဖြင့် ပေါင်းပေးသည်။",
+    "example": "=TEXTJOIN(\" / \",TRUE,B2:D2)",
+    "result": "B2 မှ D2 ထိ စာသားများကို / ဖြင့် ပေါင်းပြသည်။",
+    "note": "TRUE သည် blank cell များကို ကျော်ပေးရန် ဖြစ်သည်။",
+    "keywords": [
+      "textjoin",
+      "separator",
+      "စာပေါင်း",
+      "blank ကျော်"
+    ]
+  },
+  {
+    "id": "left",
+    "categoryId": "text",
+    "order": 3,
+    "title": "LEFT",
+    "syntax": "=LEFT(A2,3)",
+    "description": "စာသား၏ ဘယ်ဘက်မှ သတ်မှတ်ထားသော အရေအတွက်အတိုင်း ဖြတ်ယူသည်။",
+    "example": "=LEFT(B2,2)",
+    "result": "B2 စာသား၏ ဘယ်ဘက် 2 လုံးကို ပြသည်။",
+    "note": "Code အစပိုင်း၊ phone prefix စသည်တို့ ဖြတ်ယူရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "ဘယ်ဘက်",
+      "left",
+      "ဖြတ်",
+      "စာလုံး"
+    ]
+  },
+  {
+    "id": "right",
+    "categoryId": "text",
+    "order": 4,
+    "title": "RIGHT",
+    "syntax": "=RIGHT(A2,4)",
+    "description": "စာသား၏ ညာဘက်မှ သတ်မှတ်ထားသော အရေအတွက်အတိုင်း ဖြတ်ယူသည်။",
+    "example": "=RIGHT(B2,4)",
+    "result": "B2 စာသား၏ နောက်ဆုံး 4 လုံးကို ပြသည်။",
+    "note": "Code အဆုံးပိုင်း၊ phone နောက်ဆုံးဂဏန်းများကို ဖြတ်ယူရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "ညာဘက်",
+      "right",
+      "ဖြတ်",
+      "နောက်ဆုံး"
+    ]
+  },
+  {
+    "id": "mid",
+    "categoryId": "text",
+    "order": 5,
+    "title": "MID",
+    "syntax": "=MID(A2,2,3)",
+    "description": "စာသားအလယ်မှ စတင်နေရာနှင့် အရေအတွက် သတ်မှတ်ပြီး ဖြတ်ယူသည်။",
+    "example": "=MID(B2,4,5)",
+    "result": "B2 စာသား၏ 4 လုံးမြောက်မှစပြီး 5 လုံးကို ပြသည်။",
+    "note": "MID(text,start_num,num_chars) ပုံစံဖြစ်သည်။",
+    "keywords": [
+      "အလယ်",
+      "mid",
+      "ဖြတ်",
+      "စာလုံး"
+    ]
+  },
+  {
+    "id": "len",
+    "categoryId": "text",
+    "order": 6,
+    "title": "LEN",
+    "syntax": "=LEN(A2)",
+    "description": "စာသားတစ်ခုတွင် စာလုံး၊ ဂဏန်း၊ space စုစုပေါင်း ဘယ်နှလုံးရှိလဲ ရေတွက်ပေးသည်။",
+    "example": "=LEN(B2)",
+    "result": "B2 ထဲရှိ character အရေအတွက်ကို ပြသည်။",
+    "note": "Space ကိုလည်း character အဖြစ် ရေတွက်သည်။",
+    "keywords": [
+      "အရေအတွက်",
+      "len",
+      "length",
+      "စာလုံးရေ"
+    ]
+  },
+  {
+    "id": "trim",
+    "categoryId": "text",
+    "order": 7,
+    "title": "TRIM",
+    "syntax": "=TRIM(A2)",
+    "description": "စာသားအစ၊ အဆုံးနှင့် အလယ်တွင် မလိုအပ်သော space များကို သန့်ရှင်းပေးသည်။",
+    "example": "=TRIM(B2)",
+    "result": "B2 ထဲရှိ မလိုအပ်သော space များကို ဖယ်ပြီး ပြသည်။",
+    "note": "Data copy/paste လုပ်ပြီး space များပါလာသောအခါ အသုံးဝင်သည်။",
+    "keywords": [
+      "space ဖယ်",
+      "trim",
+      "clean",
+      "သန့်"
+    ]
+  },
+  {
+    "id": "proper",
+    "categoryId": "text",
+    "order": 8,
+    "title": "PROPER",
+    "syntax": "=PROPER(A2)",
+    "description": "စကားလုံးတိုင်း၏ ပထမစာလုံးကို အကြီးစာလုံး ပြောင်းပေးသည်။",
+    "example": "=PROPER(\"mg mg\")",
+    "result": "Mg Mg",
+    "note": "Name list များ format ပြင်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "name",
+      "proper",
+      "စာလုံးအကြီး",
+      "format"
+    ]
+  },
+  {
+    "id": "substitute",
+    "categoryId": "text",
+    "order": 9,
+    "title": "SUBSTITUTE",
+    "syntax": "=SUBSTITUTE(A2,\"-\",\"\")",
+    "description": "စာသားထဲမှ သတ်မှတ်ထားသော စာလုံး/စာသားကို အခြားစာသားဖြင့် အစားထိုးသည်။",
+    "example": "=SUBSTITUTE(B2,\" \",\"\")",
+    "result": "B2 ထဲမှ space များကို ဖယ်ပေးသည်။",
+    "note": "Phone number ထဲမှ dash, space, comma များဖယ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "အစားထိုး",
+      "replace",
+      "substitute",
+      "ဖယ်"
+    ]
+  }
+]

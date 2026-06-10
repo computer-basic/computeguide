@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vlookup",
+    "categoryId": "lookup",
+    "order": 1,
+    "title": "VLOOKUP",
+    "syntax": "=VLOOKUP(E2,A2:C10,3,FALSE)",
+    "description": "Table ၏ ပထမ column ထဲမှ value ကိုရှာပြီး သတ်မှတ်ထားသော column မှ result ပြန်ပေးသည်။",
+    "example": "=VLOOKUP(A2,$D$2:$F$20,3,FALSE)",
+    "result": "A2 code ကို D column ထဲရှာပြီး F column မှတန်ဖိုးကို ပြသည်။",
+    "note": "FALSE သည် exact match ဖြစ်သည်။ Beginner အတွက် FALSE ကို အများဆုံးသုံးပါ။",
+    "keywords": [
+      "ရှာ",
+      "lookup",
+      "vlookup",
+      "exact match",
+      "code"
+    ]
+  },
+  {
+    "id": "xlookup",
+    "categoryId": "lookup",
+    "order": 2,
+    "title": "XLOOKUP",
+    "syntax": "=XLOOKUP(E2,A2:A10,C2:C10,\"Not found\")",
+    "description": "Lookup range ထဲမှ value ကိုရှာပြီး return range မှ result ပြန်ပေးသည်။",
+    "example": "=XLOOKUP(A2,$D$2:$D$20,$F$2:$F$20,\"မတွေ့ပါ\")",
+    "result": "A2 value ကို D column ထဲရှာပြီး F column မှ result ပြသည်။",
+    "note": "VLOOKUP ထက် flexible ဖြစ်ပြီး ဘယ်ဘက်/ညာဘက် နှစ်ဖက်လုံး lookup လုပ်နိုင်သည်။",
+    "keywords": [
+      "xlookup",
+      "lookup",
+      "ရှာ",
+      "not found"
+    ]
+  },
+  {
+    "id": "index_match",
+    "categoryId": "lookup",
+    "order": 3,
+    "title": "INDEX + MATCH",
+    "syntax": "=INDEX(C2:C10,MATCH(E2,A2:A10,0))",
+    "description": "MATCH ဖြင့် row position ရှာပြီး INDEX ဖြင့် result ကို ထုတ်ယူသည်။",
+    "example": "=INDEX($F$2:$F$20,MATCH(A2,$D$2:$D$20,0))",
+    "result": "A2 ကို D column ထဲရှာပြီး F column မှတန်ဖိုးကို ပြသည်။",
+    "note": "XLOOKUP မရှိသော Excel version များတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "index match",
+      "lookup",
+      "ရှာ",
+      "position"
+    ]
+  },
+  {
+    "id": "match",
+    "categoryId": "lookup",
+    "order": 4,
+    "title": "MATCH",
+    "syntax": "=MATCH(E2,A2:A10,0)",
+    "description": "Value တစ်ခုသည် range ထဲတွင် ဘယ် position မှာရှိလဲ ရှာပေးသည်။",
+    "example": "=MATCH(\"Apple\",A2:A10,0)",
+    "result": "Apple ကို A2:A10 ထဲ exact match ရှာပြီး position ပြသည်။",
+    "note": "0 သည် exact match ဖြစ်သည်။ INDEX နှင့် တွဲသုံးလေ့ရှိသည်။",
+    "keywords": [
+      "match",
+      "position",
+      "ရှာ",
+      "တည်နေရာ"
+    ]
+  },
+  {
+    "id": "index",
+    "categoryId": "lookup",
+    "order": 5,
+    "title": "INDEX",
+    "syntax": "=INDEX(A2:C10,2,3)",
+    "description": "Range ထဲမှ row number နှင့် column number ပေါ်မူတည်ပြီး cell တန်ဖိုးကို ထုတ်ပေးသည်။",
+    "example": "=INDEX(B2:B10,3)",
+    "result": "B2:B10 range ထဲမှ 3 ခုမြောက်တန်ဖိုးကို ပြသည်။",
+    "note": "MATCH နှင့်တွဲသုံးလျှင် powerful lookup formula ဖြစ်သည်။",
+    "keywords": [
+      "index",
+      "lookup",
+      "row column",
+      "ထုတ်ယူ"
+    ]
+  },
+  {
+    "id": "hlookup",
+    "categoryId": "lookup",
+    "order": 6,
+    "title": "HLOOKUP",
+    "syntax": "=HLOOKUP(B1,A1:F4,3,FALSE)",
+    "description": "Horizontal table ၏ ပထမ row ထဲမှ value ကိုရှာပြီး သတ်မှတ်ထားသော row မှ result ပြန်ပေးသည်။",
+    "example": "=HLOOKUP(\"Jan\",A1:M5,4,FALSE)",
+    "result": "Jan ကို ပထမ row ထဲရှာပြီး row 4 မှ တန်ဖိုးကို ပြသည်။",
+    "note": "Data သည် ဘယ်မှညာ row ပုံစံဖြစ်သောအခါ သုံးသည်။",
+    "keywords": [
+      "hlookup",
+      "horizontal",
+      "lookup",
+      "ရှာ"
+    ]
+  },
+  {
+    "id": "choose",
+    "categoryId": "lookup",
+    "order": 7,
+    "title": "CHOOSE",
+    "syntax": "=CHOOSE(A2,\"Small\",\"Medium\",\"Large\")",
+    "description": "Index number ပေါ်မူတည်ပြီး list ထဲမှ value တစ်ခုကို ရွေးပြပေးသည်။",
+    "example": "=CHOOSE(2,\"Cash\",\"Card\",\"Bank\")",
+    "result": "Card",
+    "note": "1 ဆို ပထမ value၊ 2 ဆို ဒုတိယ value ကို ပြသည်။",
+    "keywords": [
+      "choose",
+      "ရွေး",
+      "index",
+      "list"
+    ]
+  }
+]

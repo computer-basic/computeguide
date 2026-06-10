@@ -1,0 +1,66 @@
+[
+  {
+    "id": "basic",
+    "order": 1,
+    "title": "Basic formulas",
+    "description": "စတင်လေ့လာသူတိုင်း သိထားသင့်သော အခြေခံ formula များ",
+    "icon": "fx",
+    "formulaCount": 8
+  },
+  {
+    "id": "logical",
+    "order": 2,
+    "title": "Logical formulas",
+    "description": "အခြေအနေ စစ်ပြီး result ထုတ်ရန် အသုံးများသော formula များ",
+    "icon": "IF",
+    "formulaCount": 7
+  },
+  {
+    "id": "text",
+    "order": 3,
+    "title": "Text formulas",
+    "description": "စာသား ပေါင်းခြင်း၊ ဖြတ်ခြင်း၊ ပြင်ဆင်ခြင်း အတွက် formula များ",
+    "icon": "Aa",
+    "formulaCount": 9
+  },
+  {
+    "id": "date_time",
+    "order": 4,
+    "title": "Date and time",
+    "description": "ရက်စွဲ၊ အချိန်၊ အသက်၊ ကြာချိန် တွက်ရန် formula များ",
+    "icon": "D",
+    "formulaCount": 8
+  },
+  {
+    "id": "lookup",
+    "order": 5,
+    "title": "Lookup formulas",
+    "description": "ဇယားထဲမှ data ရှာယူရန် အသုံးများသော formula များ",
+    "icon": "LU",
+    "formulaCount": 7
+  },
+  {
+    "id": "counting",
+    "order": 6,
+    "title": "Counting formulas",
+    "description": "အရေအတွက် ရေတွက်ခြင်း၊ condition ဖြင့် ရေတွက်ခြင်း formula များ",
+    "icon": "#",
+    "formulaCount": 6
+  },
+  {
+    "id": "rounding",
+    "order": 7,
+    "title": "Rounding formulas",
+    "description": "ဒဿမ၊ ဂဏန်းတန်ဖိုးများကို round လုပ်ရန် formula များ",
+    "icon": ".0",
+    "formulaCount": 6
+  },
+  {
+    "id": "financial",
+    "order": 8,
+    "title": "Financial formulas",
+    "description": "ချေးငွေ၊ အတိုးနှုန်း၊ payment တွက်ရန် အသုံးများသော formula များ",
+    "icon": "$",
+    "formulaCount": 5
+  }
+]

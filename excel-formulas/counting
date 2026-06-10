@@ -1,0 +1,102 @@
+[
+  {
+    "id": "count",
+    "categoryId": "counting",
+    "order": 1,
+    "title": "COUNT",
+    "syntax": "=COUNT(A1:A10)",
+    "description": "Range ထဲရှိ ဂဏန်းပါသော cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNT(B2:B50)",
+    "result": "B2:B50 ထဲရှိ number cell အရေအတွက်ကို ပြသည်။",
+    "note": "စာသား cell များကို မရေတွက်ပါ။",
+    "keywords": [
+      "ရေတွက်",
+      "count",
+      "number count"
+    ]
+  },
+  {
+    "id": "counta",
+    "categoryId": "counting",
+    "order": 2,
+    "title": "COUNTA",
+    "syntax": "=COUNTA(A1:A10)",
+    "description": "Blank မဟုတ်သော cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTA(A2:A100)",
+    "result": "A2:A100 ထဲရှိ data ပါသော cell အရေအတွက်ကို ပြသည်။",
+    "note": "ဂဏန်း၊ စာသား၊ date အားလုံးကို ရေတွက်သည်။",
+    "keywords": [
+      "blank မဟုတ်",
+      "counta",
+      "data count"
+    ]
+  },
+  {
+    "id": "countblank",
+    "categoryId": "counting",
+    "order": 3,
+    "title": "COUNTBLANK",
+    "syntax": "=COUNTBLANK(A1:A10)",
+    "description": "Blank cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTBLANK(B2:B100)",
+    "result": "B2:B100 ထဲရှိ အလွတ် cell အရေအတွက်ကို ပြသည်။",
+    "note": "Data မဖြည့်ရသေးသော row များရှာရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "blank",
+      "အလွတ်",
+      "countblank",
+      "မဖြည့်"
+    ]
+  },
+  {
+    "id": "countif",
+    "categoryId": "counting",
+    "order": 4,
+    "title": "COUNTIF",
+    "syntax": "=COUNTIF(A2:A100,\"Pass\")",
+    "description": "Condition တစ်ခုနှင့် ကိုက်ညီသော cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTIF(B2:B100,\">=50\")",
+    "result": "B2:B100 ထဲရှိ 50 နှင့်အထက် cell အရေအတွက်ကို ပြသည်။",
+    "note": "Condition ကို quote ထဲတွင်ရေးရသည်။",
+    "keywords": [
+      "condition count",
+      "countif",
+      "ရေတွက်",
+      "အောင်"
+    ]
+  },
+  {
+    "id": "countifs",
+    "categoryId": "counting",
+    "order": 5,
+    "title": "COUNTIFS",
+    "syntax": "=COUNTIFS(A2:A100,\"Yangon\",B2:B100,\">=50\")",
+    "description": "Condition များစွာနှင့် ကိုက်ညီသော row အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTIFS(C2:C100,\"Paid\",D2:D100,\"Online\")",
+    "result": "Paid ဖြစ်ပြီး Online ဖြစ်သော row အရေအတွက်ကို ပြသည်။",
+    "note": "Range များ၏ row အရေအတွက်တူရမည်။",
+    "keywords": [
+      "multiple condition",
+      "countifs",
+      "ရေတွက်",
+      "condition"
+    ]
+  },
+  {
+    "id": "sumif",
+    "categoryId": "counting",
+    "order": 6,
+    "title": "SUMIF",
+    "syntax": "=SUMIF(A2:A100,\"Yangon\",C2:C100)",
+    "description": "Condition တစ်ခုနှင့် ကိုက်ညီသော row များ၏ တန်ဖိုးများကို ပေါင်းပေးသည်။",
+    "example": "=SUMIF(B2:B100,\"Paid\",D2:D100)",
+    "result": "B column တွင် Paid ဖြစ်သော row များ၏ D column amount ကို ပေါင်းပေးသည်။",
+    "note": "Condition range နှင့် sum range ကို သေချာခွဲပါ။",
+    "keywords": [
+      "condition sum",
+      "sumif",
+      "ပေါင်း",
+      "paid"
+    ]
+  }
+]

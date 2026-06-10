@@ -1,0 +1,942 @@
+[
+  {
+    "id": "sum",
+    "categoryId": "basic",
+    "order": 1,
+    "title": "SUM",
+    "syntax": "=SUM(A1:A10)",
+    "description": "ရွေးထားသော cell range ထဲရှိ ဂဏန်းများကို ပေါင်းပေးသည်။",
+    "example": "=SUM(B2:B6)",
+    "result": "B2 မှ B6 ထိရှိသော ဂဏန်းများ စုစုပေါင်းကို ပြသည်။",
+    "note": "ဂဏန်းမဟုတ်သော စာသားများကို မပေါင်းပါ။",
+    "keywords": [
+      "ပေါင်း",
+      "စုစုပေါင်း",
+      "total",
+      "add",
+      "sum"
+    ]
+  },
+  {
+    "id": "average",
+    "categoryId": "basic",
+    "order": 2,
+    "title": "AVERAGE",
+    "syntax": "=AVERAGE(A1:A10)",
+    "description": "ရွေးထားသော ဂဏန်းများ၏ ပျမ်းမျှတန်ဖိုးကို တွက်ပေးသည်။",
+    "example": "=AVERAGE(C2:C6)",
+    "result": "C2 မှ C6 ထိရှိသော ဂဏန်းများ၏ average ကို ပြသည်။",
+    "note": "စာသားနှင့် blank cell များကို မတွက်ပါ။",
+    "keywords": [
+      "ပျမ်းမျှ",
+      "average",
+      "mean"
+    ]
+  },
+  {
+    "id": "min",
+    "categoryId": "basic",
+    "order": 3,
+    "title": "MIN",
+    "syntax": "=MIN(A1:A10)",
+    "description": "ရွေးထားသော range ထဲမှ အနည်းဆုံး ဂဏန်းတန်ဖိုးကို ရှာပေးသည်။",
+    "example": "=MIN(D2:D20)",
+    "result": "D2 မှ D20 ထဲရှိ အနည်းဆုံးတန်ဖိုးကို ပြသည်။",
+    "note": "စာမေးပွဲအမှတ်၊ စျေးနှုန်း၊ stock အနည်းဆုံးရှာရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "အနည်းဆုံး",
+      "minimum",
+      "smallest",
+      "min"
+    ]
+  },
+  {
+    "id": "max",
+    "categoryId": "basic",
+    "order": 4,
+    "title": "MAX",
+    "syntax": "=MAX(A1:A10)",
+    "description": "ရွေးထားသော range ထဲမှ အများဆုံး ဂဏန်းတန်ဖိုးကို ရှာပေးသည်။",
+    "example": "=MAX(D2:D20)",
+    "result": "D2 မှ D20 ထဲရှိ အများဆုံးတန်ဖိုးကို ပြသည်။",
+    "note": "အမြင့်ဆုံးအမှတ်၊ အမြင့်ဆုံးရောင်းအား စသည်တို့တွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "အများဆုံး",
+      "maximum",
+      "largest",
+      "max"
+    ]
+  },
+  {
+    "id": "subtotal",
+    "categoryId": "basic",
+    "order": 5,
+    "title": "SUBTOTAL",
+    "syntax": "=SUBTOTAL(9,A2:A100)",
+    "description": "Filter လုပ်ထားသော table တွင် မြင်နေရသော row များကိုသာ တွက်ရန် အသုံးဝင်သည်။",
+    "example": "=SUBTOTAL(9,C2:C100)",
+    "result": "Filter ပြီးမြင်နေရသော C column တန်ဖိုးများကို ပေါင်းပေးသည်။",
+    "note": "9 သည် SUM အတွက် function number ဖြစ်သည်။ 1 သည် AVERAGE၊ 2 သည် COUNT ဖြစ်သည်။",
+    "keywords": [
+      "filter",
+      "subtotal",
+      "မြင်ရသော row",
+      "sum"
+    ]
+  },
+  {
+    "id": "sumproduct",
+    "categoryId": "basic",
+    "order": 6,
+    "title": "SUMPRODUCT",
+    "syntax": "=SUMPRODUCT(A2:A10,B2:B10)",
+    "description": "Range နှစ်ခု၏ တူညီသော row တန်ဖိုးများကို မြှောက်ပြီး စုစုပေါင်းပေးသည်။",
+    "example": "=SUMPRODUCT(B2:B6,C2:C6)",
+    "result": "အရေအတွက်နှင့် စျေးနှုန်းကို row အလိုက်မြှောက်ပြီး စုစုပေါင်း amount ထုတ်ပေးသည်။",
+    "note": "Qty x Price စုစုပေါင်းတွက်ရာတွင် အလွန်အသုံးများသည်။",
+    "keywords": [
+      "မြှောက်ပြီးပေါင်း",
+      "qty price",
+      "sumproduct",
+      "total amount"
+    ]
+  },
+  {
+    "id": "rank_eq",
+    "categoryId": "basic",
+    "order": 7,
+    "title": "RANK.EQ",
+    "syntax": "=RANK.EQ(B2,$B$2:$B$10,0)",
+    "description": "တန်ဖိုးတစ်ခု၏ အဆင့်ကို range တစ်ခုအတွင်း တွက်ပေးသည်။",
+    "example": "=RANK.EQ(C2,$C$2:$C$30,0)",
+    "result": "C2 အမှတ်သည် C2:C30 အတွင်း အဆင့်ဘယ်လောက်လဲ ပြသည်။",
+    "note": "0 သည် အများဆုံးတန်ဖိုးကို rank 1 အဖြစ် သတ်မှတ်သည်။ 1 သည် အနည်းဆုံးကို rank 1 သတ်မှတ်သည်။",
+    "keywords": [
+      "အဆင့်",
+      "rank",
+      "အမှတ်စဉ်",
+      "position"
+    ]
+  },
+  {
+    "id": "percent_change",
+    "categoryId": "basic",
+    "order": 8,
+    "title": "Percent change",
+    "syntax": "=(B2-A2)/A2",
+    "description": "တန်ဖိုးဟောင်းမှ တန်ဖိုးအသစ်သို့ ပြောင်းလဲမှု percent ကို တွက်ရန် အသုံးပြုသည်။",
+    "example": "=(C2-B2)/B2",
+    "result": "B2 မှ C2 သို့ တိုး/လျော့သွားသော percent ကို ပြသည်။",
+    "note": "Result cell ကို Percentage format ပြောင်းပါ။ A2 သည် 0 ဖြစ်ပါက error ဖြစ်နိုင်သည်။",
+    "keywords": [
+      "ရာခိုင်နှုန်း",
+      "percent",
+      "တိုးနှုန်း",
+      "change",
+      "growth"
+    ]
+  },
+  {
+    "id": "if",
+    "categoryId": "logical",
+    "order": 1,
+    "title": "IF",
+    "syntax": "=IF(A2>=40,\"Pass\",\"Fail\")",
+    "description": "အခြေအနေတစ်ခု စစ်ပြီး မှန်လျှင် result တစ်ခု၊ မှားလျှင် result တစ်ခု ပြပေးသည်။",
+    "example": "=IF(B2>=50,\"အောင်\",\"ကျ\")",
+    "result": "B2 သည် 50 နှင့်အထက်ဆိုလျှင် အောင်၊ မဟုတ်လျှင် ကျ ပြသည်။",
+    "note": "စာသား result များကို double quote ထဲတွင် ထည့်ရသည်။",
+    "keywords": [
+      "condition",
+      "if",
+      "pass fail",
+      "အောင် ကျ",
+      "စစ်"
+    ]
+  },
+  {
+    "id": "ifs",
+    "categoryId": "logical",
+    "order": 2,
+    "title": "IFS",
+    "syntax": "=IFS(A2>=80,\"A\",A2>=60,\"B\",A2>=40,\"C\",TRUE,\"Fail\")",
+    "description": "အခြေအနေများစွာကို အစဉ်လိုက် စစ်ပြီး ပထမဆုံးမှန်သော result ကို ပြပေးသည်။",
+    "example": "=IFS(B2>=80,\"Excellent\",B2>=50,\"Pass\",TRUE,\"Fail\")",
+    "result": "B2 တန်ဖိုးပေါ်မူတည်ပြီး grade/result ပြသည်။",
+    "note": "နောက်ဆုံး TRUE ကို default result အဖြစ် ထည့်ထားလျှင် အခြေအနေမကိုက်သော case များကို ထိန်းနိုင်သည်။",
+    "keywords": [
+      "multiple if",
+      "grade",
+      "အဆင့်",
+      "ifs"
+    ]
+  },
+  {
+    "id": "and",
+    "categoryId": "logical",
+    "order": 3,
+    "title": "AND",
+    "syntax": "=AND(A2>=40,B2>=40)",
+    "description": "အခြေအနေအားလုံး မှန်မှ TRUE ပြသည်။ တစ်ခုခုမှားလျှင် FALSE ပြသည်။",
+    "example": "=IF(AND(B2>=40,C2>=40),\"Pass\",\"Fail\")",
+    "result": "B2 နှင့် C2 နှစ်ခုလုံး 40 နှင့်အထက်ဆိုမှ Pass ပြသည်။",
+    "note": "IF နှင့်တွဲသုံးလျှင် အခြေအနေများစွာကို စစ်နိုင်သည်။",
+    "keywords": [
+      "and",
+      "အားလုံးမှန်",
+      "condition"
+    ]
+  },
+  {
+    "id": "or",
+    "categoryId": "logical",
+    "order": 4,
+    "title": "OR",
+    "syntax": "=OR(A2=\"Cash\",A2=\"KBZPay\")",
+    "description": "အခြေအနေများထဲမှ တစ်ခုခု မှန်လျှင် TRUE ပြသည်။",
+    "example": "=IF(OR(B2=\"Cash\",B2=\"WavePay\"),\"Accepted\",\"Check\")",
+    "result": "B2 သည် Cash သို့မဟုတ် WavePay ဖြစ်လျှင် Accepted ပြသည်။",
+    "note": "ရွေးချယ်ခွင့်ရှိသော condition များစစ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "or",
+      "တစ်ခုခုမှန်",
+      "condition"
+    ]
+  },
+  {
+    "id": "not",
+    "categoryId": "logical",
+    "order": 5,
+    "title": "NOT",
+    "syntax": "=NOT(A2=\"Done\")",
+    "description": "TRUE ကို FALSE ပြောင်းပြီး FALSE ကို TRUE ပြောင်းပေးသည်။",
+    "example": "=IF(NOT(B2=\"Paid\"),\"Need payment\",\"OK\")",
+    "result": "B2 သည် Paid မဟုတ်လျှင် Need payment ပြသည်။",
+    "note": "မဟုတ်သော condition စစ်ရန် သုံးနိုင်သည်။",
+    "keywords": [
+      "not",
+      "မဟုတ်",
+      "opposite"
+    ]
+  },
+  {
+    "id": "iferror",
+    "categoryId": "logical",
+    "order": 6,
+    "title": "IFERROR",
+    "syntax": "=IFERROR(A2/B2,0)",
+    "description": "Formula error ဖြစ်လျှင် ကိုယ်သတ်မှတ်ထားသော value ကို ပြပေးသည်။",
+    "example": "=IFERROR(VLOOKUP(E2,A2:C10,3,FALSE),\"Not found\")",
+    "result": "ရှာမတွေ့လျှင် error မပြဘဲ Not found ပြသည်။",
+    "note": "VLOOKUP, division, calculation error များကို professional ဖြစ်အောင် ထိန်းရန် အသုံးများသည်။",
+    "keywords": [
+      "error",
+      "iferror",
+      "not found",
+      "အမှား"
+    ]
+  },
+  {
+    "id": "switch",
+    "categoryId": "logical",
+    "order": 7,
+    "title": "SWITCH",
+    "syntax": "=SWITCH(A2,\"M\",\"Male\",\"F\",\"Female\",\"Other\")",
+    "description": "တန်ဖိုးတစ်ခုကို case များစွာနှင့် နှိုင်းယှဉ်ပြီး ကိုက်ညီသော result ကို ပြပေးသည်။",
+    "example": "=SWITCH(B2,\"A\",\"Excellent\",\"B\",\"Good\",\"C\",\"Pass\",\"Check\")",
+    "result": "B2 မှ grade code ပေါ်မူတည်ပြီး စာသား result ပြသည်။",
+    "note": "Nested IF များလွန်းသောနေရာတွင် ပိုဖတ်ရလွယ်သည်။",
+    "keywords": [
+      "switch",
+      "case",
+      "grade",
+      "ရွေး"
+    ]
+  },
+  {
+    "id": "concat",
+    "categoryId": "text",
+    "order": 1,
+    "title": "CONCAT",
+    "syntax": "=CONCAT(A2,\" \",B2)",
+    "description": "Cell များမှ စာသားများကို ပေါင်းပေးသည်။",
+    "example": "=CONCAT(B2,\" - \",C2)",
+    "result": "B2 နှင့် C2 စာသားကို dash ဖြင့် ပေါင်းပြီး ပြသည်။",
+    "note": "စာလုံးကြား space လိုပါက \" \" ကို ထည့်ပါ။",
+    "keywords": [
+      "စာပေါင်း",
+      "concat",
+      "combine",
+      "join"
+    ]
+  },
+  {
+    "id": "textjoin",
+    "categoryId": "text",
+    "order": 2,
+    "title": "TEXTJOIN",
+    "syntax": "=TEXTJOIN(\", \",TRUE,A2:A5)",
+    "description": "Range ထဲရှိ စာသားများကို separator ဖြင့် ပေါင်းပေးသည်။",
+    "example": "=TEXTJOIN(\" / \",TRUE,B2:D2)",
+    "result": "B2 မှ D2 ထိ စာသားများကို / ဖြင့် ပေါင်းပြသည်။",
+    "note": "TRUE သည် blank cell များကို ကျော်ပေးရန် ဖြစ်သည်။",
+    "keywords": [
+      "textjoin",
+      "separator",
+      "စာပေါင်း",
+      "blank ကျော်"
+    ]
+  },
+  {
+    "id": "left",
+    "categoryId": "text",
+    "order": 3,
+    "title": "LEFT",
+    "syntax": "=LEFT(A2,3)",
+    "description": "စာသား၏ ဘယ်ဘက်မှ သတ်မှတ်ထားသော အရေအတွက်အတိုင်း ဖြတ်ယူသည်။",
+    "example": "=LEFT(B2,2)",
+    "result": "B2 စာသား၏ ဘယ်ဘက် 2 လုံးကို ပြသည်။",
+    "note": "Code အစပိုင်း၊ phone prefix စသည်တို့ ဖြတ်ယူရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "ဘယ်ဘက်",
+      "left",
+      "ဖြတ်",
+      "စာလုံး"
+    ]
+  },
+  {
+    "id": "right",
+    "categoryId": "text",
+    "order": 4,
+    "title": "RIGHT",
+    "syntax": "=RIGHT(A2,4)",
+    "description": "စာသား၏ ညာဘက်မှ သတ်မှတ်ထားသော အရေအတွက်အတိုင်း ဖြတ်ယူသည်။",
+    "example": "=RIGHT(B2,4)",
+    "result": "B2 စာသား၏ နောက်ဆုံး 4 လုံးကို ပြသည်။",
+    "note": "Code အဆုံးပိုင်း၊ phone နောက်ဆုံးဂဏန်းများကို ဖြတ်ယူရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "ညာဘက်",
+      "right",
+      "ဖြတ်",
+      "နောက်ဆုံး"
+    ]
+  },
+  {
+    "id": "mid",
+    "categoryId": "text",
+    "order": 5,
+    "title": "MID",
+    "syntax": "=MID(A2,2,3)",
+    "description": "စာသားအလယ်မှ စတင်နေရာနှင့် အရေအတွက် သတ်မှတ်ပြီး ဖြတ်ယူသည်။",
+    "example": "=MID(B2,4,5)",
+    "result": "B2 စာသား၏ 4 လုံးမြောက်မှစပြီး 5 လုံးကို ပြသည်။",
+    "note": "MID(text,start_num,num_chars) ပုံစံဖြစ်သည်။",
+    "keywords": [
+      "အလယ်",
+      "mid",
+      "ဖြတ်",
+      "စာလုံး"
+    ]
+  },
+  {
+    "id": "len",
+    "categoryId": "text",
+    "order": 6,
+    "title": "LEN",
+    "syntax": "=LEN(A2)",
+    "description": "စာသားတစ်ခုတွင် စာလုံး၊ ဂဏန်း၊ space စုစုပေါင်း ဘယ်နှလုံးရှိလဲ ရေတွက်ပေးသည်။",
+    "example": "=LEN(B2)",
+    "result": "B2 ထဲရှိ character အရေအတွက်ကို ပြသည်။",
+    "note": "Space ကိုလည်း character အဖြစ် ရေတွက်သည်။",
+    "keywords": [
+      "အရေအတွက်",
+      "len",
+      "length",
+      "စာလုံးရေ"
+    ]
+  },
+  {
+    "id": "trim",
+    "categoryId": "text",
+    "order": 7,
+    "title": "TRIM",
+    "syntax": "=TRIM(A2)",
+    "description": "စာသားအစ၊ အဆုံးနှင့် အလယ်တွင် မလိုအပ်သော space များကို သန့်ရှင်းပေးသည်။",
+    "example": "=TRIM(B2)",
+    "result": "B2 ထဲရှိ မလိုအပ်သော space များကို ဖယ်ပြီး ပြသည်။",
+    "note": "Data copy/paste လုပ်ပြီး space များပါလာသောအခါ အသုံးဝင်သည်။",
+    "keywords": [
+      "space ဖယ်",
+      "trim",
+      "clean",
+      "သန့်"
+    ]
+  },
+  {
+    "id": "proper",
+    "categoryId": "text",
+    "order": 8,
+    "title": "PROPER",
+    "syntax": "=PROPER(A2)",
+    "description": "စကားလုံးတိုင်း၏ ပထမစာလုံးကို အကြီးစာလုံး ပြောင်းပေးသည်။",
+    "example": "=PROPER(\"mg mg\")",
+    "result": "Mg Mg",
+    "note": "Name list များ format ပြင်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "name",
+      "proper",
+      "စာလုံးအကြီး",
+      "format"
+    ]
+  },
+  {
+    "id": "substitute",
+    "categoryId": "text",
+    "order": 9,
+    "title": "SUBSTITUTE",
+    "syntax": "=SUBSTITUTE(A2,\"-\",\"\")",
+    "description": "စာသားထဲမှ သတ်မှတ်ထားသော စာလုံး/စာသားကို အခြားစာသားဖြင့် အစားထိုးသည်။",
+    "example": "=SUBSTITUTE(B2,\" \",\"\")",
+    "result": "B2 ထဲမှ space များကို ဖယ်ပေးသည်။",
+    "note": "Phone number ထဲမှ dash, space, comma များဖယ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "အစားထိုး",
+      "replace",
+      "substitute",
+      "ဖယ်"
+    ]
+  },
+  {
+    "id": "today",
+    "categoryId": "date_time",
+    "order": 1,
+    "title": "TODAY",
+    "syntax": "=TODAY()",
+    "description": "ယနေ့ရက်စွဲကို ပြပေးသည်။",
+    "example": "=TODAY()",
+    "result": "လက်ရှိနေ့စွဲကို ပြသည်။",
+    "note": "Workbook ပြန်ဖွင့်သောအခါ date သည် update ဖြစ်နိုင်သည်။",
+    "keywords": [
+      "ယနေ့",
+      "today",
+      "date"
+    ]
+  },
+  {
+    "id": "now",
+    "categoryId": "date_time",
+    "order": 2,
+    "title": "NOW",
+    "syntax": "=NOW()",
+    "description": "လက်ရှိ ရက်စွဲနှင့် အချိန်ကို ပြပေးသည်။",
+    "example": "=NOW()",
+    "result": "ယနေ့ date နှင့် time ကို ပြသည်။",
+    "note": "File calculate/update ဖြစ်သောအခါ အချိန်ပြောင်းနိုင်သည်။",
+    "keywords": [
+      "အချိန်",
+      "now",
+      "date time"
+    ]
+  },
+  {
+    "id": "date",
+    "categoryId": "date_time",
+    "order": 3,
+    "title": "DATE",
+    "syntax": "=DATE(2026,6,10)",
+    "description": "Year, month, day ကိုပေးပြီး date တစ်ခု ဖန်တီးပေးသည်။",
+    "example": "=DATE(A2,B2,C2)",
+    "result": "A2 နှစ်၊ B2 လ၊ C2 ရက်ကို date အဖြစ် ပြသည်။",
+    "note": "Date ကို စာသားအဖြစ်မရေးဘဲ formula ဖြင့် တည်ဆောက်ရန် အသုံးဝင်သည်။",
+    "keywords": [
+      "date",
+      "ရက်စွဲ",
+      "year month day"
+    ]
+  },
+  {
+    "id": "day",
+    "categoryId": "date_time",
+    "order": 4,
+    "title": "DAY",
+    "syntax": "=DAY(A2)",
+    "description": "Date တစ်ခုမှ ရက်ပိုင်းကို ထုတ်ပေးသည်။",
+    "example": "=DAY(\"2026-06-10\")",
+    "result": "10",
+    "note": "Month end report များတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "day",
+      "ရက်",
+      "date"
+    ]
+  },
+  {
+    "id": "month",
+    "categoryId": "date_time",
+    "order": 5,
+    "title": "MONTH",
+    "syntax": "=MONTH(A2)",
+    "description": "Date တစ်ခုမှ လနံပါတ်ကို ထုတ်ပေးသည်။",
+    "example": "=MONTH(\"2026-06-10\")",
+    "result": "6",
+    "note": "January သည် 1၊ December သည် 12 ဖြစ်သည်။",
+    "keywords": [
+      "month",
+      "လ",
+      "date"
+    ]
+  },
+  {
+    "id": "year",
+    "categoryId": "date_time",
+    "order": 6,
+    "title": "YEAR",
+    "syntax": "=YEAR(A2)",
+    "description": "Date တစ်ခုမှ နှစ်ကို ထုတ်ပေးသည်။",
+    "example": "=YEAR(\"2026-06-10\")",
+    "result": "2026",
+    "note": "မွေးသက္ကရာဇ်၊ invoice year ခွဲရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "year",
+      "နှစ်",
+      "date"
+    ]
+  },
+  {
+    "id": "datedif",
+    "categoryId": "date_time",
+    "order": 7,
+    "title": "DATEDIF",
+    "syntax": "=DATEDIF(A2,B2,\"Y\")",
+    "description": "Date နှစ်ခုကြားကွာခြားမှုကို နှစ်၊ လ၊ ရက် အဖြစ် တွက်ပေးသည်။",
+    "example": "=DATEDIF(B2,TODAY(),\"Y\")",
+    "result": "B2 မွေးနေ့မှ ယနေ့ထိ အသက်နှစ်ကို ပြသည်။",
+    "note": "\"Y\" သည် နှစ်၊ \"M\" သည် လ၊ \"D\" သည် ရက် ဖြစ်သည်။",
+    "keywords": [
+      "အသက်",
+      "ကြာချိန်",
+      "datedif",
+      "date difference"
+    ]
+  },
+  {
+    "id": "eomonth",
+    "categoryId": "date_time",
+    "order": 8,
+    "title": "EOMONTH",
+    "syntax": "=EOMONTH(A2,0)",
+    "description": "သတ်မှတ်ထားသော date ၏ လကုန်ရက်ကို ပြပေးသည်။",
+    "example": "=EOMONTH(TODAY(),0)",
+    "result": "ယခုလ၏ နောက်ဆုံးရက်ကို ပြသည်။",
+    "note": "ဒုတိယ argument 1 ဆို နောက်လကုန်၊ -1 ဆို ပြီးခဲ့သောလကုန် ဖြစ်သည်။",
+    "keywords": [
+      "လကုန်",
+      "end of month",
+      "eomonth"
+    ]
+  },
+  {
+    "id": "vlookup",
+    "categoryId": "lookup",
+    "order": 1,
+    "title": "VLOOKUP",
+    "syntax": "=VLOOKUP(E2,A2:C10,3,FALSE)",
+    "description": "Table ၏ ပထမ column ထဲမှ value ကိုရှာပြီး သတ်မှတ်ထားသော column မှ result ပြန်ပေးသည်။",
+    "example": "=VLOOKUP(A2,$D$2:$F$20,3,FALSE)",
+    "result": "A2 code ကို D column ထဲရှာပြီး F column မှတန်ဖိုးကို ပြသည်။",
+    "note": "FALSE သည် exact match ဖြစ်သည်။ Beginner အတွက် FALSE ကို အများဆုံးသုံးပါ။",
+    "keywords": [
+      "ရှာ",
+      "lookup",
+      "vlookup",
+      "exact match",
+      "code"
+    ]
+  },
+  {
+    "id": "xlookup",
+    "categoryId": "lookup",
+    "order": 2,
+    "title": "XLOOKUP",
+    "syntax": "=XLOOKUP(E2,A2:A10,C2:C10,\"Not found\")",
+    "description": "Lookup range ထဲမှ value ကိုရှာပြီး return range မှ result ပြန်ပေးသည်။",
+    "example": "=XLOOKUP(A2,$D$2:$D$20,$F$2:$F$20,\"မတွေ့ပါ\")",
+    "result": "A2 value ကို D column ထဲရှာပြီး F column မှ result ပြသည်။",
+    "note": "VLOOKUP ထက် flexible ဖြစ်ပြီး ဘယ်ဘက်/ညာဘက် နှစ်ဖက်လုံး lookup လုပ်နိုင်သည်။",
+    "keywords": [
+      "xlookup",
+      "lookup",
+      "ရှာ",
+      "not found"
+    ]
+  },
+  {
+    "id": "index_match",
+    "categoryId": "lookup",
+    "order": 3,
+    "title": "INDEX + MATCH",
+    "syntax": "=INDEX(C2:C10,MATCH(E2,A2:A10,0))",
+    "description": "MATCH ဖြင့် row position ရှာပြီး INDEX ဖြင့် result ကို ထုတ်ယူသည်။",
+    "example": "=INDEX($F$2:$F$20,MATCH(A2,$D$2:$D$20,0))",
+    "result": "A2 ကို D column ထဲရှာပြီး F column မှတန်ဖိုးကို ပြသည်။",
+    "note": "XLOOKUP မရှိသော Excel version များတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "index match",
+      "lookup",
+      "ရှာ",
+      "position"
+    ]
+  },
+  {
+    "id": "match",
+    "categoryId": "lookup",
+    "order": 4,
+    "title": "MATCH",
+    "syntax": "=MATCH(E2,A2:A10,0)",
+    "description": "Value တစ်ခုသည် range ထဲတွင် ဘယ် position မှာရှိလဲ ရှာပေးသည်။",
+    "example": "=MATCH(\"Apple\",A2:A10,0)",
+    "result": "Apple ကို A2:A10 ထဲ exact match ရှာပြီး position ပြသည်။",
+    "note": "0 သည် exact match ဖြစ်သည်။ INDEX နှင့် တွဲသုံးလေ့ရှိသည်။",
+    "keywords": [
+      "match",
+      "position",
+      "ရှာ",
+      "တည်နေရာ"
+    ]
+  },
+  {
+    "id": "index",
+    "categoryId": "lookup",
+    "order": 5,
+    "title": "INDEX",
+    "syntax": "=INDEX(A2:C10,2,3)",
+    "description": "Range ထဲမှ row number နှင့် column number ပေါ်မူတည်ပြီး cell တန်ဖိုးကို ထုတ်ပေးသည်။",
+    "example": "=INDEX(B2:B10,3)",
+    "result": "B2:B10 range ထဲမှ 3 ခုမြောက်တန်ဖိုးကို ပြသည်။",
+    "note": "MATCH နှင့်တွဲသုံးလျှင် powerful lookup formula ဖြစ်သည်။",
+    "keywords": [
+      "index",
+      "lookup",
+      "row column",
+      "ထုတ်ယူ"
+    ]
+  },
+  {
+    "id": "hlookup",
+    "categoryId": "lookup",
+    "order": 6,
+    "title": "HLOOKUP",
+    "syntax": "=HLOOKUP(B1,A1:F4,3,FALSE)",
+    "description": "Horizontal table ၏ ပထမ row ထဲမှ value ကိုရှာပြီး သတ်မှတ်ထားသော row မှ result ပြန်ပေးသည်။",
+    "example": "=HLOOKUP(\"Jan\",A1:M5,4,FALSE)",
+    "result": "Jan ကို ပထမ row ထဲရှာပြီး row 4 မှ တန်ဖိုးကို ပြသည်။",
+    "note": "Data သည် ဘယ်မှညာ row ပုံစံဖြစ်သောအခါ သုံးသည်။",
+    "keywords": [
+      "hlookup",
+      "horizontal",
+      "lookup",
+      "ရှာ"
+    ]
+  },
+  {
+    "id": "choose",
+    "categoryId": "lookup",
+    "order": 7,
+    "title": "CHOOSE",
+    "syntax": "=CHOOSE(A2,\"Small\",\"Medium\",\"Large\")",
+    "description": "Index number ပေါ်မူတည်ပြီး list ထဲမှ value တစ်ခုကို ရွေးပြပေးသည်။",
+    "example": "=CHOOSE(2,\"Cash\",\"Card\",\"Bank\")",
+    "result": "Card",
+    "note": "1 ဆို ပထမ value၊ 2 ဆို ဒုတိယ value ကို ပြသည်။",
+    "keywords": [
+      "choose",
+      "ရွေး",
+      "index",
+      "list"
+    ]
+  },
+  {
+    "id": "count",
+    "categoryId": "counting",
+    "order": 1,
+    "title": "COUNT",
+    "syntax": "=COUNT(A1:A10)",
+    "description": "Range ထဲရှိ ဂဏန်းပါသော cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNT(B2:B50)",
+    "result": "B2:B50 ထဲရှိ number cell အရေအတွက်ကို ပြသည်။",
+    "note": "စာသား cell များကို မရေတွက်ပါ။",
+    "keywords": [
+      "ရေတွက်",
+      "count",
+      "number count"
+    ]
+  },
+  {
+    "id": "counta",
+    "categoryId": "counting",
+    "order": 2,
+    "title": "COUNTA",
+    "syntax": "=COUNTA(A1:A10)",
+    "description": "Blank မဟုတ်သော cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTA(A2:A100)",
+    "result": "A2:A100 ထဲရှိ data ပါသော cell အရေအတွက်ကို ပြသည်။",
+    "note": "ဂဏန်း၊ စာသား၊ date အားလုံးကို ရေတွက်သည်။",
+    "keywords": [
+      "blank မဟုတ်",
+      "counta",
+      "data count"
+    ]
+  },
+  {
+    "id": "countblank",
+    "categoryId": "counting",
+    "order": 3,
+    "title": "COUNTBLANK",
+    "syntax": "=COUNTBLANK(A1:A10)",
+    "description": "Blank cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTBLANK(B2:B100)",
+    "result": "B2:B100 ထဲရှိ အလွတ် cell အရေအတွက်ကို ပြသည်။",
+    "note": "Data မဖြည့်ရသေးသော row များရှာရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "blank",
+      "အလွတ်",
+      "countblank",
+      "မဖြည့်"
+    ]
+  },
+  {
+    "id": "countif",
+    "categoryId": "counting",
+    "order": 4,
+    "title": "COUNTIF",
+    "syntax": "=COUNTIF(A2:A100,\"Pass\")",
+    "description": "Condition တစ်ခုနှင့် ကိုက်ညီသော cell အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTIF(B2:B100,\">=50\")",
+    "result": "B2:B100 ထဲရှိ 50 နှင့်အထက် cell အရေအတွက်ကို ပြသည်။",
+    "note": "Condition ကို quote ထဲတွင်ရေးရသည်။",
+    "keywords": [
+      "condition count",
+      "countif",
+      "ရေတွက်",
+      "အောင်"
+    ]
+  },
+  {
+    "id": "countifs",
+    "categoryId": "counting",
+    "order": 5,
+    "title": "COUNTIFS",
+    "syntax": "=COUNTIFS(A2:A100,\"Yangon\",B2:B100,\">=50\")",
+    "description": "Condition များစွာနှင့် ကိုက်ညီသော row အရေအတွက်ကို ရေတွက်သည်။",
+    "example": "=COUNTIFS(C2:C100,\"Paid\",D2:D100,\"Online\")",
+    "result": "Paid ဖြစ်ပြီး Online ဖြစ်သော row အရေအတွက်ကို ပြသည်။",
+    "note": "Range များ၏ row အရေအတွက်တူရမည်။",
+    "keywords": [
+      "multiple condition",
+      "countifs",
+      "ရေတွက်",
+      "condition"
+    ]
+  },
+  {
+    "id": "sumif",
+    "categoryId": "counting",
+    "order": 6,
+    "title": "SUMIF",
+    "syntax": "=SUMIF(A2:A100,\"Yangon\",C2:C100)",
+    "description": "Condition တစ်ခုနှင့် ကိုက်ညီသော row များ၏ တန်ဖိုးများကို ပေါင်းပေးသည်။",
+    "example": "=SUMIF(B2:B100,\"Paid\",D2:D100)",
+    "result": "B column တွင် Paid ဖြစ်သော row များ၏ D column amount ကို ပေါင်းပေးသည်။",
+    "note": "Condition range နှင့် sum range ကို သေချာခွဲပါ။",
+    "keywords": [
+      "condition sum",
+      "sumif",
+      "ပေါင်း",
+      "paid"
+    ]
+  },
+  {
+    "id": "round",
+    "categoryId": "rounding",
+    "order": 1,
+    "title": "ROUND",
+    "syntax": "=ROUND(A2,2)",
+    "description": "ဂဏန်းကို သတ်မှတ်ထားသော ဒဿမနေရာအထိ round လုပ်သည်။",
+    "example": "=ROUND(12.345,2)",
+    "result": "12.35",
+    "note": "ဒဿမ 2 နေရာလိုလျှင် 2 ထည့်ပါ။",
+    "keywords": [
+      "round",
+      "ဒဿမ",
+      "ပတ်"
+    ]
+  },
+  {
+    "id": "roundup",
+    "categoryId": "rounding",
+    "order": 2,
+    "title": "ROUNDUP",
+    "syntax": "=ROUNDUP(A2,0)",
+    "description": "ဂဏန်းကို အပေါ်ဘက်သို့ round လုပ်သည်။",
+    "example": "=ROUNDUP(12.1,0)",
+    "result": "13",
+    "note": "အမြဲတမ်း တက်ဘက်ကို round လုပ်ချင်သောအခါ သုံးသည်။",
+    "keywords": [
+      "roundup",
+      "အပေါ်",
+      "တက်"
+    ]
+  },
+  {
+    "id": "rounddown",
+    "categoryId": "rounding",
+    "order": 3,
+    "title": "ROUNDDOWN",
+    "syntax": "=ROUNDDOWN(A2,0)",
+    "description": "ဂဏန်းကို အောက်ဘက်သို့ round လုပ်သည်။",
+    "example": "=ROUNDDOWN(12.9,0)",
+    "result": "12",
+    "note": "အမြဲတမ်း လျှော့ဘက်ကို round လုပ်ချင်သောအခါ သုံးသည်။",
+    "keywords": [
+      "rounddown",
+      "အောက်",
+      "လျှော့"
+    ]
+  },
+  {
+    "id": "int",
+    "categoryId": "rounding",
+    "order": 4,
+    "title": "INT",
+    "syntax": "=INT(A2)",
+    "description": "ဂဏန်းကို အောက်ဘက် integer တန်ဖိုးသို့ ပြောင်းပေးသည်။",
+    "example": "=INT(12.9)",
+    "result": "12",
+    "note": "Positive number အတွက် decimal ဖြုတ်လိုသကဲ့သို့ အသုံးများသည်။",
+    "keywords": [
+      "integer",
+      "int",
+      "ဒဿမဖြုတ်"
+    ]
+  },
+  {
+    "id": "ceiling",
+    "categoryId": "rounding",
+    "order": 5,
+    "title": "CEILING",
+    "syntax": "=CEILING(A2,5)",
+    "description": "ဂဏန်းကို သတ်မှတ်ထားသော multiple အပေါ်ဘက်သို့ round လုပ်သည်။",
+    "example": "=CEILING(23,5)",
+    "result": "25",
+    "note": "5, 10, 100 အလိုက် price round လုပ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "ceiling",
+      "multiple",
+      "price round",
+      "အပေါ်"
+    ]
+  },
+  {
+    "id": "floor",
+    "categoryId": "rounding",
+    "order": 6,
+    "title": "FLOOR",
+    "syntax": "=FLOOR(A2,5)",
+    "description": "ဂဏန်းကို သတ်မှတ်ထားသော multiple အောက်ဘက်သို့ round လုပ်သည်။",
+    "example": "=FLOOR(23,5)",
+    "result": "20",
+    "note": "Discount, package size စသည်တို့တွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "floor",
+      "multiple",
+      "အောက်",
+      "round"
+    ]
+  },
+  {
+    "id": "pmt",
+    "categoryId": "financial",
+    "order": 1,
+    "title": "PMT",
+    "syntax": "=PMT(8%/12,36,-1000000)",
+    "description": "ချေးငွေတစ်ခုအတွက် လစဉ်ပေးရမည့် payment ကို တွက်ပေးသည်။",
+    "example": "=PMT(B2/12,C2,-A2)",
+    "result": "A2 loan amount၊ B2 annual interest၊ C2 months အလိုက် လစဉ်ပေးငွေကို ပြသည်။",
+    "note": "Loan amount ကို negative ထားလျှင် payment result ကို positive အဖြစ် မြင်ရလွယ်သည်။",
+    "keywords": [
+      "loan",
+      "payment",
+      "pmt",
+      "ချေးငွေ",
+      "လစဉ်"
+    ]
+  },
+  {
+    "id": "fv",
+    "categoryId": "financial",
+    "order": 2,
+    "title": "FV",
+    "syntax": "=FV(6%/12,12,-50000)",
+    "description": "ပုံမှန်စုဆောင်းငွေ၏ အနာဂတ်တန်ဖိုးကို တွက်ပေးသည်။",
+    "example": "=FV(B2/12,C2,-A2)",
+    "result": "လစဉ်စုငွေ၊ အတိုးနှုန်း၊ ကာလအလိုက် နောက်ဆုံးတန်ဖိုးကို ပြသည်။",
+    "note": "Saving plan များတွက်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "future value",
+      "fv",
+      "စုငွေ",
+      "အနာဂတ်တန်ဖိုး"
+    ]
+  },
+  {
+    "id": "pv",
+    "categoryId": "financial",
+    "order": 3,
+    "title": "PV",
+    "syntax": "=PV(6%/12,24,-50000)",
+    "description": "အနာဂတ် payment များ၏ ယနေ့တန်ဖိုးကို တွက်ပေးသည်။",
+    "example": "=PV(B2/12,C2,-A2)",
+    "result": "လစဉ်ရငွေ/ပေးငွေများ၏ present value ကို ပြသည်။",
+    "note": "Investment တန်ဖိုးနှိုင်းယှဉ်ရာတွင် အသုံးဝင်သည်။",
+    "keywords": [
+      "present value",
+      "pv",
+      "ယနေ့တန်ဖိုး",
+      "investment"
+    ]
+  },
+  {
+    "id": "rate",
+    "categoryId": "financial",
+    "order": 4,
+    "title": "RATE",
+    "syntax": "=RATE(36,-35000,1000000)*12",
+    "description": "Payment, period, loan amount တို့မှ အတိုးနှုန်းကို ပြန်တွက်ပေးသည်။",
+    "example": "=RATE(C2,-B2,A2)*12",
+    "result": "A2 loan amount၊ B2 monthly payment၊ C2 months မှ annual rate ကို ပြသည်။",
+    "note": "Result ကို Percentage format ပြောင်းပါ။",
+    "keywords": [
+      "interest",
+      "rate",
+      "အတိုးနှုန်း",
+      "loan"
+    ]
+  },
+  {
+    "id": "npv",
+    "categoryId": "financial",
+    "order": 5,
+    "title": "NPV",
+    "syntax": "=NPV(10%,B2:B6)+B1",
+    "description": "Cash flow များ၏ net present value ကို တွက်ပေးသည်။",
+    "example": "=NPV(A2,C2:C6)+B2",
+    "result": "Discount rate နှင့် cash flow များအလိုက် investment value ကို ပြသည်။",
+    "note": "Initial investment ကို NPV range ထဲမထည့်ဘဲ သီးခြားပေါင်း/နှုတ်ပါ။",
+    "keywords": [
+      "npv",
+      "cash flow",
+      "investment",
+      "present value"
+    ]
+  }
+]
