@@ -4,12 +4,12 @@
     {
       "icon": "download",
       "title": "1. Install keyboard",
-      "message": "Physical Keyboard ဖြင့် မြန်မာစာ ရိုက်ရန်အတွက် NZ Keyboard ကို download လုပ်ပြီး install လုပ်ပါ။"
+      "message": "Physical Keyboard ဖြင့် မြန်မာစာ ရိုက်ရန်အတွက် Z Keyboard ကို download လုပ်ပြီး install လုပ်ပါ။"
     },
     {
       "icon": "keyboard",
       "title": "2. Connect keyboard",
-      "message": "NZ Keyboard ကို install လုပ်ပြီးပါက ဖုန်းနှင့် physical keyboard ကို USB OTG သို့မဟုတ် Bluetooth ဖြင့် ချိတ်ဆက်ပါ။"
+      "message": "Z Keyboard ကို install လုပ်ပြီးပါက ဖုန်းနှင့် physical keyboard ကို USB OTG သို့မဟုတ် Bluetooth ဖြင့် ချိတ်ဆက်ပါ။"
     },
     {
       "icon": "settings",
@@ -19,12 +19,12 @@
     {
       "icon": "check",
       "title": "4. Select layout",
-      "message": "NZ Myanmar Unicode ကို ရွေးပေးပါ။ English ရိုက်လိုပါက English keyboard ကို ပြန်ရွေးပေးပါ။"
+      "message": "(ZKeyboard) Myanmar Unicode ကို ရွေးပေးပါ။ English ရိုက်လိုပါက English keyboard ကို ပြန်ရွေးပေးပါ။"
     }
   ],
   "actions": {
     "installKeyboard": true,
     "physicalKeyboardSettings": true,
-    "inputSettings": true
+    "inputSettings": false
   }
 }
