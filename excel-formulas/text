@@ -14,7 +14,26 @@
       "concat",
       "combine",
       "join"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "B",
+        "C",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Mg",
+          "Mg",
+          "Mg - Mg"
+        ],
+        [
+          "Code",
+          "001",
+          "Code - 001"
+        ]
+      ]
+    }
   },
   {
     "id": "textjoin",
@@ -31,7 +50,29 @@
       "separator",
       "စာပေါင်း",
       "blank ကျော်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "B",
+        "C",
+        "D",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Word",
+          "Excel",
+          "PowerPoint",
+          "Word / Excel / PowerPoint"
+        ],
+        [
+          "A",
+          "",
+          "C",
+          "A / C"
+        ]
+      ]
+    }
   },
   {
     "id": "left",
@@ -48,7 +89,23 @@
       "left",
       "ဖြတ်",
       "စာလုံး"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Text",
+        "Result"
+      ],
+      "rows": [
+        [
+          "AB1234",
+          "AB"
+        ],
+        [
+          "MMCG",
+          "MM"
+        ]
+      ]
+    }
   },
   {
     "id": "right",
@@ -65,7 +122,23 @@
       "right",
       "ဖြတ်",
       "နောက်ဆုံး"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Text",
+        "Result"
+      ],
+      "rows": [
+        [
+          "INV-1001",
+          "1001"
+        ],
+        [
+          "Phone-9999",
+          "9999"
+        ]
+      ]
+    }
   },
   {
     "id": "mid",
@@ -82,7 +155,23 @@
       "mid",
       "ဖြတ်",
       "စာလုံး"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Text",
+        "Result"
+      ],
+      "rows": [
+        [
+          "INV-2026-001",
+          "2026-"
+        ],
+        [
+          "CodeABCDE",
+          "eABCD"
+        ]
+      ]
+    }
   },
   {
     "id": "len",
@@ -99,7 +188,23 @@
       "len",
       "length",
       "စာလုံးရေ"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Text",
+        "Length"
+      ],
+      "rows": [
+        [
+          "Excel",
+          "5"
+        ],
+        [
+          "Computer",
+          "8"
+        ]
+      ]
+    }
   },
   {
     "id": "trim",
@@ -116,7 +221,23 @@
       "trim",
       "clean",
       "သန့်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Before",
+        "After"
+      ],
+      "rows": [
+        [
+          "  Mg Mg  ",
+          "Mg Mg"
+        ],
+        [
+          "Aye   Aye",
+          "Aye Aye"
+        ]
+      ]
+    }
   },
   {
     "id": "proper",
@@ -133,7 +254,23 @@
       "proper",
       "စာလုံးအကြီး",
       "format"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Before",
+        "After"
+      ],
+      "rows": [
+        [
+          "mg mg",
+          "Mg Mg"
+        ],
+        [
+          "aung aung",
+          "Aung Aung"
+        ]
+      ]
+    }
   },
   {
     "id": "substitute",
@@ -150,6 +287,22 @@
       "replace",
       "substitute",
       "ဖယ်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Before",
+        "After"
+      ],
+      "rows": [
+        [
+          "09 123 456",
+          "09123456"
+        ],
+        [
+          "A-B-C",
+          "ABC"
+        ]
+      ]
+    }
   }
 ]

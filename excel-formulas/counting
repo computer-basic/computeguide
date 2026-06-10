@@ -13,7 +13,19 @@
       "ရေတွက်",
       "count",
       "number count"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Cells",
+        "Count"
+      ],
+      "rows": [
+        [
+          "10, 20, text, blank",
+          "2"
+        ]
+      ]
+    }
   },
   {
     "id": "counta",
@@ -29,7 +41,19 @@
       "blank မဟုတ်",
       "counta",
       "data count"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Cells",
+        "Count"
+      ],
+      "rows": [
+        [
+          "10, text, blank",
+          "2"
+        ]
+      ]
+    }
   },
   {
     "id": "countblank",
@@ -46,7 +70,19 @@
       "အလွတ်",
       "countblank",
       "မဖြည့်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Cells",
+        "Blank count"
+      ],
+      "rows": [
+        [
+          "A, blank, B, blank",
+          "2"
+        ]
+      ]
+    }
   },
   {
     "id": "countif",
@@ -63,7 +99,27 @@
       "countif",
       "ရေတွက်",
       "အောင်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Score",
+        "Count >=50"
+      ],
+      "rows": [
+        [
+          "40",
+          ""
+        ],
+        [
+          "60",
+          ""
+        ],
+        [
+          "80",
+          "2"
+        ]
+      ]
+    }
   },
   {
     "id": "countifs",
@@ -80,7 +136,31 @@
       "countifs",
       "ရေတွက်",
       "condition"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Status",
+        "Type",
+        "Count"
+      ],
+      "rows": [
+        [
+          "Paid",
+          "Online",
+          ""
+        ],
+        [
+          "Paid",
+          "Cash",
+          ""
+        ],
+        [
+          "Paid + Online",
+          "",
+          "1"
+        ]
+      ]
+    }
   },
   {
     "id": "sumif",
@@ -97,6 +177,30 @@
       "sumif",
       "ပေါင်း",
       "paid"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Status",
+        "Amount",
+        "Total Paid"
+      ],
+      "rows": [
+        [
+          "Paid",
+          "100",
+          ""
+        ],
+        [
+          "Unpaid",
+          "200",
+          ""
+        ],
+        [
+          "Paid",
+          "300",
+          "400"
+        ]
+      ]
+    }
   }
 ]

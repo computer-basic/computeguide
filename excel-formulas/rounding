@@ -13,7 +13,23 @@
       "round",
       "ဒဿမ",
       "ပတ်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Value",
+        "Result"
+      ],
+      "rows": [
+        [
+          "12.345",
+          "12.35"
+        ],
+        [
+          "8.126",
+          "8.13"
+        ]
+      ]
+    }
   },
   {
     "id": "roundup",
@@ -29,7 +45,23 @@
       "roundup",
       "အပေါ်",
       "တက်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Value",
+        "Result"
+      ],
+      "rows": [
+        [
+          "12.1",
+          "13"
+        ],
+        [
+          "12.9",
+          "13"
+        ]
+      ]
+    }
   },
   {
     "id": "rounddown",
@@ -45,7 +77,23 @@
       "rounddown",
       "အောက်",
       "လျှော့"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Value",
+        "Result"
+      ],
+      "rows": [
+        [
+          "12.1",
+          "12"
+        ],
+        [
+          "12.9",
+          "12"
+        ]
+      ]
+    }
   },
   {
     "id": "int",
@@ -61,7 +109,23 @@
       "integer",
       "int",
       "ဒဿမဖြုတ်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Value",
+        "Result"
+      ],
+      "rows": [
+        [
+          "12.9",
+          "12"
+        ],
+        [
+          "-12.9",
+          "-13"
+        ]
+      ]
+    }
   },
   {
     "id": "ceiling",
@@ -78,7 +142,23 @@
       "multiple",
       "price round",
       "အပေါ်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Value",
+        "Nearest 5"
+      ],
+      "rows": [
+        [
+          "23",
+          "25"
+        ],
+        [
+          "41",
+          "45"
+        ]
+      ]
+    }
   },
   {
     "id": "floor",
@@ -95,6 +175,22 @@
       "multiple",
       "အောက်",
       "round"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Value",
+        "Nearest 5"
+      ],
+      "rows": [
+        [
+          "23",
+          "20"
+        ],
+        [
+          "41",
+          "40"
+        ]
+      ]
+    }
   }
 ]

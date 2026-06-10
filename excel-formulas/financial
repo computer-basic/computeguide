@@ -15,7 +15,19 @@
       "pmt",
       "ချေးငွေ",
       "လစဉ်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Loan",
+        "Monthly pay"
+      ],
+      "rows": [
+        [
+          "1,000,000",
+          "31,336 approx"
+        ]
+      ]
+    }
   },
   {
     "id": "fv",
@@ -32,7 +44,19 @@
       "fv",
       "စုငွေ",
       "အနာဂတ်တန်ဖိုး"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Monthly saving",
+        "Future value"
+      ],
+      "rows": [
+        [
+          "50,000",
+          "618,389 approx"
+        ]
+      ]
+    }
   },
   {
     "id": "pv",
@@ -49,7 +73,19 @@
       "pv",
       "ယနေ့တန်ဖိုး",
       "investment"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Monthly payment",
+        "Present value"
+      ],
+      "rows": [
+        [
+          "50,000",
+          "1,129,514 approx"
+        ]
+      ]
+    }
   },
   {
     "id": "rate",
@@ -66,7 +102,21 @@
       "rate",
       "အတိုးနှုန်း",
       "loan"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Loan",
+        "Payment",
+        "Rate"
+      ],
+      "rows": [
+        [
+          "1,000,000",
+          "35,000",
+          "15.7% approx"
+        ]
+      ]
+    }
   },
   {
     "id": "npv",
@@ -83,6 +133,20 @@
       "cash flow",
       "investment",
       "present value"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Investment",
+        "Cash flows",
+        "NPV"
+      ],
+      "rows": [
+        [
+          "-1,000,000",
+          "300k, 350k, 400k, 450k",
+          "204,787 approx"
+        ]
+      ]
+    }
   }
 ]

@@ -15,7 +15,31 @@
       "total",
       "add",
       "sum"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Cell",
+        "တန်ဖိုး"
+      ],
+      "rows": [
+        [
+          "B2",
+          "100"
+        ],
+        [
+          "B3",
+          "200"
+        ],
+        [
+          "B4",
+          "150"
+        ],
+        [
+          "Result",
+          "450"
+        ]
+      ]
+    }
   },
   {
     "id": "average",
@@ -31,7 +55,31 @@
       "ပျမ်းမျှ",
       "average",
       "mean"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Cell",
+        "အမှတ်"
+      ],
+      "rows": [
+        [
+          "C2",
+          "50"
+        ],
+        [
+          "C3",
+          "70"
+        ],
+        [
+          "C4",
+          "90"
+        ],
+        [
+          "Result",
+          "70"
+        ]
+      ]
+    }
   },
   {
     "id": "min",
@@ -48,7 +96,31 @@
       "minimum",
       "smallest",
       "min"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Cell",
+        "တန်ဖိုး"
+      ],
+      "rows": [
+        [
+          "D2",
+          "45"
+        ],
+        [
+          "D3",
+          "20"
+        ],
+        [
+          "D4",
+          "75"
+        ],
+        [
+          "Result",
+          "20"
+        ]
+      ]
+    }
   },
   {
     "id": "max",
@@ -65,7 +137,31 @@
       "maximum",
       "largest",
       "max"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Cell",
+        "တန်ဖိုး"
+      ],
+      "rows": [
+        [
+          "D2",
+          "45"
+        ],
+        [
+          "D3",
+          "20"
+        ],
+        [
+          "D4",
+          "75"
+        ],
+        [
+          "Result",
+          "75"
+        ]
+      ]
+    }
   },
   {
     "id": "subtotal",
@@ -82,7 +178,31 @@
       "subtotal",
       "မြင်ရသော row",
       "sum"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Row",
+        "မြင်ရသော တန်ဖိုး"
+      ],
+      "rows": [
+        [
+          "2",
+          "100"
+        ],
+        [
+          "3",
+          "Hidden"
+        ],
+        [
+          "4",
+          "250"
+        ],
+        [
+          "Result",
+          "350"
+        ]
+      ]
+    }
   },
   {
     "id": "sumproduct",
@@ -99,7 +219,35 @@
       "qty price",
       "sumproduct",
       "total amount"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Item",
+        "Qty",
+        "Price",
+        "Total"
+      ],
+      "rows": [
+        [
+          "A",
+          "2",
+          "100",
+          "200"
+        ],
+        [
+          "B",
+          "3",
+          "50",
+          "150"
+        ],
+        [
+          "Result",
+          "",
+          "",
+          "350"
+        ]
+      ]
+    }
   },
   {
     "id": "rank_eq",
@@ -116,7 +264,31 @@
       "rank",
       "အမှတ်စဉ်",
       "position"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Name",
+        "Score",
+        "Rank"
+      ],
+      "rows": [
+        [
+          "Mg Mg",
+          "80",
+          "2"
+        ],
+        [
+          "Aye Aye",
+          "95",
+          "1"
+        ],
+        [
+          "Ko Ko",
+          "70",
+          "3"
+        ]
+      ]
+    }
   },
   {
     "id": "percent_change",
@@ -134,6 +306,25 @@
       "တိုးနှုန်း",
       "change",
       "growth"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Old",
+        "New",
+        "Change"
+      ],
+      "rows": [
+        [
+          "100",
+          "120",
+          "20%"
+        ],
+        [
+          "200",
+          "180",
+          "-10%"
+        ]
+      ]
+    }
   }
 ]

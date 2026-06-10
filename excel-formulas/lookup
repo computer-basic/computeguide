@@ -15,7 +15,31 @@
       "vlookup",
       "exact match",
       "code"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Code",
+        "Name",
+        "Price"
+      ],
+      "rows": [
+        [
+          "A001",
+          "Mouse",
+          "15000"
+        ],
+        [
+          "A002",
+          "Keyboard",
+          "25000"
+        ],
+        [
+          "Lookup A002",
+          "",
+          "25000"
+        ]
+      ]
+    }
   },
   {
     "id": "xlookup",
@@ -32,7 +56,31 @@
       "lookup",
       "ရှာ",
       "not found"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Code",
+        "Name",
+        "Price"
+      ],
+      "rows": [
+        [
+          "A001",
+          "Mouse",
+          "15000"
+        ],
+        [
+          "A002",
+          "Keyboard",
+          "25000"
+        ],
+        [
+          "Lookup A003",
+          "",
+          "မတွေ့ပါ"
+        ]
+      ]
+    }
   },
   {
     "id": "index_match",
@@ -49,7 +97,31 @@
       "lookup",
       "ရှာ",
       "position"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Code",
+        "Name",
+        "Price"
+      ],
+      "rows": [
+        [
+          "A001",
+          "Mouse",
+          "15000"
+        ],
+        [
+          "A002",
+          "Keyboard",
+          "25000"
+        ],
+        [
+          "Lookup A002",
+          "",
+          "25000"
+        ]
+      ]
+    }
   },
   {
     "id": "match",
@@ -66,7 +138,27 @@
       "position",
       "ရှာ",
       "တည်နေရာ"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "List",
+        "Position"
+      ],
+      "rows": [
+        [
+          "Orange",
+          "1"
+        ],
+        [
+          "Apple",
+          "2"
+        ],
+        [
+          "Mango",
+          "3"
+        ]
+      ]
+    }
   },
   {
     "id": "index",
@@ -83,7 +175,27 @@
       "lookup",
       "row column",
       "ထုတ်ယူ"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Position",
+        "Value"
+      ],
+      "rows": [
+        [
+          "1",
+          "Mouse"
+        ],
+        [
+          "2",
+          "Keyboard"
+        ],
+        [
+          "3",
+          "Monitor"
+        ]
+      ]
+    }
   },
   {
     "id": "hlookup",
@@ -100,7 +212,29 @@
       "horizontal",
       "lookup",
       "ရှာ"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Month",
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "rows": [
+        [
+          "Sales",
+          "100",
+          "120",
+          "150"
+        ],
+        [
+          "Lookup Jan",
+          "100",
+          "",
+          ""
+        ]
+      ]
+    }
   },
   {
     "id": "choose",
@@ -117,6 +251,26 @@
       "ရွေး",
       "index",
       "list"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Number",
+        "Result"
+      ],
+      "rows": [
+        [
+          "1",
+          "Cash"
+        ],
+        [
+          "2",
+          "Card"
+        ],
+        [
+          "3",
+          "Bank"
+        ]
+      ]
+    }
   }
 ]

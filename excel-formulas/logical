@@ -15,7 +15,23 @@
       "pass fail",
       "အောင် ကျ",
       "စစ်"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "အမှတ်",
+        "Result"
+      ],
+      "rows": [
+        [
+          "65",
+          "အောင်"
+        ],
+        [
+          "35",
+          "ကျ"
+        ]
+      ]
+    }
   },
   {
     "id": "ifs",
@@ -32,7 +48,27 @@
       "grade",
       "အဆင့်",
       "ifs"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "အမှတ်",
+        "Grade"
+      ],
+      "rows": [
+        [
+          "85",
+          "Excellent"
+        ],
+        [
+          "65",
+          "Pass"
+        ],
+        [
+          "35",
+          "Fail"
+        ]
+      ]
+    }
   },
   {
     "id": "and",
@@ -48,7 +84,26 @@
       "and",
       "အားလုံးမှန်",
       "condition"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Subject 1",
+        "Subject 2",
+        "Result"
+      ],
+      "rows": [
+        [
+          "55",
+          "60",
+          "Pass"
+        ],
+        [
+          "55",
+          "30",
+          "Fail"
+        ]
+      ]
+    }
   },
   {
     "id": "or",
@@ -64,7 +119,27 @@
       "or",
       "တစ်ခုခုမှန်",
       "condition"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Payment",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Cash",
+          "Accepted"
+        ],
+        [
+          "WavePay",
+          "Accepted"
+        ],
+        [
+          "Bank",
+          "Check"
+        ]
+      ]
+    }
   },
   {
     "id": "not",
@@ -80,7 +155,23 @@
       "not",
       "မဟုတ်",
       "opposite"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Status",
+        "Result"
+      ],
+      "rows": [
+        [
+          "Paid",
+          "OK"
+        ],
+        [
+          "Unpaid",
+          "Need payment"
+        ]
+      ]
+    }
   },
   {
     "id": "iferror",
@@ -97,7 +188,23 @@
       "iferror",
       "not found",
       "အမှား"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Lookup",
+        "Result"
+      ],
+      "rows": [
+        [
+          "A001",
+          "Laptop"
+        ],
+        [
+          "A009",
+          "Not found"
+        ]
+      ]
+    }
   },
   {
     "id": "switch",
@@ -114,6 +221,26 @@
       "case",
       "grade",
       "ရွေး"
-    ]
+    ],
+    "exampleTable": {
+      "headers": [
+        "Grade",
+        "Result"
+      ],
+      "rows": [
+        [
+          "A",
+          "Excellent"
+        ],
+        [
+          "B",
+          "Good"
+        ],
+        [
+          "D",
+          "Check"
+        ]
+      ]
+    }
   }
 ]
