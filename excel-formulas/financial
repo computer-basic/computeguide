@@ -5,7 +5,7 @@
     "order": 1,
     "title": "PMT",
     "syntax": "=PMT(8%/12,36,-1000000)",
-    "description": "ချေးငွေတစ်ခုအတွက် လစဉ်ပေးရမည့် payment ကို တွက်ပေးသည်။",
+    "description": "ချေးငွေတစ်ခုအတွက် လစဉ်ပေးချေရမည့် payment ကို တွက်ပေးသည်။",
     "example": "=PMT(B2/12,C2,-A2)",
     "result": "A2 loan amount၊ B2 annual interest၊ C2 months အလိုက် လစဉ်ပေးငွေကို ပြသည်။",
     "note": "Loan amount ကို negative ထားလျှင် payment result ကို positive အဖြစ် မြင်ရလွယ်သည်။",
@@ -59,7 +59,7 @@
     "syntax": "=RATE(36,-35000,1000000)*12",
     "description": "Payment, period, loan amount တို့မှ အတိုးနှုန်းကို ပြန်တွက်ပေးသည်။",
     "example": "=RATE(C2,-B2,A2)*12",
-    "result": "A2 loan amount၊ B2 monthly payment၊ C2 months မှ annual rate ကို ပြသည်။",
+    "result": "A2 loan amount၊ B2 monthly payment နှင့် C2 months တို့မှ တစ်နှစ်စာ အတိုးနှုန်း (annual rate) ကို ပြသည်။",
     "note": "Result ကို Percentage format ပြောင်းပါ။",
     "keywords": [
       "interest",
@@ -76,7 +76,7 @@
     "syntax": "=NPV(10%,B2:B6)+B1",
     "description": "Cash flow များ၏ net present value ကို တွက်ပေးသည်။",
     "example": "=NPV(A2,C2:C6)+B2",
-    "result": "Discount rate နှင့် cash flow များအလိုက် investment value ကို ပြသည်။",
+    "result": "Discount rate နှင့် cash flow များအလိုက် investment ၏ တန်ဖိုးကို ပြသည်။",
     "note": "Initial investment ကို NPV range ထဲမထည့်ဘဲ သီးခြားပေါင်း/နှုတ်ပါ။",
     "keywords": [
       "npv",
