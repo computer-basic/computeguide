@@ -82,5 +82,17 @@
   {
     "viewId": "new_device",
     "message": "ဖုန်းအသစ်ဖြစ်သည်"
+  },
+  {
+    "viewId": "keyboard_setup_title",
+    "message": "Myanmar Keyboard Setup"
+  },
+  {
+    "viewId": "keyboard_setup_message",
+    "message": "မြန်မာစာရိုက်လေ့ကျင့်ရန် Physical Keyboard အတွက် Myanmar keyboard ကို အရင် setup လုပ်ပါ"
+  },
+  {
+    "viewId": "keyboard_setup_button",
+    "message": "Keyboard Setup ဖွင့်ရန်"
   }
 ]
