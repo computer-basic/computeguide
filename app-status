@@ -29,7 +29,7 @@
     }
   },
   "videoExportMinSupporterLevel": 3,
-  "certificateMinSupporterLevel": 2,
+  "certificateMinSupporterLevel": 3,
   "campaign": false,
   "appCampaign": false,
   "campaignUrl": "",
