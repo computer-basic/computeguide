@@ -28,6 +28,7 @@
       "lockedLessonIds": []
     }
   },
+  "videoExportMinSupporterLevel": 3,
   "campaign": false,
   "appCampaign": false,
   "campaignUrl": "",
