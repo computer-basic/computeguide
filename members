@@ -6106,5 +6106,11 @@
     "expireDate": "14 Sep, 2026",
     "level": 2,
     "accessKey": "bGFtaW5hdW5nM3NhbXN1bmdhMzV4"
+  },
+  {
+    "name": "Saw Nyi Nyi",
+    "expireDate": "-",
+    "level": 3,
+    "accessKey": "a2tvNDg5NjM3QGdtYWlsLmNvbXNhbXN1bmdhMzN4"
   }
 ]
