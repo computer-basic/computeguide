@@ -30,6 +30,32 @@
   },
   "videoExportMinSupporterLevel": 3,
   "certificateMinSupporterLevel": 2,
+  "videoDailyLimits": {
+    "free": {
+      "watchPerDay": 2,
+      "downloadPerDay": 0
+    },
+    "supporter": {
+      "default": {
+        "watchPerDay": null,
+        "downloadPerDay": null
+      },
+      "levels": {
+        "1": {
+          "watchPerDay": 15,
+          "downloadPerDay": 5
+        },
+        "2": {
+          "watchPerDay": 30,
+          "downloadPerDay": 10
+        },
+        "3": {
+          "watchPerDay": null,
+          "downloadPerDay": null
+        }
+      }
+    }
+  },
   "campaign": false,
   "appCampaign": false,
   "campaignUrl": "",
