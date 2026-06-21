@@ -94,5 +94,37 @@
   {
     "viewId": "keyboard_setup_button",
     "message": "Keyboard Setup ဖွင့်ရန်"
+  },
+  {
+    "viewId": "scan_old_device_qr",
+    "message": "မူရင်းဖုန်းမှ QR ကို Scan ဖတ်ရန်"
+  },
+  {
+    "viewId": "contact_for_new_device",
+    "message": "မူရင်းဖုန်း မရှိပါက ဆက်သွယ်ရန်"
+  },
+  {
+    "viewId": "restore_by_qr",
+    "message": "QR ဖြင့် Supporter ပြောင်းရန်"
+  },
+  {
+    "viewId": "restore_by_qr_message",
+    "message": "နာမည် နှင့် Email (သို့) ဖုန်းနံပါတ်ကို ဖြည့်ပြီး မူရင်း Supporter ဖုန်းတွင် ပြထားသော QR ကို Scan ဖတ်ပါ"
+  },
+  {
+    "viewId": "scan_qr",
+    "message": "QR Scan ဖတ်ရန်"
+  },
+  {
+    "viewId": "change_device",
+    "message": "ဖုန်းပြောင်းရန်"
+  },
+  {
+    "viewId": "change_device_qr_message",
+    "message": "ဤ QR ကို ဖုန်းအသစ်မှ Scan ဖတ်ပါ။ ၁၀ မိနစ်အတွင်းသာ အသုံးပြုနိုင်ပါသည်"
+  },
+  {
+    "viewId": "restore_new_device_info_message",
+    "message": "မူရင်း Supporter ဖုန်းရှိပါက မူရင်းဖုန်းမှ Change Device QR ကို ဖုန်းအသစ်ဖြင့် Scan ဖတ်ပြီး Supporter ကို ကိုယ်တိုင်ပြောင်းနိုင်ပါသည်\n\nမူရင်းဖုန်း မရှိတော့ပါက MM Computer Guide သို့ ဆက်သွယ်၍ ဖုန်းအသစ်သို့ Supporter ပြောင်းနိုင်ပါသည်"
   }
 ]
