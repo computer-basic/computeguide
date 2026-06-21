@@ -35,6 +35,7 @@
   "videoExportMinSupporterLevel": 3,
   "certificateMinSupporterLevel": 2,
   "popupPlayerMinSupporterLevel": 3,
+  "changeDeviceMinSupporterLevel": 3,
   "videoDailyLimits": {
     "free": {
       "watchPerDay": 2,
