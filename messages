@@ -72,10 +72,6 @@
     "message": "MM Computer Guide တွင် Supporter ဝင်ထားပြီးသူများ သက်တမ်းမကုန်ခင် Supporter ပျက်သွားပါက ပြန်လည်ရယူရန်အတွက်ဖြစ်ပါသည်\n\nယခုဖုန်းသည် ယခင် Supporter ဝင်ထားသော မူရင်းဖုန်းဖြစ်ပါသလား သို့မဟုတ် ဖုန်းအသစ်ဖြစ်ပါသလား"
   },
   {
-    "viewId": "restore_new_device_info_message",
-    "message": "ဖုန်းအသစ်တွင် Supporter ပြန်ရယူ အတွက် နာမည် နှင့် Email (သို့) ဖုန်းနံပါတ် ကိုဖြည့်သွင်းပေးပါ\n\nထို့နောက် MM Computer Guide သို့ ဆက်သွယ်၍ ဖြည့်ထားသော နာမည် နှင့် Email (သို့) ဖုန်းနံပါတ် ကိုပြောပြီး ဖုန်းအသစ် သို့ Supporter ကိုပြောင်းနိုင်ပါသည်"
-  },
-  {
     "viewId": "original_device",
     "message": "မူရင်းဖုန်းဖြစ်သည်"
   },
@@ -125,6 +121,10 @@
   },
   {
     "viewId": "restore_new_device_info_message",
-    "message": "မူရင်း Supporter ဖုန်းရှိပါက မူရင်းဖုန်းမှ Change Device QR ကို ဖုန်းအသစ်ဖြင့် Scan ဖတ်ပြီး Supporter ကို ကိုယ်တိုင်ပြောင်းနိုင်ပါသည်\n\nမူရင်းဖုန်း မရှိတော့ပါက MM Computer Guide သို့ ဆက်သွယ်၍ ဖုန်းအသစ်သို့ Supporter ပြောင်းနိုင်ပါသည်"
+    "message": "ဖုန်းအသစ်တွင် Supporter ပြန်ရယူ အတွက် နာမည် နှင့် Email (သို့) ဖုန်းနံပါတ် ကိုဖြည့်သွင်းပေးပါ"
+  },
+  {
+    "viewId": "restore_new_device_options_message",
+    "message": "ဖုန်းအသစ်သို့ Supporter ပြောင်းရန် နည်းလမ်း ၂ ခုရှိပါသည်\n\n၁။ မူရင်း Supporter ဖုန်းရှိပါက မူရင်းဖုန်းတွင် Change Device ကိုနှိပ်ပြီး QR Code ပြပါ။ ထို့နောက် ယခုဖုန်းအသစ်ဖြင့် ထို QR Code ကို Scan ဖတ်ပါ။\n\n၂။ မူရင်း Supporter ဖုန်းမရှိတော့ပါက MM Computer Guide သို့ ဆက်သွယ်ပြီး ဖုန်းအသစ်သို့ Supporter ပြောင်းပေးရန် တောင်းဆိုနိုင်ပါသည်"
   }
 ]
