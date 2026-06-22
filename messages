@@ -134,5 +134,45 @@
   {
     "viewId": "contact_us",
     "message": "Supporter ဝင်ရန် ဆက်သွယ်ရန်"
+  },
+  {
+    "viewId": "preparing_change_device_qr",
+    "message": "ဖုန်းပြောင်းရန် QR Code ကို ပြင်ဆင်နေပါသည်"
+  },
+  {
+    "viewId": "change_device_failed",
+    "message": "ဖုန်းပြောင်းရန် QR Code ပြင်ဆင်၍မရပါ။ အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်မံကြိုးစားပါ"
+  },
+  {
+    "viewId": "change_device_qr_expired",
+    "message": "QR Code သက်တမ်းကုန်သွားပါပြီ။ မူလဖုန်းမှ QR Code အသစ် ပြန်လည်ရယူပါ"
+  },
+  {
+    "viewId": "change_device_qr_used",
+    "message": "ဤ QR Code ကို အသုံးပြုပြီးဖြစ်ပါသည်"
+  },
+  {
+    "viewId": "change_device_qr_invalid",
+    "message": "မှားယွင်းသော QR Code ဖြစ်ပါသည်"
+  },
+  {
+    "viewId": "scan_change_device_qr",
+    "message": "မူလ Supporter ဖုန်းတွင် ပြသထားသော QR Code ကို Scan ဖတ်ပါ"
+  },
+  {
+    "viewId": "supporter_transfer_success_title",
+    "message": "Supporter ပြောင်းရွှေ့ခြင်း အောင်မြင်ပါသည်"
+  },
+  {
+    "viewId": "supporter_transfer_success_message",
+    "message": "ယခုဖုန်းတွင် Supporter ကို စတင်အသုံးပြုနိုင်ပါပြီ"
+  },
+  {
+    "viewId": "supporter_transfer_old_device_title",
+    "message": "ဖုန်းပြောင်းရွှေ့ပြီးပါပြီ"
+  },
+  {
+    "viewId": "supporter_transfer_old_device_message",
+    "message": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းပြီးဖြစ်၍ ဤဖုန်းတွင် ဆက်လက်အသုံးပြု၍ မရတော့ပါ"
   }
 ]
