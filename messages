@@ -126,5 +126,13 @@
   {
     "viewId": "restore_new_device_options_message",
     "message": "ဖုန်းအသစ်သို့ Supporter ပြောင်းရန် နည်းလမ်း ၂ ခုရှိပါသည်\n\n၁။ မူရင်း Supporter ဖုန်းရှိပါက မူရင်းဖုန်းတွင် Change Device ကိုနှိပ်ပြီး QR Code ပြပါ။ ထို့နောက် ယခုဖုန်းအသစ်ဖြင့် ထို QR Code ကို Scan ဖတ်ပါ။\n\n၂။ မူရင်း Supporter ဖုန်းမရှိတော့ပါက MM Computer Guide သို့ ဆက်သွယ်ပြီး ဖုန်းအသစ်သို့ Supporter ပြောင်းပေးရန် တောင်းဆိုနိုင်ပါသည်"
+  },
+  {
+    "viewId": "supporter_plans",
+    "message": "Supporter စျေးနှုန်းများကြည့်ရန်"
+  },
+  {
+    "viewId": "contact_us",
+    "message": "ဆက်သွယ်ရန်"
   }
 ]
