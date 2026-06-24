@@ -36,6 +36,7 @@
   "certificateMinSupporterLevel": 2,
   "popupPlayerMinSupporterLevel": 3,
   "changeDeviceMinSupporterLevel": 3,
+  "changeDeviceCooldownDays": 30,
   "videoDailyLimits": {
     "free": {
       "watchPerDay": 2,
