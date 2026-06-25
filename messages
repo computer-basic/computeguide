@@ -5,11 +5,11 @@
   },
   {
     "viewId": "question_supporter_limit",
-    "message": "ကွန်ပျူတာ အမေးအဖြေများ ကို Supporter 3 လ ၊ ၁ နှစ် နှင့် တသက်တာ ဝင်ထားသူများသာ ဖတ်ရှုနိုင်ပါသည်"
+    "message": "ကွန်ပျူတာ အမေးအဖြေများ ကို Supporter ၃ လ ၊ ၁ နှစ် နှင့် တသက်တာ ဝင်ထားသူများသာ ဖတ်ရှုနိုင်ပါသည်"
   },
   {
     "viewId": "typing_supporter_limit",
-    "message": "Typing ကို Supporter 3 လ ၊ ၁ နှစ် နှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
+    "message": "Typing ကို Supporter ၃ လ ၊ ၁ နှစ် နှင့် တသက်တာ ဝင်ထားသူများသာ အသုံးပြုနိုင်ပါသည်"
   },
   {
     "viewId": "supporter_intro_message",
@@ -25,15 +25,15 @@
   },
   {
     "viewId": "sup_daily_download_limit",
-    "message": "ယနေ့အတွက် Download လုပ်ခွင့် ကုန်ဆုံးသွားပါပြီ"
+    "message": "ယနေ့အတွက် Download ပြုလုပ်နိုင်သော အရေအတွက် ပြည့်သွားပါပြီ"
   },
   {
     "viewId": "daily_play_limit",
-    "message": "တနေ့တာ ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ ကြည့်ရှုလိုက်ပါ"
+    "message": "ယနေ့အတွက် ကြည့်ရှုနိုင်သော အရေအတွက် ပြည့်သွားပါပြီ။ ပိုမို ကြည့်ရှုနိုင်ရန် Supporter ဝင်လိုက်ပါ"
   },
   {
     "viewId": "sup_daily_play_limit",
-    "message": "ယနေ့အတွက် ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ"
+    "message": "ယနေ့အတွက် ကြည့်ရှုနိုင်သော အရေအတွက် ပြည့်သွားပါပြီ။ ပိုမို ကြည့်ရှုနိုင်ရန် Plan ကို Upgrade ပြုလုပ်လိုက်ပါ"
   },
   {
     "viewId": "play_supporter_limit",
@@ -129,7 +129,7 @@
   },
   {
     "viewId": "change_device_qr_message",
-    "message": "ဖုန်းအသစ်မှတစ်ဆင့် ဤ QR Code ကို Scan ဖတ်ပါ။ လုံခြုံရေးအရ ၁၀ မိနစ်အတွင်းသာ အသုံးပြုနိုင်ပါမည်။"
+    "message": "ဖုန်းအသစ်မှတစ်ဆင့် ဤ QR Code ကို Scan ဖတ်ပါ။ လုံခြုံရေးအရ ၁၀ မိနစ်အတွင်းသာ အသုံးပြုနိုင်ပါမည်"
   },
   {
     "viewId": "restore_new_device_info_message",
@@ -153,7 +153,7 @@
   },
   {
     "viewId": "preparing_change_device_qr",
-    "message": "QR Code ကို ပြင်ဆင်နေပါသည်... ခေတ္တစောင့်ဆိုင်းပေးပါ။"
+    "message": "QR Code ကို ပြင်ဆင်နေပါသည်... ခေတ္တစောင့်ဆိုင်းပေးပါ"
   },
   {
     "viewId": "change_device_failed_title",
@@ -161,7 +161,7 @@
   },
   {
     "viewId": "change_device_failed",
-    "message": "QR Code ပြင်ဆင်မှု မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်မံကြိုးစားကြည့်ပါ။"
+    "message": "QR Code ပြင်ဆင်မှု မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်မံကြိုးစားကြည့်ပါ"
   },
   {
     "viewId": "change_device_qr_expired_title",
@@ -169,7 +169,7 @@
   },
   {
     "viewId": "change_device_qr_expired",
-    "message": "လုံခြုံရေးအရ QR Code သက်တမ်းကုန်သွားပါသည်။ မူလဖုန်းမှ QR Code အသစ်ကို ထပ်မံရယူပေးပါ။"
+    "message": "လုံခြုံရေးအရ QR Code သက်တမ်းကုန်သွားပါသည်။ မူလဖုန်းမှ QR Code အသစ်ကို ထပ်မံရယူပေးပါ"
   },
   {
     "viewId": "change_device_qr_used_title",
@@ -177,7 +177,7 @@
   },
   {
     "viewId": "change_device_qr_used",
-    "message": "ဤ QR Code ကို အသုံးပြုပြီးဖြစ်၍ အသစ်ထပ်မံရယူကာ ပြန်လည်ကြိုးစားကြည့်ပါ။"
+    "message": "ဤ QR Code ကို အသုံးပြုပြီးဖြစ်၍ အသစ်ထပ်မံရယူကာ ပြန်လည်ကြိုးစားကြည့်ပါ"
   },
   {
     "viewId": "change_device_qr_invalid_title",
@@ -185,7 +185,7 @@
   },
   {
     "viewId": "change_device_qr_invalid",
-    "message": "မှန်ကန်သော Supporter QR Code မဟုတ်ပါ။ မူလဖုန်းရှိ QR Code ကိုသာ ပြန်လည် Scan ဖတ်ပေးပါ။"
+    "message": "မှန်ကန်သော Supporter QR Code မဟုတ်ပါ။ မူလဖုန်းရှိ QR Code ကိုသာ ပြန်လည် Scan ဖတ်ပေးပါ"
   },
   {
     "viewId": "scan_change_device_qr_title",
@@ -193,7 +193,7 @@
   },
   {
     "viewId": "scan_change_device_qr",
-    "message": "Supporter ဝင်ထားသော မူလဖုန်းမှ QR Code ကို ဤနေရာတွင် Scan ဖတ်ပါ။"
+    "message": "Supporter ဝင်ထားသော မူလဖုန်းမှ QR Code ကို ဤနေရာတွင် Scan ဖတ်ပါ"
   },
   {
     "viewId": "supporter_transfer_success_title",
@@ -201,7 +201,7 @@
   },
   {
     "viewId": "supporter_transfer_success_message",
-    "message": "Supporter ပြောင်းရွှေ့ခြင်း အောင်မြင်ပါသည်။ ယခုဖုန်းတွင် Supporter ကို စတင်အသုံးပြုနိုင်ပါပြီ။"
+    "message": "Supporter ပြောင်းရွှေ့ခြင်း အောင်မြင်ပါသည်။ ယခုဖုန်းတွင် Supporter ကို စတင်အသုံးပြုနိုင်ပါပြီ"
   },
   {
     "viewId": "supporter_transfer_old_device_title",
@@ -209,7 +209,7 @@
   },
   {
     "viewId": "supporter_transfer_old_device_message",
-    "message": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းရွှေ့ပြီးဖြစ်၍ ဤဖုန်းတွင် ဆက်လက်အသုံးပြုနိုင်မည် မဟုတ်ပါ။"
+    "message": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းရွှေ့ပြီးဖြစ်၍ ဤဖုန်းတွင် ဆက်လက်အသုံးပြုနိုင်မည် မဟုတ်ပါ"
   },
   {
     "viewId": "change_device_cooldown_title",
@@ -217,6 +217,6 @@
   },
   {
     "viewId": "change_device_cooldown",
-    "message": "Supporter ကို {days} ရက်လျှင် တစ်ကြိမ်သာ ဖုန်းပြောင်းရွှေ့ခွင့်ရှိပါသည်။ {date} နေ့တွင် ပြန်လည်ကြိုးစားပေးပါ။"
+    "message": "Supporter ကို {days} ရက်လျှင် တစ်ကြိမ်သာ ဖုန်းပြောင်းရွှေ့ခွင့်ရှိပါသည်။ {date} နေ့တွင် ပြန်လည်ကြိုးစားပေးပါ"
   }
 ]
