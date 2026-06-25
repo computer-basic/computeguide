@@ -24,8 +24,16 @@
     "message": "Supporter ဝင်ထားသူများသာ သင်ခန်းစာများကို Download လုပ်နိုင်ပါသည်"
   },
   {
+    "viewId": "sup_daily_download_limit",
+    "message": "ယနေ့အတွက် Download လုပ်ခွင့် ကုန်ဆုံးသွားပါပြီ"
+  },
+  {
     "viewId": "daily_play_limit",
     "message": "တနေ့တာ ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ Supporter ဝင်ပြီး အကန့်အသန့်မရှိ ကြည့်ရှုလိုက်ပါ"
+  },
+  {
+    "viewId": "sup_daily_play_limit",
+    "message": "ယနေ့အတွက် ကြည့်ရှုခွင့် ကုန်ဆုံးသွားပါပြီ"
   },
   {
     "viewId": "play_supporter_limit",
@@ -113,11 +121,15 @@
   },
   {
     "viewId": "change_device",
-    "message": "ဖုန်းပြောင်းရန်"
+    "message": "Change Device"
+  },
+  {
+    "viewId": "change_device_qr_title",
+    "message": "QR Ready"
   },
   {
     "viewId": "change_device_qr_message",
-    "message": "ဤ QR ကို ဖုန်းအသစ်မှ Scan ဖတ်ပါ။ ၁၀ မိနစ်အတွင်းသာ အသုံးပြုနိုင်ပါသည်"
+    "message": "ဖုန်းအသစ်မှတစ်ဆင့် ဤ QR Code ကို Scan ဖတ်ပါ။ လုံခြုံရေးအရ ၁၀ မိနစ်အတွင်းသာ အသုံးပြုနိုင်ပါမည်။"
   },
   {
     "viewId": "restore_new_device_info_message",
@@ -136,47 +148,75 @@
     "message": "Supporter ဝင်ရန် ဆက်သွယ်ရန်"
   },
   {
+    "viewId": "preparing_change_device_qr_title",
+    "message": "Generating QR"
+  },
+  {
     "viewId": "preparing_change_device_qr",
-    "message": "ဖုန်းပြောင်းရန် QR Code ကို ပြင်ဆင်နေပါသည်"
+    "message": "QR Code ကို ပြင်ဆင်နေပါသည်... ခေတ္တစောင့်ဆိုင်းပေးပါ။"
+  },
+  {
+    "viewId": "change_device_failed_title",
+    "message": "Generation Failed"
   },
   {
     "viewId": "change_device_failed",
-    "message": "ဖုန်းပြောင်းရန် QR Code ပြင်ဆင်၍မရပါ။ အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်မံကြိုးစားပါ"
+    "message": "QR Code ပြင်ဆင်မှု မအောင်မြင်ပါ။ ကျေးဇူးပြု၍ အင်တာနက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်မံကြိုးစားကြည့်ပါ။"
+  },
+  {
+    "viewId": "change_device_qr_expired_title",
+    "message": "QR Expired"
   },
   {
     "viewId": "change_device_qr_expired",
-    "message": "QR Code သက်တမ်းကုန်သွားပါပြီ။ မူလဖုန်းမှ QR Code အသစ် ပြန်လည်ရယူပါ"
+    "message": "လုံခြုံရေးအရ QR Code သက်တမ်းကုန်သွားပါသည်။ မူလဖုန်းမှ QR Code အသစ်ကို ထပ်မံရယူပေးပါ။"
+  },
+  {
+    "viewId": "change_device_qr_used_title",
+    "message": "QR Already Used"
   },
   {
     "viewId": "change_device_qr_used",
-    "message": "ဤ QR Code ကို အသုံးပြုပြီးဖြစ်ပါသည်"
+    "message": "ဤ QR Code ကို အသုံးပြုပြီးဖြစ်၍ အသစ်ထပ်မံရယူကာ ပြန်လည်ကြိုးစားကြည့်ပါ။"
+  },
+  {
+    "viewId": "change_device_qr_invalid_title",
+    "message": "Invalid QR"
   },
   {
     "viewId": "change_device_qr_invalid",
-    "message": "မှားယွင်းသော QR Code ဖြစ်ပါသည်"
+    "message": "မှန်ကန်သော Supporter QR Code မဟုတ်ပါ။ မူလဖုန်းရှိ QR Code ကိုသာ ပြန်လည် Scan ဖတ်ပေးပါ။"
+  },
+  {
+    "viewId": "scan_change_device_qr_title",
+    "message": "Scan QR"
   },
   {
     "viewId": "scan_change_device_qr",
-    "message": "မူလ Supporter ဖုန်းတွင် ပြသထားသော QR Code ကို Scan ဖတ်ပါ"
+    "message": "Supporter ဝင်ထားသော မူလဖုန်းမှ QR Code ကို ဤနေရာတွင် Scan ဖတ်ပါ။"
   },
   {
     "viewId": "supporter_transfer_success_title",
-    "message": "Supporter ပြောင်းရွှေ့ခြင်း အောင်မြင်ပါသည်"
+    "message": "Transfer Successful"
   },
   {
     "viewId": "supporter_transfer_success_message",
-    "message": "ယခုဖုန်းတွင် Supporter ကို စတင်အသုံးပြုနိုင်ပါပြီ"
+    "message": "Supporter ပြောင်းရွှေ့ခြင်း အောင်မြင်ပါသည်။ ယခုဖုန်းတွင် Supporter ကို စတင်အသုံးပြုနိုင်ပါပြီ။"
   },
   {
     "viewId": "supporter_transfer_old_device_title",
-    "message": "ဖုန်းပြောင်းရွှေ့ပြီးပါပြီ"
+    "message": "Device Transferred"
   },
   {
     "viewId": "supporter_transfer_old_device_message",
-    "message": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းပြီးဖြစ်၍ ဤဖုန်းတွင် ဆက်လက်အသုံးပြု၍ မရတော့ပါ"
+    "message": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းရွှေ့ပြီးဖြစ်၍ ဤဖုန်းတွင် ဆက်လက်အသုံးပြုနိုင်မည် မဟုတ်ပါ။"
+  },
+  {
+    "viewId": "change_device_cooldown_title",
+    "message": "Transfer Limit"
   },
   {
     "viewId": "change_device_cooldown",
-    "message": "Supporter ဖုန်းပြောင်းခြင်းကို {days} ရက်တွင် ၁ ကြိမ်သာ ပြုလုပ်နိုင်ပါသည်။ {date} တွင် ပြန်လည်ကြိုးစားပါ"
+    "message": "Supporter ကို {days} ရက်လျှင် တစ်ကြိမ်သာ ဖုန်းပြောင်းရွှေ့ခွင့်ရှိပါသည်။ {date} နေ့တွင် ပြန်လည်ကြိုးစားပေးပါ။"
   }
 ]
