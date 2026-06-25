@@ -174,5 +174,9 @@
   {
     "viewId": "supporter_transfer_old_device_message",
     "message": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းပြီးဖြစ်၍ ဤဖုန်းတွင် ဆက်လက်အသုံးပြု၍ မရတော့ပါ"
+  },
+  {
+    "viewId": "change_device_cooldown",
+    "message": "Supporter ဖုန်းပြောင်းခြင်းကို {days} ရက်တွင် ၁ ကြိမ်သာ ပြုလုပ်နိုင်ပါသည်။ {date} တွင် ပြန်လည်ကြိုးစားပါ"
   }
 ]
