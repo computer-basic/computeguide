@@ -66,8 +66,8 @@
   "launchAd": {
     "active": true,
     "id": "supporter_campaign_001",
-    "imageUrl": "https://example.com/ads/supporter-phone.jpg",
-    "tabletImageUrl": "https://example.com/ads/supporter-tablet.jpg",
+    "imageUrl": "https://i.postimg.cc/9fmbYFSq/girl-with-red-hat-Z6SXt1v5t-P8-unsplash.jpg",
+    "tabletImageUrl": "https://i.postimg.cc/9fmbYFSq/girl-with-red-hat-Z6SXt1v5t-P8-unsplash.jpg",
     "clickable": true,
     "clickType": "screen",
     "destination": "typing",
