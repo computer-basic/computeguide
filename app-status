@@ -63,6 +63,18 @@
       }
     }
   },
+  "launchAd": {
+    "active": true,
+    "id": "supporter_campaign_001",
+    "imageUrl": "https://example.com/ads/supporter-phone.jpg",
+    "tabletImageUrl": "https://example.com/ads/supporter-tablet.jpg",
+    "clickable": true,
+    "clickType": "screen",
+    "destination": "typing",
+    "skipSeconds": 5,
+    "showForSupporter": true,
+    "showForFreeUser": true
+  },
   "campaign": false,
   "appCampaign": false,
   "campaignUrl": "",
