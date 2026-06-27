@@ -2,103 +2,23 @@
   "title": "Terms & Policy",
   "subtitle": "Please read before using supporter features.",
   "effectiveDate": "2026-06-28",
-  "intro": "These terms explain what users can and cannot do inside MM Computer Guide.",
+  "intro": "These terms explain app usage, supporter access, payment review, and account rules.",
   "sections": [
     {
       "title": "Supporter Access",
-      "body": "Supporter access is for the registered user and allowed device only.",
-      "can": [
-        "Use supporter features based on your supporter level.",
-        "Watch lessons inside the app.",
-        "Download allowed content if your plan supports it."
-      ],
-      "cannot": [
-        "Share supporter access key with other users.",
-        "Sell or transfer supporter access without permission.",
-        "Use one supporter access on multiple devices without permission.",
-        "Bypass locked supporter features."
+      "body": "Supporter access is provided based on the selected plan and app rules.",
+      "items": [
+        "Supporter access is for the registered user and allowed device only.",
+        "Supporter features may depend on supporter level.",
+        "Sharing supporter access keys with other users is not allowed.",
+        "Selling or transferring supporter access without permission is not allowed.",
+        "Bypassing locked supporter features is not allowed."
       ],
       "notes": [
         "Supporter access may be limited by plan, device, and app rules."
       ]
-    },
-    {
-      "title": "Payment & Refund",
-      "body": "Payments are reviewed before supporter access is activated.",
-      "can": [
-        "Submit valid payment proof for supporter activation.",
-        "Contact support for duplicate or wrong payments."
-      ],
-      "cannot": [
-        "Submit fake or reused payment proof.",
-        "Request a refund after supporter access has already been activated, except reviewed special cases."
-      ],
-      "notes": [
-        "Duplicate payments and technical issues may be reviewed by support."
-      ]
-    },
-    {
-      "title": "Device Change & Restore",
-      "body": "Device change and restore requests are controlled for security.",
-      "can": [
-        "Request device change when allowed by your supporter plan.",
-        "Contact support if you lose your old device."
-      ],
-      "cannot": [
-        "Abuse the restore or change-device system.",
-        "Transfer supporter access to another person without permission."
-      ],
-      "notes": [
-        "Device change cooldown may apply.",
-        "Suspicious restore requests may be rejected."
-      ]
-    },
-    {
-      "title": "Content Usage",
-      "body": "Lessons, books, videos, and app materials are provided for personal learning.",
-      "can": [
-        "Use app content for personal study.",
-        "Download allowed files for your own learning if your plan supports it."
-      ],
-      "cannot": [
-        "Re-upload videos, books, files, or lessons.",
-        "Record supporter lessons and share publicly.",
-        "Sell or redistribute app content."
-      ],
-      "notes": [
-        "Violation may result in supporter access suspension."
-      ]
-    },
-    {
-      "title": "Account Suspension",
-      "body": "We may suspend access when abuse, fraud, or policy violations are found.",
-      "can": [
-        "Contact support if you believe suspension was a mistake."
-      ],
-      "cannot": [
-        "Use modified APKs.",
-        "Attack, abuse, or bypass app security.",
-        "Use fake payment or fake supporter information."
-      ],
-      "notes": [
-        "Suspended access may not be refunded."
-      ]
-    },
-    {
-      "title": "Privacy",
-      "body": "We may collect necessary information to provide supporter access and app support.",
-      "can": [
-        "Contact support to ask about your supporter information."
-      ],
-      "cannot": [
-        "Use another person's information without permission."
-      ],
-      "notes": [
-        "Collected data may include name, contact information, device information, payment proof, and usage/security logs.",
-        "Data is used for supporter verification, restore, security, and support."
-      ]
     }
   ],
-  "contactText": "Contact support for questions",
-  "contactUrl": "https://m.me/yourpage"
+  "contactText": "Contact support for payment or account issues.",
+  "contactUrl": "https://example.com/support"
 }
