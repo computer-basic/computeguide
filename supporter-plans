@@ -2,16 +2,16 @@
   {
     "plan": "၁ လ (1 Month)",
     "badge": "Basic",
-    "amount": "4,000 MMK",
+    "amount": "5,000 MMK",
     "originalAmount": "",
     "features": [
       {
         "icon": "https://i.imgur.com/Tq9Ud3r.png",
-        "description": "နေ့စဉ် သင်ခန်းစာ 5 ပုဒ် ကြည့်ရှုနိုင်ခြင်း"
+        "description": "နေ့စဉ် သင်ခန်းစာ ၁၅ ပုဒ် ကြည့်ရှုနိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/XmVBfht.png",
-        "description": "နေ့စဉ် သင်ခန်းစာ 5 ပုဒ် download လုပ်နိုင်ခြင်း"
+        "description": "နေ့စဉ် သင်ခန်းစာ ၅ ပုဒ် download လုပ်နိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/cYYz3ct.png",
@@ -30,16 +30,28 @@
   {
     "plan": "၃ လ (3 Months)",
     "badge": "Popular",
-    "amount": "8,000 MMK",
+    "amount": "10,000 MMK",
     "originalAmount": "",
     "features": [
       {
         "icon": "https://i.imgur.com/Tq9Ud3r.png",
-        "description": "နေ့စဉ် သင်ခန်းစာ 8 ပုဒ် ကြည့်ရှုနိုင်ခြင်း"
+        "description": "နေ့စဉ် သင်ခန်းစာ ၃၀ ပုဒ် ကြည့်ရှုနိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/XmVBfht.png",
-        "description": "နေ့စဉ် သင်ခန်းစာ 5 ပုဒ် download လုပ်နိုင်ခြင်း"
+        "description": "နေ့စဉ် သင်ခန်းစာ ၁၀ ပုဒ် download လုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/pU3eLQy.png",
+        "description": "Typing (English/Myanmar) လေ့ကျင့်ခန်းများ ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/certificate.png",
+        "description": "Certificate (သင်ခန်းစာ နှင့် Typing) များ ရယူနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/pWgcRLg.png",
+        "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/cYYz3ct.png",
@@ -48,14 +60,6 @@
       {
         "icon": "https://i.imgur.com/y99X82J.png",
         "description": "ကြော်ညာများမမြင်ရခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/pU3eLQy.png",
-        "description": "မြန်မာစာ Typing အသုံးပြုနိုင်ခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/pWgcRLg.png",
-        "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/tFyIKgS.png",
@@ -66,44 +70,8 @@
   {
     "plan": "တစ်နှစ် (1 Year)",
     "badge": "Best Value",
-    "amount": "15,000 MMK",
+    "amount": "18,000 MMK",
     "originalAmount": "",
-    "features": [
-      {
-        "icon": "https://i.imgur.com/Tq9Ud3r.png",
-        "description": "နေ့စဉ် သင်ခန်းစာ 12 ပုဒ် ကြည့်ရှုနိုင်ခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/XmVBfht.png",
-        "description": "နေ့စဉ် သင်ခန်းစာ 10 ပုဒ် download လုပ်နိုင်ခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/cYYz3ct.png",
-        "description": "Offline အသုံးပြုနိုင်ခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/y99X82J.png",
-        "description": "ကြော်ညာများမမြင်ရခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/pU3eLQy.png",
-        "description": "မြန်မာစာ Typing အသုံးပြုနိုင်ခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/pWgcRLg.png",
-        "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
-      },
-      {
-        "icon": "https://i.imgur.com/tFyIKgS.png",
-        "description": "MM Computer Guide အားကူညီထောက်ပံ့ရာရောက်ခြင်း"
-      }
-    ]
-  },
-  {
-    "plan": "တစ်သက်တာ (Lifetime)",
-    "badge": "Premium",
-    "amount": "30,000 MMK",
-    "originalAmount": "23,000 MMK",
     "features": [
       {
         "icon": "https://i.imgur.com/Tq9Ud3r.png",
@@ -114,6 +82,22 @@
         "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
       },
       {
+        "icon": "https://i.imgur.com/pU3eLQy.png",
+        "description": "Typing (English/Myanmar) လေ့ကျင့်ခန်းများ ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/certificate.png",
+        "description": "Certificate (သင်ခန်းစာ နှင့် Typing) များ ရယူနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/save.png",
+        "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/pWgcRLg.png",
+        "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
+      },
+      {
         "icon": "https://i.imgur.com/cYYz3ct.png",
         "description": "Offline အသုံးပြုနိုင်ခြင်း"
       },
@@ -122,12 +106,48 @@
         "description": "ကြော်ညာများမမြင်ရခြင်း"
       },
       {
+        "icon": "https://i.imgur.com/tFyIKgS.png",
+        "description": "MM Computer Guide အားကူညီထောက်ပံ့ရာရောက်ခြင်း"
+      }
+    ]
+  },
+  {
+    "plan": "တစ်သက်တာ (Lifetime)",
+    "badge": "Premium",
+    "amount": "26,000 MMK",
+    "originalAmount": "",
+    "features": [
+      {
+        "icon": "https://i.imgur.com/Tq9Ud3r.png",
+        "description": "သင်ခန်းစာ အားလုံးကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/XmVBfht.png",
+        "description": "သင်ခန်းစာများအား အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
         "icon": "https://i.imgur.com/pU3eLQy.png",
-        "description": "မြန်မာစာ Typing အသုံးပြုနိုင်ခြင်း"
+        "description": "Typing (English/Myanmar) လေ့ကျင့်ခန်းများ ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/certificate.png",
+        "description": "Certificate (သင်ခန်းစာ နှင့် Typing) များ ရယူနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/save.png",
+        "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/pWgcRLg.png",
         "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/cYYz3ct.png",
+        "description": "Offline အသုံးပြုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/y99X82J.png",
+        "description": "ကြော်ညာများမမြင်ရခြင်း"
       },
       {
         "icon": "https://i.imgur.com/tFyIKgS.png",
