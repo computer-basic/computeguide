@@ -1,77 +1,77 @@
 {
-    "question": "MM Computer Guide 2.0 တွင်ပါဝင်သော function အသစ်များ",
-    "answer": [
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာသင်ခန်းစာ video များကို လေ့လာ သင်ယူနိုင်သောနေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာ နည်းပညာ နှင့်သက်ဆိုင်သော စာအုပ်များ ကိုဖတ်နိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာ Typing လက်ကွက် ကို English နဲ့ မြန်မာ ( unicode, zawgyi ) 2 မျိုးလုံးလေ့ကျင့်နိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာ အမေးအဖြေများကို ဖတ်ရှုနိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာ ဉာဏ်စမ်းများ လေ့ကျင့်နိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာ shortcut key များကို အလွယ်တကူ ကြည့်ရှုနိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာ အရောင်းဆိုင်တွေ service ဆိုင်တွေရဲ့ လိပ်စာ ဖုန်းနံပါတ်တွေကိုကြည့်နိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "ကွန်ပျူတာ ဝယ်မည့်သူများ အတွက် လိုအပ်သော computer specification ကို ကြည့်ရှုနိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        },
-        {
-            "photo": "",
-            "text": "MM Computer Guide အတွက် supporter ဝင်နိုင်သော နေရာ",
-            "url": "",
-            "urlDesc": "",
-            "tutorial": "",
-            "tutorialDesc": ""
-        }
-    ]
+  "question": "MM Computer Guide 2.0 တွင်ပါဝင်သော functions အသစ်များ",
+  "answer": [
+    {
+      "photo": "https://i.postimg.cc/SRkyQtNr/IMG-20260628-170644-835.png",
+      "text": "လက်ကွက်စတင်လေ့ကျင့်မည့်သူများအတွက် English နှင့် Myanmar လက်ကွက်လေ့ကျင့်ခန်း အသစ်များကို ထည့်သွင်းပေးထားပြီး အဆင့်လိုက် အလွယ်တကူ လေ့ကျင့်နိုင်မှာဖြစ်ပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.postimg.cc/HnzTr4VM/IMG-20260628-170746-784.png",
+      "text": "လက်ကွက်လေ့ကျင့်နေစဉ် Keyboard ပေါ်မှရိုက်ရမယ့် Key ကို တစ်ပါတည်း ပြသပေးထားပြီး ဖုန်းကို လှဲပြီးလည်း အသုံးပြုနိုင်ပါတယ်။ ဒါ့အပြင် လေ့ကျင့်မှုအပြီးမှာ ကိုယ့်ရဲ့ ရိုက်နှုန်း (WPM)၊ မှန်ကန်မှု (Accuracy) နဲ့ ဘယ် Key တွေမှာ အားနည်းနေလဲ ဆိုတဲ့ Result တွေကိုလည်း Report အနေနဲ့ အသေးစိတ် ပြန်ကြည့်နိုင်မှာ ဖြစ်ပါတယ်။ မြန်မာလက်ကွက်အတွက် မြန်မာ Font ပြောင်းနည်းကိုလည်း အဆင့်လိုက် ပြသပေးထားပါတယ်။",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.postimg.cc/XJgRLN4v/photo-2569-06-28-5-12-40-PM.jpg",
+      "text": "Supporter (၃) လနှင့်အထက် အသုံးပြုသူများအနေဖြင့် English နှင့် Myanmar လက်ကွက်သင်ခန်းစာ အားလုံးကို လေ့ကျင့်ပြီးပါက Certificate ကို ထုတ်ပြီး Photo ထဲသို့ Save လုပ်နိုင်မှာ ဖြစ်ပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "https://i.postimg.cc/tJBHqqM3/rubaitul-azad-Gau-A0hi-Ew-Dk-unsplash.jpg",
+      "text": "Excel Formula အပိုင်းအသစ်ကိုလည်း ထည့်သွင်းပေးထားပြီး သိထားသင့်သော Excel Formula များကို ဥပမာများနှင့်တကွ ရှင်းလင်းစွာ လေ့လာနိုင်မည် ဖြစ်ပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "",
+      "text": "Video Player အပိုင်းကိုလည်း ပိုအဆင်ပြေသွားအောင် အဆင့်မြှင့်ပေးထားပါတယ်။ သင်ခန်းစာ Video တွေကို ဖုန်းကို လှဲပြီး ကြည့်လို့ရသလို၊ လက်ရှိကြည့်နေတာက Online ကနေလား၊ Offline ကနေလား ဆိုတာကိုပါ အလွယ်တကူ သိနိုင်မှာပါ။ ဒါ့အပြင် Picture-in-Picture စနစ်နဲ့လည်း အဆင်ပြေပြေ ကြည့်လို့ရနေပြီ ဖြစ်ပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "",
+      "text": "စာအုပ်ဖတ်ရှုရာတွင် ပိုမိုရှင်းလင်းလွယ်ကူစေရန် Design ကို ပြင်ဆင်ပေးထားပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "",
+      "text": "Supporter Plan များ၏ အသုံးပြုခွင့်အချို့ကိုလည်း ပြောင်းလဲထားပါတယ်။ Free အသုံးပြုသူများအနေဖြင့် နမူနာသင်ခန်းစာအချို့ကိုသာ အသုံးပြုနိုင်မည်ဖြစ်ပြီး၊ မိမိဝယ်ယူထားသော Supporter Plan အလိုက် သင်ခန်းစာများ ကြည့်ရှုနိုင်ခွင့်နှင့် ဒေါင်းလုဒ်ရယူနိုင်ခွင့်များ ကွာခြားမှုရှိမည် ဖြစ်ပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "",
+      "text": "Supporter (၃) လနှင့်အထက် အသုံးပြုသူများအတွက် Video သင်ခန်းစာများနှင့် စာအုပ်များကို တစ်ပြိုင်နက်တည်း Download လုပ်နိုင်တော့မှာဖြစ်ပြီး ယခင်က Download ဆွဲ၍မရခဲ့သော သင်ခန်းစာတွေကိုပါ ယခုအခါ Offline ကြည့်ရှုနိုင်ရန် Download ဆွဲနိုင်မှာဖြစ်ပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    },
+    {
+      "photo": "",
+      "text": "ထို့အပြင် Supporter (၁) နှစ်နှင့် တစ်သက်တာ အသုံးပြုသူများအနေဖြင့်မူ Download လုပ်ထားသော သင်ခန်းစာများကို မိမိဖုန်းထဲတွင်ပါ သိမ်းဆည်းအသုံးပြုနိုင်မည် ဖြစ်ပါတယ်",
+      "url": "",
+      "urlDesc": "",
+      "tutorial": "",
+      "tutorialDesc": ""
+    }
+  ]
 }
