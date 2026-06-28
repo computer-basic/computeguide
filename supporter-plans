@@ -94,6 +94,10 @@
         "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
       },
       {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/change-device.png",
+        "description": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းနိုင်ခြင်း"
+      },
+      {
         "icon": "https://i.imgur.com/pWgcRLg.png",
         "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
       },
@@ -136,6 +140,10 @@
       {
         "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/save.png",
         "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/change-device.png",
+        "description": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းနိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/pWgcRLg.png",
