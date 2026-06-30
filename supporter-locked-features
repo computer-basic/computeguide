@@ -1,0 +1,60 @@
+[
+  {
+    "level": 1,
+    "features": [
+      {
+        "icon": "https://i.imgur.com/Tq9Ud3r.png",
+        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/XmVBfht.png",
+        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/pU3eLQy.png",
+        "description": "Typing (English/Myanmar) လေ့ကျင့်ခန်းများ ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/certificate.png",
+        "description": "Certificate (သင်ခန်းစာ နှင့် Typing) များ ရယူနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/pWgcRLg.png",
+        "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/save.png",
+        "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/change-device.png",
+        "description": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းနိုင်ခြင်း"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "features": [
+      {
+        "icon": "https://i.imgur.com/Tq9Ud3r.png",
+        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+      },
+      {
+        "icon": "https://i.imgur.com/XmVBfht.png",
+        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/save.png",
+        "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/change-device.png",
+        "description": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းနိုင်ခြင်း"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "features": []
+  }
+]
