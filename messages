@@ -29,7 +29,7 @@
   },
   {
     "viewId": "sup_daily_download_limit_title",
-    "message": "Supporter Required"
+    "message": "Limit reached"
   },
   {
     "viewId": "sup_daily_download_limit",
@@ -40,8 +40,20 @@
     "message": "ယနေ့အတွက် ကြည့်ရှုနိုင်သော အရေအတွက် ပြည့်သွားပါပြီ။ ပိုမို ကြည့်ရှုနိုင်ရန် Supporter ဝင်လိုက်ပါ"
   },
   {
+    "viewId": "daily_play_limit_title",
+    "message": "Limit reached"
+  },
+  {
+    "viewId": "play_supporter_limit_title",
+    "message": "Supporter Exclusive"
+  },
+  {
     "viewId": "sup_daily_play_limit",
     "message": "ယနေ့အတွက် ကြည့်ရှုနိုင်သော အရေအတွက် ပြည့်သွားပါပြီ။ ပိုမို ကြည့်ရှုနိုင်ရန် Plan ကို Upgrade ပြုလုပ်လိုက်ပါ"
+  },
+  {
+    "viewId": "sup_daily_play_limit_title",
+    "message": "Limit reached"
   },
   {
     "viewId": "play_supporter_limit",
