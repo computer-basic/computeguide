@@ -66,8 +66,8 @@
   "launchAd": {
     "active": true,
     "id": "supporter_campaign_001",
-    "imageUrl": "https://i.postimg.cc/9fmbYFSq/girl-with-red-hat-Z6SXt1v5t-P8-unsplash.jpg",
-    "tabletImageUrl": "https://i.postimg.cc/9fmbYFSq/girl-with-red-hat-Z6SXt1v5t-P8-unsplash.jpg",
+    "imageUrl": "https://i.postimg.cc/yYzWrnLs/Your-paragraph-text.png",
+    "tabletImageUrl": "https://i.postimg.cc/yYzWrnLs/Your-paragraph-text.png",
     "clickable": true,
     "clickType": "screen",
     "destination": "typing",
