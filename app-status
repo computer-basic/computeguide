@@ -66,8 +66,8 @@
   "launchAd": {
     "active": true,
     "id": "supporter_campaign_001",
-    "imageUrl": "https://i.postimg.cc/yYzWrnLs/Your-paragraph-text.png",
-    "tabletImageUrl": "https://i.postimg.cc/yYzWrnLs/Your-paragraph-text.png",
+    "imageUrl": "https://i.postimg.cc/3Jvr7GcK/Your-paragraph-text-(1).png",
+    "tabletImageUrl": "https://i.postimg.cc/3Jvr7GcK/Your-paragraph-text-(1).png",
     "clickable": true,
     "clickType": "screen",
     "destination": "typing",
