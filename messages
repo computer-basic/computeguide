@@ -20,6 +20,10 @@
     "message": "Supporter ဝင်လျှင် ရရှိမည့် အကျိုးကျေးဇူးများ"
   },
   {
+    "viewId": "daily_download_limit_title",
+    "message": "Supporter Required"
+  },
+  {
     "viewId": "daily_download_limit",
     "message": "Supporter ဝင်ထားသူများသာ သင်ခန်းစာများကို Download လုပ်နိုင်ပါသည်"
   },
