@@ -7,25 +7,25 @@
     "price": [
         {
             "duration": "၁ လ",
-            "amount": "4,000 MMK",
+            "amount": "5,000 MMK",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay"
         },
         {
             "duration": "၃ လ",
-            "amount": "8,000 MMK/100 THB",
+            "amount": "10,000 MMK/100 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "၁ နှစ်",
-            "amount": "15,000 MMK/180 THB",
+            "amount": "18,000 MMK/180 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         },
         {
             "duration": "တစ်သက်တာ",
-            "amount": "23,000 MMK/260 THB",
+            "amount": "28,000 MMK/260 THB",
             "discountAmount": "",
             "type": "KBZPay/Wave Pay/Thai Banks"
         }
