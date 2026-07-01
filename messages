@@ -253,6 +253,14 @@
   },
   {
     "viewId": "supporter_lost_message",
-    "message": "Supporter ပြောင်းသွားပါပြီ"
+    "message": "This supporter access is no longer active on this device. Please restore supporter or contact us if this is a mistake."
+  },
+  {
+    "viewId": "notification_permission_title",
+    "message": "Allow download notifications"
+  },
+  {
+    "viewId": "notification_permission_message",
+    "message": "Allow notifications to see video download progress, completion, and errors while using the app or other apps."
   }
 ]
