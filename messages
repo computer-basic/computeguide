@@ -246,5 +246,13 @@
   {
     "viewId": "supporter_expire_message",
     "message": "Supporter သက်တမ်း ကုန်ဆုံးသွားပါပြီ။ Supporter Features များကို ဆက်လက်အသုံးပြုနိုင်ရန်အတွက် သက်တမ်းတိုးပေးပါ"
+  },
+  {
+    "viewId": "supporter_lost_title",
+    "message": "Supporter access changed"
+  },
+  {
+    "viewId": "supporter_lost_message",
+    "message": "This supporter access is no longer active on this device. Please restore supporter or contact us if this is a mistake."
   }
 ]
