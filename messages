@@ -238,5 +238,13 @@
   {
     "viewId": "change_device_cooldown",
     "message": "Supporter ကို {days} ရက်လျှင် တစ်ကြိမ်သာ ဖုန်းပြောင်းရွှေ့ခွင့်ရှိပါသည်။ {date} နေ့တွင် ပြန်လည်ကြိုးစားပေးပါ"
+  },
+  {
+    "viewId": "supporter_expire_title",
+    "message": "Supporter Expired"
+  },
+  {
+    "viewId": "supporter_expire_message",
+    "message": "Supporter သက်တမ်း ကုန်ဆုံးသွားပါပြီ။ Supporter Features များကို ဆက်လက်အသုံးပြုနိုင်ရန်အတွက် သက်တမ်းတိုးပေးပါ"
   }
 ]
