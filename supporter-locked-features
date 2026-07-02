@@ -1,60 +1,63 @@
 [
   {
     "level": 1,
+    "message": "Supporter ၁ နှစ် (သို့) တစ်သက်တာ Plan သို့ Upgrade ပြုလုပ်ပြီး အသုံးပြုနိုင်မယ့် Feature များ",
     "features": [
       {
         "icon": "https://i.imgur.com/Tq9Ud3r.png",
-        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+        "description": "သင်ခန်းစာများကို အကန့်အသတ်မရှိ ကြည့်ရှုနိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/XmVBfht.png",
-        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+        "description": "သင်ခန်းစာများကို အကန့်အသတ်မရှိ Download ရယူနိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/pU3eLQy.png",
-        "description": "Typing (English/Myanmar) လေ့ကျင့်ခန်းများ ပြုလုပ်နိုင်ခြင်း"
+        "description": "English နှင့် Myanmar လက်ကွက်လေ့ကျင့်ခန်းများ ပြုလုပ်နိုင်ခြင်း"
       },
       {
         "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/certificate.png",
-        "description": "Certificate (သင်ခန်းစာ နှင့် Typing) များ ရယူနိုင်ခြင်း"
+        "description": "သင်ခန်းစာနှင့် လက်ကွက်အတွက် Certificate များ ထုတ်ယူနိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/pWgcRLg.png",
-        "description": "ကွန်ပြူတာ အမေးအဖြေများ ဖတ်နိုင်ခြင်း"
+        "description": "ကွန်ပျူတာ အမေးအဖြေများကို ဖတ်ရှုနိုင်ခြင်း"
       },
       {
         "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/save-video.png",
-        "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
+        "description": "သင်ခန်းစာများကို မိမိဖုန်းထဲတွင် တိုက်ရိုက် Save ထားနိုင်ခြင်း"
       },
       {
         "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/change-device.png",
-        "description": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းနိုင်ခြင်း"
+        "description": "ဖုန်းအသစ်ပြောင်းသည့်အခါ Supporter ကိုပါ ရွှေ့ပြောင်းနိုင်ခြင်း"
       }
     ]
   },
   {
     "level": 2,
+    "message": "Supporter ၁ နှစ် (သို့) တစ်သက်တာ Plan သို့ Upgrade ပြုလုပ်ပြီး အသုံးပြုနိုင်မယ့် Feature များ",
     "features": [
       {
         "icon": "https://i.imgur.com/Tq9Ud3r.png",
-        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ ကြည့်ရှုနိုင်ခြင်း"
+        "description": "သင်ခန်းစာများကို အကန့်အသတ်မရှိ ကြည့်ရှုနိုင်ခြင်း"
       },
       {
         "icon": "https://i.imgur.com/XmVBfht.png",
-        "description": "သင်ခန်းစာများကို အကန့်အသန့်မရှိ download ပြုလုပ်နိုင်ခြင်း"
+        "description": "သင်ခန်းစာများကို အကန့်အသတ်မရှိ Download ရယူနိုင်ခြင်း"
       },
       {
         "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/save-video.png",
-        "description": "သင်ခန်းစာများကို ဖုန်းထဲသို့ တိုက်ရိုက် Save နိုင်ခြင်း"
+        "description": "သင်ခန်းစာများကို မိမိဖုန်းထဲတွင် တိုက်ရိုက် Save ထားနိုင်ခြင်း"
       },
       {
         "icon": "https://raw.githubusercontent.com/computer-basic/tayar/main/supporter-feature/change-device.png",
-        "description": "Supporter ကို ဖုန်းအသစ်သို့ ပြောင်းနိုင်ခြင်း"
+        "description": "ဖုန်းအသစ်ပြောင်းသည့်အခါ Supporter ကိုပါ ရွှေ့ပြောင်းနိုင်ခြင်း"
       }
     ]
   },
   {
     "level": 3,
+    "message": "",
     "features": []
   }
 ]
