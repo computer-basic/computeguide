@@ -1,24 +1,65 @@
 {
-  "title": "Terms & Policy",
-  "subtitle": "Please read before using supporter features.",
-  "effectiveDate": "2026-06-28",
-  "intro": "These terms explain app usage, supporter access, payment review, and account rules.",
+  "title": "စည်းကမ်းချက်များနှင့် မူဝါဒ",
+  "subtitle": "Supporter Feature များကို မအသုံးပြုမီ ဖတ်ရှုပေးပါရန်။",
+  "effectiveDate": "2026-07-02",
+  "intro": "ဒီစည်းကမ်းချက်တွေမှာ Supporter အသုံးပြုခွင့်၊ ငွေပေးချေမှု၊ ဖုန်းပြောင်းလဲအသုံးပြုခြင်း၊ Certificate ရယူခြင်းနဲ့ Offline အသုံးပြုခြင်းတွေအကြောင်း ရှင်းလင်းထားပါတယ်။",
   "sections": [
     {
-      "title": "Supporter Access",
-      "body": "Supporter access is provided based on the selected plan and app rules.",
+      "title": "Supporter Plan များ",
+      "body": "Supporter Feature တွေက ရွေးချယ်ထားတဲ့ Plan အပေါ်မူတည်ပြီး ကွာခြားမှုရှိနိုင်ပါတယ်။ Plan တစ်ခုချင်းစီရဲ့ အသေးစိတ်ကို App ထဲက Supporter Screen မှာ ဝင်ရောက်ကြည့်ရှုနိုင်ပါတယ်။",
       "items": [
-        "Supporter access is for the registered user and allowed device only.",
-        "Supporter features may depend on supporter level.",
-        "Sharing supporter access keys with other users is not allowed.",
-        "Selling or transferring supporter access without permission is not allowed.",
-        "Bypassing locked supporter features is not allowed."
-      ],
-      "notes": [
-        "Supporter access may be limited by plan, device, and app rules."
+        "တချို့သော Feature တွေကို မြင့်မားတဲ့ Supporter Plan တွေမှာသာ အသုံးပြုနိုင်ပါမယ်။",
+        "Supporter အသုံးပြုခွင့်ကို စာရင်းသွင်းထားတဲ့ User နဲ့ ခွင့်ပြုထားတဲ့ ဖုန်း(Device) မှာသာ အသုံးပြုခွင့် ရရှိမှာဖြစ်ပါတယ်။"
+      ]
+    },
+    {
+      "title": "Restore လုပ်ခြင်းနှင့် ဖုန်းပြောင်းလဲအသုံးပြုခြင်း",
+      "body": "App Data ကို Clear လုပ်လိုက်တာ ဒါမှမဟုတ် App ကို ဖျက်လိုက်တာမျိုးတွေ လုပ်ခဲ့ရင် Supporter အသုံးပြုခွင့် ပျောက်သွားနိုင်ပါတယ်။",
+      "items": [
+        "Supporter အသုံးပြုခွင့် ပျောက်သွားခဲ့ရင် Supporter သုံးထားတဲ့ အရင်ဖုန်းရဲ့ Restore Screen ကနေ ပြန်လည်ရယူနိုင်ပါတယ်။",
+        "Supporter ၁ နှစ်နဲ့ တစ်သက်တာ သမားများသာ ဖုန်းအသစ် ဒါမှမဟုတ် Device အသစ်ကို ပြောင်းလဲအသုံးပြုခွင့် ရှိပါတယ်။",
+        "ဖုန်းပြောင်းပြီးသွားရင် နောက်တစ်ကြိမ် ထပ်ပြောင်းဖို့ သတ်မှတ်ထားတဲ့ ရက်အရေအတွက်အတိုင်း စောင့်ဆိုင်းပေးရပါမယ်။",
+        "အရေးပေါ် ဖုန်းပြောင်းချင်တယ်ဆိုရင်တော့ Admin ထံ ဆက်သွယ်နိုင်ပါတယ်။ အပိုဆောင်း ဝန်ဆောင်ခ ၃,၀၀၀ ကျပ် ပေးသွင်းရနိုင်ပါတယ်။",
+        "အရင်ဖုန်း မရှိတော့ဘူးဆိုရင်တော့ Supporter စာရင်းသွင်းတုန်းက အသုံးပြုခဲ့တဲ့ နာမည်၊ Email ဒါမှမဟုတ် ဖုန်းနံပါတ်ကိုသုံးပြီး Admin ထံ ဆက်သွယ်နိုင်ပါတယ်။"
+      ]
+    },
+    {
+      "title": "ငွေပေးချေမှု",
+      "body": "Supporter ကြေးကို KBZPay, Wave Pay, AYA Pay ဒါမှမဟုတ် ထိုင်းဘဏ်များကနေတစ်ဆင့် ပေးချေနိုင်ပါတယ်။",
+      "items": [
+        "ပေးသွင်းထားတဲ့ Supporter ကြေးကို ပြန်လည်ထုတ်ယူခွင့် (Refund) မရှိပါ။",
+        "၂၄ နာရီအတွင်း ပိုမြင့်တဲ့ Supporter Plan ကို ပြောင်းချင်ရင် ကျန်ရှိတဲ့ ငွေပမာဏကိုပဲ ထပ်မံပေးသွင်းပြီး Upgrade လုပ်နိုင်ပါတယ်။",
+        "ဥပမာ - ၃ လ Plan ကို ၁၀,၀၀၀ ကျပ်၊ ၁ နှစ် Plan ကို ၁၈,၀၀၀ ကျပ်ဆိုပါစို့။ ၂၄ နာရီအတွင်း Upgrade လုပ်မယ်ဆိုရင် ၈,၀၀၀ ကျပ်ပဲ ထပ်ပေးရမှာ ဖြစ်ပါတယ်။",
+        "ပိုနိမ့်တဲ့ Plan ကို ပြန်လျှော့ချခွင့် (Downgrade) မပြုလုပ်နိုင်ပါ။"
+      ]
+    },
+    {
+      "title": "Spam နှင့် အလွဲသုံးစားလုပ်ခြင်း",
+      "body": "Supporter ဖြစ်ဖို့ တောင်းဆိုတာတွေနဲ့ ငွေပေးချေမှု ကိစ္စတွေအတွက် Admin ထံ မှန်ကန်ရိုးသားစွာ ဆက်သွယ်ရပါမယ်။",
+      "items": [
+        "ငွေပေးချေမှု အမှန်တကယ် မလုပ်ဘဲ Admin ထံ ထပ်ခါထပ်ခါ ဆက်သွယ်နေမယ်ဆိုရင် Spam အဖြစ် သတ်မှတ်ပြီး Ban ခံရနိုင်ပါတယ်။",
+        "Supporter အသုံးပြုခွင့်ကို ခွင့်ပြုချက်မရှိဘဲ တခြားသူကို မျှဝေခြင်း၊ ရောင်းချခြင်း ဒါမှမဟုတ် လွှဲပြောင်းပေးခြင်းများကို ခွင့်မပြုပါ။",
+        "ပိတ်ထားတဲ့ Supporter Feature တွေကို တခြားနည်းလမ်းတွေနဲ့ ကျော်ခွအသုံးပြုခြင်း (Bypassing) ကို ခွင့်မပြုပါ။"
+      ]
+    },
+    {
+      "title": "Certificate ရယူခြင်း",
+      "body": "Supporter ၃ လနဲ့အထက် အသုံးပြုသူတွေဟာ Video သင်ခန်းစာတွေနဲ့ လက်ကွက်လေ့ကျင့်ခန်းတွေအတွက် Certificate ကို ထုတ်ယူနိုင်ပါတယ်။",
+      "items": [
+        "Video သင်ခန်းစာ Certificate အတွက် သက်ဆိုင်ရာ Course ထဲမှာရှိတဲ့ Video အားလုံးကို ပြီးဆုံးအောင် ကြည့်ရှုရပါမယ်။",
+        "လက်ကွက် Certificate အတွက် သတ်မှတ်ထားတဲ့ လေ့ကျင့်ခန်း အားလုံးကို ပြီးဆုံးအောင် လေ့ကျင့်ရပါမယ်။",
+        "App Data ကို Clear လုပ်လိုက်ရင် ဒါမှမဟုတ် App ကို ဖျက်လိုက်ရင် ဖုန်းထဲက Certificate Data တွေပါ ပျက်သွားနိုင်ပါတယ်။"
+      ]
+    },
+    {
+      "title": "Offline အသုံးပြုခြင်း",
+      "body": "Supporter သမားတွေဟာ Download ဆွဲထားတဲ့ Video တွေနဲ့ စာအုပ်တွေကို Offline အနေနဲ့ အသုံးပြုနိုင်ပါတယ်။",
+      "items": [
+        "Download လုပ်ထားပြီးသား Video တွေနဲ့ စာအုပ်တွေကို အင်တာနက် မလိုဘဲ ဖွင့်ကြည့်နိုင်ပါတယ်။",
+        "တခြား Screen တွေကို ပထမဆုံးအကြိမ် ဝင်ရောက်တာ ဒါမှမဟုတ် Data Sync လုပ်တာတွေအတွက်တော့ အင်တာနက်ချိတ်ဆက်ထားဖို့ လိုအပ်နိုင်ပါတယ်။"
       ]
     }
   ],
-  "contactText": "Contact support for payment or account issues.",
+  "contactText": "ငွေပေးချေမှု၊ Restore လုပ်ခြင်း၊ ဖုန်းပြောင်းလဲခြင်းနဲ့ Supporter အသုံးပြုမှုဆိုင်ရာ အခက်အခဲများအတွက် ဆက်သွယ်နိုင်ပါတယ်။",
   "contactUrl": "https://example.com/support"
 }
