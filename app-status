@@ -4,7 +4,7 @@
   "negative": "Cancel",
   "positive": "Update",
   "show": true,
-  "force": false,
+  "force": true,
   "supporter": true,
   "type": "update",
   "url": "https://play.google.com/store/apps/details?id=com.computeguide",
