@@ -1,6 +1,6 @@
 {
-  "title": "New Update!",
-  "message": "Please update the new version for new features and bug fixes.",
+  "title": "Version 2.0 Available",
+  "message": "Update now for cleaner UI, better downloads, and stability fixes.",
   "negative": "Cancel",
   "positive": "Update",
   "show": true,
@@ -8,7 +8,7 @@
   "supporter": true,
   "type": "update",
   "url": "https://play.google.com/store/apps/details?id=com.computeguide",
-  "directUrl": "https://drive.google.com/file/d/1SrBvAv8KUeGgrRus-Qpq30iumMbZAXjV/view?usp=sharing",
+  "directUrl": "https://soft-violet-86a2.mmcomputerguide.workers.dev/MMComputerGuide-2.0.apk",
   "version": "1.6",
   "latestVersion": "2.0",
   "latestVersionCode": 9,
@@ -36,7 +36,7 @@
   "certificateMinSupporterLevel": 2,
   "popupPlayerMinSupporterLevel": 3,
   "changeDeviceMinSupporterLevel": 3,
-  "changeDeviceCooldownDays": 30,
+  "changeDeviceCooldownDays": 45,
   "videoDailyLimits": {
     "free": {
       "watchPerDay": 2,
