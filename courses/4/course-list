@@ -12,12 +12,5 @@
     "lessons": 12,
     "title": "Microsoft Excel 2",
     "need_sup": false
-  },
-  {
-    "id": 3,
-    "courseId": 4,
-    "lessons": 24,
-    "title": "Excel Advance",
-    "need_sup": true
   }
 ]
