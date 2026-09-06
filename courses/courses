@@ -6,7 +6,8 @@
         "course": "1 course",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
+        "thumbnail": "https://i.imgur.com/Mm25NHG.png",
+        "path": "basic"
     },
     {
         "id": 3,
@@ -15,7 +16,8 @@
         "course": "3 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
+        "thumbnail": "https://i.imgur.com/7mCE7Zz.png",
+        "path": "word"
     },
     {
         "id": 4,
@@ -24,7 +26,8 @@
         "course": "3 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/cOtAvFa.png"
+        "thumbnail": "https://i.imgur.com/cOtAvFa.png",
+        "path": "excel"
     },
     {
         "id": 5,
@@ -33,7 +36,8 @@
         "course": "3 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/7tU0XjV.png"
+        "thumbnail": "https://i.imgur.com/7tU0XjV.png",
+        "path": "powerpoint"
     },
     {
         "id": 6,
@@ -42,7 +46,8 @@
         "course": "3 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/CFIrhBo.png"
+        "thumbnail": "https://i.imgur.com/CFIrhBo.png",
+        "path": "photoshop"
     },
     {
         "id": 7,
@@ -51,7 +56,8 @@
         "course": "1 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/eX0GGCl.jpg"
+        "thumbnail": "https://i.imgur.com/eX0GGCl.jpg",
+        "path": ""
     },
     {
         "id": 15,
@@ -60,7 +66,8 @@
         "course": "1 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/lM1kG7G.png"
+        "thumbnail": "https://i.imgur.com/lM1kG7G.png",
+        "path": ""
     },
     {
         "id": 8,
@@ -69,7 +76,8 @@
         "course": "2 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/wQR4kCA.jpg"
+        "thumbnail": "https://i.imgur.com/wQR4kCA.jpg",
+        "path": "pagemaker"
     },
     {
         "id": 9,
@@ -78,7 +86,8 @@
         "course": "3 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/inDO4kO.png"
+        "thumbnail": "https://i.imgur.com/inDO4kO.png",
+        "path": ""
     },
     {
         "id": 10,
@@ -87,7 +96,8 @@
         "course": "1 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/jWIJQFu.png"
+        "thumbnail": "https://i.imgur.com/jWIJQFu.png",
+        "path": "sketchware"
     },
     {
         "id": 12,
@@ -96,7 +106,8 @@
         "course": "1 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/fv8Uwky.png"
+        "thumbnail": "https://i.imgur.com/fv8Uwky.png",
+        "path": ""
     },
     {
         "id": 13,
@@ -105,7 +116,8 @@
         "course": "1 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/at4aoSL.png"
+        "thumbnail": "https://i.imgur.com/at4aoSL.png",
+        "path": ""
     },
     {
         "id": 14,
@@ -114,7 +126,8 @@
         "course": "1 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/Gx2Ishb.png"
+        "thumbnail": "https://i.imgur.com/Gx2Ishb.png",
+        "path": "php"
     },
     {
         "id": 16,
@@ -123,6 +136,7 @@
         "course": "1 courses",
         "isNewUpdated": false,
         "isRequiredGlobal": false,
-        "thumbnail": "https://i.imgur.com/XLw84xZ.png"
+        "thumbnail": "https://i.imgur.com/XLw84xZ.png",
+        "path": "python"
     }
 ]
