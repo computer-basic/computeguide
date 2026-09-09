@@ -57,7 +57,7 @@
         "isNewUpdated": false,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/eX0GGCl.jpg",
-        "path": ""
+        "path": "premierpro"
     },
     {
         "id": 15,
@@ -67,7 +67,7 @@
         "isNewUpdated": false,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/lM1kG7G.png",
-        "path": ""
+        "path": "illustrator"
     },
     {
         "id": 8,
@@ -87,7 +87,7 @@
         "isNewUpdated": false,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/inDO4kO.png",
-        "path": ""
+        "path": "autocad"
     },
     {
         "id": 10,
@@ -107,7 +107,7 @@
         "isNewUpdated": false,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/fv8Uwky.png",
-        "path": ""
+        "path": "sketchup"
     },
     {
         "id": 13,
@@ -117,7 +117,7 @@
         "isNewUpdated": false,
         "isRequiredGlobal": false,
         "thumbnail": "https://i.imgur.com/at4aoSL.png",
-        "path": ""
+        "path": "html"
     },
     {
         "id": 14,
