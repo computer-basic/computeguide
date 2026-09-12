@@ -16,7 +16,8 @@
     "course": "1 course",
     "isNewUpdated": false,
     "isRequiredGlobal": false,
-    "thumbnail": "https://i.imgur.com/aqpUxj0.png"
+    "thumbnail": "https://i.imgur.com/aqpUxj0.png",
+    "path": "knowledge"
   },
   {
     "id": 3,
