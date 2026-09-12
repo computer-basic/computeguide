@@ -262,5 +262,9 @@
   {
     "viewId": "notification_permission_message",
     "message": "Allow notifications to see video download progress, completion, and errors while using the app or other apps."
+  },
+  {
+    "viewId": "video_play_online_error",
+    "message": "Cannot connect server\nPlease check connection or change VPN"
   }
 ]
