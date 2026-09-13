@@ -1,12 +1,5 @@
 [
     {
-        "id": 2,
-        "courseId": 2,
-        "lessons": 34,
-        "title": "Beginner Questions",
-        "need_sup": false
-    },
-    {
         "id": 1,
         "courseId": 2,
         "lessons": 76,
